@@ -8,6 +8,11 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devendrn\&rank_icon=github)
 # Дослідження ядерної бомби у Minecraft Bedrock Edition 
+- Треба вести таку у командний блок:
+```
+execute as @e[type=tnt] run summon tnt
+```
+- І поставити на затримку в циклах: 20
 | Minecraft Bedrock Edition (Затримка в циклах)  | Ядерна бомба                                        |
 |------------------------------------------------|-----------------------------------------------------|
 | 20                                             | "Малюк" була скинута на Хіросіму із США у 1945 р.   |
