@@ -14,3 +14,12 @@
 | Minecraft Bedrock Edition (Затримка в циклах)  | Ядерна бомба                                        |
 |------------------------------------------------|-----------------------------------------------------|
 | 20                                             | "Малюк" була скинута на Хіросіму із США у 1945 р.   |
+## Termux-X11 preferences
+* `Display resolution mode` exact
+* `Display resolution` 1280x720
+* `Reseed Screen While Soft Keyboard is open` OFF
+* `Fullscreen on device display` ON
+* `Force Landscape orientation` ON
+* `Hide display cutout` ON
+* `Show additional keyboard` OFF
+* `Prefer scancodes when possible` ON
