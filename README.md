@@ -40,4 +40,5 @@
 | Копія world.mcworld                                        |
 | Копія Дом для подписчиков от Компота.mctemplate            |
 | Копія Дом для подписчиков от Компота.mcworld               |
+***
 [Завантажити збірку](https://github.com/uzvarUA/Forestry_NPC_number_42/releases/download/v1.21.23.02-minecraft-bedrock-edition.1/Forestry_NPC_number_42_v2.8.zip)
