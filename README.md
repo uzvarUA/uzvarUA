@@ -62,6 +62,6 @@
 | Копія Дом для подписчиков от Компота.mctemplate            |
 | Копія Дом для подписчиков от Компота.mcworld               |
 ***
-[Завантажити](https://github.com/uzvarUA/Horror_stories/releases/download/v1.21.23.02-minecraft-bedrock-editiion.1/Horror_stories.zip)
+[Завантажити збірку для страшних історій](https://github.com/uzvarUA/Horror_stories/releases/download/v1.21.23.02-minecraft-bedrock-editiion.1/Horror_stories.zip)
 ***
 ![Лісництво NPC номер 42](https://uzvarua.github.io/uzvarUA/world_icon.jpeg)
