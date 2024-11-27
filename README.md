@@ -73,3 +73,7 @@
 [Завантажити збірку для страшних історій](https://github.com/uzvarUA/Horror_stories/releases/download/v1.21.23.02-minecraft-bedrock-editiion.1/Horror_stories.zip)
 ***
 ![Лісництво NPC номер 42](https://uzvarua.github.io/uzvarUA/world_icon.jpeg)
+# Як створити телепорт часу?
+*Треба вводити такі команди*
+1. `time @p add 1000`
+2. `effect @p nausea 100 1 true`
