@@ -98,3 +98,5 @@
 |------------------------|
 | arm64-v8a              |
 ***
+|---|
+|![Архітектура процесора](https://uzvarua.github.io/uzvarUA/Screenshot_20241207_105813_AIDA64.jpg) |
