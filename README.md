@@ -140,6 +140,7 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 ***
 [![Завантажити](https://uzvarua.github.io/uzvarUA/download-155424_1280.png)](https://github.com/uzvarUA/uzvarUA/releases/download/v1.0.0-safe-storage/SafeStorage_1.21.30.mcpack)
 # Новини
+## Єдині новини
 <!-- BLOG-POST-LIST:START -->
 - [Агенція оборонних закупівель не використовує бюджет та зриває поставки: чому таке можливе?](https://fakty.ua/447635-agentstvo-oboronnyh-zakupok-ne-ispolzuet-byudzhet-i-sryvaet-postavki-pochemu-takoe-vozmozhno)
 - [Полювали на F-16: СБУ знешкодила агентурну мережу росіян у п&amp;#39;яти областях України &lpar;фото&rpar;](https://fakty.ua/447631-ohotilis-za-f-16-sbu-obezvredila-agenturnuyu-set-rossiyan-v-pyati-oblastyah-ukrainy-foto)
