@@ -132,7 +132,7 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 - Чекаємо
 *** 
 ## Плагіни
-- Плагін Safe Storage дозволить вам поставити потужний захист на скриню в Minecraft Bedrock Edition (PE).
+Плагін Safe Storage дозволить вам поставити потужний захист на скриню в Minecraft Bedrock Edition (PE).
 | Версія Minecraft Bedrock Edition | Архітектура процесора |
 |---|---|
 | 1.21+ | arm64-v8a |
