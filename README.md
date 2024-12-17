@@ -12,6 +12,7 @@
 - [Модифікація](#модифікація)
    - [Моди](#моди)
    - [Плагіни](#плагіни)
+- [Новини](#новини)
 ***
 # Як проголосувати за тему?
 *Ви допоможете вибрати тему*
@@ -138,3 +139,6 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 | 1.21+ | arm64-v8a |
 ***
 [![Завантажити](https://uzvarua.github.io/uzvarUA/download-155424_1280.png)](https://github.com/uzvarUA/uzvarUA/releases/download/v1.0.0-safe-storage/SafeStorage_1.21.30.mcpack)
+# Новини
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
