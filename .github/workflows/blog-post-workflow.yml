@@ -16,4 +16,4 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://www.pravda.com.ua/rss/view_mainnews/"
+          feed_list: "https://fakty.ua/rss_feed/crime"
