@@ -141,9 +141,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 [![Завантажити](https://uzvarua.github.io/uzvarUA/download-155424_1280.png)](https://github.com/uzvarUA/uzvarUA/releases/download/v1.0.0-safe-storage/SafeStorage_1.21.30.mcpack)
 # Новини
 <!-- BLOG-POST-LIST:START -->
-- [������� &quot;����������&quot; � ������ ���� ���� ������ ������](https://epravda.com.ua/finances/yak-zminitsya-cina-na-avtocivilku-z-novogo-roku-801001/)
-- [&quot;�� �� ���� ������� �� �����? ���������?&quot;: ���������� ����� ������������� ������](https://www.pravda.com.ua/news/2024/12/17/7489527/)
-- [���������� ���� ��� ���� ������� � 2025 ���� �� �������� ���������� � ��](https://www.eurointegration.com.ua/news/2024/12/17/7200875/)
-- [����� ���� ������ � ��� ��������� ����� ��������� �� ������ ����� ������ ���������](https://www.pravda.com.ua/news/2024/12/17/7489518/)
-- [������� ����� ���������, �� ������� ��� ������ ���� ��� ����� F-16](https://www.pravda.com.ua/news/2024/12/17/7489517/)
+- [Агенція оборонних закупівель не використовує бюджет та зриває поставки: чому таке можливе?](https://fakty.ua/447635-agentstvo-oboronnyh-zakupok-ne-ispolzuet-byudzhet-i-sryvaet-postavki-pochemu-takoe-vozmozhno)
+- [Полювали на F-16: СБУ знешкодила агентурну мережу росіян у п&amp;#39;яти областях України &lpar;фото&rpar;](https://fakty.ua/447631-ohotilis-za-f-16-sbu-obezvredila-agenturnuyu-set-rossiyan-v-pyati-oblastyah-ukrainy-foto)
+- [Ще один російський танкер із мазутом зазнає лиха у Чорному морі](https://fakty.ua/447623-ecshe-odin-rossijskij-tanker-s-mazutom-terpit-bedstvie-v-chernom-more)
+- [У 18 років пішла з життя «гутаперчева дівчинка» — фаворитка міжнародних шоу талантів Емілі Москаленко &lpar;фото, відео&rpar;](https://fakty.ua/447602-v-18-let-ushla-iz-zhizni-guttaperchevaya-devochka-favoritka-mezhdunarodnyh-shou-talantov-emili-moskalenko-foto-video)
+- [«Мати бійця плакала від щастя і дякувала чоловіку за врятованого сина»: історія легендарного офіцера «Сапсана», який загинув, боронячи Нью-Йорк](https://fakty.ua/447595-mat-bojca-plakala-ot-schastya-i-blagodarila-muzha-za-spasennogo-syna-istoriya-legendarnogo-oficera-sapsana-kotoryj-pogib-zacshicshaya-nyu-jork)
 <!-- BLOG-POST-LIST:END -->
