@@ -142,9 +142,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Пристосовується: друзі розповіли, чи готовий Бен Аффлек до нових побачень](https://fakty.ua/447619-prisposablivaetsya-druzya-rasskazali-gotov-li-ben-afflek-k-novym-svidaniyam)
 - [Отримав військову відзнаку «Срібний хрест»: на Закарпатті попрощались з офіцером, який не вижив після важкого поранення](https://fakty.ua/447609-poluchil-znak-otlichiya-serebryanyj-krest-v-zakarpate-poprocshalis-s-oficerom-kotoryj-ne-vyzhil-posle-tyazhelogo-raneniya)
 - [Джамала та Сергій Танчинець: почалося голосування за суддів Нацвідбору на «Євробачення-2025»](https://fakty.ua/447613-dzhamala-i-sergej-tanchinec-nachalos-golosovanie-za-sudej-nacotbora-na-evrovidenie-2025)
 - [Агенція оборонних закупівель не використовує бюджет та зриває поставки: чому таке можливе?](https://fakty.ua/447635-agentstvo-oboronnyh-zakupok-ne-ispolzuet-byudzhet-i-sryvaet-postavki-pochemu-takoe-vozmozhno)
 - [Вдячна, що не свариш: дружина Євгена Кота зворушливо звернулася до чоловіка](https://fakty.ua/447614-blagodarna-chto-ne-rugaesh-zhena-evgeniya-kota-trogatelno-obratilas-k-muzhu)
-- [Полювали на F-16: СБУ знешкодила агентурну мережу росіян у п&amp;#39;яти областях України &lpar;фото&rpar;](https://fakty.ua/447631-ohotilis-za-f-16-sbu-obezvredila-agenturnuyu-set-rossiyan-v-pyati-oblastyah-ukrainy-foto)
 <!-- BLOG-POST-LIST:END -->
