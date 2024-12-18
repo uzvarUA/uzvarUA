@@ -142,9 +142,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Мінус 15: популярна співачка вразила своїм виглядом](https://fakty.ua/447657-minus-15-populyarnaya-pevica-porazila-svoim-vidom)
 - [Ніякої «ненависті»: в Мережі показали, які свого часу були відносини між співачками Аллою Пугачовою і Софією Ротару](https://fakty.ua/447591-quot-pugacheva-i-rotaru-nenavideli-drug-druga-quot-v-rossii-hejtery-pytayutsya-obolgat-dvuh-narodnyh-artistok-video)
 - [Радуцький зблизився з партією Порошенка для збереження свого політичного майбутнього?](https://fakty.ua/447663-raduckij-sblizilsya-s-partiej-poroshenko-dlya-sohraneniya-svoego-politicheskogo-buducshego)
 - [Порошенко заробляє на донатах українців через військові облігації, купівлю яких здійснює через свій банк — ЗМІ](https://fakty.ua/447658-poroshenko-zarabatyvaet-na-donatah-ukraincev-cherez-voennye-obligacii-pokupku-kotoryh-proizvodit-cherez-svoj-bank---smi)
 - [Була шокована: колишня учасниця «Холостяка» про рішення «Терена» та її почуття до нього](https://fakty.ua/447629-byla-shokirovana-byvshaya-uchastnica-holostyaka-o-reshenii-terena-i-ee-chuvstvah-k-nemu)
-- [Чи варто видумувати велосипед: експерт про нове регулювання ринку ліків в Україні](https://fakty.ua/447651-stoit-li-vydumyvat-velosiped-ekspert-o-novom-regulirovanii-rynka-lekarstv-v-ukraine)
 <!-- BLOG-POST-LIST:END -->
