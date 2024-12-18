@@ -142,9 +142,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Чи варто видумувати велосипед: експерт про нове регулювання ринку ліків в Україні](https://fakty.ua/447651-stoit-li-vydumyvat-velosiped-ekspert-o-novom-regulirovanii-rynka-lekarstv-v-ukraine)
+- [«Вона його вбила»: колишню киянку Сєдокову звинувачують у причетності до смерті третього чоловіка](https://fakty.ua/447649-quot-ona-ego-ubila-quot-byvshuyu-kievlyanku-sedokovu-obvinyayut-v-prichastnosti-k-smerti-tretego-muzhchiny)
 - [Ворог вночі здійснив сотні ударів по мирним містах і селах України: зруйновано житло та об’єкти інфраструктури](https://fakty.ua/447640-vrag-nochyu-sovershil-sotni-udarov-po-mirnym-gorodam-i-selam-ukrainy-razrushennoe-zhile-i-obekty-infrastruktury)
 - [Пристосовується: друзі розповіли, чи готовий Бен Аффлек до нових побачень](https://fakty.ua/447619-prisposablivaetsya-druzya-rasskazali-gotov-li-ben-afflek-k-novym-svidaniyam)
 - [Отримав військову відзнаку «Срібний хрест»: на Закарпатті попрощались з офіцером, який не вижив після важкого поранення](https://fakty.ua/447609-poluchil-znak-otlichiya-serebryanyj-krest-v-zakarpate-poprocshalis-s-oficerom-kotoryj-ne-vyzhil-posle-tyazhelogo-raneniya)
-- [Джамала та Сергій Танчинець: почалося голосування за суддів Нацвідбору на «Євробачення-2025»](https://fakty.ua/447613-dzhamala-i-sergej-tanchinec-nachalos-golosovanie-za-sudej-nacotbora-na-evrovidenie-2025)
-- [Агенція оборонних закупівель не використовує бюджет та зриває поставки: чому таке можливе?](https://fakty.ua/447635-agentstvo-oboronnyh-zakupok-ne-ispolzuet-byudzhet-i-sryvaet-postavki-pochemu-takoe-vozmozhno)
 <!-- BLOG-POST-LIST:END -->
