@@ -142,9 +142,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Найдивніший день народження: дружина Остапчука показала подарунок від чоловіка &lpar;фото&rpar;](https://fakty.ua/447666-samyj-strannyj-den-rozhdeniya-zhena-ostapchuka-pokazala-podarok-ot-muzha-foto)
+- [В Україні створять державний реєстр військовослужбовців: що відомо](https://fakty.ua/447680-v-ukraine-budet-sozdan-gosudarstvennyj-reestr-voennosluzhacshih-chto-izvestno)
 - [Універсальний та дешевий: Міноборони прийняло на озброєння новий безпілотник](https://fakty.ua/447634-universalnyj-i-deshevyj-minoborony-prinyalo-na-vooruzhenie-novyj-bespilotnik)
 - [Намагаюся тримати себе в руках: Холостяк Олександр Терен звернувся до Мережі](https://fakty.ua/447659-starayus-derzhat-sebya-v-rukah-holostyak-aleksandr-teren-obratilsya-k-seti)
 - [Корупціонери можуть спати спокійно? Нардепи готують до 8 років в&amp;#39;язниці для антикорупціонерів-розслідувачів](https://fakty.ua/447673-korrupcionery-mogut-spat-spokojno-nardepy-grozyat-do-8-godami-tyurmy-dlya-antikorrupcionerov-rassledovatelej)
-- [Дві бійки, два стволи, одне вбивство та спеціальні документи: що відомо суду про стрілянину в готелі Sky Loft](https://fakty.ua/447632-dve-draki-dva-stvola-odno-ubijstvo-i-specialnye-dokumenty-chto-izvestno-sudu-o-strelbe-v-otele-sky-loft)
-- [Підозрюють у пособництві росії: в Києві затримали голову КРАІЛ Івана Рудого](https://fakty.ua/447671-podozrevayut-v-posobnichestve-rossii-v-kieve-zaderzhali-glavu-krail-ivana-rudogo)
 <!-- BLOG-POST-LIST:END -->
