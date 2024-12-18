@@ -142,9 +142,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [ЄС обіцяє Україні у 2025-му році 1,5 млрд євро щомісяця: що може цьому завадити](https://fakty.ua/447654-es-obecshaet-ukraine-v-2025-m-godu-1-5-mlrd-evro-ezhemesyachno-chto-mozhet-etomu-pomeshat)
 - [Кумівство, алкоголь, хабарництво та побиття поки не покарані: суд не зміг вирішити, що робити з комбригом 211-ї бригади](https://fakty.ua/447679-kumovstvo-alkogol-vzyatochnichestvo-i-izbieniya-poka-ne-nakazany-sud-ne-smog-reshit-chto-delat-s-kombrigom-211-j-brigady)
 - [Найдивніший день народження: дружина Остапчука показала подарунок від чоловіка &lpar;фото&rpar;](https://fakty.ua/447666-samyj-strannyj-den-rozhdeniya-zhena-ostapchuka-pokazala-podarok-ot-muzha-foto)
 - [В Україні створять державний реєстр військовослужбовців: що відомо](https://fakty.ua/447680-v-ukraine-budet-sozdan-gosudarstvennyj-reestr-voennosluzhacshih-chto-izvestno)
 - [Універсальний та дешевий: Міноборони прийняло на озброєння новий безпілотник](https://fakty.ua/447634-universalnyj-i-deshevyj-minoborony-prinyalo-na-vooruzhenie-novyj-bespilotnik)
-- [Намагаюся тримати себе в руках: Холостяк Олександр Терен звернувся до Мережі](https://fakty.ua/447659-starayus-derzhat-sebya-v-rukah-holostyak-aleksandr-teren-obratilsya-k-seti)
 <!-- BLOG-POST-LIST:END -->
