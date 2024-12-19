@@ -142,9 +142,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Вулична сварка закінчилася пострілом у голову: поліція розкрила вбивство у Києві &lpar;фото&rpar;](https://fakty.ua/447688-ulichnaya-ssora-zakonchilas-vystrelom-v-golovu-policiya-raskryla-ubijstvo-v-kieve-foto)
 - [Хроніки війни: росіяни вдарили ракетами по Кривому Рогу, українці дронами та ракетами атакували ростовську область &lpar;фото, відео&rpar;](https://fakty.ua/447687-hroniki-vojny-rossiyane-udarili-raketami-po-krivomu-rogu-ukraincy-dronami-i-raketami-atakovali-rostovskuyu-oblast-foto-video)
 - [Я багато разів говорила «ні»: Періс Гілтон розповіла про виховання дітей](https://fakty.ua/447667-ya-mnogo-raz-govorila-net-peris-hilton-rasskazala-o-vospitanii-detej)
 - [Тільки тепер вдалося забрати тіло додому: на Донеччині загинув боєць з Полтавщини](https://fakty.ua/447647-tolko-teper-udalos-zabrat-telo-domoj-v-doneckoj-oblasti-pogib-boec-s-poltavcshiny)
 - [ЄС обіцяє Україні у 2025-му році 1,5 млрд євро щомісяця: що може цьому завадити](https://fakty.ua/447654-es-obecshaet-ukraine-v-2025-m-godu-1-5-mlrd-evro-ezhemesyachno-chto-mozhet-etomu-pomeshat)
-- [Кумівство, алкоголь, хабарництво та побиття поки не покарані: суд не зміг вирішити, що робити з комбригом 211-ї бригади](https://fakty.ua/447679-kumovstvo-alkogol-vzyatochnichestvo-i-izbieniya-poka-ne-nakazany-sud-ne-smog-reshit-chto-delat-s-kombrigom-211-j-brigady)
 <!-- BLOG-POST-LIST:END -->
