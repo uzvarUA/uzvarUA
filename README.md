@@ -142,9 +142,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [«Старий фантазер»: Зеленський відреагував на заяви путіна](https://fakty.ua/447731-staryj-fantazer-zelenskij-otreagiroval-na-zayavleniya-putina)
+- [Не тільки піхота: окупанти застосовують проти ЗСУ зброю виробництва КНДР, дуже небезпечну для української техніки](https://fakty.ua/447694-ne-tolko-pehota-okkupanty-primenyayut-protiv-vsu-oruzhie-proizvodstva-kndr-ochen-opasnoe-dlya-ukrainskoj-tehniki)
+- [Порошенко вимагав «Бойка геть!», а по суті підтримував промосковського політика, бо має з ним давні відносини, — Олещук](https://fakty.ua/447728-poroshenko-treboval-bojko-von-a-po-suti-podderzhival-promoskovskogo-politika-potomu-chto-imeet-s-nim-davnie-otnosheniya---olecshuk)
 - [На волю — за мільйон: командира скандальної 211-ї бригади взяли під варту](https://fakty.ua/447726-na-svobodu-za-million-komandira-skandalnoj-211-j-brigady-vzyali-pod-strazhu)
 - [Розпочато відбір вступників до інституту СБУ: що для цього потрібно](https://fakty.ua/447717-nachat-otbor-abiturientov-v-institut-sbu-chto-dlya-etogo-nuzhno)
-- [Шукав кілера, перебуваючи у СІЗО: СБУ запобігла замовному вбивству свідка у справі про мільйонний хабар &lpar;фото&rpar;](https://fakty.ua/447704-iskal-killera-nahodyas-v-sizo-sbu-predotvratila-zakaznoe-ubijstvo-svidetelya-po-delu-o-millionnoj-vzyatke-foto)
-- [Недалекість і відсутність почуття гумору: у мережі образилися на заяву Холостяка](https://fakty.ua/447711-nedalekost-i-otsutstvie-chuvstva-yumora-v-seti-obidelis-na-zayavlenie-holostyaka)
-- [«Оскароносний» Крістофер Нолан отримав лицарський титул від короля Чарльза III &lpar;фото&rpar;](https://fakty.ua/447701-oskaronosnyj-kristofer-nolan-poluchil-rycarskij-titul-ot-korolya-charlza-iii-foto)
 <!-- BLOG-POST-LIST:END -->
