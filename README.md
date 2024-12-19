@@ -142,9 +142,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Розпочато відбір вступників до інституту СБУ: що для цього потрібно](https://fakty.ua/447717-nachat-otbor-abiturientov-v-institut-sbu-chto-dlya-etogo-nuzhno)
+- [Шукав кілера, перебуваючи у СІЗО: СБУ запобігла замовному вбивству свідка у справі про мільйонний хабар &lpar;фото&rpar;](https://fakty.ua/447704-iskal-killera-nahodyas-v-sizo-sbu-predotvratila-zakaznoe-ubijstvo-svidetelya-po-delu-o-millionnoj-vzyatke-foto)
+- [Недалекість і відсутність почуття гумору: у мережі образилися на заяву Холостяка](https://fakty.ua/447711-nedalekost-i-otsutstvie-chuvstva-yumora-v-seti-obidelis-na-zayavlenie-holostyaka)
 - [«Оскароносний» Крістофер Нолан отримав лицарський титул від короля Чарльза III &lpar;фото&rpar;](https://fakty.ua/447701-oskaronosnyj-kristofer-nolan-poluchil-rycarskij-titul-ot-korolya-charlza-iii-foto)
 - [Без штовханини не обійшлося: Рада з другої спроби відкликала Бойка з комітету з прав людини &lpar;відео&rpar;](https://fakty.ua/447705-bez-potasovki-ne-oboshlos-rada-so-vtoroj-popytki-otozvala-bojko-iz-komiteta-po-pravam-cheloveka-video)
-- [«Тихенько зберігала своє щастя»: Ліза Глинська зізналася у народженні двійнят майже через два місяці &lpar;фото, відео&rpar;](https://fakty.ua/447693-tihonko-hranila-svoe-schaste-liza-glinskaya-priznalas-v-rozhdenii-dvojni-spustya-pochti-dva-mesyaca-foto-video)
-- [Спецпредставник Трампа з питань України планує у січні приїхати до Києва: про що говоритимуть](https://fakty.ua/447674-specpredstavitel-trampa-po-ukraine-planiruet-v-yanvare-priehat-v-kiev-o-chem-budut-govorit)
-- [«Ми в процесі, вже є позитив», — Зеленський про введення миротворців в Україну](https://fakty.ua/447692-my-v-processe-uzhe-est-pozitiv---zelenskij-o-vvedenii-mirotvorcev-v-ukrainu)
 <!-- BLOG-POST-LIST:END -->
