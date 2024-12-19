@@ -142,9 +142,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [На волю — за мільйон: командира скандальної 211-ї бригади взяли під варту](https://fakty.ua/447726-na-svobodu-za-million-komandira-skandalnoj-211-j-brigady-vzyali-pod-strazhu)
 - [Розпочато відбір вступників до інституту СБУ: що для цього потрібно](https://fakty.ua/447717-nachat-otbor-abiturientov-v-institut-sbu-chto-dlya-etogo-nuzhno)
 - [Шукав кілера, перебуваючи у СІЗО: СБУ запобігла замовному вбивству свідка у справі про мільйонний хабар &lpar;фото&rpar;](https://fakty.ua/447704-iskal-killera-nahodyas-v-sizo-sbu-predotvratila-zakaznoe-ubijstvo-svidetelya-po-delu-o-millionnoj-vzyatke-foto)
 - [Недалекість і відсутність почуття гумору: у мережі образилися на заяву Холостяка](https://fakty.ua/447711-nedalekost-i-otsutstvie-chuvstva-yumora-v-seti-obidelis-na-zayavlenie-holostyaka)
 - [«Оскароносний» Крістофер Нолан отримав лицарський титул від короля Чарльза III &lpar;фото&rpar;](https://fakty.ua/447701-oskaronosnyj-kristofer-nolan-poluchil-rycarskij-titul-ot-korolya-charlza-iii-foto)
-- [Без штовханини не обійшлося: Рада з другої спроби відкликала Бойка з комітету з прав людини &lpar;відео&rpar;](https://fakty.ua/447705-bez-potasovki-ne-oboshlos-rada-so-vtoroj-popytki-otozvala-bojko-iz-komiteta-po-pravam-cheloveka-video)
 <!-- BLOG-POST-LIST:END -->
