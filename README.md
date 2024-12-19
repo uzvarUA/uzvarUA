@@ -142,9 +142,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [«Оскароносний» Крістофер Нолан отримав лицарський титул від короля Чарльза III &lpar;фото&rpar;](https://fakty.ua/447701-oskaronosnyj-kristofer-nolan-poluchil-rycarskij-titul-ot-korolya-charlza-iii-foto)
+- [Без штовханини не обійшлося: Рада з другої спроби відкликала Бойка з комітету з прав людини &lpar;відео&rpar;](https://fakty.ua/447705-bez-potasovki-ne-oboshlos-rada-so-vtoroj-popytki-otozvala-bojko-iz-komiteta-po-pravam-cheloveka-video)
 - [«Тихенько зберігала своє щастя»: Ліза Глинська зізналася у народженні двійнят майже через два місяці &lpar;фото, відео&rpar;](https://fakty.ua/447693-tihonko-hranila-svoe-schaste-liza-glinskaya-priznalas-v-rozhdenii-dvojni-spustya-pochti-dva-mesyaca-foto-video)
 - [Спецпредставник Трампа з питань України планує у січні приїхати до Києва: про що говоритимуть](https://fakty.ua/447674-specpredstavitel-trampa-po-ukraine-planiruet-v-yanvare-priehat-v-kiev-o-chem-budut-govorit)
 - [«Ми в процесі, вже є позитив», — Зеленський про введення миротворців в Україну](https://fakty.ua/447692-my-v-processe-uzhe-est-pozitiv---zelenskij-o-vvedenii-mirotvorcev-v-ukrainu)
-- [Вулична сварка закінчилася пострілом у голову: поліція розкрила вбивство у Києві &lpar;фото&rpar;](https://fakty.ua/447688-ulichnaya-ssora-zakonchilas-vystrelom-v-golovu-policiya-raskryla-ubijstvo-v-kieve-foto)
-- [Хроніки війни: росіяни вдарили ракетами по Кривому Рогу, українці дронами та ракетами атакували ростовську область &lpar;фото, відео&rpar;](https://fakty.ua/447687-hroniki-vojny-rossiyane-udarili-raketami-po-krivomu-rogu-ukraincy-dronami-i-raketami-atakovali-rostovskuyu-oblast-foto-video)
 <!-- BLOG-POST-LIST:END -->
