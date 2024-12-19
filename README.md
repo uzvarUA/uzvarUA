@@ -142,9 +142,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Підприємець розповів, як зупинити корупцію в оборонних закупівлях](https://fakty.ua/447734-predprinimatel-rasskazal-kak-ostanovit-korrupciyu-v-oboronnyh-zakupkah)
 - [«Старий фантазер»: Зеленський відреагував на заяви путіна](https://fakty.ua/447731-staryj-fantazer-zelenskij-otreagiroval-na-zayavleniya-putina)
 - [Не тільки піхота: окупанти застосовують проти ЗСУ зброю виробництва КНДР, дуже небезпечну для української техніки](https://fakty.ua/447694-ne-tolko-pehota-okkupanty-primenyayut-protiv-vsu-oruzhie-proizvodstva-kndr-ochen-opasnoe-dlya-ukrainskoj-tehniki)
 - [Порошенко вимагав «Бойка геть!», а по суті підтримував промосковського політика, бо має з ним давні відносини, — Олещук](https://fakty.ua/447728-poroshenko-treboval-bojko-von-a-po-suti-podderzhival-promoskovskogo-politika-potomu-chto-imeet-s-nim-davnie-otnosheniya---olecshuk)
 - [На волю — за мільйон: командира скандальної 211-ї бригади взяли під варту](https://fakty.ua/447726-na-svobodu-za-million-komandira-skandalnoj-211-j-brigady-vzyali-pod-strazhu)
-- [Розпочато відбір вступників до інституту СБУ: що для цього потрібно](https://fakty.ua/447717-nachat-otbor-abiturientov-v-institut-sbu-chto-dlya-etogo-nuzhno)
 <!-- BLOG-POST-LIST:END -->
