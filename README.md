@@ -142,9 +142,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Занадто сексуально: лук 12-річної доньки Джей-Зі та Бейонсе викликав суперечки в соцмережах](https://fakty.ua/447703-slishkom-seksualno-dzhej-zi-i-bejonse-stolknulis-s-reakciej-iz-za-odezhdy-ih-12-letnej-docheri)
 - [Був вчителем від Бога: боєць зі Львівщини не переніс важкого поранення](https://fakty.ua/447699-byl-uchitelem-ot-boga-boec-iz-lvovskoj-oblasti-ne-perenes-tyazhelogo-raneniya)
 - [З метою тиску: військовий про плани путіна захопити Дніпропетровщину](https://fakty.ua/447698-s-celyu-davleniya-voennyj-o-planah-putina-zahvatit-dnepropetrovskuyu-oblast)
 - [Підприємець розповів, як зупинити корупцію в оборонних закупівлях](https://fakty.ua/447734-predprinimatel-rasskazal-kak-ostanovit-korrupciyu-v-oboronnyh-zakupkah)
 - [«Старий фантазер»: Зеленський відреагував на заяви путіна](https://fakty.ua/447731-staryj-fantazer-zelenskij-otreagiroval-na-zayavleniya-putina)
-- [Не тільки піхота: окупанти застосовують проти ЗСУ зброю виробництва КНДР, дуже небезпечну для української техніки](https://fakty.ua/447694-ne-tolko-pehota-okkupanty-primenyayut-protiv-vsu-oruzhie-proizvodstva-kndr-ochen-opasnoe-dlya-ukrainskoj-tehniki)
 <!-- BLOG-POST-LIST:END -->
