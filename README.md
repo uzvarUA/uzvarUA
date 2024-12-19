@@ -142,9 +142,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Спецпредставник Трампа з питань України планує у січні приїхати до Києва: про що говоритимуть](https://fakty.ua/447674-specpredstavitel-trampa-po-ukraine-planiruet-v-yanvare-priehat-v-kiev-o-chem-budut-govorit)
 - [Вулична сварка закінчилася пострілом у голову: поліція розкрила вбивство у Києві &lpar;фото&rpar;](https://fakty.ua/447688-ulichnaya-ssora-zakonchilas-vystrelom-v-golovu-policiya-raskryla-ubijstvo-v-kieve-foto)
 - [Хроніки війни: росіяни вдарили ракетами по Кривому Рогу, українці дронами та ракетами атакували ростовську область &lpar;фото, відео&rpar;](https://fakty.ua/447687-hroniki-vojny-rossiyane-udarili-raketami-po-krivomu-rogu-ukraincy-dronami-i-raketami-atakovali-rostovskuyu-oblast-foto-video)
 - [Я багато разів говорила «ні»: Періс Гілтон розповіла про виховання дітей](https://fakty.ua/447667-ya-mnogo-raz-govorila-net-peris-hilton-rasskazala-o-vospitanii-detej)
 - [Тільки тепер вдалося забрати тіло додому: на Донеччині загинув боєць з Полтавщини](https://fakty.ua/447647-tolko-teper-udalos-zabrat-telo-domoj-v-doneckoj-oblasti-pogib-boec-s-poltavcshiny)
-- [ЄС обіцяє Україні у 2025-му році 1,5 млрд євро щомісяця: що може цьому завадити](https://fakty.ua/447654-es-obecshaet-ukraine-v-2025-m-godu-1-5-mlrd-evro-ezhemesyachno-chto-mozhet-etomu-pomeshat)
 <!-- BLOG-POST-LIST:END -->
