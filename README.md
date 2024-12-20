@@ -142,9 +142,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Миротворці в Україні: ЗМІ приголомшили потенційною кількістю військових](https://fakty.ua/447716-mirotvorcy-v-ukraine-smi-oshelomili-potencialnym-kolichestvom-voennyh)
+- [«Знищили величезну частину віртуальної державної системи країни»: реєстри України зазнали масштабної кібератаки з боку рф](https://fakty.ua/447743-quot-unichtozhili-ogromnuyu-chast-virtualnoj-gosudarstvennoj-sistemy-strany-quot-gosudarstvennye-reestry-ukrainy-podverglis-masshtabnoj-kiberatake-so-storony-rf)
+- [Балістика на Кривий Ріг та обстріли Херсона: через удари росіян є загиблий та постраждалі](https://fakty.ua/447741-ballistika-na-krivoj-rog-i-obstrely-hersona-est-pogibshij-i-postradavshie)
 - [Ворог атакував Україну з повітря: в Києві пролунали вибухи, є постраждалі](https://fakty.ua/447739-vrag-atakoval-ukrainu-s-vozduha-v-kieve-razdalis-vzryvy-est-postradavshie)
 - [Занадто сексуально: лук 12-річної доньки Джей-Зі та Бейонсе викликав суперечки в соцмережах](https://fakty.ua/447703-slishkom-seksualno-dzhej-zi-i-bejonse-stolknulis-s-reakciej-iz-za-odezhdy-ih-12-letnej-docheri)
-- [Був вчителем від Бога: боєць зі Львівщини не переніс важкого поранення](https://fakty.ua/447699-byl-uchitelem-ot-boga-boec-iz-lvovskoj-oblasti-ne-perenes-tyazhelogo-raneniya)
-- [З метою тиску: військовий про плани путіна захопити Дніпропетровщину](https://fakty.ua/447698-s-celyu-davleniya-voennyj-o-planah-putina-zahvatit-dnepropetrovskuyu-oblast)
-- [Підприємець розповів, як зупинити корупцію в оборонних закупівлях](https://fakty.ua/447734-predprinimatel-rasskazal-kak-ostanovit-korrupciyu-v-oboronnyh-zakupkah)
 <!-- BLOG-POST-LIST:END -->
