@@ -142,9 +142,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Стаю дедалі все спокійнішою: відома співачка вразила зізнанням](https://fakty.ua/447764-stanovlyus-vse-bolee-spokojnoj-izvestnaya-pevica-porazila-priznaniem)
 - [Алла Пугачова підтримала: старша донька Примадонни зробила важливий для себе вибір](https://fakty.ua/447759-alla-pugacheva-podderzhala-starshaya-doch-primadonny-sdelala-vazhnyj-dlya-sebya-vybor)
 - [Мільйон знайшовся швидко: командир 211 бригади Олег Побережнюк звільнився під заставу](https://fakty.ua/447763-million-nashelsya-bystro-komandir-211-brigady-oleg-poberezhnyuk-uvolilsya-pod-zalog)
 - [Україна ставить крапку у постачанні російського газу до ЄС: що відбувається](https://fakty.ua/447740-ukraina-stavit-tochku-v-postavkah-rossijskogo-gaza-v-es-chto-proishodit)
 - [ГУР під москвою: на аеродромі «Остаф&#39;єво» коло столиці рф вибухнув військово-транспортний літак Ан-72](https://fakty.ua/447753-gur-pod-moskvoj-na-aerodrome-quot-ostafevo-quot-vozle-stolicy-rf-vzorvalsya-voenno-transportnyj-samolet-an-72)
-- [Атака терористів на Київ: одна людина загинула і одна постраждала, виникли пожежі, пошкоджено тепломагістраль](https://fakty.ua/447750-ataka-terroristov-po-kievu-odin-chelovek-pogib-i-odin-postradal-voznikli-pozhary-povrezhdena-teplomagistral)
 <!-- BLOG-POST-LIST:END -->
