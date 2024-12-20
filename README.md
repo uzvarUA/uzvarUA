@@ -142,9 +142,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Після народження онучки у нього крила виросли: в бою під Покровськом загинув воїн з Черкащини](https://fakty.ua/447749-posle-rozhdeniya-vnuchki-u-nego-krylya-vyrosli-v-boyu-pod-pokrovskom-pogib-voin-iz-cherkasskoj-oblasti)
 - [ЗСУ перетворили річку в Курській області у «природний бар’єр» проти солдатів КНДР — ЗМІ](https://fakty.ua/447748-vsu-prevratili-reku-v-kurskoj-oblasti-v-prirodnyj-barer-protiv-soldat-kndr-smi)
 - [Популярний актор вдруге став батьком](https://fakty.ua/447767-populyarnyj-akter-vo-vtoroj-raz-stal-otcom)
 - [Її руки зігрівали: кіркоров здивував новою заявою про Аллу Пугачову](https://fakty.ua/447786-ee-ruki-sogrevali-kirkorov-udivil-novym-zayavleniem-ob-alle-pugachevoj)
 - [ВАКС, ВРП, НАБУ та грантові активісти навчились порушувати Конституцію, рятуючи одне одного, — експерт](https://fakty.ua/447777-vaks-vsp-nabu-i-grantovye-aktivisty-nauchilis-narushat-konstituciyu-spasaya-drug-druga-ekspert)
-- [Стаю дедалі все спокійнішою: відома співачка вразила зізнанням](https://fakty.ua/447764-stanovlyus-vse-bolee-spokojnoj-izvestnaya-pevica-porazila-priznaniem)
 <!-- BLOG-POST-LIST:END -->
