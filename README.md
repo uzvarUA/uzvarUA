@@ -142,9 +142,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Атака терористів по Києву: одна людина загинула і одна постраждала, виникли пожежі, пошкоджено тепломагістраль](https://fakty.ua/447750-ataka-terroristov-po-kievu-odin-chelovek-pogib-i-odin-postradal-voznikli-pozhary-povrezhdena-teplomagistral)
 - [Миротворці в Україні: ЗМІ приголомшили потенційною кількістю військових](https://fakty.ua/447716-mirotvorcy-v-ukraine-smi-oshelomili-potencialnym-kolichestvom-voennyh)
 - [«Знищили величезну частину віртуальної державної системи країни»: реєстри України зазнали масштабної кібератаки з боку рф](https://fakty.ua/447743-quot-unichtozhili-ogromnuyu-chast-virtualnoj-gosudarstvennoj-sistemy-strany-quot-gosudarstvennye-reestry-ukrainy-podverglis-masshtabnoj-kiberatake-so-storony-rf)
 - [Балістика на Кривий Ріг та обстріли Херсона: через удари росіян є загиблий та постраждалі](https://fakty.ua/447741-ballistika-na-krivoj-rog-i-obstrely-hersona-est-pogibshij-i-postradavshie)
 - [Ворог атакував Україну з повітря: в Києві пролунали вибухи, є постраждалі](https://fakty.ua/447739-vrag-atakoval-ukrainu-s-vozduha-v-kieve-razdalis-vzryvy-est-postradavshie)
-- [Занадто сексуально: лук 12-річної доньки Джей-Зі та Бейонсе викликав суперечки в соцмережах](https://fakty.ua/447703-slishkom-seksualno-dzhej-zi-i-bejonse-stolknulis-s-reakciej-iz-za-odezhdy-ih-12-letnej-docheri)
 <!-- BLOG-POST-LIST:END -->
