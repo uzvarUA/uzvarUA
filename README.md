@@ -142,9 +142,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Мільйон знайшовся швидко: командир 211 бригади Олег Побережнюк звільнився під заставу](https://fakty.ua/447763-million-nashelsya-bystro-komandir-211-brigady-oleg-poberezhnyuk-uvolilsya-pod-zalog)
+- [Україна ставить крапку у постачанні російського газу до ЄС: що відбувається](https://fakty.ua/447740-ukraina-stavit-tochku-v-postavkah-rossijskogo-gaza-v-es-chto-proishodit)
 - [ГУР під москвою: на аеродромі «Остаф&#39;єво» коло столиці рф вибухнув військово-транспортний літак Ан-72](https://fakty.ua/447753-gur-pod-moskvoj-na-aerodrome-quot-ostafevo-quot-vozle-stolicy-rf-vzorvalsya-voenno-transportnyj-samolet-an-72)
 - [Атака терористів на Київ: одна людина загинула і одна постраждала, виникли пожежі, пошкоджено тепломагістраль](https://fakty.ua/447750-ataka-terroristov-po-kievu-odin-chelovek-pogib-i-odin-postradal-voznikli-pozhary-povrezhdena-teplomagistral)
 - [Миротворці в Україні: ЗМІ приголомшили потенційною кількістю військових](https://fakty.ua/447716-mirotvorcy-v-ukraine-smi-oshelomili-potencialnym-kolichestvom-voennyh)
-- [«Знищили величезну частину віртуальної державної системи країни»: реєстри України зазнали масштабної кібератаки з боку рф](https://fakty.ua/447743-quot-unichtozhili-ogromnuyu-chast-virtualnoj-gosudarstvennoj-sistemy-strany-quot-gosudarstvennye-reestry-ukrainy-podverglis-masshtabnoj-kiberatake-so-storony-rf)
-- [Балістика на Кривий Ріг та обстріли Херсона: через удари росіян є загиблий та постраждалі](https://fakty.ua/447741-ballistika-na-krivoj-rog-i-obstrely-hersona-est-pogibshij-i-postradavshie)
 <!-- BLOG-POST-LIST:END -->
