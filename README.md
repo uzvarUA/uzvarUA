@@ -142,9 +142,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Сім людей у салоні та жінка за кермом: під Вінницею сталася страшна автокатастрофа &lpar;фото&rpar;](https://fakty.ua/447800-sem-chelovek-v-salone-i-zhencshina-za-rulem-pod-vinnicej-proizoshla-strashnaya-avtokatastrofa-foto)
+- [Кадирівці пропонували здатися в полон, але «Мед» обрав бій до останнього патрона: мама полеглого бійця добивається присвоєння синові «Героя України»](https://fakty.ua/447770-kadyrovcy-predlagali-sdatsya-v-plen-no-med-vybral-boj-do-poslednego-patrona-mama-pavshego-bojca-dobivaetsya-prisvoeniya-synu-geroya-ukrainy)
 - [НП в Одеському зоопарку: поліція застрелила леопарда, який напав на працівників &lpar;фото&rpar;](https://fakty.ua/447799-chp-v-odesskom-zooparke-policiya-zastrelila-leoparda-kotoryj-napal-na-rabotnikov-foto)
 - [У позиціях команди Байдена та Трампа щодо України є відмінності: політолог про мирні перемовини](https://fakty.ua/447758-v-poziciyah-komandy-bajdena-i-trampa-otnositelno-ukrainy-est-otlichiya-politolog-o-mirnyh-peregovorah)
 - [Окупанти вдарили дронами по житлових районах Харкова та Запоріжжя: багато постраждалих &lpar;фото, відео&rpar;](https://fakty.ua/447789-okkupanty-udarili-dronami-po-zhilym-rajonam-harkova-i-zaporozhya-mnogo-postradavshih-foto-video)
-- [Я дуже тебе люблю: Дженніфер Лопес зворушила особистим дописом](https://fakty.ua/447754-ya-ochen-tebya-lyublyu-dzhennifer-lopes-rastrogala-lichnym-soobcsheniem)
-- [Після народження онучки у нього крила виросли: в бою під Покровськом загинув воїн з Черкащини](https://fakty.ua/447749-posle-rozhdeniya-vnuchki-u-nego-krylya-vyrosli-v-boyu-pod-pokrovskom-pogib-voin-iz-cherkasskoj-oblasti)
 <!-- BLOG-POST-LIST:END -->
