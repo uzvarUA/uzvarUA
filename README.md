@@ -142,9 +142,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [«Просто нема кому воювати»: ветеран війни про ситуацію в Кураховому та сумні перспективи оборони міста](https://fakty.ua/447796-prosto-nekomu-voevat-veteran-vojny-o-situacii-v-kurahovo-i-pechalnyh-perspektivah-oborony-goroda)
 - [ООН без Кислиці: Зеленський влаштував велику чистку в дипкорпусі](https://fakty.ua/447806-oon-bez-kislicy-zelenskij-ustroil-bolshuyu-chistku-v-dipkorpuse)
 - [Чи витримає економіка України ще один рік війни: у The Economist дали відповідь](https://fakty.ua/447762-vyderzhit-li-ekonomika-ukrainy-ecshe-odin-god-vojny-v-the-economist-dali-otvet)
 - [Сім людей у салоні та жінка за кермом: під Вінницею сталася страшна автокатастрофа &lpar;фото&rpar;](https://fakty.ua/447800-sem-chelovek-v-salone-i-zhencshina-za-rulem-pod-vinnicej-proizoshla-strashnaya-avtokatastrofa-foto)
 - [Кадирівці пропонували здатися в полон, але «Мед» обрав бій до останнього патрона: мама полеглого бійця добивається присвоєння синові «Героя України»](https://fakty.ua/447770-kadyrovcy-predlagali-sdatsya-v-plen-no-med-vybral-boj-do-poslednego-patrona-mama-pavshego-bojca-dobivaetsya-prisvoeniya-synu-geroya-ukrainy)
-- [НП в Одеському зоопарку: поліція застрелила леопарда, який напав на працівників &lpar;фото&rpar;](https://fakty.ua/447799-chp-v-odesskom-zooparke-policiya-zastrelila-leoparda-kotoryj-napal-na-rabotnikov-foto)
 <!-- BLOG-POST-LIST:END -->
