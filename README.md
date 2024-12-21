@@ -142,9 +142,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [НП в Одеському зоопарку: поліція застрелила леопарда, який напав на працівників &lpar;фото&rpar;](https://fakty.ua/447799-chp-v-odesskom-zooparke-policiya-zastrelila-leoparda-kotoryj-napal-na-rabotnikov-foto)
+- [У позиціях команди Байдена та Трампа щодо України є відмінності: політолог про мирні перемовини](https://fakty.ua/447758-v-poziciyah-komandy-bajdena-i-trampa-otnositelno-ukrainy-est-otlichiya-politolog-o-mirnyh-peregovorah)
 - [Окупанти вдарили дронами по житлових районах Харкова та Запоріжжя: багато постраждалих &lpar;фото, відео&rpar;](https://fakty.ua/447789-okkupanty-udarili-dronami-po-zhilym-rajonam-harkova-i-zaporozhya-mnogo-postradavshih-foto-video)
 - [Я дуже тебе люблю: Дженніфер Лопес зворушила особистим дописом](https://fakty.ua/447754-ya-ochen-tebya-lyublyu-dzhennifer-lopes-rastrogala-lichnym-soobcsheniem)
 - [Після народження онучки у нього крила виросли: в бою під Покровськом загинув воїн з Черкащини](https://fakty.ua/447749-posle-rozhdeniya-vnuchki-u-nego-krylya-vyrosli-v-boyu-pod-pokrovskom-pogib-voin-iz-cherkasskoj-oblasti)
-- [ЗСУ перетворили річку в Курській області у «природний бар’єр» проти солдатів КНДР — ЗМІ](https://fakty.ua/447748-vsu-prevratili-reku-v-kurskoj-oblasti-v-prirodnyj-barer-protiv-soldat-kndr-smi)
-- [Популярний актор вдруге став батьком](https://fakty.ua/447767-populyarnyj-akter-vo-vtoroj-raz-stal-otcom)
 <!-- BLOG-POST-LIST:END -->
