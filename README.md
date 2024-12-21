@@ -142,9 +142,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Батько з сином загинули в один день: на Полтавщині попрощалися з солдатами Анатолієм та Євгенієм Шаповалами](https://fakty.ua/447798-otec-s-synom-pogibli-v-odin-den-na-poltavcshine-prostilis-s-soldatami-anatoliem-i-evgeniem-shapovalami)
 - [Як у Бахмуті: експерт пояснив тактику, яку рф використовує у наступі на Покровськ](https://fakty.ua/447795-kak-v-bahmute-ekspert-obyasnil-taktiku-kotoruyu-rf-ispolzuet-v-nastuplenii-na-pokrovsk)
 - [Одна з країн Європи заборонила в&amp;#39;їзд у країну легковиків, які не пройшли техогляд](https://fakty.ua/447818-odna-iz-stran-evropy-zapretila-vezd-v-stranu-legkovushek-iz-ukrainy-ne-proshedshih-tehosmotr)
 - [Фахових спеціалістів ППО не переводять у піхоту — Генштаб відреагував на статтю The Guardian](https://fakty.ua/447816-professionalnyh-specialistov-pvo-ne-perevodyat-v-pehotu-genshtab-otreagiroval-na-statyu-the-guardian)
 - [Танковий глухий кут: чому окупанти бояться зустрічатися в боях один на один із танками ЗСУ](https://fakty.ua/447780-tankovyj-tupik-pochemu-okkupanty-boyatsya-vstrechatsya-v-boyah-odin-na-odin-s-tankami-vsu)
-- [«Просто нема кому воювати»: ветеран війни про ситуацію в Кураховому та сумні перспективи оборони міста](https://fakty.ua/447796-prosto-nekomu-voevat-veteran-vojny-o-situacii-v-kurahovo-i-pechalnyh-perspektivah-oborony-goroda)
 <!-- BLOG-POST-LIST:END -->
