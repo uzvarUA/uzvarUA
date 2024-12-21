@@ -142,9 +142,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Танковий глухий кут: чому окупанти бояться зустрічатися в боях один на один із танками ЗСУ](https://fakty.ua/447780-tankovyj-tupik-pochemu-okkupanty-boyatsya-vstrechatsya-v-boyah-odin-na-odin-s-tankami-vsu)
 - [«Просто нема кому воювати»: ветеран війни про ситуацію в Кураховому та сумні перспективи оборони міста](https://fakty.ua/447796-prosto-nekomu-voevat-veteran-vojny-o-situacii-v-kurahovo-i-pechalnyh-perspektivah-oborony-goroda)
 - [ООН без Кислиці: Зеленський влаштував велику чистку в дипкорпусі](https://fakty.ua/447806-oon-bez-kislicy-zelenskij-ustroil-bolshuyu-chistku-v-dipkorpuse)
 - [Чи витримає економіка України ще один рік війни: у The Economist дали відповідь](https://fakty.ua/447762-vyderzhit-li-ekonomika-ukrainy-ecshe-odin-god-vojny-v-the-economist-dali-otvet)
 - [Сім людей у салоні та жінка за кермом: під Вінницею сталася страшна автокатастрофа &lpar;фото&rpar;](https://fakty.ua/447800-sem-chelovek-v-salone-i-zhencshina-za-rulem-pod-vinnicej-proizoshla-strashnaya-avtokatastrofa-foto)
-- [Кадирівці пропонували здатися в полон, але «Мед» обрав бій до останнього патрона: мама полеглого бійця добивається присвоєння синові «Героя України»](https://fakty.ua/447770-kadyrovcy-predlagali-sdatsya-v-plen-no-med-vybral-boj-do-poslednego-patrona-mama-pavshego-bojca-dobivaetsya-prisvoeniya-synu-geroya-ukrainy)
 <!-- BLOG-POST-LIST:END -->
