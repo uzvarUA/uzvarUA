@@ -142,9 +142,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Бен Аффлек вдався до радикальних заходів, щоб забути про Дженніфер Лопес](https://fakty.ua/447849-ben-afflek-pribeg-k-radikalnym-meram-chtoby-zabyt-o-dzhennifer-lopes)
 - [У перші дні російського вторгнення пішов добровольцем: на війні загинув пілот БПЛА з Київщини](https://fakty.ua/447843-v-pervye-dni-rossijskogo-vtorzheniya-poshel-dobrovolcem-na-vojne-pogib-pilot-bpla-s-kievcshiny)
 - [Це як ІПСО: політолог про нову тактику путіна залякування України та Європи](https://fakty.ua/447836-eto-kak-ipso-politolog-o-novoj-taktike-putina-po-zapugivaniyu-ukrainy-i-evropy)
 - [Дійсно головна, тому ніхто не заважає: Алла Пугачова виступила із заявою](https://fakty.ua/447859-dejstvitelno-glavnaya-poetomu-nikto-ne-meshaet-alla-pugacheva-vystupila-s-zayavleniem)
 - [Окупанти знову розстріляли українських полонених: що відомо](https://fakty.ua/447857-okkupanty-snova-rasstrelyali-ukrainskih-plennyh-chto-izvestno)
-- [Українці — незламна нація: ексголовком Залужний зробив заяву з центру Лондона](https://fakty.ua/447841-ukraincy-nesgibaemaya-naciya-eksglavkom-zaluzhnyj-sdelal-zayavlenie-iz-centra-londona)
 <!-- BLOG-POST-LIST:END -->
