@@ -142,9 +142,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Старша донька Примадонни поділилася зворушливими сімейними кадрами: «Яка затишна атмосфера»](https://fakty.ua/447827-starshaya-doch-primadonny-podelilas-trogatelnymi-semejnymi-kadrami-kakaya-uyutnaya-atmosfera)
 - [Ворог вночі атакував багатоповерхівку у Броварах під Києвом, а дрони ЗСУ вдарили по об’єктах у орловській області країни-агресора](https://fakty.ua/447824-vrag-nochyu-atakoval-mnogoetazhku-v-brovarah-pod-kievom-a-drony-vsu-udarili-po-obektam-v-orlovskoj-oblasti-strany-agressora)
 - [Бред Пітт здивував Дженніфер Еністон подарунком за 79 мільйонів доларів](https://fakty.ua/447805-bred-pitt-udivil-dzhennifer-eniston-podarkom-na-79-millionov-dollarov)
 - [Батько з сином загинули в один день: на Полтавщині попрощалися з солдатами Анатолієм та Євгенієм Шаповалами](https://fakty.ua/447798-otec-s-synom-pogibli-v-odin-den-na-poltavcshine-prostilis-s-soldatami-anatoliem-i-evgeniem-shapovalami)
 - [Як у Бахмуті: експерт пояснив тактику, яку рф використовує у наступі на Покровськ](https://fakty.ua/447795-kak-v-bahmute-ekspert-obyasnil-taktiku-kotoruyu-rf-ispolzuet-v-nastuplenii-na-pokrovsk)
-- [Одна з країн Європи заборонила в&amp;#39;їзд у країну легковиків, які не пройшли техогляд](https://fakty.ua/447818-odna-iz-stran-evropy-zapretila-vezd-v-stranu-legkovushek-iz-ukrainy-ne-proshedshih-tehosmotr)
 <!-- BLOG-POST-LIST:END -->
