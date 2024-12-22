@@ -142,9 +142,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Окупанти знову розстріляли українських полонених: що відомо](https://fakty.ua/447857-okkupanty-snova-rasstrelyali-ukrainskih-plennyh-chto-izvestno)
 - [Українці — незламна нація: ексголовком Залужний зробив заяву з центру Лондона](https://fakty.ua/447841-ukraincy-nesgibaemaya-naciya-eksglavkom-zaluzhnyj-sdelal-zayavlenie-iz-centra-londona)
 - [Так виглядає справжня зірка: Аліса Мілано опублікувала «чесне» селфі](https://fakty.ua/447833-tak-vyglyadit-nastoyacshaya-zvezda-alisa-milano-opublikovala-quot-chestnoe-quot-selfi)
 - [Протидіяли понад сотні дронів: Повітряні Сили розповіли про нічну атаку ворога](https://fakty.ua/447838-protivodejstvovali-bolee-sotne-dronov-vozdushnye-sily-rasskazali-o-nochnoj-atake-vraga)
 - [Старша донька Примадонни поділилася зворушливими сімейними кадрами: «Яка затишна атмосфера»](https://fakty.ua/447827-starshaya-doch-primadonny-podelilas-trogatelnymi-semejnymi-kadrami-kakaya-uyutnaya-atmosfera)
-- [Ворог вночі атакував багатоповерхівку у Броварах під Києвом, а дрони ЗСУ вдарили по об’єктах у орловській області країни-агресора](https://fakty.ua/447824-vrag-nochyu-atakoval-mnogoetazhku-v-brovarah-pod-kievom-a-drony-vsu-udarili-po-obektam-v-orlovskoj-oblasti-strany-agressora)
 <!-- BLOG-POST-LIST:END -->
