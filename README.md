@@ -142,9 +142,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [«Джокер» Роман Кравець «засвітився» на бою Усика в Саудівській Аравії &lpar;фото&rpar;](https://fakty.ua/447915-dzhoker-roman-kravec-zasvetilsya-na-boe-usika-v-saudovskoj-aravii-foto)
+- [Все ще пов&amp;#39;язані: про що домовилися Дженніфер Лопес та Бен Аффлек](https://fakty.ua/447900-vse-ecshe-svyazany-o-chem-dogovorilis-dzhennifer-lopes-i-ben-afflek)
 - [Після тривалого лікування повернувся у частину: на Сумщині загинув воїн з Вінниччини](https://fakty.ua/447894-posle-dlitelnogo-lecheniya-vernulsya-v-chast-na-sumcshine-pogib-voin-iz-vinnickoj-oblasti)
 - [США тут дозволили, а там заборонили: на яку зброю Україна робитиме ставку наступного року](https://fakty.ua/447887-ssha-zdes-razreshili-a-tam-zapretili-na-kakoe-oruzhie-ukraina-budet-delat-stavku-v-sleduyucshem-godu)
 - [У боях з ЗСУ «солдати Кіма» втратили вже три тисячі людей, — Зеленський за підсумками засідання Ставки](https://fakty.ua/447913-v-boyah-s-vsu-soldaty-kima-poteryali-uzhe-tri-tysyachi-chelovek---zelenskij-po-itogam-zasedaniya-stavki)
-- [Троє маленьких дітей загинули від невідомої речовини на Одещині](https://fakty.ua/447907-troe-malenkih-detej-pogibli-ot-neizvestnogo-vecshestva-v-odesskoj-oblasti)
-- [ДТЕК запроваджує екстрені відключення електроенергії у трьох областях України та Києві](https://fakty.ua/447901-dtek-vvodit-ekstrennye-otklyucheniya-elektoenergii-v-treh-oblastyah-ukrainy-i-kieve)
 <!-- BLOG-POST-LIST:END -->
