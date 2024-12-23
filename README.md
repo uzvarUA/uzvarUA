@@ -142,9 +142,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Залежатиме від погоди: росіяни готують наступ на Херсон, — ЗМІ](https://fakty.ua/447876-budet-zaviset-ot-pogody-rossiyane-gotovyat-nastuplenie-na-herson---smi)
+- [Вся ця риторика, що в Україні медпрепарати дорожчі, ніж в Європі, — спекуляція, — Гладких](https://fakty.ua/447877-vsya-eta-ritorika-chto-v-ukraine-medpreparaty-dorozhe-chem-v-evrope-spekulyaciya---gladkih)
 - [Я почувалася повністю оголеною: всі подробиці восьмого випуску «Холостяка»](https://fakty.ua/447865-ya-chuvstvovala-sebya-polnostyu-obnazhennoj-vse-podrobnosti-vosmogo-vypuska-holostyaka)
 - [Україна здійснила першу роботизовану атаку без залучення піхоти — ISW](https://fakty.ua/447856-ukraina-osucshestvila-pervuyu-robotizirovannuyu-ataku-bez-privlecheniya-pehoty---isw)
 - [Відбивалася майже добу: скільки «шахедів» уразила українська ППО &lpar;фото&rpar;](https://fakty.ua/447868-otbivalis-pochti-sutki-skolko-shahedov-porazila-ukrainskaya-pvo)
-- [У татарстані несподівано згорів склад із деталями до «Шахедів»: у ГУР допомогли росіянам підрахувати збитки](https://fakty.ua/447864-v-tatarstane-neozhidanno-sgorel-sklad-s-detalyami-k-shahedam-v-gur-pomogli-rossiyanam-podschitat-ubytki)
-- [Бен Аффлек вдався до радикальних заходів, щоб забути про Дженніфер Лопес](https://fakty.ua/447849-ben-afflek-pribeg-k-radikalnym-meram-chtoby-zabyt-o-dzhennifer-lopes)
 <!-- BLOG-POST-LIST:END -->
