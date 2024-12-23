@@ -142,9 +142,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Після тривалого лікування повернувся у частину: на Сумщині загинув воїн з Вінниччини](https://fakty.ua/447894-posle-dlitelnogo-lecheniya-vernulsya-v-chast-na-sumcshine-pogib-voin-iz-vinnickoj-oblasti)
 - [США тут дозволили, а там заборонили: на яку зброю Україна робитиме ставку наступного року](https://fakty.ua/447887-ssha-zdes-razreshili-a-tam-zapretili-na-kakoe-oruzhie-ukraina-budet-delat-stavku-v-sleduyucshem-godu)
 - [У боях з ЗСУ «солдати Кіма» втратили вже три тисячі людей, — Зеленський за підсумками засідання Ставки](https://fakty.ua/447913-v-boyah-s-vsu-soldaty-kima-poteryali-uzhe-tri-tysyachi-chelovek---zelenskij-po-itogam-zasedaniya-stavki)
 - [Троє маленьких дітей загинули від невідомої речовини на Одещині](https://fakty.ua/447907-troe-malenkih-detej-pogibli-ot-neizvestnogo-vecshestva-v-odesskoj-oblasti)
 - [ДТЕК запроваджує екстрені відключення електроенергії у трьох областях України та Києві](https://fakty.ua/447901-dtek-vvodit-ekstrennye-otklyucheniya-elektoenergii-v-treh-oblastyah-ukrainy-i-kieve)
-- [Спрацював «крот»? З&amp;#39;явилася несподівана версія масштабної кібератаки на держреєстри України](https://fakty.ua/447883-srabotal-krot-poyavilas-neozhidannaya-versiya-masshtabnoj-kiberataki-na-gosreestry-ukrainy)
 <!-- BLOG-POST-LIST:END -->
