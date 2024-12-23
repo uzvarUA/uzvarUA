@@ -142,9 +142,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Троє маленьких дітей загинули від невідомої речовини на Одещині](https://fakty.ua/447907-troe-malenkih-detej-pogibli-ot-neizvestnogo-vecshestva-v-odesskoj-oblasti)
 - [ДТЕК запроваджує екстрені відключення електроенергії у трьох областях України та Києві](https://fakty.ua/447901-dtek-vvodit-ekstrennye-otklyucheniya-elektoenergii-v-treh-oblastyah-ukrainy-i-kieve)
 - [Спрацював «крот»? З&amp;#39;явилася несподівана версія масштабної кібератаки на держреєстри України](https://fakty.ua/447883-srabotal-krot-poyavilas-neozhidannaya-versiya-masshtabnoj-kiberataki-na-gosreestry-ukrainy)
 - [Там, куди доходить фронт, вже не працює жодна кав’ярня: офіцер розкритикував українців у тилу](https://fakty.ua/447873-tam-kuda-dohodit-front-uzhe-ne-rabotaet-ni-odna-kofejnya-oficer-raskritikoval-ukraincev-v-tylu)
 - [Знайомі усі особи: визначено трійку суддів Нацвідбору на «Євробачення»](https://fakty.ua/447885-znakomye-vse-lica-opredelena-trojka-sudej-nacotbora-na-evrovidenie)
-- [Працює за комп’ютером лише підборіддям за допомогою губів, носа й олівця в зубах: паралізований репер з Полтавщини став волонтером ЗСУ](https://fakty.ua/447869-rabotaet-za-kompyuterom-tolko-podborodkom-s-pomocshyu-gub-nosa-i-karandasha-v-zubah-paralizovannyj-reper-s-poltavcshiny-stal-volonterom-vsu)
 <!-- BLOG-POST-LIST:END -->
