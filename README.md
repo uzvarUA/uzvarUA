@@ -142,9 +142,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Знайомі усі особи: визначено трійку суддів Нацвідбору на «Євробачення»](https://fakty.ua/447885-znakomye-vse-lica-opredelena-trojka-sudej-nacotbora-na-evrovidenie)
+- [Працює за комп’ютером лише підборіддям за допомогою губів, носа й олівця в зубах: паралізований репер з Полтавщини став волонтером ЗСУ](https://fakty.ua/447869-rabotaet-za-kompyuterom-tolko-podborodkom-s-pomocshyu-gub-nosa-i-karandasha-v-zubah-paralizovannyj-reper-s-poltavcshiny-stal-volonterom-vsu)
 - [Залежатиме від погоди: росіяни готують наступ на Херсон, — ЗМІ](https://fakty.ua/447876-budet-zaviset-ot-pogody-rossiyane-gotovyat-nastuplenie-na-herson---smi)
 - [Вся ця риторика, що в Україні медпрепарати дорожчі, ніж в Європі, — спекуляція, — Гладких](https://fakty.ua/447877-vsya-eta-ritorika-chto-v-ukraine-medpreparaty-dorozhe-chem-v-evrope-spekulyaciya---gladkih)
 - [Я почувалася повністю оголеною: всі подробиці восьмого випуску «Холостяка»](https://fakty.ua/447865-ya-chuvstvovala-sebya-polnostyu-obnazhennoj-vse-podrobnosti-vosmogo-vypuska-holostyaka)
-- [Україна здійснила першу роботизовану атаку без залучення піхоти — ISW](https://fakty.ua/447856-ukraina-osucshestvila-pervuyu-robotizirovannuyu-ataku-bez-privlecheniya-pehoty---isw)
-- [Відбивалася майже добу: скільки «шахедів» уразила українська ППО &lpar;фото&rpar;](https://fakty.ua/447868-otbivalis-pochti-sutki-skolko-shahedov-porazila-ukrainskaya-pvo)
 <!-- BLOG-POST-LIST:END -->
