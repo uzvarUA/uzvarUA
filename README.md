@@ -142,9 +142,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Спрацював «крот»? З&amp;#39;явилася несподівана версія масштабної кібератаки на держреєстри України](https://fakty.ua/447883-srabotal-krot-poyavilas-neozhidannaya-versiya-masshtabnoj-kiberataki-na-gosreestry-ukrainy)
+- [Там, куди доходить фронт, вже не працює жодна кав’ярня: офіцер розкритикував українців у тилу](https://fakty.ua/447873-tam-kuda-dohodit-front-uzhe-ne-rabotaet-ni-odna-kofejnya-oficer-raskritikoval-ukraincev-v-tylu)
 - [Знайомі усі особи: визначено трійку суддів Нацвідбору на «Євробачення»](https://fakty.ua/447885-znakomye-vse-lica-opredelena-trojka-sudej-nacotbora-na-evrovidenie)
 - [Працює за комп’ютером лише підборіддям за допомогою губів, носа й олівця в зубах: паралізований репер з Полтавщини став волонтером ЗСУ](https://fakty.ua/447869-rabotaet-za-kompyuterom-tolko-podborodkom-s-pomocshyu-gub-nosa-i-karandasha-v-zubah-paralizovannyj-reper-s-poltavcshiny-stal-volonterom-vsu)
 - [Залежатиме від погоди: росіяни готують наступ на Херсон, — ЗМІ](https://fakty.ua/447876-budet-zaviset-ot-pogody-rossiyane-gotovyat-nastuplenie-na-herson---smi)
-- [Вся ця риторика, що в Україні медпрепарати дорожчі, ніж в Європі, — спекуляція, — Гладких](https://fakty.ua/447877-vsya-eta-ritorika-chto-v-ukraine-medpreparaty-dorozhe-chem-v-evrope-spekulyaciya---gladkih)
-- [Я почувалася повністю оголеною: всі подробиці восьмого випуску «Холостяка»](https://fakty.ua/447865-ya-chuvstvovala-sebya-polnostyu-obnazhennoj-vse-podrobnosti-vosmogo-vypuska-holostyaka)
 <!-- BLOG-POST-LIST:END -->
