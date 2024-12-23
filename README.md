@@ -142,9 +142,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [У татарстані несподівано згорів склад із деталями до «Шахедів»: у ГУР допомогли росіянам підрахувати збитки](https://fakty.ua/447864-v-tatarstane-neozhidanno-sgorel-sklad-s-detalyami-k-shahedam-v-gur-pomogli-rossiyanam-podschitat-ubytki)
 - [Бен Аффлек вдався до радикальних заходів, щоб забути про Дженніфер Лопес](https://fakty.ua/447849-ben-afflek-pribeg-k-radikalnym-meram-chtoby-zabyt-o-dzhennifer-lopes)
 - [У перші дні російського вторгнення пішов добровольцем: на війні загинув пілот БПЛА з Київщини](https://fakty.ua/447843-v-pervye-dni-rossijskogo-vtorzheniya-poshel-dobrovolcem-na-vojne-pogib-pilot-bpla-s-kievcshiny)
 - [Це як ІПСО: політолог про нову тактику путіна залякування України та Європи](https://fakty.ua/447836-eto-kak-ipso-politolog-o-novoj-taktike-putina-po-zapugivaniyu-ukrainy-i-evropy)
 - [Дійсно головна, тому ніхто не заважає: Алла Пугачова виступила із заявою](https://fakty.ua/447859-dejstvitelno-glavnaya-poetomu-nikto-ne-meshaet-alla-pugacheva-vystupila-s-zayavleniem)
-- [Окупанти знову розстріляли українських полонених: що відомо](https://fakty.ua/447857-okkupanty-snova-rasstrelyali-ukrainskih-plennyh-chto-izvestno)
 <!-- BLOG-POST-LIST:END -->
