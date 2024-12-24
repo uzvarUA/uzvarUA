@@ -142,9 +142,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Лопес й Афлек обмінялись подарунками, а Гарнер прийняла важливе рішення щодо майбутнього з Беном](https://fakty.ua/447926-lopes-i-aflek-obmenyalis-podarkami-a-garner-prinyala-vazhnoe-reshenie-o-buducshem-s-benom)
+- [Оборонний комітет Ради поставив крапку в історії зі снарядами](https://fakty.ua/447927-oboronnyj-komitet-rady-postavil-tochku-v-istorii-so-snaryadami)
+- [Північна Корея готується до нового відправлення військ та постачання дронів-камікадзе до рф: як це вплине на бойові дії в Україні](https://fakty.ua/447919-severnaya-koreya-gotovitsya-k-novoj-otpravke-vojsk-i-postavkam-dronov-kamikadze-v-rf-kak-eto-povliyaet-na-boevye-dejstviya-v-ukraine)
 - [Ворог знову атакує Україну: де лунають вибухи та збивають безпілотники](https://fakty.ua/447916-vrag-snova-atakuet-ukrainu-gde-razdayutsya-vzryvy-i-sbivayut-bespilotniki)
 - [«Джокер» Роман Кравець «засвітився» на бою Усика в Саудівській Аравії &lpar;фото&rpar;](https://fakty.ua/447915-dzhoker-roman-kravec-zasvetilsya-na-boe-usika-v-saudovskoj-aravii-foto)
-- [Все ще пов&amp;#39;язані: про що домовилися Дженніфер Лопес та Бен Аффлек](https://fakty.ua/447900-vse-ecshe-svyazany-o-chem-dogovorilis-dzhennifer-lopes-i-ben-afflek)
-- [Після тривалого лікування повернувся у частину: на Сумщині загинув воїн з Вінниччини](https://fakty.ua/447894-posle-dlitelnogo-lecheniya-vernulsya-v-chast-na-sumcshine-pogib-voin-iz-vinnickoj-oblasti)
-- [США тут дозволили, а там заборонили: на яку зброю Україна робитиме ставку наступного року](https://fakty.ua/447887-ssha-zdes-razreshili-a-tam-zapretili-na-kakoe-oruzhie-ukraina-budet-delat-stavku-v-sleduyucshem-godu)
 <!-- BLOG-POST-LIST:END -->
