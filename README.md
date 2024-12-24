@@ -142,9 +142,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Нічна атака ворога: в Повітряних силах назвали кількість збитих та локаційно втрачених БПЛА](https://fakty.ua/447935-nochnaya-ataka-vraga-v-vozdushnyh-silah-nazvali-kolichestvo-sbityh-i-lokacionno-utrachennyh-bpla)
 - [Лопес й Афлек обмінялись подарунками, а Гарнер прийняла важливе рішення щодо майбутнього з Беном](https://fakty.ua/447926-lopes-i-aflek-obmenyalis-podarkami-a-garner-prinyala-vazhnoe-reshenie-o-buducshem-s-benom)
 - [Оборонний комітет Ради поставив крапку в історії зі снарядами](https://fakty.ua/447927-oboronnyj-komitet-rady-postavil-tochku-v-istorii-so-snaryadami)
 - [Північна Корея готується до нового відправлення військ та постачання дронів-камікадзе до рф: як це вплине на бойові дії в Україні](https://fakty.ua/447919-severnaya-koreya-gotovitsya-k-novoj-otpravke-vojsk-i-postavkam-dronov-kamikadze-v-rf-kak-eto-povliyaet-na-boevye-dejstviya-v-ukraine)
 - [Ворог знову атакує Україну: де лунають вибухи та збивають безпілотники](https://fakty.ua/447916-vrag-snova-atakuet-ukrainu-gde-razdayutsya-vzryvy-i-sbivayut-bespilotniki)
-- [«Джокер» Роман Кравець «засвітився» на бою Усика в Саудівській Аравії &lpar;фото&rpar;](https://fakty.ua/447915-dzhoker-roman-kravec-zasvetilsya-na-boe-usika-v-saudovskoj-aravii-foto)
 <!-- BLOG-POST-LIST:END -->
