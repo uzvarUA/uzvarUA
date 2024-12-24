@@ -142,9 +142,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [«Замовила» ліквідацію ексчоловіка та його родини: у Запоріжжі поліцейські попередили потрійне вбивство](https://fakty.ua/447948-quot-zakazala-quot-likvidaciyu-eks-muzha-i-ego-semi-v-zaporozhe-policejskie-predupredili-trojnoe-ubijstvo)
+- [Аллу Пугачову хотіли вбити: «кримінальний авторитет» шокував реаліями російського шоубізу](https://fakty.ua/447939-allu-pugachevu-hoteli-ubit-quot-kriminalnyj-avtoritet-quot-shokiroval-realiyami-rossijskogo-shoubiza)
 - [Продавали гранатомети, кулемети і боєприпаси: правоохоронці викрили «ділків», які збували «трофейну» зброю](https://fakty.ua/447946-prodavali-granatomety-pulemety-i-boepripasy-pravoohraniteli-razoblachili-quot-delcov-quot-sbyvavshih-quot-trofejnoe-quot-oruzhie)
 - [Ще дасть жару: популярна співачка вразила світлинами своїх доньок](https://fakty.ua/447932-ecshe-dast-zharu-populyarnaya-pevica-porazila-fotografiyami-svoih-docherej)
 - [Вислужувався перед загарбниками: у Бердянську підірвали автомобіль голови окупаційної ради міста](https://fakty.ua/447942-vysluzhivalsya-pered-zahvatchikami-v-berdyanske-vzorvali-avtomobil-glavy-okkupacionnogo-soveta-goroda)
-- [Графіки відключень на Різдво: чи будуть українці з електроенергією](https://fakty.ua/447938-grafiki-otklyuchenij-na-rozhdestvo-budut-li-ukraincy-s-elektroenergiej)
-- [Нічна атака ворога: в Повітряних силах назвали кількість збитих та локаційно втрачених БПЛА](https://fakty.ua/447935-nochnaya-ataka-vraga-v-vozdushnyh-silah-nazvali-kolichestvo-sbityh-i-lokacionno-utrachennyh-bpla)
 <!-- BLOG-POST-LIST:END -->
