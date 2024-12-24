@@ -142,9 +142,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Прямий «приліт» балістики у Кривому Розі: ворог вдарив по житловому будинку](https://fakty.ua/447964-pryamoj-quot-prilet-quot-ballistiki-v-krivom-roge-vrag-udaril-po-zhilomu-domu)
+- [Так скучили: в ефір повертається популярне шоу про мандри](https://fakty.ua/447962-tak-soskuchilis-v-efir-vozvracshaetsya-populyarnoe-shou-o-puteshestviyah)
 - [Журналіст-розслідувач Опанасенко досі не спростував інформацію про фіктивну броню — ЗМІ](https://fakty.ua/447957-zhurnalist-rassledovatel-opanasenko-do-sih-por-ne-oproverg-informaciyu-o-fiktivnoj-broni---smi)
 - [Переносна ялинка: популярна співачка вразила своїм образом](https://fakty.ua/447934-perenosnaya-elka-populyarnaya-pevica-porazila-svoim-obrazom)
 - [«Замовила» ліквідацію ексчоловіка та його родини: у Запоріжжі поліцейські попередили потрійне вбивство](https://fakty.ua/447948-quot-zakazala-quot-likvidaciyu-eks-muzha-i-ego-semi-v-zaporozhe-policejskie-predupredili-trojnoe-ubijstvo)
-- [Аллу Пугачову хотіли вбити: «кримінальний авторитет» шокував реаліями російського шоубізу](https://fakty.ua/447939-allu-pugachevu-hoteli-ubit-quot-kriminalnyj-avtoritet-quot-shokiroval-realiyami-rossijskogo-shoubiza)
-- [Продавали гранатомети, кулемети і боєприпаси: правоохоронці викрили «ділків», які збували «трофейну» зброю](https://fakty.ua/447946-prodavali-granatomety-pulemety-i-boepripasy-pravoohraniteli-razoblachili-quot-delcov-quot-sbyvavshih-quot-trofejnoe-quot-oruzhie)
 <!-- BLOG-POST-LIST:END -->
