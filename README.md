@@ -142,9 +142,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Продавали гранатомети, кулемети і боєприпаси: правоохоронці викрили «ділків», які збували «трофейну» зброю](https://fakty.ua/447946-prodavali-granatomety-pulemety-i-boepripasy-pravoohraniteli-razoblachili-quot-delcov-quot-sbyvavshih-quot-trofejnoe-quot-oruzhie)
+- [Ще дасть жару: популярна співачка вразила світлинами своїх доньок](https://fakty.ua/447932-ecshe-dast-zharu-populyarnaya-pevica-porazila-fotografiyami-svoih-docherej)
+- [Вислужувався перед загарбниками: у Бердянську підірвали автомобіль голови окупаційної ради міста](https://fakty.ua/447942-vysluzhivalsya-pered-zahvatchikami-v-berdyanske-vzorvali-avtomobil-glavy-okkupacionnogo-soveta-goroda)
 - [Графіки відключень на Різдво: чи будуть українці з електроенергією](https://fakty.ua/447938-grafiki-otklyuchenij-na-rozhdestvo-budut-li-ukraincy-s-elektroenergiej)
 - [Нічна атака ворога: в Повітряних силах назвали кількість збитих та локаційно втрачених БПЛА](https://fakty.ua/447935-nochnaya-ataka-vraga-v-vozdushnyh-silah-nazvali-kolichestvo-sbityh-i-lokacionno-utrachennyh-bpla)
-- [Лопес й Афлек обмінялись подарунками, а Гарнер прийняла важливе рішення щодо майбутнього з Беном](https://fakty.ua/447926-lopes-i-aflek-obmenyalis-podarkami-a-garner-prinyala-vazhnoe-reshenie-o-buducshem-s-benom)
-- [Оборонний комітет Ради поставив крапку в історії зі снарядами](https://fakty.ua/447927-oboronnyj-komitet-rady-postavil-tochku-v-istorii-so-snaryadami)
-- [Північна Корея готується до нового відправлення військ та постачання дронів-камікадзе до рф: як це вплине на бойові дії в Україні](https://fakty.ua/447919-severnaya-koreya-gotovitsya-k-novoj-otpravke-vojsk-i-postavkam-dronov-kamikadze-v-rf-kak-eto-povliyaet-na-boevye-dejstviya-v-ukraine)
 <!-- BLOG-POST-LIST:END -->
