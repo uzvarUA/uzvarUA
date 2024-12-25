@@ -142,9 +142,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Чотири людини загинули у великій автокатастрофі на Вінниччині &lpar;фото, відео&rpar;](https://fakty.ua/447979-chetyre-cheloveka-pogibli-v-krupnoj-avtokatastrofe-v-vinnickoj-oblasti-foto-video)
 - [Окупанти ухвалили заочний вирок командиру «Азова»: яке покарання вигадали для Дениса Прокопенка](https://fakty.ua/447978-okkupanty-vynesli-zaochnyj-prigovor-komandiru-azova-kakoe-nakazanie-pridumali-dlya-denisa-prokopenko)
 - [Ціль — енергетика: росія завдала удару понад 70-ма ракетами та сотнею дронів-камікадзе](https://fakty.ua/447976-cel---energetika-rossiya-nanesla-udar-bolee-chem-70-yu-raketami-i-sotnej-dronov-kamikadze)
 - [Чергова брехня: аналітики про результати досліджень уламків «Орєшніка»](https://fakty.ua/447955-ocherednaya-lozh-analitiki-o-rezultatah-issledovanij-oblomkov-oreshnika)
 - [Через кібератаки на держреєстри в Україні продовжили термін дії бронювання від мобілізації, але не для всіх](https://fakty.ua/447971-iz-za-kiberataki-na-gosreestry-v-ukraine-prodlili-srok-dejstviya-bronirovaniya-ot-mobilizacii-no-ne-dlya-vseh)
-- [Після атаки: у ДТЕК визначились, як сьогодні відключатимуть споживачів у регіонах](https://fakty.ua/447972-posle-ataki-v-dtek-opredelilis-kak-segodnya-budut-otklyuchat-potrebitelej-v-regionah)
 <!-- BLOG-POST-LIST:END -->
