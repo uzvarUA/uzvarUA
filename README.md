@@ -142,9 +142,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Вони побачили мене іншою: Анджеліна Джолі зізналась, як фільм «Марія» вплинув на її дітей](https://fakty.ua/447855-oni-uvideli-menya-drugoj-andzhelina-dzholi-priznalas-kak-film-mariya-povliyal-na-ee-detej)
 - [Справжня опора та захист для сімʼї: боєць з Вінниччини загинув у бою на Харківщині](https://fakty.ua/447837-nastoyacshaya-opora-i-zacshita-dlya-semi-boec-iz-vinnickoj-oblasti-pogib-v-boyu-na-harkovcshine)
 - [Відомий український співак став багатодітним батьком](https://fakty.ua/448000-izvestnyj-ukrainskij-pevec-stal-mnogodetnym-otcom)
 - [Окупанти застосовують проти бійців ЗСУ новий підступний засіб ураження: експерт розповів про нововведення та його небезпеку](https://fakty.ua/447982-okkupanty-primenyayut-protiv-bojcov-vsu-novoe-kovarnoe-sredstvo-porazheniya-ekspert-rasskazal-o-novovvedenii-i-ego-opasnosti)
 - [Порошенко піарився на ЗСУ у сорочці за $ 4300, — Іванов](https://fakty.ua/447998-poroshenko-piarilsya-na-vsu-v-rubashke-za-4300---ivanov)
-- [Мадяр назвав допис Безуглої роботою на ворога: «Щоденно б’ємо ворога, поки ви чіпляєтесь до командирів»](https://fakty.ua/447996-madyar-nazval-publikaciyu-bezugloj-rabotoj-na-vraga-ezhednevno-bem-vraga-poka-vy-ceplyaetes-k-komandiram)
 <!-- BLOG-POST-LIST:END -->
