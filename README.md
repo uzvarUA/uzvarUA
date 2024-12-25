@@ -142,9 +142,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Після атаки: у ДТЕК визначились, як сьогодні відключатимуть споживачів у регіонах](https://fakty.ua/447972-posle-ataki-v-dtek-opredelilis-kak-segodnya-budut-otklyuchat-potrebitelej-v-regionah)
+- [Неспокійне Різдво: десятки дронів уночі атакували територію росії, а окупанти вдарили по Україні ракетами](https://fakty.ua/447969-bespokojnoe-rozhdestvo-desyatki-dronov-nochyu-atakovali-territoriyu-rossii-a-okkupanty-udarili-po-ukraine-raketami)
 - [Аллу Пугачову хотіли вбити: «кримінальний авторитет» шокував реаліями російського шоубізу](https://fakty.ua/447939-allu-pugachevu-hoteli-ubit-quot-kriminalnyj-avtoritet-quot-shokiroval-realiyami-rossijskogo-shoubiza)
 - [Брітні Спірс руйнує бар’єри: про що йде мова](https://fakty.ua/447947-britni-spirs-razrushaet-barery-o-chem-idet-rech)
 - [За мужність отримав «Золотий Хрест»: в бою під Красногорівкою загинув захисник з Вінниччини](https://fakty.ua/447944-za-muzhestvo-poluchil-zolotoj-krest-v-boyu-pod-krasnogorovkoj-pogib-zacshitnik-iz-vinnickoj-oblasti)
-- [Жодних інструментів: український співак здивував новою версією відомої колядки](https://fakty.ua/447929-nikakih-instrumentov-ukrainskij-pevec-udivil-novoj-versiej-izvestnoj-kolyadki)
-- [Внесок Пугачової в культуру вагомий: в рф телеведучий несподівано став на захист Примадонни](https://fakty.ua/447967-vklad-pugachevoj-v-kulturu-vesomyj-izvestnyj-v-rf-televeducshij-neozhidanno-vstal-na-zacshitu-primadonny)
 <!-- BLOG-POST-LIST:END -->
