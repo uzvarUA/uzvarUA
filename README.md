@@ -142,9 +142,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Несподіваний поворот: Оля Полякова поїде на Євробачення від іншої країни?](https://fakty.ua/447993-neozhidannyj-povorot-olya-polyakova-poedet-na-evrovidenie-ot-drugoj-strany)
 - [Обіцянки щодо землевідведення в парку «Наталка» — це шахрайство, за яке має бути відповідальність, — Бондаренко](https://fakty.ua/447991-obecshaniya-o-zemleotvode-v-parke-natalka-eto-moshennichestvo-za-kotoroe-dolzhna-byt-otvetstvennost---bondarenko)
 - [СБУ знищила важливий арсенал ворога на одному з найбільших полігонів росії](https://fakty.ua/447990-sbu-unichtozhila-vazhnyj-arsenal-vraga-na-odnom-iz-samyh-bolshih-poligonov-rossii)
 - [ЗСУ завдали удару по штабу російських морпіхів у Курській області &lpar;відео&rpar;](https://fakty.ua/447983-vsu-nanesli-udar-po-shtabu-rossijskih-morpehov-v-kurskoj-oblasti-video)
 - [Чортова дюжина року, що минає: електроенергію повернуть найближчим часом?](https://fakty.ua/447981-chertova-dyuzhina-uhodyacshego-goda-elektroenergiyu-vernut-v-blizhajshie-chasy)
-- [Чотири людини загинули у великій автокатастрофі на Вінниччині &lpar;фото, відео&rpar;](https://fakty.ua/447979-chetyre-cheloveka-pogibli-v-krupnoj-avtokatastrofe-v-vinnickoj-oblasti-foto-video)
 <!-- BLOG-POST-LIST:END -->
