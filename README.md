@@ -142,9 +142,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Обіцянки щодо землевідведення в парку «Наталка» — це шахрайство, за яке має бути відповідальність, — Бондаренко](https://fakty.ua/447991-obecshaniya-o-zemleotvode-v-parke-natalka-eto-moshennichestvo-za-kotoroe-dolzhna-byt-otvetstvennost---bondarenko)
+- [СБУ знищила важливий арсенал ворога на одному з найбільших полігонів росії](https://fakty.ua/447990-sbu-unichtozhila-vazhnyj-arsenal-vraga-na-odnom-iz-samyh-bolshih-poligonov-rossii)
 - [ЗСУ завдали удару по штабу російських морпіхів у Курській області &lpar;відео&rpar;](https://fakty.ua/447983-vsu-nanesli-udar-po-shtabu-rossijskih-morpehov-v-kurskoj-oblasti-video)
 - [Чортова дюжина року, що минає: електроенергію повернуть найближчим часом?](https://fakty.ua/447981-chertova-dyuzhina-uhodyacshego-goda-elektroenergiyu-vernut-v-blizhajshie-chasy)
 - [Чотири людини загинули у великій автокатастрофі на Вінниччині &lpar;фото, відео&rpar;](https://fakty.ua/447979-chetyre-cheloveka-pogibli-v-krupnoj-avtokatastrofe-v-vinnickoj-oblasti-foto-video)
-- [Окупанти ухвалили заочний вирок командиру «Азова»: яке покарання вигадали для Дениса Прокопенка](https://fakty.ua/447978-okkupanty-vynesli-zaochnyj-prigovor-komandiru-azova-kakoe-nakazanie-pridumali-dlya-denisa-prokopenko)
-- [Ціль — енергетика: росія завдала удару понад 70-ма ракетами та сотнею дронів-камікадзе](https://fakty.ua/447976-cel---energetika-rossiya-nanesla-udar-bolee-chem-70-yu-raketami-i-sotnej-dronov-kamikadze)
 <!-- BLOG-POST-LIST:END -->
