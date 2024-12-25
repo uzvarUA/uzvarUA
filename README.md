@@ -142,9 +142,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Ціль — енергетика: росія завдала удару понад 70-ма ракетами та сотнею дронів-камікадзе](https://fakty.ua/447976-cel---energetika-rossiya-nanesla-udar-bolee-chem-70-yu-raketami-i-sotnej-dronov-kamikadze)
+- [Чергова брехня: аналітики про результати досліджень уламків «Орєшніка»](https://fakty.ua/447955-ocherednaya-lozh-analitiki-o-rezultatah-issledovanij-oblomkov-oreshnika)
 - [Через кібератаки на держреєстри в Україні продовжили термін дії бронювання від мобілізації, але не для всіх](https://fakty.ua/447971-iz-za-kiberataki-na-gosreestry-v-ukraine-prodlili-srok-dejstviya-bronirovaniya-ot-mobilizacii-no-ne-dlya-vseh)
 - [Після атаки: у ДТЕК визначились, як сьогодні відключатимуть споживачів у регіонах](https://fakty.ua/447972-posle-ataki-v-dtek-opredelilis-kak-segodnya-budut-otklyuchat-potrebitelej-v-regionah)
 - [Неспокійне Різдво: десятки дронів уночі атакували територію росії, а окупанти вдарили по Україні ракетами](https://fakty.ua/447969-bespokojnoe-rozhdestvo-desyatki-dronov-nochyu-atakovali-territoriyu-rossii-a-okkupanty-udarili-po-ukraine-raketami)
-- [Аллу Пугачову хотіли вбити: «кримінальний авторитет» шокував реаліями російського шоубізу](https://fakty.ua/447939-allu-pugachevu-hoteli-ubit-quot-kriminalnyj-avtoritet-quot-shokiroval-realiyami-rossijskogo-shoubiza)
-- [Брітні Спірс руйнує бар’єри: про що йде мова](https://fakty.ua/447947-britni-spirs-razrushaet-barery-o-chem-idet-rech)
 <!-- BLOG-POST-LIST:END -->
