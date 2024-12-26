@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Це не випадковість: блогер і ексвійськовий звинуватив Умерова у зриві голосування в антикорупційну раду МОУ](https://fakty.ua/448038-eto-ne-sluchajnost-bloger-i-eks-voennyj-obvinil-umerova-v-sryve-golosovaniya-v-antikorrupcionnyj-sovet-mou)
+- [До антикорради Міноборони хочуть увійти представники організації, причетної до корупційних скандалів, — ЗМІ](https://fakty.ua/448037-v-antikorsovet-minoborony-hotyat-vojti-predstaviteli-organizacii-prichastnoj-k-korrupcionnym-skandalam---smi)
+- [Настрій так собі: Наталя Могилевська потрапила під ворожий обстріл](https://fakty.ua/448025-nastroenie-tak-sebe-natalka-mogilevskaya-popala-pod-vrazheskij-obstrel)
 - [Відключення світла триватиме не один день: експерт розповів, чи буде світло на Новий рік](https://fakty.ua/448026-otklyucheniya-sveta-budut-ne-odin-den-ekspert-rasskazal-budet-li-svet-na-novyj-god)
 - [Армія рф посеред дня обстріляла центральний ринок Нікополя: є важкопоранені](https://fakty.ua/448018-armiya-rf-posredi-dnya-obstrelyala-centralnyj-rynok-nikopolya-tyazhelo-raneny)
-- [«Передноворічний настрій»: Максим Галкін показав Аллу Пугачову з молодшою донькою в однакових нарядах](https://fakty.ua/448014-quot-prednovogodnee-nastroenie-quot-maksim-galkin-pokazal-allu-pugachevu-s-mladshej-docheryu-v-odinakovyh-naryadah)
-- [Апеляцію Артура Ємельянова розглядатиме скандальний суддя ВАКС Панкулич: чи варто розраховувати на принципове рішення?](https://fakty.ua/448016-apellyaciyu-artura-emelyanova-budet-rassmatrivat-skandalnyj-sudya-vaks-pankulich-stoit-li-rasschityvat-na-principialnoe-reshenie)
-- [«Новий гімн країни»: українцям сподобались результати співпраці Олександра Усика та Артема Пивоварова](https://fakty.ua/448009-quot-novyj-gimn-strany-quot-ukraincam-ponravilis-rezultaty-sotrudnichestva-aleksandra-usika-i-artema-pivovarova)
 <!-- BLOG-POST-LIST:END -->
