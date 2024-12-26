@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
-- [Терористи вдарили КАБами по селищу під Харковомі: є жертви та постраждалі](https://fakty.ua/448041-terroristy-udarili-kabami-po-poselku-pod-harkovom-est-zhertvy-i-postradavshie)
+- [«Сама дивуюся»: популярна телеведуча вразила світлинами з дітьми](https://fakty.ua/448032-sama-udivlyayus-populyarnaya-televeducshaya-porazila-fotografiyami-s-detmi)
+- [Пройти медогляд і навіть встановити інвалідність можна дистанційно: у МОЗ повідомили деталі](https://fakty.ua/448044-projti-medosmotr-i-dazhe-ustanovit-invalidnost-mozhno-distancionno-v-minzdrave-soobcshili-detali)
+- [Терористи вдарили КАБами по селищу під Харковом: є жертви та постраждалі](https://fakty.ua/448041-terroristy-udarili-kabami-po-poselku-pod-harkovom-est-zhertvy-i-postradavshie)
 - [Це не випадковість: блогер і ексвійськовий звинуватив Умерова у зриві голосування в антикорупційну раду МОУ](https://fakty.ua/448038-eto-ne-sluchajnost-bloger-i-eks-voennyj-obvinil-umerova-v-sryve-golosovaniya-v-antikorrupcionnyj-sovet-mou)
 - [До антикорради Міноборони хочуть увійти представники організації, причетної до корупційних скандалів, — ЗМІ](https://fakty.ua/448037-v-antikorsovet-minoborony-hotyat-vojti-predstaviteli-organizacii-prichastnoj-k-korrupcionnym-skandalam---smi)
-- [Настрій так собі: Наталя Могилевська потрапила під ворожий обстріл](https://fakty.ua/448025-nastroenie-tak-sebe-natalka-mogilevskaya-popala-pod-vrazheskij-obstrel)
-- [Відключення світла триватиме не один день: експерт розповів, чи буде світло на Новий рік](https://fakty.ua/448026-otklyucheniya-sveta-budut-ne-odin-den-ekspert-rasskazal-budet-li-svet-na-novyj-god)
 <!-- BLOG-POST-LIST:END -->
