@@ -1,6 +1,11 @@
 ![logo](https://uzvarua.github.io/uzvarUA/logo_my.png)
 ***
 # Привіт!
+***
+<!--www.people-group.net-->
+<script async src="//ads.people-group.net/342618/1/1/1/" onload="InitAipg_34261800010001(this)"></script>
+<a href="https://www.people-group.net/?r=342618" rel="nofollow">заказать рекламу в интернете</a>
+<!--www.people-group.net-->
 ----------
 
 Я записую відео про майнкрафту БЕ, як - німе кіно.
