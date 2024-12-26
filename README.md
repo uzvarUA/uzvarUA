@@ -142,9 +142,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [«Новий гімн країни»: українцям сподобались результати співпраці Олександра Усика та Артема Пивоварова](https://fakty.ua/448009-quot-novyj-gimn-strany-quot-ukraincam-ponravilis-rezultaty-sotrudnichestva-aleksandra-usika-i-artema-pivovarova)
+- [Летіли з двох напрямків: в Повітряних силах розповіли про атаку російських дронів](https://fakty.ua/448012-leteli-s-dvuh-napravlenij-v-vozdushnyh-silah-rasskazali-ob-atake-russkih-dronov)
+- [Залежить від того, скільки резервів Україна зможе перекинути на фронт: експерт про втримання Покровська](https://fakty.ua/447986-zavisit-ot-togo-skolko-rezervov-ukraina-smozhet-perebrosit-na-front-ekspert-ob-uderzhanii-pokrovska)
 - [Некомпетентність або заангажованість: експерт прокоментував заяви Тимошенко щодо монополії цін на ліки](https://fakty.ua/448006-nekompetentnost-ili-zaangazhirovannost-ekspert-prokommentiroval-zayavleniya-timoshenko-o-monopolii-cen-na-lekarstva)
 - [Ворог знову атакував мирні міста і села, а дрони ЗСУ залишили без світла частину бєлгородської області](https://fakty.ua/448003-vrag-snova-atakoval-mirnye-goroda-i-sela-a-drony-vsu-ostavili-bez-sveta-chast-belgorodskoj-oblasti)
-- [Вони побачили мене іншою: Анджеліна Джолі зізналась, як фільм «Марія» вплинув на її дітей](https://fakty.ua/447855-oni-uvideli-menya-drugoj-andzhelina-dzholi-priznalas-kak-film-mariya-povliyal-na-ee-detej)
-- [Справжня опора та захист для сімʼї: боєць з Вінниччини загинув у бою на Харківщині](https://fakty.ua/447837-nastoyacshaya-opora-i-zacshita-dlya-semi-boec-iz-vinnickoj-oblasti-pogib-v-boyu-na-harkovcshine)
-- [Відомий український співак став багатодітним батьком](https://fakty.ua/448000-izvestnyj-ukrainskij-pevec-stal-mnogodetnym-otcom)
 <!-- BLOG-POST-LIST:END -->
