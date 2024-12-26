@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Найкраще Різдво у житті: Брітні Спірс показала зустріч з синами після двох років розлуки &lpar;відео&rpar;](https://fakty.ua/448056-luchshee-rozhdestvo-v-zhizni-britni-spirs-pokazala-vstrechu-s-synovyami-posle-dvuh-let-razluki-video)
+- [Будуть спроби: експерт про можливість рф знову захопити Херсон](https://fakty.ua/448019-budut-popytki-ekspert-o-vozmozhnosti-rf-snova-zahvatit-herson)
+- [Алла Пугачова виростила справжню леді: шанувальники відзначили «педагогічний талант» Примадонни](https://fakty.ua/448053-alla-pugacheva-vyrastila-nastoyacshuyu-ledi-poklonniki-otmetili-quot-pedagogicheskij-talant-quot-primadonny)
+- [Відчуття, що зрадила: відома спортсменка про повернення в Україну](https://fakty.ua/448043-ocshucshenie-chto-predala-izvestnaya-sportsmenka-o-vozvracshenii-v-ukrainu)
 - [Мінімум чотири факти побиття та знущань: ДБР повідомило про підозру та шукає хрещеника командира 211-ї бригади ЗСУ](https://fakty.ua/448051-minimum-chetyre-fakta-izbieniya-i-izdevatelstv-gbr-soobcshilo-o-podozrenii-i-icshet-krestnika-komandira-211-j-brigady-vsu)
-- [В ОП готують справи проти Залужного, Кличка та мерів, — Береза](https://fakty.ua/448050-v-op-gotovyat-dela-protiv-zaluzhnogo-klichko-i-merov---bereza)
-- [Долари знайшли … в унітазі: на Львівщині затримали посадовців, які вимагали гроші у бізнесмена](https://fakty.ua/448048-dollary-nashli-v-unitaze-na-lvovcshine-zaderzhali-chinovnikov-trebovavshih-dengi-u-biznesmena)
-- [Ударів балістикою поменшає: ЗСУ уразили стратегічне підприємство у ростовській області рф](https://fakty.ua/448034-udarov-ballistikoj-stanet-menshe-vsu-porazili-strategicheskoe-predpriyatie-v-rostovskoj-oblasti-rf)
-- [«Не бачу, щоб оборона ЗСУ посипалася»: український офіцер про ситуацію на фронті](https://fakty.ua/448015-ne-vizhu-chtoby-oborona-vsu-posypalas-ukrainskij-oficer-o-situacii-na-fronte)
 <!-- BLOG-POST-LIST:END -->
