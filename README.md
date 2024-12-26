@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Мінімум чотири факти побиття та знущань: ДБР повідомило про підозру та шукає хрещеника командира 211-ї бригади ЗСУ](https://fakty.ua/448051-minimum-chetyre-fakta-izbieniya-i-izdevatelstv-gbr-soobcshilo-o-podozrenii-i-icshet-krestnika-komandira-211-j-brigady-vsu)
+- [В ОП готують справи проти Залужного, Кличка та мерів, — Береза](https://fakty.ua/448050-v-op-gotovyat-dela-protiv-zaluzhnogo-klichko-i-merov---bereza)
 - [Долари знайшли … в унітазі: на Львівщині затримали посадовців, які вимагали гроші у бізнесмена](https://fakty.ua/448048-dollary-nashli-v-unitaze-na-lvovcshine-zaderzhali-chinovnikov-trebovavshih-dengi-u-biznesmena)
 - [Ударів балістикою поменшає: ЗСУ уразили стратегічне підприємство у ростовській області рф](https://fakty.ua/448034-udarov-ballistikoj-stanet-menshe-vsu-porazili-strategicheskoe-predpriyatie-v-rostovskoj-oblasti-rf)
 - [«Не бачу, щоб оборона ЗСУ посипалася»: український офіцер про ситуацію на фронті](https://fakty.ua/448015-ne-vizhu-chtoby-oborona-vsu-posypalas-ukrainskij-oficer-o-situacii-na-fronte)
-- [«Сама дивуюся»: популярна телеведуча вразила світлинами з дітьми](https://fakty.ua/448032-sama-udivlyayus-populyarnaya-televeducshaya-porazila-fotografiyami-s-detmi)
-- [Пройти медогляд і навіть встановити інвалідність можна дистанційно: у МОЗ повідомили деталі](https://fakty.ua/448044-projti-medosmotr-i-dazhe-ustanovit-invalidnost-mozhno-distancionno-v-minzdrave-soobcshili-detali)
 <!-- BLOG-POST-LIST:END -->
