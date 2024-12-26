@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Долари знайшли … в унітазі: на Львівщині затримали посадовців, які вимагали гроші у бізнесмена](https://fakty.ua/448048-dollary-nashli-v-unitaze-na-lvovcshine-zaderzhali-chinovnikov-trebovavshih-dengi-u-biznesmena)
+- [Ударів балістикою поменшає: ЗСУ уразили стратегічне підприємство у ростовській області рф](https://fakty.ua/448034-udarov-ballistikoj-stanet-menshe-vsu-porazili-strategicheskoe-predpriyatie-v-rostovskoj-oblasti-rf)
+- [«Не бачу, щоб оборона ЗСУ посипалася»: український офіцер про ситуацію на фронті](https://fakty.ua/448015-ne-vizhu-chtoby-oborona-vsu-posypalas-ukrainskij-oficer-o-situacii-na-fronte)
 - [«Сама дивуюся»: популярна телеведуча вразила світлинами з дітьми](https://fakty.ua/448032-sama-udivlyayus-populyarnaya-televeducshaya-porazila-fotografiyami-s-detmi)
 - [Пройти медогляд і навіть встановити інвалідність можна дистанційно: у МОЗ повідомили деталі](https://fakty.ua/448044-projti-medosmotr-i-dazhe-ustanovit-invalidnost-mozhno-distancionno-v-minzdrave-soobcshili-detali)
-- [Терористи вдарили КАБами по селищу під Харковом: є жертви та постраждалі](https://fakty.ua/448041-terroristy-udarili-kabami-po-poselku-pod-harkovom-est-zhertvy-i-postradavshie)
-- [Це не випадковість: блогер і ексвійськовий звинуватив Умерова у зриві голосування в антикорупційну раду МОУ](https://fakty.ua/448038-eto-ne-sluchajnost-bloger-i-eks-voennyj-obvinil-umerova-v-sryve-golosovaniya-v-antikorrupcionnyj-sovet-mou)
-- [До антикорради Міноборони хочуть увійти представники організації, причетної до корупційних скандалів, — ЗМІ](https://fakty.ua/448037-v-antikorsovet-minoborony-hotyat-vojti-predstaviteli-organizacii-prichastnoj-k-korrupcionnym-skandalam---smi)
 <!-- BLOG-POST-LIST:END -->
