@@ -142,9 +142,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Армія рф посеред дня обстріляла центральний ринок Нікополя: є важкопоранені](https://fakty.ua/448018-armiya-rf-posredi-dnya-obstrelyala-centralnyj-rynok-nikopolya-tyazhelo-raneny)
+- [«Передноворічний настрій»: Максим Галкін показав Аллу Пугачову з молодшою донькою в однакових нарядах](https://fakty.ua/448014-quot-prednovogodnee-nastroenie-quot-maksim-galkin-pokazal-allu-pugachevu-s-mladshej-docheryu-v-odinakovyh-naryadah)
+- [Апеляцію Артура Ємельянова розглядатиме скандальний суддя ВАКС Панкулич: чи варто розраховувати на принципове рішення?](https://fakty.ua/448016-apellyaciyu-artura-emelyanova-budet-rassmatrivat-skandalnyj-sudya-vaks-pankulich-stoit-li-rasschityvat-na-principialnoe-reshenie)
 - [«Новий гімн країни»: українцям сподобались результати співпраці Олександра Усика та Артема Пивоварова](https://fakty.ua/448009-quot-novyj-gimn-strany-quot-ukraincam-ponravilis-rezultaty-sotrudnichestva-aleksandra-usika-i-artema-pivovarova)
 - [Летіли з двох напрямків: в Повітряних силах розповіли про атаку російських дронів](https://fakty.ua/448012-leteli-s-dvuh-napravlenij-v-vozdushnyh-silah-rasskazali-ob-atake-russkih-dronov)
-- [Залежить від того, скільки резервів Україна зможе перекинути на фронт: експерт про втримання Покровська](https://fakty.ua/447986-zavisit-ot-togo-skolko-rezervov-ukraina-smozhet-perebrosit-na-front-ekspert-ob-uderzhanii-pokrovska)
-- [Некомпетентність або заангажованість: експерт прокоментував заяви Тимошенко щодо монополії цін на ліки](https://fakty.ua/448006-nekompetentnost-ili-zaangazhirovannost-ekspert-prokommentiroval-zayavleniya-timoshenko-o-monopolii-cen-na-lekarstva)
-- [Ворог знову атакував мирні міста і села, а дрони ЗСУ залишили без світла частину бєлгородської області](https://fakty.ua/448003-vrag-snova-atakoval-mirnye-goroda-i-sela-a-drony-vsu-ostavili-bez-sveta-chast-belgorodskoj-oblasti)
 <!-- BLOG-POST-LIST:END -->
