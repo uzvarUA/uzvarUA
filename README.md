@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Міноборони рф втратило сором: відомство похвалилося убогою зброєю](https://fakty.ua/448065-minoborony-rf-poteryalo-styd-vedomstvo-pohvastalos-ubogim-oruzhiem)
 - [Все гірше й гірше: мережа відреагувала на фінальні сукні учасниць «Холостяка» &lpar;фото&rpar;](https://fakty.ua/448086-vse-huzhe-i-huzhe-set-otreagirovala-na-finalnye-platya-uchastnic-quot-holostyaka-quot-foto)
 - [Що взяти із собою в «учєбку» після мобілізації: військові склали список необхідних предметів &lpar;відео&rpar;](https://fakty.ua/448090-chto-vzyat-s-soboj-v-uchebku-posle-mobilizacii-voennye-sostavili-spisok-neobhodimyh-predmetov-video)
 - [Вибух біля ТЦК у Бердичеві: «бомбу» виготовила наркоманка, а підірвав карний злочинець](https://fakty.ua/448078-vzryv-vozle-tck-v-berdicheve-bombu-izgotovila-narkomanka-a-podorval-ugolovnik)
 - [Журналісти знайшли у ВАКС суддю, яка скасовувала рішення місцевих рад, що підтримували Революцію гідності](https://fakty.ua/448080-zhurnalisty-nashli-v-vaks-sudyu-kotoraya-otmenyala-reshenie-mestnyh-sovetov-podderzhivavshih-revolyuciyu-dostoinstva)
-- [Роздмухувати конфлікт між DeepState та військовим керівництвом ніхто не буде, — Бутусов](https://fakty.ua/448077-razduvat-konflikt-mezhdu-deepstate-i-voennym-rukovodstvom-nikto-ne-budet---butusov)
 <!-- BLOG-POST-LIST:END -->
