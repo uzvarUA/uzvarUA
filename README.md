@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [СБУ впіймала диверсанта, який готувався пустити під укіс військовий ешелон &lpar;фото&rpar;](https://fakty.ua/448102-sbu-pojmala-diversanta-gotovivshegosya-pustit-pod-otkos-voennyj-eshelon-foto)
+- [«Не применшуйте злочинів росії»: азовець «Калина» звернувся до влади](https://fakty.ua/448082-ne-preumenshajte-prestuplenij-rossii-azovec-kalina-obratilsya-k-vlasti)
 - [Україна впроваджує держстандарт допомоги особам з ігровою залежністю](https://fakty.ua/448100-ukraina-vnedryaet-gosstandart-pomocshi-licam-s-igrovoj-zavisimostyu)
 - [Можна їхати: відома шеф-кухарка показала свій відпочинок у Карпатах](https://fakty.ua/448085-mozhno-ehat-izvestnaya-shef-povar-pokazala-svoj-otdyh-v-karpatah)
 - [Міноборони рф втратило сором: відомство похвалилося убогою зброєю](https://fakty.ua/448065-minoborony-rf-poteryalo-styd-vedomstvo-pohvastalos-ubogim-oruzhiem)
-- [Все гірше й гірше: мережа відреагувала на фінальні сукні учасниць «Холостяка» &lpar;фото&rpar;](https://fakty.ua/448086-vse-huzhe-i-huzhe-set-otreagirovala-na-finalnye-platya-uchastnic-quot-holostyaka-quot-foto)
-- [Що взяти із собою в «учєбку» після мобілізації: військові склали список необхідних предметів &lpar;відео&rpar;](https://fakty.ua/448090-chto-vzyat-s-soboj-v-uchebku-posle-mobilizacii-voennye-sostavili-spisok-neobhodimyh-predmetov-video)
 <!-- BLOG-POST-LIST:END -->
