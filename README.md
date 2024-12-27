@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [«Долари в унітазі»: деталі справи львівських чиновників-корупціонерів на чолі з депутатом від «Європейської солідарності»](https://fakty.ua/448075-dollary-v-unitaze-detali-dela-lvovskih-chinovnikov-korrupcionerov-vo-glave-s-deputatom-evropejskoj-solidarnosti)
+- [Мінус три офіцери ворога: стали відомі деталі зухвалої операції ГУР та СБУ &lpar;фото, відео&rpar;](https://fakty.ua/448067-minus-tri-oficera-vraga-stali-izvestny-detali-derzkoj-operacii-gur-i-sbu-foto-video)
 - [Не завдасть настільки масштабних збитків: експерт розвіяв міфи про «Орєшнік»](https://fakty.ua/448045-ne-naneset-stol-masshtabnyh-ubytkov-ekspert-razveyal-mify-ob-oreshnike)
 - [З почином: ЗСУ взяли у полон першого північнокорейського солдата &lpar;фото&rpar;](https://fakty.ua/448057-s-pochinom-vsu-vzyali-v-plen-pervogo-severokorejskogo-soldata-foto)
 - [Бізнесмен у дев’ять років: Шакіра підтримала свого сина Саша](https://fakty.ua/448042-biznesmen-v-devyat-let-shakira-podderzhala-svoego-syna-sasha)
-- [Понад усе хотів побачити та обійняти своїх двох онучок: тяжке поранення забрало життя молодшого сержанта з Вінниччини](https://fakty.ua/448035-bolshe-vsego-hotel-uvidet-i-obnyat-svoih-dvuh-vnuchek-tyazheloe-ranenie-zabralo-zhizn-mladshego-serzhanta-iz-vinnickoj-oblasti)
-- [Найкраще Різдво у житті: Брітні Спірс показала зустріч з синами після двох років розлуки &lpar;відео&rpar;](https://fakty.ua/448056-luchshee-rozhdestvo-v-zhizni-britni-spirs-pokazala-vstrechu-s-synovyami-posle-dvuh-let-razluki-video)
 <!-- BLOG-POST-LIST:END -->
