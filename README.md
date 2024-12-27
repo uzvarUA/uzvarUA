@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Вибух біля ТЦК у Бердичеві: «бомбу» виготовила наркоманка, а підірвав карний злочинець](https://fakty.ua/448078-vzryv-vozle-tck-v-berdicheve-bombu-izgotovila-narkomanka-a-podorval-ugolovnik)
+- [Журналісти знайшли у ВАКС суддю, яка скасовувала рішення місцевих рад, що підтримували Революцію гідності](https://fakty.ua/448080-zhurnalisty-nashli-v-vaks-sudyu-kotoraya-otmenyala-reshenie-mestnyh-sovetov-podderzhivavshih-revolyuciyu-dostoinstva)
+- [Роздмухувати конфлікт між DeepState та військовим керівництвом ніхто не буде, — Бутусов](https://fakty.ua/448077-razduvat-konflikt-mezhdu-deepstate-i-voennym-rukovodstvom-nikto-ne-budet---butusov)
+- [Обличчя було таким побитим, що сина ледь впізнали: батько захисника, який воював на Покровському напрямку, не вірить у версію про «природну смерть»](https://fakty.ua/448049-lico-bylo-takim-izbitym-chto-syna-edva-uznali-otec-zacshitnika-voevavshego-na-pokrovskom-napravlenii-ne-verit-v-versiyu-o-estestvennoj-smerti)
 - [«Долари в унітазі»: деталі справи львівських чиновників-корупціонерів на чолі з депутатом від «Європейської солідарності»](https://fakty.ua/448075-dollary-v-unitaze-detali-dela-lvovskih-chinovnikov-korrupcionerov-vo-glave-s-deputatom-evropejskoj-solidarnosti)
-- [Мінус три офіцери ворога: стали відомі деталі зухвалої операції ГУР та СБУ &lpar;фото, відео&rpar;](https://fakty.ua/448067-minus-tri-oficera-vraga-stali-izvestny-detali-derzkoj-operacii-gur-i-sbu-foto-video)
-- [Не завдасть настільки масштабних збитків: експерт розвіяв міфи про «Орєшнік»](https://fakty.ua/448045-ne-naneset-stol-masshtabnyh-ubytkov-ekspert-razveyal-mify-ob-oreshnike)
-- [З почином: ЗСУ взяли у полон першого північнокорейського солдата &lpar;фото&rpar;](https://fakty.ua/448057-s-pochinom-vsu-vzyali-v-plen-pervogo-severokorejskogo-soldata-foto)
-- [Бізнесмен у дев’ять років: Шакіра підтримала свого сина Саша](https://fakty.ua/448042-biznesmen-v-devyat-let-shakira-podderzhala-svoego-syna-sasha)
 <!-- BLOG-POST-LIST:END -->
