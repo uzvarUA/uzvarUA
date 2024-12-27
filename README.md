@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Майже рік чекали на диво: в бою під Бахмутом загинув захисник з Прикарпаття](https://fakty.ua/448074-pochti-god-zhdali-chuda-v-boyu-pod-bahmutom-pogib-zacshitnik-iz-prikarpatya)
 - [Був крутішим: Дорофєєва розчарувала світлинами з чоловіком](https://fakty.ua/448089-byl-pokruche-dorofeeva-razocharovala-fotografiyami-s-muzhem)
 - [СБУ впіймала диверсанта, який готувався пустити під укіс військовий ешелон &lpar;фото&rpar;](https://fakty.ua/448102-sbu-pojmala-diversanta-gotovivshegosya-pustit-pod-otkos-voennyj-eshelon-foto)
 - [«Не применшуйте злочинів росії»: азовець «Калина» звернувся до влади](https://fakty.ua/448082-ne-preumenshajte-prestuplenij-rossii-azovec-kalina-obratilsya-k-vlasti)
 - [Україна впроваджує держстандарт допомоги особам з ігровою залежністю](https://fakty.ua/448100-ukraina-vnedryaet-gosstandart-pomocshi-licam-s-igrovoj-zavisimostyu)
-- [Можна їхати: відома шеф-кухарка показала свій відпочинок у Карпатах](https://fakty.ua/448085-mozhno-ehat-izvestnaya-shef-povar-pokazala-svoj-otdyh-v-karpatah)
 <!-- BLOG-POST-LIST:END -->
