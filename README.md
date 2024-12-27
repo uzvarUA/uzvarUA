@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Не завдасть настільки масштабних збитків: експерт розвіяв міфи про «Орєшнік»](https://fakty.ua/448045-ne-naneset-stol-masshtabnyh-ubytkov-ekspert-razveyal-mify-ob-oreshnike)
 - [З почином: ЗСУ взяли у полон першого північнокорейського солдата &lpar;фото&rpar;](https://fakty.ua/448057-s-pochinom-vsu-vzyali-v-plen-pervogo-severokorejskogo-soldata-foto)
 - [Бізнесмен у дев’ять років: Шакіра підтримала свого сина Саша](https://fakty.ua/448042-biznesmen-v-devyat-let-shakira-podderzhala-svoego-syna-sasha)
 - [Понад усе хотів побачити та обійняти своїх двох онучок: тяжке поранення забрало життя молодшого сержанта з Вінниччини](https://fakty.ua/448035-bolshe-vsego-hotel-uvidet-i-obnyat-svoih-dvuh-vnuchek-tyazheloe-ranenie-zabralo-zhizn-mladshego-serzhanta-iz-vinnickoj-oblasti)
 - [Найкраще Різдво у житті: Брітні Спірс показала зустріч з синами після двох років розлуки &lpar;відео&rpar;](https://fakty.ua/448056-luchshee-rozhdestvo-v-zhizni-britni-spirs-pokazala-vstrechu-s-synovyami-posle-dvuh-let-razluki-video)
-- [Будуть спроби: експерт про можливість рф знову захопити Херсон](https://fakty.ua/448019-budut-popytki-ekspert-o-vozmozhnosti-rf-snova-zahvatit-herson)
 <!-- BLOG-POST-LIST:END -->
