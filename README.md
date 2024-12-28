@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [«Я відчувала пристрасть між нами»: наймолодша учасниця «Холостяка» Юстина про вихід з реаліті](https://fakty.ua/448093-ya-chuvstvovala-strast-mezhdu-nami-samaya-molodaya-uchastnica-holostyaka-yustina-o-vyhode-iz-realiti)
 - [В росії уражено склад зберігання, обслуговування та ремонту «шахедів», — Генштаб](https://fakty.ua/448113-v-rossii-porazhen-sklad-hraneniya-obsluzhivaniya-i-remonta-quot-shahedov-quot---genshtab)
 - [Ворог вночі завдав сотні ударів по мирних містах України: є постраждалі](https://fakty.ua/448106-vrag-nochyu-nanes-sotni-udarov-po-mirnym-gorodam-ukrainy-est-postradavshie)
 - [Не пошкодував грошей: Селена Гомес показала свою обручку за мільйон доларів &lpar;фото&rpar;](https://fakty.ua/448091-ne-pozhalel-deneg-selena-gomes-pokazala-svoe-obruchalnoe-kolco-za-million-dollarov-foto)
 - [Майже рік чекали на диво: в бою під Бахмутом загинув захисник з Прикарпаття](https://fakty.ua/448074-pochti-god-zhdali-chuda-v-boyu-pod-bahmutom-pogib-zacshitnik-iz-prikarpatya)
-- [Був крутішим: Дорофєєва розчарувала світлинами з чоловіком](https://fakty.ua/448089-byl-pokruche-dorofeeva-razocharovala-fotografiyami-s-muzhem)
 <!-- BLOG-POST-LIST:END -->
