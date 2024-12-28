@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
-- [За столом зібралася вся чимала «компанія»: Вікторія Бекхем показала, як вони з дітьми відзначили Різдво](https://fakty.ua/448129-za-stolom-sobralas-vsya-nemalaya-quot-kompaniya-quot-viktoriya-bekhem-pokazala-kak-oni-s-detmi-otmetili-rozhdestvo)
+- [Підприємці скаржаться на дії БЕБ в Одеському морському торгівельному порту: що відбувається](https://fakty.ua/448135-predprinimateli-zhaluyutsya-na-dejstviya-beb-v-odesskom-morskom-torgovom-portu-chto-proishodit)
+- [Уряд погодив звільнення двох голів ОВА: в яких областях будуть нові очільники](https://fakty.ua/448133-pravitelstvo-soglasovalo-uvolnenie-dvuh-glav-ova-v-kakih-oblastyah-budut-novye-rukovoditeli)
+- [За столом зібралася чимала «компанія»: Вікторія Бекхем показала, як вони з дітьми відзначили Різдво](https://fakty.ua/448129-za-stolom-sobralas-vsya-nemalaya-quot-kompaniya-quot-viktoriya-bekhem-pokazala-kak-oni-s-detmi-otmetili-rozhdestvo)
 - [Китай дуже хитро допомагає росії з боєприпасами: як це робиться](https://fakty.ua/448096-kitaj-ochen-hitro-pomogaet-rossii-s-boepripasami-kak-eto-delaetsya)
 - [Машина перекинулась на дах: п’яна водійка на «Теслі» вчинила смертельну ДТП, загинули двоє людей](https://fakty.ua/448121-mashina-perevernulas-na-kryshu-pyanaya-voditel-na-quot-tesle-quot-sovershila-smertelnoe-dtp-pogibli-dva-cheloveka)
-- [Неймовірно шалений потяг до тебе: подробиці фіналу «Холостяка»](https://fakty.ua/448123-neveroyatno-bezumnoe-vlechenie-k-tebe-podrobnosti-finala-quot-holostyaka-quot)
-- [Ворог втратив в Україні понад 420 тисяч військових з початку року, — головком Сирський](https://fakty.ua/448119-vrag-poteryal-v-ukraine-bolee-420-tysyach-voennyh-s-nachala-goda---glavkom-syrskij)
 <!-- BLOG-POST-LIST:END -->
