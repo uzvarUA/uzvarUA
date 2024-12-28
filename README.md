@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [«Сама її присутність була престижною»: в рф розповіли про гонорари Алли Пугачової на Рубльовці](https://fakty.ua/448140-samoe-ee-prisutstvie-bylo-prestizhnym-v-rossii-rasskazali-o-gonorarah-ally-pugachevoj-na-rublevke)
+- [Навряд чи сяде за один стіл з путіним: дипломат про перемовини між рф та Україною](https://fakty.ua/448098-vryad-li-syadet-za-odin-stol-s-putinym-diplomat-o-peregovorah-mezhdu-rf-i-ukrainoj)
 - [Доведеться чекати: Klavdia Petrivna знялася в новому образі і оголосила, коли відбудеться перший в 2025 році концерт](https://fakty.ua/448138-pridetsya-zhdat-klavdia-petrivna-snyalas-v-novom-obraze-i-obyavila-kogda-sostoitsya-pervyj-v-2025-godu-koncert)
 - [рф кинула сили на захоплення Курахового: аналітики ISW розповіли, що відбувається в цьому районі](https://fakty.ua/448095-rf-brosila-sily-na-zahvat-kurahovo-analitiki-isw-rasskazali-chto-proishodit-v-etom-rajone)
 - [Графіки не діють: по Україні почали знову вводити екстрені відключення світла](https://fakty.ua/448137-grafiki-ne-dejstvuyut-po-ukraine-nachali-snova-vvodit-ekstrennye-otklyucheniya-sveta)
-- [Підприємці скаржаться на дії БЕБ в Одеському морському торгівельному порту: що відбувається](https://fakty.ua/448135-predprinimateli-zhaluyutsya-na-dejstviya-beb-v-odesskom-morskom-torgovom-portu-chto-proishodit)
-- [Уряд погодив звільнення двох голів ОВА: в яких областях будуть нові очільники](https://fakty.ua/448133-pravitelstvo-soglasovalo-uvolnenie-dvuh-glav-ova-v-kakih-oblastyah-budut-novye-rukovoditeli)
 <!-- BLOG-POST-LIST:END -->
