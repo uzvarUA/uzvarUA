@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Китай дуже хитро допомагає росії з боєприпасами: як це робиться](https://fakty.ua/448096-kitaj-ochen-hitro-pomogaet-rossii-s-boepripasami-kak-eto-delaetsya)
+- [Машина перекинулась на дах: п’яна водійка на «Теслі» вчинила смертельну ДТП, загинули двоє людей](https://fakty.ua/448121-mashina-perevernulas-na-kryshu-pyanaya-voditel-na-quot-tesle-quot-sovershila-smertelnoe-dtp-pogibli-dva-cheloveka)
+- [Неймовірно шалений потяг до тебе: подробиці фіналу «Холостяка»](https://fakty.ua/448123-neveroyatno-bezumnoe-vlechenie-k-tebe-podrobnosti-finala-quot-holostyaka-quot)
+- [Ворог втратив в Україні понад 420 тисяч військових з початку року, — головком Сирський](https://fakty.ua/448119-vrag-poteryal-v-ukraine-bolee-420-tysyach-voennyh-s-nachala-goda---glavkom-syrskij)
 - [«Я відчувала пристрасть між нами»: наймолодша учасниця «Холостяка» Юстина про вихід з реаліті](https://fakty.ua/448093-ya-chuvstvovala-strast-mezhdu-nami-samaya-molodaya-uchastnica-holostyaka-yustina-o-vyhode-iz-realiti)
-- [В росії уражено склад зберігання, обслуговування та ремонту «шахедів», — Генштаб](https://fakty.ua/448113-v-rossii-porazhen-sklad-hraneniya-obsluzhivaniya-i-remonta-quot-shahedov-quot---genshtab)
-- [Ворог вночі завдав сотні ударів по мирних містах України: є постраждалі](https://fakty.ua/448106-vrag-nochyu-nanes-sotni-udarov-po-mirnym-gorodam-ukrainy-est-postradavshie)
-- [Не пошкодував грошей: Селена Гомес показала свою обручку за мільйон доларів &lpar;фото&rpar;](https://fakty.ua/448091-ne-pozhalel-deneg-selena-gomes-pokazala-svoe-obruchalnoe-kolco-za-million-dollarov-foto)
-- [Майже рік чекали на диво: в бою під Бахмутом загинув захисник з Прикарпаття](https://fakty.ua/448074-pochti-god-zhdali-chuda-v-boyu-pod-bahmutom-pogib-zacshitnik-iz-prikarpatya)
 <!-- BLOG-POST-LIST:END -->
