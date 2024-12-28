@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Так і не встиг одружитись: на Прикарпатті поховали відважного бійця, який боронив країну із 2014 року](https://fakty.ua/448120-tak-i-ne-uspel-zhenitsya-na-prikarpate-pohoronili-otvazhnogo-bojca-zacshicshavshego-stranu-s-2014-goda)
 - [«Сама її присутність була престижною»: в рф розповіли про гонорари Алли Пугачової на Рубльовці](https://fakty.ua/448140-samoe-ee-prisutstvie-bylo-prestizhnym-v-rossii-rasskazali-o-gonorarah-ally-pugachevoj-na-rublevke)
 - [Навряд чи сяде за один стіл з путіним: дипломат про перемовини між рф та Україною](https://fakty.ua/448098-vryad-li-syadet-za-odin-stol-s-putinym-diplomat-o-peregovorah-mezhdu-rf-i-ukrainoj)
 - [Доведеться чекати: Klavdia Petrivna знялася в новому образі і оголосила, коли відбудеться перший в 2025 році концерт](https://fakty.ua/448138-pridetsya-zhdat-klavdia-petrivna-snyalas-v-novom-obraze-i-obyavila-kogda-sostoitsya-pervyj-v-2025-godu-koncert)
 - [рф кинула сили на захоплення Курахового: аналітики ISW розповіли, що відбувається в цьому районі](https://fakty.ua/448095-rf-brosila-sily-na-zahvat-kurahovo-analitiki-isw-rasskazali-chto-proishodit-v-etom-rajone)
-- [Графіки не діють: по Україні почали знову вводити екстрені відключення світла](https://fakty.ua/448137-grafiki-ne-dejstvuyut-po-ukraine-nachali-snova-vvodit-ekstrennye-otklyucheniya-sveta)
 <!-- BLOG-POST-LIST:END -->
