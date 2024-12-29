@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Двоє загинули, один зник безвісти: на Закарпатті ухилянтів навмисне переправляли смертельно небезпечним маршрутом &lpar;фото&rpar;](https://fakty.ua/448143-dvoe-pogibli-odin-propal-bez-vesti-v-zakarpate-uklonistov-umyshlenno-perepravlyali-po-smertelno-opasnomu-marshrutu-foto)
 - [Вибралася з досить темного місця: Анджеліна Джолі після важкого розлучення з Бредом Піттом знову мріє про побачення](https://fakty.ua/448126-vybralas-iz-dovolno-temnogo-mesta-andzhelina-dzholi-posle-tyazhelogo-razvoda-s-bredom-pittom-snova-mechtaet-o-svidaniyah)
 - [Так і не встиг одружитись: на Прикарпатті поховали відважного бійця, який боронив країну із 2014 року](https://fakty.ua/448120-tak-i-ne-uspel-zhenitsya-na-prikarpate-pohoronili-otvazhnogo-bojca-zacshicshavshego-stranu-s-2014-goda)
 - [«Сама її присутність була престижною»: в рф розповіли про гонорари Алли Пугачової на Рубльовці](https://fakty.ua/448140-samoe-ee-prisutstvie-bylo-prestizhnym-v-rossii-rasskazali-o-gonorarah-ally-pugachevoj-na-rublevke)
 - [Навряд чи сяде за один стіл з путіним: дипломат про перемовини між рф та Україною](https://fakty.ua/448098-vryad-li-syadet-za-odin-stol-s-putinym-diplomat-o-peregovorah-mezhdu-rf-i-ukrainoj)
-- [Доведеться чекати: Klavdia Petrivna знялася в новому образі і оголосила, коли відбудеться перший в 2025 році концерт](https://fakty.ua/448138-pridetsya-zhdat-klavdia-petrivna-snyalas-v-novom-obraze-i-obyavila-kogda-sostoitsya-pervyj-v-2025-godu-koncert)
 <!-- BLOG-POST-LIST:END -->
