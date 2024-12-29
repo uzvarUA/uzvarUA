@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [«Ми не зможемо перемогти з тим підходом до війни, який бачимо зараз», — Герой України Василь Бурмеч](https://fakty.ua/448110-my-ne-smozhem-pobedit-s-tem-podhodom-k-vojne-kotoryj-my-vidim-sejchas---geroj-ukrainy-vasilij-burmech)
 - [Тепер по-новому: як у 2025 році зміняться для українців соцвиплати, тарифи та ціни](https://fakty.ua/448146-teper-po-novomu-kak-v-2025-godu-izmenyatsya-dlya-ukraincev-socvyplaty-tarify-i-ceny)
 - [Німеччина почала активніше передавати Україні танки Leopard](https://fakty.ua/448132-germaniya-nachala-aktivnee-peredavat-ukraine-tanki-leopard)
 - [Знаменита модель, яка стала обличчям Max Factor, Revlon та L&amp;#39;Oreal, трагічно загинула в США](https://fakty.ua/448145-znamenitaya-model-stavshaya-licom-max-factor-revlon-i-l-oreal-tragicheski-pogibla-v-ssha)
 - [Двоє загинули, один зник безвісти: на Закарпатті ухилянтів навмисне переправляли смертельно небезпечним маршрутом &lpar;фото&rpar;](https://fakty.ua/448143-dvoe-pogibli-odin-propal-bez-vesti-v-zakarpate-uklonistov-umyshlenno-perepravlyali-po-smertelno-opasnomu-marshrutu-foto)
-- [Вибралася з досить темного місця: Анджеліна Джолі після важкого розлучення з Бредом Піттом знову мріє про побачення](https://fakty.ua/448126-vybralas-iz-dovolno-temnogo-mesta-andzhelina-dzholi-posle-tyazhelogo-razvoda-s-bredom-pittom-snova-mechtaet-o-svidaniyah)
 <!-- BLOG-POST-LIST:END -->
