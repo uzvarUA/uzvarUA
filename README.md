@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Батьки майже рік жили надією: у Вінниці поховали солдата-єврея, який поліг на Донеччині](https://fakty.ua/448164-roditeli-pochti-god-zhili-nadezhdoj-v-vinnice-pohoronili-soldata-evreya-pogibshego-na-donetchine)
 - [HIMARS вдруге за три дні накрив скупчення російських офіцерів: скільки було ліквідовано](https://fakty.ua/448161-himars-vtoroj-raz-za-tri-dnya-nakryl-skoplenie-rossijskih-oficerov-skolko-bylo-likvidirovano)
 - [Замість українських «Шарків» та «Фурій» АОЗ закупила польські «крила» на мільярд: що відомо](https://fakty.ua/448166-vmesto-ukrainskih-sharkov-i-furij-aoz-zakupila-polskie-krylya-na-milliard-chto-izvestno)
 - [Гучна справа: командира скандально відомої 211-ї бригади знову затримали](https://fakty.ua/448160-gromkoe-delo-komandir-skandalno-izvestnoj-211-j-brigady-snova-zaderzhan)
 - [Плакали всі: українська співачка оголосила про вагітність](https://fakty.ua/448151-plakali-vse-ukrainskaya-pevica-obyavila-o-beremennosti)
-- [«Ми не зможемо перемогти з тим підходом до війни, який бачимо зараз», — Герой України Василь Бурмеч](https://fakty.ua/448110-my-ne-smozhem-pobedit-s-tem-podhodom-k-vojne-kotoryj-my-vidim-sejchas---geroj-ukrainy-vasilij-burmech)
 <!-- BLOG-POST-LIST:END -->
