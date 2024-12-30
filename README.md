@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Отримав 15 років в’язниці: суд виніс вирок зраднику, який коригував удари по Запоріжжю та шпигував за ППО](https://fakty.ua/448211-poluchil-15-let-tyurmy-sud-vynes-prigovor-predatelyu-kotoryj-korrektiroval-udary-po-zaporozhyu-i-shpionil-za-pvo)
+- [Все зрозуміло: переможниця «Холостяка» заінтригувала мережу](https://fakty.ua/448209-vse-ponyatno-pobeditelnica-quot-holostyaka-quot-zaintrigovala-set)
 - [Чудовий приклад взаємодії ГУР та військових: в Запорізькій області знищено ворожий штаб разом з окупантами &lpar;відео&rpar;](https://fakty.ua/448202-zamechatelnyj-primer-vzaimodejstviya-gur-i-voennyh-v-zaporozhskoj-oblasti-unichtozhen-vrazheskij-shtab-vmeste-s-okkupantami-video)
 - [Унікальні українські дрони «Вінчестер» успішно полюють за російськими БпЛА](https://fakty.ua/448189-unikalnye-ukrainskie-drony-vinchester-uspeshno-ohotyatsya-za-rossijskimi-bpla)
 - [Перемир&amp;#39;я чи масована ракетна атака: до чого варто готуватись українцям 31 грудня](https://fakty.ua/448199-peremirie-ili-massirovannaya-raketnaya-ataka-k-chemu-stoit-gotovitsya-ukraincam-31-dekabrya)
-- [«Полювали» за релейними шафами Укрзалізниці та авто бійців ЗСУ: затримано дві групи підпалювачів](https://fakty.ua/448196-quot-ohotilis-quot-za-relejnymi-shkafami-ukrzaliznyci-i-avto-bojcov-vsu-zaderzhany-dve-gruppy-podzhigatelej)
-- [«Мені здається, що вони поспішають»: військовий про тактику рф на Донеччині](https://fakty.ua/448181-mne-kazhetsya-chto-oni-speshat-voennyj-o-taktike-rf-v-doneckoj-oblasti)
 <!-- BLOG-POST-LIST:END -->
