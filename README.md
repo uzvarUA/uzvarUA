@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [«Мені здається, що вони поспішають»: військовий про тактику рф на Донеччині](https://fakty.ua/448181-mne-kazhetsya-chto-oni-speshat-voennyj-o-taktike-rf-v-doneckoj-oblasti)
+- [Збито 21 БПЛА, ще 22 — не досягли цілі: в ЗСУ відзвітували про бойову роботу вночі 30 грудня](https://fakty.ua/448186-sbit-21-bpla-ecshe-22---ne-dostigli-celi-v-vsu-otchitalis-o-boevoj-rabote-nochyu-30-dekabrya)
 - [Ворог більше ніж півтисячі разів впродовж доби атакував Україну: зафіксовано падіння уламків, виникли пожежі](https://fakty.ua/448179-vrag-bolee-polutysyachi-raz-v-techenie-sutok-atakoval-ukrainu-zafiksirovano-padenie-oblomkov-voznikli-pozhary)
 - [Дженніфер Лопес може стати ключовим свідком у скандальній справі про зґвалтування](https://fakty.ua/448169-dzhennifer-lopes-mozhet-stat-klyuchevym-svidetelem-po-skandalnomu-delu-ob-iznasilovanii)
 - [Батьки майже рік жили надією: у Вінниці поховали солдата-єврея, який поліг на Донеччині](https://fakty.ua/448164-roditeli-pochti-god-zhili-nadezhdoj-v-vinnice-pohoronili-soldata-evreya-pogibshego-na-donetchine)
-- [HIMARS вдруге за три дні накрив скупчення російських офіцерів: скільки було ліквідовано](https://fakty.ua/448161-himars-vtoroj-raz-za-tri-dnya-nakryl-skoplenie-rossijskih-oficerov-skolko-bylo-likvidirovano)
-- [Замість українських «Шарків» та «Фурій» АОЗ закупила польські «крила» на мільярд: що відомо](https://fakty.ua/448166-vmesto-ukrainskih-sharkov-i-furij-aoz-zakupila-polskie-krylya-na-milliard-chto-izvestno)
 <!-- BLOG-POST-LIST:END -->
