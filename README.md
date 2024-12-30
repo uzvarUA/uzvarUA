@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Чудовий приклад взаємодії ГУР та військових: в Запорізькій області знищено ворожий штаб разом з окупантами &lpar;відео&rpar;](https://fakty.ua/448202-zamechatelnyj-primer-vzaimodejstviya-gur-i-voennyh-v-zaporozhskoj-oblasti-unichtozhen-vrazheskij-shtab-vmeste-s-okkupantami-video)
+- [Унікальні українські дрони «Вінчестер» успішно полюють за російськими БпЛА](https://fakty.ua/448189-unikalnye-ukrainskie-drony-vinchester-uspeshno-ohotyatsya-za-rossijskimi-bpla)
 - [Перемир&amp;#39;я чи масована ракетна атака: до чого варто готуватись українцям 31 грудня](https://fakty.ua/448199-peremirie-ili-massirovannaya-raketnaya-ataka-k-chemu-stoit-gotovitsya-ukraincam-31-dekabrya)
 - [«Полювали» за релейними шафами Укрзалізниці та авто бійців ЗСУ: затримано дві групи підпалювачів](https://fakty.ua/448196-quot-ohotilis-quot-za-relejnymi-shkafami-ukrzaliznyci-i-avto-bojcov-vsu-zaderzhany-dve-gruppy-podzhigatelej)
 - [«Мені здається, що вони поспішають»: військовий про тактику рф на Донеччині](https://fakty.ua/448181-mne-kazhetsya-chto-oni-speshat-voennyj-o-taktike-rf-v-doneckoj-oblasti)
-- [Збито 21 БПЛА, ще 22 — не досягли цілі: в ЗСУ відзвітували про бойову роботу вночі 30 грудня](https://fakty.ua/448186-sbit-21-bpla-ecshe-22---ne-dostigli-celi-v-vsu-otchitalis-o-boevoj-rabote-nochyu-30-dekabrya)
-- [Ворог більше ніж півтисячі разів впродовж доби атакував Україну: зафіксовано падіння уламків, виникли пожежі](https://fakty.ua/448179-vrag-bolee-polutysyachi-raz-v-techenie-sutok-atakoval-ukrainu-zafiksirovano-padenie-oblomkov-voznikli-pozhary)
 <!-- BLOG-POST-LIST:END -->
