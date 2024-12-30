@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Ворог більше ніж півтисячі разів впродовж доби атакував Україну: зафіксовано падіння уламків, виникли пожежі](https://fakty.ua/448179-vrag-bolee-polutysyachi-raz-v-techenie-sutok-atakoval-ukrainu-zafiksirovano-padenie-oblomkov-voznikli-pozhary)
 - [Дженніфер Лопес може стати ключовим свідком у скандальній справі про зґвалтування](https://fakty.ua/448169-dzhennifer-lopes-mozhet-stat-klyuchevym-svidetelem-po-skandalnomu-delu-ob-iznasilovanii)
 - [Батьки майже рік жили надією: у Вінниці поховали солдата-єврея, який поліг на Донеччині](https://fakty.ua/448164-roditeli-pochti-god-zhili-nadezhdoj-v-vinnice-pohoronili-soldata-evreya-pogibshego-na-donetchine)
 - [HIMARS вдруге за три дні накрив скупчення російських офіцерів: скільки було ліквідовано](https://fakty.ua/448161-himars-vtoroj-raz-za-tri-dnya-nakryl-skoplenie-rossijskih-oficerov-skolko-bylo-likvidirovano)
 - [Замість українських «Шарків» та «Фурій» АОЗ закупила польські «крила» на мільярд: що відомо](https://fakty.ua/448166-vmesto-ukrainskih-sharkov-i-furij-aoz-zakupila-polskie-krylya-na-milliard-chto-izvestno)
-- [Гучна справа: командира скандально відомої 211-ї бригади знову затримали](https://fakty.ua/448160-gromkoe-delo-komandir-skandalno-izvestnoj-211-j-brigady-snova-zaderzhan)
 <!-- BLOG-POST-LIST:END -->
