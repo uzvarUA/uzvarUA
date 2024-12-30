@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [У мозку виявили величезний тромб: відома актриса опинилася на межі смерті під час четвертої вагітності](https://fakty.ua/448216-v-mozge-obnaruzhili-ogromnyj-tromb-izvestnaya-aktrisa-okazalas-na-grani-smerti-vo-vremya-chetvertoj-beremennosti)
+- [На Закарпатті перевернуся рейсовий автобус: госпіталізовано 9 пасажирів](https://fakty.ua/448219-v-zakarpate-perevernus-rejsovyj-avtobus-gospitalizirovany-9-passazhirov)
 - [Алла Пугачова пригостила відомого режисера цукерками, а Христина Орбакайте весело станцювала у кафе](https://fakty.ua/448207-alla-pugacheva-ugostila-izvestnogo-rezhissera-konfetami-a-kristina-orbakajte-veselo-stancovala-v-kafe)
 - [Отримав 15 років в’язниці: суд виніс вирок зраднику, який коригував удари по Запоріжжю та шпигував за ППО](https://fakty.ua/448211-poluchil-15-let-tyurmy-sud-vynes-prigovor-predatelyu-kotoryj-korrektiroval-udary-po-zaporozhyu-i-shpionil-za-pvo)
 - [Наймолодший син Бекхемів Круз порівняв себе з Ісусом: користувачі Мережі розлютилися](https://fakty.ua/448198-samyj-mladshij-syn-bekhemov-kruz-sravnil-sebya-s-iisusom-polzovateli-seti-razozlilis)
-- [Все зрозуміло: переможниця «Холостяка» заінтригувала мережу](https://fakty.ua/448209-vse-ponyatno-pobeditelnica-quot-holostyaka-quot-zaintrigovala-set)
-- [Чудовий приклад взаємодії ГУР та військових: в Запорізькій області знищено ворожий штаб разом з окупантами &lpar;відео&rpar;](https://fakty.ua/448202-zamechatelnyj-primer-vzaimodejstviya-gur-i-voennyh-v-zaporozhskoj-oblasti-unichtozhen-vrazheskij-shtab-vmeste-s-okkupantami-video)
 <!-- BLOG-POST-LIST:END -->
