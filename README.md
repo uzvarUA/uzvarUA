@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Я там, щоб ви могли спокійно жити тут: життя офіцера з Волині обірвала ворожа авіабомба](https://fakty.ua/448210-ya-tam-chtoby-vy-mogli-spokojno-zhit-zdes-zhizn-oficera-s-volyni-oborvala-vrazheskaya-aviabomba)
 - [«Він легко заробляє у стінах парламенту»: політолог Ощановський про нардепа Железняка](https://fakty.ua/448228-quot-on-legko-zarabatyvaet-v-stenah-parlamenta-quot-politolog-ocshanovskij-o-nardepe-zheleznyake)
 - [Заробляв на підлеглих: заступник командира 110-ї ОМБр отримав підозру](https://fakty.ua/448225-zarabatyval-na-podchinennyh-zamestitel-komandira-110-ombr-poluchil-podozrenie)
 - [Наші вдома: 189 українців повернулись з полону напередодні Нового року](https://fakty.ua/448224-nashi-doma-189-ukraincev-vernulis-iz-plena-nakanune-novogo-goda)
 - [У мозку виявили величезний тромб: відома актриса опинилася на межі смерті під час четвертої вагітності](https://fakty.ua/448216-v-mozge-obnaruzhili-ogromnyj-tromb-izvestnaya-aktrisa-okazalas-na-grani-smerti-vo-vremya-chetvertoj-beremennosti)
-- [На Закарпатті перевернуся рейсовий автобус: госпіталізовано 9 пасажирів](https://fakty.ua/448219-v-zakarpate-perevernus-rejsovyj-avtobus-gospitalizirovany-9-passazhirov)
 <!-- BLOG-POST-LIST:END -->
