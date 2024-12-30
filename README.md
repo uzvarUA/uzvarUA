@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Перемир&amp;#39;я чи масована ракетна атака: до чого варто готуватись українцям 31 грудня](https://fakty.ua/448199-peremirie-ili-massirovannaya-raketnaya-ataka-k-chemu-stoit-gotovitsya-ukraincam-31-dekabrya)
 - [«Полювали» за релейними шафами Укрзалізниці та авто бійців ЗСУ: затримано дві групи підпалювачів](https://fakty.ua/448196-quot-ohotilis-quot-za-relejnymi-shkafami-ukrzaliznyci-i-avto-bojcov-vsu-zaderzhany-dve-gruppy-podzhigatelej)
 - [«Мені здається, що вони поспішають»: військовий про тактику рф на Донеччині](https://fakty.ua/448181-mne-kazhetsya-chto-oni-speshat-voennyj-o-taktike-rf-v-doneckoj-oblasti)
 - [Збито 21 БПЛА, ще 22 — не досягли цілі: в ЗСУ відзвітували про бойову роботу вночі 30 грудня](https://fakty.ua/448186-sbit-21-bpla-ecshe-22---ne-dostigli-celi-v-vsu-otchitalis-o-boevoj-rabote-nochyu-30-dekabrya)
 - [Ворог більше ніж півтисячі разів впродовж доби атакував Україну: зафіксовано падіння уламків, виникли пожежі](https://fakty.ua/448179-vrag-bolee-polutysyachi-raz-v-techenie-sutok-atakoval-ukrainu-zafiksirovano-padenie-oblomkov-voznikli-pozhary)
-- [Дженніфер Лопес може стати ключовим свідком у скандальній справі про зґвалтування](https://fakty.ua/448169-dzhennifer-lopes-mozhet-stat-klyuchevym-svidetelem-po-skandalnomu-delu-ob-iznasilovanii)
 <!-- BLOG-POST-LIST:END -->
