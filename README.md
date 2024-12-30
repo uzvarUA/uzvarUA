@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Алла Пугачова пригостила відомого режисера цукерками, а Христина Орбакайте весело станцювала у кафе](https://fakty.ua/448207-alla-pugacheva-ugostila-izvestnogo-rezhissera-konfetami-a-kristina-orbakajte-veselo-stancovala-v-kafe)
 - [Отримав 15 років в’язниці: суд виніс вирок зраднику, який коригував удари по Запоріжжю та шпигував за ППО](https://fakty.ua/448211-poluchil-15-let-tyurmy-sud-vynes-prigovor-predatelyu-kotoryj-korrektiroval-udary-po-zaporozhyu-i-shpionil-za-pvo)
+- [Наймолодший син Бекхемів Круз порівняв себе з Ісусом: користувачі Мережі розлютилися](https://fakty.ua/448198-samyj-mladshij-syn-bekhemov-kruz-sravnil-sebya-s-iisusom-polzovateli-seti-razozlilis)
 - [Все зрозуміло: переможниця «Холостяка» заінтригувала мережу](https://fakty.ua/448209-vse-ponyatno-pobeditelnica-quot-holostyaka-quot-zaintrigovala-set)
 - [Чудовий приклад взаємодії ГУР та військових: в Запорізькій області знищено ворожий штаб разом з окупантами &lpar;відео&rpar;](https://fakty.ua/448202-zamechatelnyj-primer-vzaimodejstviya-gur-i-voennyh-v-zaporozhskoj-oblasti-unichtozhen-vrazheskij-shtab-vmeste-s-okkupantami-video)
-- [Унікальні українські дрони «Вінчестер» успішно полюють за російськими БпЛА](https://fakty.ua/448189-unikalnye-ukrainskie-drony-vinchester-uspeshno-ohotyatsya-za-rossijskimi-bpla)
-- [Перемир&amp;#39;я чи масована ракетна атака: до чого варто готуватись українцям 31 грудня](https://fakty.ua/448199-peremirie-ili-massirovannaya-raketnaya-ataka-k-chemu-stoit-gotovitsya-ukraincam-31-dekabrya)
 <!-- BLOG-POST-LIST:END -->
