@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [В Україні новий голова Податкової служби: хто такий Руслан Кравченко](https://fakty.ua/448246-v-ukraine-novyj-glava-nalogovoj-sluzhby-kto-takoj-ruslan-kravchenko)
+- [Подарунки і новий кавер на Happy New Year: Світлана Лобода у Ризі влаштувала закритий концерт для дітей з особливими потребами](https://fakty.ua/448244-podarki-i-novyj-kaver-na-happy-new-year-svetlana-loboda-v-rige-ustroila-zakrytyj-koncert-dlya-detej-s-osobymi-potrebnostyami)
+- [«95-й квартал» оскандалився «жартом» про Фаріон: у мережі вимагають вибачень &lpar;фото, відео&rpar;](https://fakty.ua/448243-95-j-kvartal-oskandalilsya-shutkoj-o-farion-v-seti-trebuyut-izvinenij-foto-video)
 - [Вперше у світовій історії: морський дрон ГУР вразив гелікоптер росіян поблизу Криму &lpar;відео&rpar;](https://fakty.ua/448239-vpervye-v-mirovoj-istorii-morskoj-dron-gur-porazil-vertolet-rossiyan-vblizi-kryma-video)
 - [Тактична ротація росіян: аналітик про м’ясні штурми окупантів](https://fakty.ua/448233-takticheskaya-rotaciya-rossiyan-analitik-o-myasnyh-shturmah-okkupantov)
-- [Серед загиблих — підлітки: п&amp;#39;ятеро людей стали жертвами автокатастрофи на Прикарпатті &lpar;фото&rpar;](https://fakty.ua/448237-sredi-pogibshih-podrostki-pyat-chelovek-stali-zhertvami-avtokatastrofy-v-prikarpate-foto)
-- [В останній день року ворог вдарив ракетами по трьох областях України](https://fakty.ua/448232-v-poslednij-den-goda-vrag-udaril-raketami-po-trem-oblastyam-ukrainy)
-- [Насолоджується життям: Бен Аффлек майже забув Дженніфер Лопес](https://fakty.ua/448220-naslazhdaetsya-zhiznyu-ben-afflek-pochti-zabyl-dzhennifer-lopes)
 <!-- BLOG-POST-LIST:END -->
