@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Вперше у світовій історії: морський дрон ГУР вразив гелікоптер росіян поблизу Криму &lpar;відео&rpar;](https://fakty.ua/448239-vpervye-v-mirovoj-istorii-morskoj-dron-gur-porazil-vertolet-rossiyan-vblizi-kryma-video)
+- [Тактична ротація росіян: аналітик про м’ясні штурми окупантів](https://fakty.ua/448233-takticheskaya-rotaciya-rossiyan-analitik-o-myasnyh-shturmah-okkupantov)
 - [Серед загиблих — підлітки: п&amp;#39;ятеро людей стали жертвами автокатастрофи на Прикарпатті &lpar;фото&rpar;](https://fakty.ua/448237-sredi-pogibshih-podrostki-pyat-chelovek-stali-zhertvami-avtokatastrofy-v-prikarpate-foto)
 - [В останній день року ворог вдарив ракетами по трьох областях України](https://fakty.ua/448232-v-poslednij-den-goda-vrag-udaril-raketami-po-trem-oblastyam-ukrainy)
 - [Насолоджується життям: Бен Аффлек майже забув Дженніфер Лопес](https://fakty.ua/448220-naslazhdaetsya-zhiznyu-ben-afflek-pochti-zabyl-dzhennifer-lopes)
-- [Я там, щоб ви могли спокійно жити тут: життя офіцера з Волині обірвала ворожа авіабомба](https://fakty.ua/448210-ya-tam-chtoby-vy-mogli-spokojno-zhit-zdes-zhizn-oficera-s-volyni-oborvala-vrazheskaya-aviabomba)
-- [«Він легко заробляє у стінах парламенту»: політолог Ощановський про нардепа Железняка](https://fakty.ua/448228-quot-on-legko-zarabatyvaet-v-stenah-parlamenta-quot-politolog-ocshanovskij-o-nardepe-zheleznyake)
 <!-- BLOG-POST-LIST:END -->
