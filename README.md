@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Серед загиблих — підлітки: п&amp;#39;ятеро людей стали жертвами автокатастрофи на Прикарпатті &lpar;фото&rpar;](https://fakty.ua/448237-sredi-pogibshih-podrostki-pyat-chelovek-stali-zhertvami-avtokatastrofy-v-prikarpate-foto)
 - [В останній день року ворог вдарив ракетами по трьох областях України](https://fakty.ua/448232-v-poslednij-den-goda-vrag-udaril-raketami-po-trem-oblastyam-ukrainy)
 - [Насолоджується життям: Бен Аффлек майже забув Дженніфер Лопес](https://fakty.ua/448220-naslazhdaetsya-zhiznyu-ben-afflek-pochti-zabyl-dzhennifer-lopes)
 - [Я там, щоб ви могли спокійно жити тут: життя офіцера з Волині обірвала ворожа авіабомба](https://fakty.ua/448210-ya-tam-chtoby-vy-mogli-spokojno-zhit-zdes-zhizn-oficera-s-volyni-oborvala-vrazheskaya-aviabomba)
 - [«Він легко заробляє у стінах парламенту»: політолог Ощановський про нардепа Железняка](https://fakty.ua/448228-quot-on-legko-zarabatyvaet-v-stenah-parlamenta-quot-politolog-ocshanovskij-o-nardepe-zheleznyake)
-- [Заробляв на підлеглих: заступник командира 110-ї ОМБр отримав підозру](https://fakty.ua/448225-zarabatyval-na-podchinennyh-zamestitel-komandira-110-ombr-poluchil-podozrenie)
 <!-- BLOG-POST-LIST:END -->
