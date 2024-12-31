@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Маколей Калкін продовжує заробляти гонорари на різдвяних фільмах](https://fakty.ua/448266-makolej-kalkin-prodolzhaet-zarabatyvat-gonorary-na-rozhdestvenskih-filmah)
 - [Заради України повернувся з Польщі: на Курщині загинув оператор дрону з Хмельниччини](https://fakty.ua/448259-radi-ukrainy-vernulsya-iz-polshi-na-kurcshine-pogib-operator-drona-iz-hmelnickoj-oblasti)
 - [Ще одна відставка: Зеленський змінив начальника Київської міської військової адміністрації](https://fakty.ua/448277-ecshe-odna-otstavka-zelenskij-smenil-nachalnika-kievskoj-gorodskoj-voennoj-administracii)
 - [Джей Ло втекла в Аспен: перше Різдво без Бена Аффлека](https://fakty.ua/448258-dzhej-lo-sbezhala-v-aspen-pervoe-rozhdestvo-bez-bena-affleka)
 - [Остаточно і безповоротно: Джолі та Пітт нарешті розлучилися після восьми років суперечок](https://fakty.ua/448273-okonchatelno-i-bespovorotno-dzholi-i-pitt-nakonec-razvelis-posle-vosmi-let-razborok)
-- [Україна може втратити контроль над територіями в Курській області, — ЗМІ](https://fakty.ua/448240-ukraina-mozhet-poteryat-kontrol-nad-territoriyami-v-kurskoj-oblasti---smi)
 <!-- BLOG-POST-LIST:END -->
