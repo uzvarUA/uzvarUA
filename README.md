@@ -145,7 +145,7 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
 - [В Україні новий голова Податкової служби: хто такий Руслан Кравченко](https://fakty.ua/448246-v-ukraine-novyj-glava-nalogovoj-sluzhby-kto-takoj-ruslan-kravchenko)
-- [Подарунки і новий кавер на Happy New Year: Світлана Лобода у Ризі влаштувала закритий концерт для дітей з особливими потребами](https://fakty.ua/448244-podarki-i-novyj-kaver-na-happy-new-year-svetlana-loboda-v-rige-ustroila-zakrytyj-koncert-dlya-detej-s-osobymi-potrebnostyami)
+- [Подарунки і новий кавер на Happy New Year: Світлана Лобода у Ризі організувала закритий концерт для дітей з особливими потребами](https://fakty.ua/448244-podarki-i-novyj-kaver-na-happy-new-year-svetlana-loboda-v-rige-ustroila-zakrytyj-koncert-dlya-detej-s-osobymi-potrebnostyami)
 - [«95-й квартал» оскандалився «жартом» про Фаріон: у мережі вимагають вибачень &lpar;фото, відео&rpar;](https://fakty.ua/448243-95-j-kvartal-oskandalilsya-shutkoj-o-farion-v-seti-trebuyut-izvinenij-foto-video)
 - [Вперше у світовій історії: морський дрон ГУР вразив гелікоптер росіян поблизу Криму &lpar;відео&rpar;](https://fakty.ua/448239-vpervye-v-mirovoj-istorii-morskoj-dron-gur-porazil-vertolet-rossiyan-vblizi-kryma-video)
 - [Тактична ротація росіян: аналітик про м’ясні штурми окупантів](https://fakty.ua/448233-takticheskaya-rotaciya-rossiyan-analitik-o-myasnyh-shturmah-okkupantov)
