@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Джей Ло втекла в Аспен: перше Різдво без Бена Аффлека](https://fakty.ua/448258-dzhej-lo-sbezhala-v-aspen-pervoe-rozhdestvo-bez-bena-affleka)
 - [Остаточно і безповоротно: Джолі та Пітт нарешті розлучилися після восьми років суперечок](https://fakty.ua/448273-okonchatelno-i-bespovorotno-dzholi-i-pitt-nakonec-razvelis-posle-vosmi-let-razborok)
 - [Україна може втратити контроль над територіями в Курській області, — ЗМІ](https://fakty.ua/448240-ukraina-mozhet-poteryat-kontrol-nad-territoriyami-v-kurskoj-oblasti---smi)
 - [Не лише «Іскандери» та «Кинжал»: у Повітряних силах розповіли деталі нічної атаки ворога на Україну](https://fakty.ua/448253-ne-tolko-iskandery-i-kinzhal-v-vozdushnyh-silah-rasskazali-detali-nochnoj-ataki-vraga-na-ukrain)
 - [В Україні новий голова Податкової служби: хто такий Руслан Кравченко](https://fakty.ua/448246-v-ukraine-novyj-glava-nalogovoj-sluzhby-kto-takoj-ruslan-kravchenko)
-- [Подарунки і новий кавер на Happy New Year: Світлана Лобода у Ризі організувала закритий концерт для дітей з особливими потребами](https://fakty.ua/448244-podarki-i-novyj-kaver-na-happy-new-year-svetlana-loboda-v-rige-ustroila-zakrytyj-koncert-dlya-detej-s-osobymi-potrebnostyami)
 <!-- BLOG-POST-LIST:END -->
