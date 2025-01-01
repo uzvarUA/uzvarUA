@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Каменських зустрічала Новий рік без Потапа, а Горбунов розповів, чи спілкується з «іспанським ухилянтом»](https://fakty.ua/448310-kamenskih-vstrechala-novyj-god-bez-potapa-a-gorbunov-rasskazal-obcshaetsya-li-on-s-quot-ispanskim-uklonistom-quot)
 - [путин хоче завершити перемовини до 9 травня та представити це як свою перемогу над Україною, — Sky News](https://fakty.ua/448302-putin-hochet-zavershit-peregovory-do-9-maya-i-predstavit-eto-kak-svoyu-pobedu-nad-ukrainoj---sky-news)
 - [Після зупинки транзиту газу росія битиме по українській ГТС — ЗМІ](https://fakty.ua/448291-posle-ostanovki-tranzita-gaza-rossiya-budet-bit-po-ukrainskoj-gts---smi)
 - [Розлучення Бреда Пітта і Анджеліни Джолі: як пара поділила майно](https://fakty.ua/448294-razvod-breda-pitta-i-andzheliny-dzholi-kak-para-podelila-imucshestvo)
 - [«Будеш переможним!»: українські зірки вразили мережу сімейними світлинами](https://fakty.ua/448301-budesh-pobednym-ukrainskie-zvezdy-vpechatlili-set-semejnymi-fotografiyami)
-- [Атака російських дронів на Київ: під завалами знайшли тіла загиблих, зросла кількість постраждалих &lpar;фото&rpar;](https://fakty.ua/448300-ataka-russkih-dronov-na-kiev-pod-zavalami-nashli-tela-pogibshih-uvelichilos-chislo-postradavshih-foto)
 <!-- BLOG-POST-LIST:END -->
