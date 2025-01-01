@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Після зупинки транзиту газу росія битиме по українській ГТС — ЗМІ](https://fakty.ua/448291-posle-ostanovki-tranzita-gaza-rossiya-budet-bit-po-ukrainskoj-gts---smi)
+- [Розлучення Бреда Пітта і Анджеліни Джолі: як пара поділила майно](https://fakty.ua/448294-razvod-breda-pitta-i-andzheliny-dzholi-kak-para-podelila-imucshestvo)
 - [«Будеш переможним!»: українські зірки вразили мережу сімейними світлинами](https://fakty.ua/448301-budesh-pobednym-ukrainskie-zvezdy-vpechatlili-set-semejnymi-fotografiyami)
-- [Атака російських дронів на Київ: під завалами знайшли тіла загиблих, зросло кількість постраждалих &lpar;фото&rpar;](https://fakty.ua/448300-ataka-russkih-dronov-na-kiev-pod-zavalami-nashli-tela-pogibshih-uvelichilos-chislo-postradavshih-foto)
+- [Атака російських дронів на Київ: під завалами знайшли тіла загиблих, зросла кількість постраждалих &lpar;фото&rpar;](https://fakty.ua/448300-ataka-russkih-dronov-na-kiev-pod-zavalami-nashli-tela-pogibshih-uvelichilos-chislo-postradavshih-foto)
 - [Щоб зберегти нашу державу: експерт пояснив, що потрібно зробити Україні, аби зупинити рф](https://fakty.ua/448283-chtoby-sohranit-nashe-gosudarstvo-ekspert-obyasnil-chto-nuzhno-sdelat-ukraine-chtoby-ostanovit-rf)
-- [Українські захисники проти територіальних поступок заради миру — ЗМІ](https://fakty.ua/448269-ukrainskie-bojcy-protiv-territorialnyh-ustupok-radi-mira---smi)
-- [Танці в піжамах під ялинкою: Катерина Кухар показала, як вони разом з донькою провели старий рік](https://fakty.ua/448285-tancy-v-pizhamah-pod-elkoj-ekaterina-kuhar-pokazala-kak-oni-vmeste-s-docheryu-proveli-staryj-god)
 <!-- BLOG-POST-LIST:END -->
