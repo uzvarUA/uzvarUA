@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Танці в піжамах під ялинкою: Катерина Кухар показала, як вони разом з донькою провели старий рік](https://fakty.ua/448285-tancy-v-pizhamah-pod-elkoj-ekaterina-kuhar-pokazala-kak-oni-vmeste-s-docheryu-proveli-staryj-god)
+- [Атака дронів-камікадзе на Київ: кількість постраждалих збільшилася &lpar;фото&rpar;](https://fakty.ua/448289-ataka-dronov-kamikadze-na-kiev-kolichestvo-postradavshih-uvelichilos-foto)
 - [Застосували ракети SeeDragon: Буданов розкрив подробиці знищення російського гелікоптера біля Криму](https://fakty.ua/448284-primenili-rakety-seedragon-budanov-raskryl-podrobnosti-unichtozheniya-rossijskogo-vertoleta-vozle-kryma)
 - [«Історична подія»: Україна остаточно зупинила транзит російського газу](https://fakty.ua/448282-quot-istoricheskoe-sobytie-quot-ukraina-okonchatelno-ostanovila-tranzit-rossijskogo-gaza)
 - [Терористи атакують столицю України дронами-камікадзе: на Печерську горить дах житлового будинку &lpar;фото, відео&rpar;](https://fakty.ua/448281-terroristy-atakuyut-stolicu-ukrainy-dronami-kamikadze-na-pecherske-gorit-krysha-zhilogo-doma)
-- [З новим роком життя та свободи, з нашим роком: Зеленський привітав українців](https://fakty.ua/448279-s-novym-godom-zhizni-i-svobody-s-nashim-godom-zelenskij-pozdravil-ukraincev)
-- [Маколей Калкін продовжує заробляти гонорари на різдвяних фільмах](https://fakty.ua/448266-makolej-kalkin-prodolzhaet-zarabatyvat-gonorary-na-rozhdestvenskih-filmah)
 <!-- BLOG-POST-LIST:END -->
