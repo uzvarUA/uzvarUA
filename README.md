@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Українські захисники проти територіальних поступок заради миру — ЗМІ](https://fakty.ua/448269-ukrainskie-bojcy-protiv-territorialnyh-ustupok-radi-mira---smi)
 - [Танці в піжамах під ялинкою: Катерина Кухар показала, як вони разом з донькою провели старий рік](https://fakty.ua/448285-tancy-v-pizhamah-pod-elkoj-ekaterina-kuhar-pokazala-kak-oni-vmeste-s-docheryu-proveli-staryj-god)
-- [Атака дронів-камікадзе на Київ: кількість постраждалих збільшилася &lpar;фото&rpar;](https://fakty.ua/448289-ataka-dronov-kamikadze-na-kiev-kolichestvo-postradavshih-uvelichilos-foto)
+- [Атака дронів-камікадзе на Київ: кількість постраждалих збільшилася, є жертви &lpar;фото&rpar;](https://fakty.ua/448289-ataka-dronov-kamikadze-na-kiev-kolichestvo-postradavshih-uvelichilos-foto)
 - [Застосували ракети SeeDragon: Буданов розкрив подробиці знищення російського гелікоптера біля Криму](https://fakty.ua/448284-primenili-rakety-seedragon-budanov-raskryl-podrobnosti-unichtozheniya-rossijskogo-vertoleta-vozle-kryma)
 - [«Історична подія»: Україна остаточно зупинила транзит російського газу](https://fakty.ua/448282-quot-istoricheskoe-sobytie-quot-ukraina-okonchatelno-ostanovila-tranzit-rossijskogo-gaza)
-- [Терористи атакують столицю України дронами-камікадзе: на Печерську горить дах житлового будинку &lpar;фото, відео&rpar;](https://fakty.ua/448281-terroristy-atakuyut-stolicu-ukrainy-dronami-kamikadze-na-pecherske-gorit-krysha-zhilogo-doma)
 <!-- BLOG-POST-LIST:END -->
