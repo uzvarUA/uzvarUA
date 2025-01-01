@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Застосували ракети SeeDragon: Буданов розкрив подробиці знищення російського гелікоптера біля Криму](https://fakty.ua/448284-primenili-rakety-seedragon-budanov-raskryl-podrobnosti-unichtozheniya-rossijskogo-vertoleta-vozle-kryma)
+- [«Історична подія»: Україна остаточно зупинила транзит російського газу](https://fakty.ua/448282-quot-istoricheskoe-sobytie-quot-ukraina-okonchatelno-ostanovila-tranzit-rossijskogo-gaza)
 - [Терористи атакують столицю України дронами-камікадзе: на Печерську горить дах житлового будинку &lpar;фото, відео&rpar;](https://fakty.ua/448281-terroristy-atakuyut-stolicu-ukrainy-dronami-kamikadze-na-pecherske-gorit-krysha-zhilogo-doma)
 - [З новим роком життя та свободи, з нашим роком: Зеленський привітав українців](https://fakty.ua/448279-s-novym-godom-zhizni-i-svobody-s-nashim-godom-zelenskij-pozdravil-ukraincev)
 - [Маколей Калкін продовжує заробляти гонорари на різдвяних фільмах](https://fakty.ua/448266-makolej-kalkin-prodolzhaet-zarabatyvat-gonorary-na-rozhdestvenskih-filmah)
-- [Заради України повернувся з Польщі: на Курщині загинув оператор дрону з Хмельниччини](https://fakty.ua/448259-radi-ukrainy-vernulsya-iz-polshi-na-kurcshine-pogib-operator-drona-iz-hmelnickoj-oblasti)
-- [Ще одна відставка: Зеленський змінив начальника Київської міської військової адміністрації](https://fakty.ua/448277-ecshe-odna-otstavka-zelenskij-smenil-nachalnika-kievskoj-gorodskoj-voennoj-administracii)
 <!-- BLOG-POST-LIST:END -->
