@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Однорічна донька втратила тата: боєць зі Львівщини не вижив після важкого поранення](https://fakty.ua/448299-godovalaya-doch-poteryala-otca-boec-so-lvovcshiny-ne-vyzhil-posle-tyazhelogo-raneniya)
 - [Припинили свою діяльність: ЗСУ розбили морпіхів рф на Курщині](https://fakty.ua/448298-prekratili-svoyu-deyatelnost-vsu-razbili-morpehov-rf-na-kurcshine)
 - [«Остання відпустка у твоєму житті»: Леонардо Ді Капріо почали погрожувати у мережі — що сталося](https://fakty.ua/448325-quot-poslednij-otpusk-v-tvoej-zhizni-quot-leonardo-di-kaprio-nachali-ugrozhat-v-seti---chto-proizoshlo)
 - [Алла Пугачова сяяла від щастя: Максим Галкін показав, як вони з дружиною зустрічали Новий рік](https://fakty.ua/448321-alla-pugacheva-siyala-ot-schastya-maksim-galkin-pokazal-kak-oni-s-zhenoj-vstrechali-novyj-god)
 - [Каменських зустрічала Новий рік без Потапа, а Горбунов розповів, чи спілкується з «іспанським ухилянтом»](https://fakty.ua/448310-kamenskih-vstrechala-novyj-god-bez-potapa-a-gorbunov-rasskazal-obcshaetsya-li-on-s-quot-ispanskim-uklonistom-quot)
-- [путин хоче завершити перемовини до 9 травня та представити це як свою перемогу над Україною, — Sky News](https://fakty.ua/448302-putin-hochet-zavershit-peregovory-do-9-maya-i-predstavit-eto-kak-svoyu-pobedu-nad-ukrainoj---sky-news)
 <!-- BLOG-POST-LIST:END -->
