@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Антикорупціонер Канєвський зі StateWatch, відповідальний за закупівлі в Міноборони, раніше ухилявся від армії — ЗМІ](https://fakty.ua/448371-antikorrupcioner-kanevskij-iz-statewatch-otvetstvennyj-za-zakupki-v-minoborony-ranee-uklonyalsya-ot-armii---smi)
+- [Дуже особисте, навіть інтимне: Ірина Білик переклала українською легендарний хіт &lpar;фото, відео&rpar;](https://fakty.ua/448345-ochen-lichnoe-dazhe-intimnoe-irina-bilyk-perevela-na-ukrainskij-legendarnyj-hit-foto-video)
 - [«Втратили на війні сина та допомагали розробками дітям з аутизмом»: що відомо про подружжя науковців, яких в центрі Києва вбив російський дрон](https://fakty.ua/448366-poteryali-na-vojne-syna-i-pomogali-razrabotkami-detyam-s-autizmom-chto-izvestno-o-chete-uchenyh-kotoryh-v-centre-kieva-ubil-rossijskij-dron)
 - [«Нові» танки зі старого іржавого металу: російський ВПК створює техніку з усього, що має](https://fakty.ua/448311-novye-tanki-iz-starogo-rzhavogo-metalla-rossijskij-vpk-sozdaet-tehniku-iz-vsego-chto-imeet)
 - [Новорічний гелікоптеропад: окупанти втратили вже три вертольоти](https://fakty.ua/448360-novogodnij-vertoletopad-okkupanty-poteryali-uzhe-tri-vertoleta)
-- [«Я прийняв рішення»: Ектор Хіменес-Браво шокував мережу &lpar;фото&rpar;](https://fakty.ua/448342-ya-prinyal-reshenie-ektor-himenes-bravo-shokiroval-set-foto)
-- [Припинення транзиту російського газу: що чекає на ГТС і як можуть постраждати українці](https://fakty.ua/448316-prekracshenie-tranzita-rossijskogo-gaza-chto-zhdet-gts-i-kak-mogut-postradat-ukraincy)
 <!-- BLOG-POST-LIST:END -->
