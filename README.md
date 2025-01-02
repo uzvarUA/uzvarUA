@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [«Нові» танки зі старого іржавого металу: російський ВПК створює техніку з усього, що має](https://fakty.ua/448311-novye-tanki-iz-starogo-rzhavogo-metalla-rossijskij-vpk-sozdaet-tehniku-iz-vsego-chto-imeet)
 - [Новорічний гелікоптеропад: окупанти втратили вже три вертольоти](https://fakty.ua/448360-novogodnij-vertoletopad-okkupanty-poteryali-uzhe-tri-vertoleta)
 - [«Я прийняв рішення»: Ектор Хіменес-Браво шокував мережу &lpar;фото&rpar;](https://fakty.ua/448342-ya-prinyal-reshenie-ektor-himenes-bravo-shokiroval-set-foto)
 - [Припинення транзиту російського газу: що чекає на ГТС і як можуть постраждати українці](https://fakty.ua/448316-prekracshenie-tranzita-rossijskogo-gaza-chto-zhdet-gts-i-kak-mogut-postradat-ukraincy)
 - [Занесло: фура злетіла з мостопроводу на Видубичах у Києві &lpar;фото, відео&rpar;](https://fakty.ua/448332-zaneslo-fura-sletela-s-mostoprovoda-na-vydubichah-v-kieve-foto-video)
-- [Росіяни скинули на Степногорськ понад десяток керованих авіабомб: зруйновано житлову п&amp;#39;ятиповерхівку](https://fakty.ua/448331-rossiyane-sbrosili-na-stepnogorsk-bolee-desyatka-upravlyaemyh-aviabomb-razrushena-zhilaya-pyatietazhka)
 <!-- BLOG-POST-LIST:END -->
