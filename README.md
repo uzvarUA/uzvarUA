@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Дженніфер Лопес спантеличила: вона й досі носить обручку, подаровану їй Беном Аффлеком &lpar;фото&rpar;](https://fakty.ua/448338-dzhennifer-lopes-ozadachila-ona-do-sih-por-nosit-obruchalnoe-kolco-podarennoe-ej-benom-afflekom-foto)
 - [Успішно провів диверсію на окупованій території: в бою загинув воїн з Київщини](https://fakty.ua/448319-uspeshno-provel-diversiyu-na-okkupirovannoj-territorii-v-boyu-pogib-voin-iz-kievskoj-oblasti)
 - [Гарнющі: Леся Нікітюк показала, як відпочиває з коханим](https://fakty.ua/448350-krasivye-lesya-nikityuk-pokazala-kak-otdyhaet-s-vozlyublennym)
 - [Квадратні кілометри в обмін на шалені втрати: аналітики про тактику окупантів у 2024 році](https://fakty.ua/448340-kvadratnye-kilometry-v-obmen-na-ogromnye-poteri-analitiki-o-taktike-okkupantov-v-2024-godu)
 - [Точна копія: дружина Остапчука розчулила шанувальників &lpar;фото&rpar;](https://fakty.ua/448349-tochnaya-kopiya-zhena-ostapchuka-rastrogala-poklonnikov-foto)
-- [Мир чи далі війна: ЗМІ про прогнози щодо майбутнього України](https://fakty.ua/448334-mir-ili-dalshe-vojna-smi-o-prognozah-otnositelno-buducshego-ukrainy)
 <!-- BLOG-POST-LIST:END -->
