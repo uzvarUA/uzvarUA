@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Гарнющі: Леся Нікітюк показала, як відпочиває з коханим](https://fakty.ua/448350-krasivye-lesya-nikityuk-pokazala-kak-otdyhaet-s-vozlyublennym)
+- [Квадратні кілометри в обмін на шалені втрати: аналітики про тактику окупантів у 2024 році](https://fakty.ua/448340-kvadratnye-kilometry-v-obmen-na-ogromnye-poteri-analitiki-o-taktike-okkupantov-v-2024-godu)
 - [Точна копія: дружина Остапчука розчулила шанувальників &lpar;фото&rpar;](https://fakty.ua/448349-tochnaya-kopiya-zhena-ostapchuka-rastrogala-poklonnikov-foto)
 - [Мир чи далі війна: ЗМІ про прогнози щодо майбутнього України](https://fakty.ua/448334-mir-ili-dalshe-vojna-smi-o-prognozah-otnositelno-buducshego-ukrainy)
 - [Антикорупціонер Канєвський зі StateWatch, відповідальний за закупівлі в Міноборони, раніше ухилявся від армії — ЗМІ](https://fakty.ua/448371-antikorrupcioner-kanevskij-iz-statewatch-otvetstvennyj-za-zakupki-v-minoborony-ranee-uklonyalsya-ot-armii---smi)
-- [Дуже особисте, навіть інтимне: Ірина Білик переклала українською легендарний хіт &lpar;фото, відео&rpar;](https://fakty.ua/448345-ochen-lichnoe-dazhe-intimnoe-irina-bilyk-perevela-na-ukrainskij-legendarnyj-hit-foto-video)
-- [«Втратили на війні сина та допомагали розробками дітям з аутизмом»: що відомо про подружжя науковців, яких в центрі Києва вбив російський дрон](https://fakty.ua/448366-poteryali-na-vojne-syna-i-pomogali-razrabotkami-detyam-s-autizmom-chto-izvestno-o-chete-uchenyh-kotoryh-v-centre-kieva-ubil-rossijskij-dron)
 <!-- BLOG-POST-LIST:END -->
