@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Припинення транзиту російського газу: що чекає на ГТС і як можуть постраждати українці](https://fakty.ua/448316-prekracshenie-tranzita-rossijskogo-gaza-chto-zhdet-gts-i-kak-mogut-postradat-ukraincy)
 - [Занесло: фура злетіла з мостопроводу на Видубичах у Києві &lpar;фото, відео&rpar;](https://fakty.ua/448332-zaneslo-fura-sletela-s-mostoprovoda-na-vydubichah-v-kieve-foto-video)
 - [Росіяни скинули на Степногорськ понад десяток керованих авіабомб: зруйновано житлову п&amp;#39;ятиповерхівку](https://fakty.ua/448331-rossiyane-sbrosili-na-stepnogorsk-bolee-desyatka-upravlyaemyh-aviabomb-razrushena-zhilaya-pyatietazhka)
 - [Диверсія у Тверській області росії: партизани перекрили окупантам канал поставок на передову ракет, мін та снарядів &lpar;фото&rpar;](https://fakty.ua/448328-diversiya-v-tverskoj-oblasti-rossii-partizany-perekryli-okkupantam-kanal-postavok-na-peredovuyu-raket-min-i-snaryadov-foto)
 - [Одружися нарешті: Кейт Вінслет хвилюється за Леонардо Ді Капріо](https://fakty.ua/448306-zhenis-nakonec-kejt-uinslet-volnuetsya-za-leonardo-di-kaprio)
-- [Однорічна донька втратила тата: боєць зі Львівщини не вижив після важкого поранення](https://fakty.ua/448299-godovalaya-doch-poteryala-otca-boec-so-lvovcshiny-ne-vyzhil-posle-tyazhelogo-raneniya)
 <!-- BLOG-POST-LIST:END -->
