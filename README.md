@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Погано розійшлися: мережа сперечається з приводу фіналу «Холостяка»](https://fakty.ua/448396-ploho-razoshlis-set-sporit-po-povodu-finala-holostyaka)
 - [Кайфонула: Юлія Саніна вразила світлинами з відпочинку](https://fakty.ua/448390-kajfonula-yuliya-sanina-porazila-fotografiyami-s-otdyha)
 - [Нацбанк відмежувався від продажу «ПриватБанком» порту «Боріваж», — ЗМІ](https://fakty.ua/448413-nacbank-otmezhevalsya-ot-prodazhi-quot-privatbankom-quot-porta-quot-borivazh-quot---smi)
 - [Буде любов: Лілія Ребрик у рожевому здивувала мережу &lpar;фото&rpar;](https://fakty.ua/448389-budet-lyubov-liliya-rebrik-v-rozovom-udivila-set-foto)
 - [Фактично Покровськ відірваний від світу: журналістка про ситуацію у місті, до якого наближається ворог](https://fakty.ua/448377-fakticheski-pokrovsk-otorvan-ot-mira-zhurnalistka-o-situacii-v-gorode-k-kotoromu-priblizhaetsya-vrag)
-- [«Казанова» повертається: Валерій Леонтьєв заробив на росіянах в Дубаї і вирішив розпочати світовий тур](https://fakty.ua/448398-quot-kazanova-quot-vozvracshaetsya-valerij-leontev-zarabotal-na-rossiyanah-v-dubae-i-reshil-nachat-mirovoj-tur)
 <!-- BLOG-POST-LIST:END -->
