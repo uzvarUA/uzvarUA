@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Фактично Покровськ відірваний від світу: журналістка про ситуацію у місті, до якого наближається ворог](https://fakty.ua/448377-fakticheski-pokrovsk-otorvan-ot-mira-zhurnalistka-o-situacii-v-gorode-k-kotoromu-priblizhaetsya-vrag)
+- [«Казанова» повертається: Валерій Леонтьєв заробив на росіянах в Дубаї і вирішив розпочати світовий тур](https://fakty.ua/448398-quot-kazanova-quot-vozvracshaetsya-valerij-leontev-zarabotal-na-rossiyanah-v-dubae-i-reshil-nachat-mirovoj-tur)
+- [У Богодухові на Харківщині ворожий дрон влучив в ангар цивільного підприємства](https://fakty.ua/448397-v-bogoduhove-na-harkovcshine-vrazheskij-dron-popal-v-angar-grazhdanskogo-predpriyatiya)
 - [«Краща за маму та сестру»: Галкін показав доньку-красуню](https://fakty.ua/448388-krashe-mamy-i-sestry-galkin-pokazal-doch-krasavicu)
 - [Чи потрібна пауза у війні: що з цього приводу думають у Великій Британії](https://fakty.ua/448347-nuzhna-li-pauza-v-vojne-chto-po-etomu-povodu-dumayut-v-velikobritanii)
-- [Атака російських безпілотників на Україну: скільки цілей знищила ППО](https://fakty.ua/448382-ataka-rossijskih-bespilotnikov-na-ukrainu-skolko-celej-unichtozhilo-pvo)
-- [Терористи атакували вночі Київ та область: уламки БпЛА впали у двох районах, четверо людей поранені, одна людина загинула](https://fakty.ua/448375-terroristy-atakovali-nochyu-kiev-i-oblast-oblomki-bpla-upali-v-dvuh-rajonah-chetyre-cheloveka-raneny-odin-chelovek-pogib)
-- [Дженніфер Лопес спантеличила: вона й досі носить обручку, подаровану їй Беном Аффлеком &lpar;фото&rpar;](https://fakty.ua/448338-dzhennifer-lopes-ozadachila-ona-do-sih-por-nosit-obruchalnoe-kolco-podarennoe-ej-benom-afflekom-foto)
 <!-- BLOG-POST-LIST:END -->
