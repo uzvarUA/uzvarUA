@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Понад 20 років працював пожежником: від ворожого дрону у Курській області загинув мужній боєць з Київщини](https://fakty.ua/448353-bolshe-20-let-rabotal-pozharnym-ot-vrazheskogo-drona-v-kurskoj-oblasti-pogib-muzhestvennyj-boec-s-kievcshiny)
 - [Краще б вони почали це раніше, ніж пізніше: експерт про бої за Покровськ](https://fakty.ua/448383-luchshe-by-oni-nachali-eto-ranshe-chem-pozzhe-ekspert-o-boyah-za-pokrovsk)
 - [Погано розійшлися: мережа сперечається з приводу фіналу «Холостяка»](https://fakty.ua/448396-ploho-razoshlis-set-sporit-po-povodu-finala-holostyaka)
 - [Кайфонула: Юлія Саніна вразила світлинами з відпочинку](https://fakty.ua/448390-kajfonula-yuliya-sanina-porazila-fotografiyami-s-otdyha)
 - [Нацбанк відмежувався від продажу «ПриватБанком» порту «Боріваж», — ЗМІ](https://fakty.ua/448413-nacbank-otmezhevalsya-ot-prodazhi-quot-privatbankom-quot-porta-quot-borivazh-quot---smi)
-- [Буде любов: Лілія Ребрик у рожевому здивувала мережу &lpar;фото&rpar;](https://fakty.ua/448389-budet-lyubov-liliya-rebrik-v-rozovom-udivila-set-foto)
 <!-- BLOG-POST-LIST:END -->
