@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [«Краща за маму та сестру»: Галкін показав доньку-красуню](https://fakty.ua/448388-krashe-mamy-i-sestry-galkin-pokazal-doch-krasavicu)
+- [Чи потрібна пауза у війні: що з цього приводу думають у Великій Британії](https://fakty.ua/448347-nuzhna-li-pauza-v-vojne-chto-po-etomu-povodu-dumayut-v-velikobritanii)
 - [Атака російських безпілотників на Україну: скільки цілей знищила ППО](https://fakty.ua/448382-ataka-rossijskih-bespilotnikov-na-ukrainu-skolko-celej-unichtozhilo-pvo)
 - [Терористи атакували вночі Київ та область: уламки БпЛА впали у двох районах, четверо людей поранені, одна людина загинула](https://fakty.ua/448375-terroristy-atakovali-nochyu-kiev-i-oblast-oblomki-bpla-upali-v-dvuh-rajonah-chetyre-cheloveka-raneny-odin-chelovek-pogib)
 - [Дженніфер Лопес спантеличила: вона й досі носить обручку, подаровану їй Беном Аффлеком &lpar;фото&rpar;](https://fakty.ua/448338-dzhennifer-lopes-ozadachila-ona-do-sih-por-nosit-obruchalnoe-kolco-podarennoe-ej-benom-afflekom-foto)
-- [Успішно провів диверсію на окупованій території: в бою загинув воїн з Київщини](https://fakty.ua/448319-uspeshno-provel-diversiyu-na-okkupirovannoj-territorii-v-boyu-pogib-voin-iz-kievskoj-oblasti)
-- [Гарнющі: Леся Нікітюк показала, як відпочиває з коханим](https://fakty.ua/448350-krasivye-lesya-nikityuk-pokazala-kak-otdyhaet-s-vozlyublennym)
 <!-- BLOG-POST-LIST:END -->
