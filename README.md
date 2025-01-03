@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Атака російських безпілотників на Україну: скільки цілей знищила ППО](https://fakty.ua/448382-ataka-rossijskih-bespilotnikov-na-ukrainu-skolko-celej-unichtozhilo-pvo)
 - [Терористи атакували вночі Київ та область: уламки БпЛА впали у двох районах, четверо людей поранені, одна людина загинула](https://fakty.ua/448375-terroristy-atakovali-nochyu-kiev-i-oblast-oblomki-bpla-upali-v-dvuh-rajonah-chetyre-cheloveka-raneny-odin-chelovek-pogib)
 - [Дженніфер Лопес спантеличила: вона й досі носить обручку, подаровану їй Беном Аффлеком &lpar;фото&rpar;](https://fakty.ua/448338-dzhennifer-lopes-ozadachila-ona-do-sih-por-nosit-obruchalnoe-kolco-podarennoe-ej-benom-afflekom-foto)
 - [Успішно провів диверсію на окупованій території: в бою загинув воїн з Київщини](https://fakty.ua/448319-uspeshno-provel-diversiyu-na-okkupirovannoj-territorii-v-boyu-pogib-voin-iz-kievskoj-oblasti)
 - [Гарнющі: Леся Нікітюк показала, як відпочиває з коханим](https://fakty.ua/448350-krasivye-lesya-nikityuk-pokazala-kak-otdyhaet-s-vozlyublennym)
-- [Квадратні кілометри в обмін на шалені втрати: аналітики про тактику окупантів у 2024 році](https://fakty.ua/448340-kvadratnye-kilometry-v-obmen-na-ogromnye-poteri-analitiki-o-taktike-okkupantov-v-2024-godu)
 <!-- BLOG-POST-LIST:END -->
