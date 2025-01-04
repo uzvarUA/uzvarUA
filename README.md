@@ -143,9 +143,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Це дуже чуттєво і смішно: Ніколь Кідман зіграла в інтимній сцені з бійкою](https://fakty.ua/448404-eto-ochen-chuvstvenno-i-smeshno-nikol-kidman-sygrala-v-intimnoj-scene-s-drakoj)
 - [Осиротіли двоє синів: на Луганщині загинув залізничник з Тернопільщини](https://fakty.ua/448372-osiroteli-dvoe-synovej-na-lugancshine-pogib-zheleznodorozhnik-s-ternopolcshiny)
 - [Дуже складно: Дженніфер Еністон допоможе Селені Гомес в організації весілля](https://fakty.ua/448393-ochen-slozhno-dzhennifer-eniston-pomozhet-selene-gomes-v-organizacii-svadby)
 - [В росії підірвали військового злочинця, з вини якого на Харківщині загинули десятки людей](https://fakty.ua/448453-v-rossii-vzorvali-voennogo-prestupnika-po-vine-kotorogo-na-harkovcshine-pogibli-desyatki-lyudej)
 - [Вагітна Ганна Кошмал шокувала визнанням і… стійкою на голові &lpar;фото&rpar;](https://fakty.ua/448451-beremennaya-anna-koshmal-shokirovala-priznaniem-i-stojkoj-na-golove-foto)
-- [Проти Порошенка мають бути застосовані санкції РНБО за газові угоди із рф, — ЗМІ](https://fakty.ua/448449-protiv-poroshenko-dolzhny-byt-primeneny-sankcii-snbo-za-gazovye-soglasheniya-s-rf---smi)
 <!-- BLOG-POST-LIST:END -->
