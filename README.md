@@ -143,9 +143,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Вагітна Ганна Кошмал шокувала визнанням і. стійкою на голові &lpar;фото&rpar;](https://fakty.ua/448451-beremennaya-anna-koshmal-shokirovala-priznaniem-i-stojkoj-na-golove-foto)
 - [Проти Порошенка мають бути застосовані санкції РНБО за газові угоди із рф, — ЗМІ](https://fakty.ua/448449-protiv-poroshenko-dolzhny-byt-primeneny-sankcii-snbo-za-gazovye-soglasheniya-s-rf---smi)
 - [У Дніпрі шахраї викрали з карток загиблих військових 1,5 млн. гривень: як їм це вдалося &lpar;фото&rpar;](https://fakty.ua/448436-v-dnepre-moshenniki-pohitili-s-kart-pogibshih-voennyh-1-5-mln-griven-kak-im-eto-udalos-foto)
 - [«Трембіта» для москви: Україна розробляє дешеву ракету для атаки на столицю рф](https://fakty.ua/448400-trembita-dlya-moskvy-ukraina-razrabatyvaet-deshevuyu-raketu-dlya-ataki-na-stolicu-rf)
 - [Це основна логістична складова: експерт про бої на Курахівському та Покровському напрямках](https://fakty.ua/448387-eto-osnovnaya-logisticheskaya-sostavlyayucshaya-ekspert-o-boyah-na-kurahovskom-i-pokrovskom-napravleniyah)
-- [Пауербанк, що вибухнув, розніс квартиру в одеській багатоповерхівці &lpar;фото&rpar;](https://fakty.ua/448423-vzorvavshijsya-pauerbank-raznes-kvartiru-v-odesskoj-mnogoetazhke-foto)
 <!-- BLOG-POST-LIST:END -->
