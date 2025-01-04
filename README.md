@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [«Трембіта» для москви: Україна розробляє дешеву ракету для атаки на столицю рф](https://fakty.ua/448400-trembita-dlya-moskvy-ukraina-razrabatyvaet-deshevuyu-raketu-dlya-ataki-na-stolicu-rf)
 - [Це основна логістична складова: експерт про бої на Курахівському та Покровському напрямках](https://fakty.ua/448387-eto-osnovnaya-logisticheskaya-sostavlyayucshaya-ekspert-o-boyah-na-kurahovskom-i-pokrovskom-napravleniyah)
 - [Пауербанк, що вибухнув, розніс квартиру в одеській багатоповерхівці &lpar;фото&rpar;](https://fakty.ua/448423-vzorvavshijsya-pauerbank-raznes-kvartiru-v-odesskoj-mnogoetazhke-foto)
 - [Завдяки йому Дженніфер Еністон має чудовий вигляд: експерти про унікальне ліжко актриси](https://fakty.ua/448357-blagodarya-ej-dzhennifer-eniston-prekrasno-vyglyadit-eksperty-ob-unikalnoj-krovati-aktrisy)
 - [Понад 20 років працював пожежником: від ворожого дрону у Курській області загинув мужній боєць з Київщини](https://fakty.ua/448353-bolshe-20-let-rabotal-pozharnym-ot-vrazheskogo-drona-v-kurskoj-oblasti-pogib-muzhestvennyj-boec-s-kievcshiny)
-- [Краще б вони почали це раніше, ніж пізніше: експерт про бої за Покровськ](https://fakty.ua/448383-luchshe-by-oni-nachali-eto-ranshe-chem-pozzhe-ekspert-o-boyah-za-pokrovsk)
 <!-- BLOG-POST-LIST:END -->
