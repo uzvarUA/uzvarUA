@@ -143,9 +143,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [ТЦКашники ноги не ламали: майор Істомін про напад на групу оповіщення в Полтаві](https://fakty.ua/448463-tckashniki-nogu-ne-lomali-major-istomin-o-napadenii-na-gruppu-opovecsheniya-v-poltave)
 - [Добре вивчили звички та маршрути ворога: розвідники ліквідували начальника штабу батальйону «шторм.осетія» &lpar;відео&rpar;](https://fakty.ua/448464-horosho-izuchili-privychki-i-marshruty-vraga-razvedchiki-likvidirovali-nachalnika-shtaba-batalona-quot-shtorm-osetiya-quot-video)
 - [Вперше після розлучення: Анджеліна Джолі змінила імідж, але нарвалася на критику хейтерів](https://fakty.ua/448459-vpervye-posle-razvoda-andzhelina-dzholi-smenila-imidzh-no-narvalas-na-kritiku-hejterov)
 - [Коли путін може піти на переговори: експерт пояснив](https://fakty.ua/448431-kogda-putin-mozhet-pojti-na-peregovory-ekspert-obyasnil)
 - [Ворог вночі обстріляв низку мирних міст, а українські дрони вдарили по Міллерово та Таганрогу](https://fakty.ua/448456-vrag-nochyu-obstrelyal-ryad-mirnyh-gorodov-a-ukrainskie-drony-udarili-po-millerovo-i-taganrogu)
-- [Це дуже чуттєво і смішно: Ніколь Кідман зіграла в інтимній сцені з бійкою](https://fakty.ua/448404-eto-ochen-chuvstvenno-i-smeshno-nikol-kidman-sygrala-v-intimnoj-scene-s-drakoj)
 <!-- BLOG-POST-LIST:END -->
