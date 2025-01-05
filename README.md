@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Старі українські штурмовики Су-25 стали високоточними бомбардувальниками — ЗМІ](https://fakty.ua/448440-starye-ukrainskie-shturmoviki-su-25-stali-vysokotochnymi-bombardirovcshikami---smi)
 - [Розкрила всі таємниці? Віра Брежнєва показала нового «коханого», а також капці після «party»](https://fakty.ua/448482-raskryla-vse-sekrety-vera-brezhneva-pokazala-novogo-quot-vozlyublennogo-quot-a-takzhe-tapochki-posle-quot-party-quot)
 - [У Києві під час пожежі у квартирі загинуло дві людини](https://fakty.ua/448483-v-kieve-vo-vremya-pozhara-v-kvartire-pogibli-dva-cheloveka)
 - [«Все будет «хорошо»: Вєрка Сердючка показала, як під її пісні зустрічали Новий рік в окупованому Криму](https://fakty.ua/448475-quot-vse-budet-quot-horosho-quot-verka-serdyuchka-pokazala-kak-pod-ee-pesni-vstrechali-novyj-god-v-okkupirovannom-krymu)
 - [Дубайські канікули з путіністами: українська дизайнерка засвітилася на концерті Басти](https://fakty.ua/448480-dubajskie-kanikuly-s-putinistami-ukrainskij-dizajner-zasvetilas-na-koncerte-basty)
-- [«Казанова» майже готовий: Леонтьєв назвав умови, за яких готовий їхати у світовий тур](https://fakty.ua/448472-quot-kazanova-quot-pochti-gotov-leontev-nazval-usloviya-pri-kotoryh-gotov-ehat-v-mirovoj-tur)
 <!-- BLOG-POST-LIST:END -->
