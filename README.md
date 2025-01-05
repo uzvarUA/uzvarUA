@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [«Казанова» майже готовий: Леонтьєв назвав умови, за яких готовий їхати у світовий тур](https://fakty.ua/448472-quot-kazanova-quot-pochti-gotov-leontev-nazval-usloviya-pri-kotoryh-gotov-ehat-v-mirovoj-tur)
+- [Ситуація складна: аналітик про плани рф йти на Дніпропетровщину](https://fakty.ua/448469-situaciya-slozhnaya-analitik-o-planah-rf-idti-na-dnepropetrovcshinu)
 - [Пропонував більш як 2 тисячі доларів хабаря: поляк намагався вивезти з України екзотичних тварин](https://fakty.ua/448473-predlagal-bolee-2-tysyach-dollarov-vzyatki-polyak-pytalsya-vyvezti-iz-ukrainy-ekzoticheskih-zhivotnyh)
 - [Французькі винищувачі Mirage вже можуть бути в Україні: як вони змінять хід війни](https://fakty.ua/448439-francuzskie-istrebiteli-mirage-uzhe-mogut-byt-v-ukraine-kak-oni-izmenyat-hod-vojny)
 - [«Хто ця дівчина?»: Алла Пугачова у новому образі викликала захоплення шанувальників](https://fakty.ua/448465-kto-eta-devushka-alla-pugacheva-v-novom-obraze-vyzvala-voshicshenie-poklonnikov)
-- [ТЦКашники ноги не ламали: майор Істомін про напад на групу оповіщення в Полтаві](https://fakty.ua/448463-tckashniki-nogu-ne-lomali-major-istomin-o-napadenii-na-gruppu-opovecsheniya-v-poltave)
-- [Добре вивчили звички та маршрути ворога: розвідники ліквідували начальника штабу батальйону «шторм.осетія» &lpar;відео&rpar;](https://fakty.ua/448464-horosho-izuchili-privychki-i-marshruty-vraga-razvedchiki-likvidirovali-nachalnika-shtaba-batalona-quot-shtorm-osetiya-quot-video)
 <!-- BLOG-POST-LIST:END -->
