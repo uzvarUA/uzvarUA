@@ -143,9 +143,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Вперше після розлучення: Анджеліна Джолі змінила імідж, але нарвалася на критику хейтерів](https://fakty.ua/448459-vpervye-posle-razvoda-andzhelina-dzholi-smenila-imidzh-no-narvalas-na-kritiku-hejterov)
+- [Коли путін може піти на переговори: експерт пояснив](https://fakty.ua/448431-kogda-putin-mozhet-pojti-na-peregovory-ekspert-obyasnil)
 - [Ворог вночі обстріляв низку мирних міст, а українські дрони вдарили по Міллерово та Таганрогу](https://fakty.ua/448456-vrag-nochyu-obstrelyal-ryad-mirnyh-gorodov-a-ukrainskie-drony-udarili-po-millerovo-i-taganrogu)
 - [Це дуже чуттєво і смішно: Ніколь Кідман зіграла в інтимній сцені з бійкою](https://fakty.ua/448404-eto-ochen-chuvstvenno-i-smeshno-nikol-kidman-sygrala-v-intimnoj-scene-s-drakoj)
 - [Осиротіли двоє синів: на Луганщині загинув залізничник з Тернопільщини](https://fakty.ua/448372-osiroteli-dvoe-synovej-na-lugancshine-pogib-zheleznodorozhnik-s-ternopolcshiny)
-- [Дуже складно: Дженніфер Еністон допоможе Селені Гомес в організації весілля](https://fakty.ua/448393-ochen-slozhno-dzhennifer-eniston-pomozhet-selene-gomes-v-organizacii-svadby)
-- [В росії підірвали військового злочинця, з вини якого на Харківщині загинули десятки людей](https://fakty.ua/448453-v-rossii-vzorvali-voennogo-prestupnika-po-vine-kotorogo-na-harkovcshine-pogibli-desyatki-lyudej)
 <!-- BLOG-POST-LIST:END -->
