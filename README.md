@@ -143,9 +143,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Пропонував більш як 2 тисячі доларів хабаря: поляк намагався вивезти з України екзотичних тварин](https://fakty.ua/448473-predlagal-bolee-2-tysyach-dollarov-vzyatki-polyak-pytalsya-vyvezti-iz-ukrainy-ekzoticheskih-zhivotnyh)
+- [Французькі винищувачі Mirage вже можуть бути в Україні: як вони змінять хід війни](https://fakty.ua/448439-francuzskie-istrebiteli-mirage-uzhe-mogut-byt-v-ukraine-kak-oni-izmenyat-hod-vojny)
+- [«Хто ця дівчина?»: Алла Пугачова у новому образі викликала захоплення шанувальників](https://fakty.ua/448465-kto-eta-devushka-alla-pugacheva-v-novom-obraze-vyzvala-voshicshenie-poklonnikov)
 - [ТЦКашники ноги не ламали: майор Істомін про напад на групу оповіщення в Полтаві](https://fakty.ua/448463-tckashniki-nogu-ne-lomali-major-istomin-o-napadenii-na-gruppu-opovecsheniya-v-poltave)
 - [Добре вивчили звички та маршрути ворога: розвідники ліквідували начальника штабу батальйону «шторм.осетія» &lpar;відео&rpar;](https://fakty.ua/448464-horosho-izuchili-privychki-i-marshruty-vraga-razvedchiki-likvidirovali-nachalnika-shtaba-batalona-quot-shtorm-osetiya-quot-video)
-- [Вперше після розлучення: Анджеліна Джолі змінила імідж, але нарвалася на критику хейтерів](https://fakty.ua/448459-vpervye-posle-razvoda-andzhelina-dzholi-smenila-imidzh-no-narvalas-na-kritiku-hejterov)
-- [Коли путін може піти на переговори: експерт пояснив](https://fakty.ua/448431-kogda-putin-mozhet-pojti-na-peregovory-ekspert-obyasnil)
-- [Ворог вночі обстріляв низку мирних міст, а українські дрони вдарили по Міллерово та Таганрогу](https://fakty.ua/448456-vrag-nochyu-obstrelyal-ryad-mirnyh-gorodov-a-ukrainskie-drony-udarili-po-millerovo-i-taganrogu)
 <!-- BLOG-POST-LIST:END -->
