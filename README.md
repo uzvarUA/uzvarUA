@@ -2,7 +2,8 @@
 ***
 # Привіт!
 ***
-----------
+[Дашборд](https://drive.google.com/drive/folders/1BtZU9cjbG-mlqe91FylDV72fjzH_Q0SO?usp=drive_link)
+***
 
 Я записую відео про майнкрафту БЕ, як - німе кіно.
 Відео виходить що вихідних о 20:00
