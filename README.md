@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Розлучення Дженніфер Лопес і Бена Аффлека отримало приголомшливий поворот](https://fakty.ua/448416-razvod-dzhennifer-lopes-i-bena-affleka-poluchil-shokiruyucshij-povorot)
 - [Довгих 4 місяці вважався зниклим безвісти: на Донеччині поліг воїн з Рівненщини](https://fakty.ua/448411-dolgih-4-mesyaca-schitalsya-propavshim-bez-vesti-v-doneckoj-oblasti-pogib-voin-s-rovencshiny)
 - [Старі українські штурмовики Су-25 стали високоточними бомбардувальниками — ЗМІ](https://fakty.ua/448440-starye-ukrainskie-shturmoviki-su-25-stali-vysokotochnymi-bombardirovcshikami---smi)
 - [Розкрила всі таємниці? Віра Брежнєва показала нового «коханого», а також капці після «party»](https://fakty.ua/448482-raskryla-vse-sekrety-vera-brezhneva-pokazala-novogo-quot-vozlyublennogo-quot-a-takzhe-tapochki-posle-quot-party-quot)
 - [У Києві під час пожежі у квартирі загинуло дві людини](https://fakty.ua/448483-v-kieve-vo-vremya-pozhara-v-kvartire-pogibli-dva-cheloveka)
-- [«Все будет «хорошо»: Вєрка Сердючка показала, як під її пісні зустрічали Новий рік в окупованому Криму](https://fakty.ua/448475-quot-vse-budet-quot-horosho-quot-verka-serdyuchka-pokazala-kak-pod-ee-pesni-vstrechali-novyj-god-v-okkupirovannom-krymu)
 <!-- BLOG-POST-LIST:END -->
