@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Треба спалити: мережа накинулася на Наталю Могилевську](https://fakty.ua/448506-nado-szhech-set-nabrosilas-na-natalyu-mogilevskuyu)
 - [Запрошення на весілля: Григорій Решетнік відреагував на завершення «Холостяка»](https://fakty.ua/448502-priglashenie-na-svadbu-grigorij-reshetnik-otreagiroval-na-zavershenie-holostyaka)
 - [Лобізм, популізм чи боротьба за рейтинг: для чого Юлії Тимошенко скандал на фармацевтичному ринку?](https://fakty.ua/448505-lobbizm-populizm-ili-borba-za-rejting-zachem-yulii-timoshenko-skandal-na-farmacevticheskom-rynke)
 - [Хуліган із психлікарні: подробиці гучного скандалу з керівником медзакладу в Полтаві](https://fakty.ua/448492-huligan-iz-psihbolnicy-podrobnosti-gromkogo-skandala-s-rukovoditelem-meduchrezhdeniya-v-poltave)
 - [Кинута 16-річною матір&amp;#39;ю однорічна дитина кілька днів провела на самоті у порожній квартирі &lpar;фото&rpar;](https://fakty.ua/448493-broshennyj-16-letnej-materyu-godovalyj-rebenok-neskolko-dnej-provel-odin-v-pustoj-kvartire-foto)
-- [СБУ запобігла кривавому теракту проти військових у Київській області &lpar;фото&rpar;](https://fakty.ua/448495-sbu-predotvratila-krovavyj-terakt-protiv-voennyh-v-kievskoj-oblasti-foto)
 <!-- BLOG-POST-LIST:END -->
