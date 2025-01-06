@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [«Це непристойно!»: популярна акторка обурила мережу](https://fakty.ua/448509-quot-eto-neprilichno-quot-populyarnaya-aktrisa-vozmutila-set)
+- [Бронетанкова війна росії заходить у глухий кут: скільки ще танків і БМП залишилося у ворога](https://fakty.ua/448500-bronetankovaya-vojna-rossii-zahodit-v-tupik-skolko-ecshe-tankov-i-bmp-ostalos-u-vraga)
 - [«Терен» у шоці: учасниця Холостяка знайшла кохання на проєкті](https://fakty.ua/448508-teren-v-shoke-uchastnica-holostyaka-nashla-lyubov-na-proekte)
 - [«Я особливо не вірю»: офіцер про проблеми з мобілізацією в Україні](https://fakty.ua/448496-ya-osobo-ne-veryu-oficer-o-problemah-s-mobilizaciej-v-ukraine)
 - [Треба спалити: мережа накинулася на Наталю Могилевську](https://fakty.ua/448506-nado-szhech-set-nabrosilas-na-natalyu-mogilevskuyu)
-- [Запрошення на весілля: Григорій Решетнік відреагував на завершення «Холостяка»](https://fakty.ua/448502-priglashenie-na-svadbu-grigorij-reshetnik-otreagiroval-na-zavershenie-holostyaka)
-- [Лобізм, популізм чи боротьба за рейтинг: для чого Юлії Тимошенко скандал на фармацевтичному ринку?](https://fakty.ua/448505-lobbizm-populizm-ili-borba-za-rejting-zachem-yulii-timoshenko-skandal-na-farmacevticheskom-rynke)
 <!-- BLOG-POST-LIST:END -->
