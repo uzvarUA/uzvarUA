@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Підсвітити слабкі місця: ЗМІ про несподіваний контрнаступ у Курській області](https://fakty.ua/448486-podsvetit-slabye-mesta-smi-o-neozhidannom-kontrnastuplenii-v-kurskoj-oblasti)
+- [Близько 130 безпілотників атакували Україну в хрещенську ніч: уламки збирали у п&amp;#39;яти областях &lpar;фото&rpar;](https://fakty.ua/448489-okolo-130-bespilotnikov-atakovali-ukrainu-v-krecshenskuyu-nochyu-oblomki-sobirali-v-pyati-oblastyah-foto)
+- [Перша нагорода у кінокар&amp;#39;єрі Демі Мур та рекорд «Емілії Перес»: у США вручили «золоті глобуси»](https://fakty.ua/448488-pervaya-nagrada-v-kinokarere-demi-mur-i-rekord-emilii-peres-v-ssha-vruchili-zolotye-globusy)
+- [«В голові у путіна — посварити мене з Трампом»: що сказав Зеленський у «матючому» інтерв&amp;#39;ю американському блогеру](https://fakty.ua/448487-v-golove-u-putina-rassorit-menya-s-trampom-chto-skazal-zelenskij-v-maternom-intervyu-amerikanskomu-blogeru)
 - [Розлучення Дженніфер Лопес і Бена Аффлека отримало приголомшливий поворот](https://fakty.ua/448416-razvod-dzhennifer-lopes-i-bena-affleka-poluchil-shokiruyucshij-povorot)
-- [Довгих 4 місяці вважався зниклим безвісти: на Донеччині поліг воїн з Рівненщини](https://fakty.ua/448411-dolgih-4-mesyaca-schitalsya-propavshim-bez-vesti-v-doneckoj-oblasti-pogib-voin-s-rovencshiny)
-- [Старі українські штурмовики Су-25 стали високоточними бомбардувальниками — ЗМІ](https://fakty.ua/448440-starye-ukrainskie-shturmoviki-su-25-stali-vysokotochnymi-bombardirovcshikami---smi)
-- [Розкрила всі таємниці? Віра Брежнєва показала нового «коханого», а також капці після «party»](https://fakty.ua/448482-raskryla-vse-sekrety-vera-brezhneva-pokazala-novogo-quot-vozlyublennogo-quot-a-takzhe-tapochki-posle-quot-party-quot)
-- [У Києві під час пожежі у квартирі загинуло дві людини](https://fakty.ua/448483-v-kieve-vo-vremya-pozhara-v-kvartire-pogibli-dva-cheloveka)
 <!-- BLOG-POST-LIST:END -->
