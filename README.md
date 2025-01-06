@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Леся Нікітюк зібралася під вінець: телеведуча побралася та похвалилася подарованою каблучкою &lpar;фото&rpar;](https://fakty.ua/448526-lesya-nikityuk-sobralas-pod-venec-televeducshaya-obruchilas-i-pohvastalas-podarennym-kolcom)
 - [Жодної згадки: Дженніфер Лопес проігнорувала Бена Аффлека у відеозвіті про минулий рік](https://fakty.ua/448515-ni-odnogo-upominaniya-dzhennifer-lopes-proignorirovala-bena-affleka-v-videootchete-o-proshlom-gode)
 - [Під Києвом через павербанк мало не згоріла школа &lpar;фото&rpar;](https://fakty.ua/448525-pod-kievom-iz-za-pauerbanka-chut-ne-sgorela-shkola-foto)
 - [Одномісячна дитина лишилась без тата: на війні поліг боєць з Київщини](https://fakty.ua/448445-mesyachnyj-rebenok-ostalsya-bez-papy-na-vojne-pogib-boec-iz-kievskoj-oblasti)
 - [Прикро: мережа обурена оголеним фото популярного актора](https://fakty.ua/448510-obidno-set-vozmucshena-obnazhennym-foto-populyarnogo-aktera)
-- [Окупанти використовують нові безпілотники, що самознищуються, — ЗМІ](https://fakty.ua/448498-okkupanty-ispolzuyut-novye-samounichtozhayucshiesya-bespilotniki---smi)
 <!-- BLOG-POST-LIST:END -->
