@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Запрошення на весілля: Григорій Решетнік відреагував на завершення «Холостяка»](https://fakty.ua/448502-priglashenie-na-svadbu-grigorij-reshetnik-otreagiroval-na-zavershenie-holostyaka)
+- [Лобізм, популізм чи боротьба за рейтинг: для чого Юлії Тимошенко скандал на фармацевтичному ринку?](https://fakty.ua/448505-lobbizm-populizm-ili-borba-za-rejting-zachem-yulii-timoshenko-skandal-na-farmacevticheskom-rynke)
 - [Хуліган із психлікарні: подробиці гучного скандалу з керівником медзакладу в Полтаві](https://fakty.ua/448492-huligan-iz-psihbolnicy-podrobnosti-gromkogo-skandala-s-rukovoditelem-meduchrezhdeniya-v-poltave)
 - [Кинута 16-річною матір&amp;#39;ю однорічна дитина кілька днів провела на самоті у порожній квартирі &lpar;фото&rpar;](https://fakty.ua/448493-broshennyj-16-letnej-materyu-godovalyj-rebenok-neskolko-dnej-provel-odin-v-pustoj-kvartire-foto)
 - [СБУ запобігла кривавому теракту проти військових у Київській області &lpar;фото&rpar;](https://fakty.ua/448495-sbu-predotvratila-krovavyj-terakt-protiv-voennyh-v-kievskoj-oblasti-foto)
-- [Підсвітити слабкі місця: ЗМІ про несподіваний контрнаступ у Курській області](https://fakty.ua/448486-podsvetit-slabye-mesta-smi-o-neozhidannom-kontrnastuplenii-v-kurskoj-oblasti)
-- [Близько 130 безпілотників атакували Україну в хрещенську ніч: уламки збирали у п&amp;#39;яти областях &lpar;фото&rpar;](https://fakty.ua/448489-okolo-130-bespilotnikov-atakovali-ukrainu-v-krecshenskuyu-nochyu-oblomki-sobirali-v-pyati-oblastyah-foto)
 <!-- BLOG-POST-LIST:END -->
