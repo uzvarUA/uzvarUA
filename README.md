@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Окупанти використовують нові безпілотники, що самознищуються, — ЗМІ](https://fakty.ua/448498-okkupanty-ispolzuyut-novye-samounichtozhayucshiesya-bespilotniki---smi)
 - [Хоче «відбілитись»: Потап шукає гроші для повернення в Україну, — блогер Беспалов](https://fakty.ua/448522-hochet-otbelitsya-potap-icshet-dengi-dlya-vozvracsheniya-v-ukrainu---bloger-bespalov)
 - [«Це непристойно!»: популярна акторка обурила мережу](https://fakty.ua/448509-quot-eto-neprilichno-quot-populyarnaya-aktrisa-vozmutila-set)
 - [Бронетанкова війна росії заходить у глухий кут: скільки ще танків і БМП залишилося у ворога](https://fakty.ua/448500-bronetankovaya-vojna-rossii-zahodit-v-tupik-skolko-ecshe-tankov-i-bmp-ostalos-u-vraga)
 - [«Терен» у шоці: учасниця Холостяка знайшла кохання на проєкті](https://fakty.ua/448508-teren-v-shoke-uchastnica-holostyaka-nashla-lyubov-na-proekte)
-- [«Я особливо не вірю»: офіцер про проблеми з мобілізацією в Україні](https://fakty.ua/448496-ya-osobo-ne-veryu-oficer-o-problemah-s-mobilizaciej-v-ukraine)
 <!-- BLOG-POST-LIST:END -->
