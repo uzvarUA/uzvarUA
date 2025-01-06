@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Під Києвом через павербанк мало не згоріла школа &lpar;фото&rpar;](https://fakty.ua/448525-pod-kievom-iz-za-pauerbanka-chut-ne-sgorela-shkola-foto)
+- [Одномісячна дитина лишилась без тата: на війні поліг боєць з Київщини](https://fakty.ua/448445-mesyachnyj-rebenok-ostalsya-bez-papy-na-vojne-pogib-boec-iz-kievskoj-oblasti)
+- [Прикро: мережа обурена оголеним фото популярного актора](https://fakty.ua/448510-obidno-set-vozmucshena-obnazhennym-foto-populyarnogo-aktera)
 - [Окупанти використовують нові безпілотники, що самознищуються, — ЗМІ](https://fakty.ua/448498-okkupanty-ispolzuyut-novye-samounichtozhayucshiesya-bespilotniki---smi)
 - [Хоче «відбілитись»: Потап шукає гроші для повернення в Україну, — блогер Беспалов](https://fakty.ua/448522-hochet-otbelitsya-potap-icshet-dengi-dlya-vozvracsheniya-v-ukrainu---bloger-bespalov)
-- [«Це непристойно!»: популярна акторка обурила мережу](https://fakty.ua/448509-quot-eto-neprilichno-quot-populyarnaya-aktrisa-vozmutila-set)
-- [Бронетанкова війна росії заходить у глухий кут: скільки ще танків і БМП залишилося у ворога](https://fakty.ua/448500-bronetankovaya-vojna-rossii-zahodit-v-tupik-skolko-ecshe-tankov-i-bmp-ostalos-u-vraga)
-- [«Терен» у шоці: учасниця Холостяка знайшла кохання на проєкті](https://fakty.ua/448508-teren-v-shoke-uchastnica-holostyaka-nashla-lyubov-na-proekte)
 <!-- BLOG-POST-LIST:END -->
