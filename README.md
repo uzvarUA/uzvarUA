@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
-- [Все стало набагато яскравіше: Надя Дорофєєва показала свій відпочинок з чоловіком](https://fakty.ua/448550-vse-stalo-gorazdo-yarche-nadya-dorofeeva-pokazala-svoj-otdyh-s-muzhem)
-- [Терористи атакували населені пункти у Херсонській та Чернігівській областях: є жертва та поранені](https://fakty.ua/448548-terroristy-atakovali-naselennye-punkty-v-hersonskoj-i-chernigovskoj-oblastyah-est-zhertva-i-ranenye)
-- [Не тільки «піду, втоплюся»: Галкін розповів, завдяки чому знає чудово українську](https://fakty.ua/448539-ne-tolko-quot-pojdu-utoplyus-quot-galkin-rasskazal-blagodarya-chemu-znaet-otlichno-ukrainskij)
-- [«Ціною свого життя прикрив відхід групи»: історія легендарного морпіха «Банана», який загинув на Тендрівській косі](https://fakty.ua/448536-cenoj-svoej-zhizni-prikryl-othod-gruppy-istoriya-legendarnogo-morpeha-banana-kotoryj-pogib-na-tendrovskoj-kose)
-- [Шпигували за волонтерами та посадовцями міжнародних організацій: СБУ затримала агентів фсб під керівництвом київського адвоката](https://fakty.ua/448542-shpionili-za-volonterami-i-chinovnikami-mezhdunarodnyh-organizacij-sbu-zaderzhala-agentov-fsb-pod-rukovodstvom-kievskogo-advokata)
+- [Між окупантами почастішали випадки етнічних конфліктів, — партизани](https://fakty.ua/448521-mezhdu-okkupantami-uchastilis-sluchai-etnicheskih-konfliktov-partizany)
+- [Шість ракет за один виліт: український пілот F-16 встановив рекорд під час масової атаки росіян](https://fakty.ua/448555-shest-raket-za-odin-vylet-ukrainskij-pilot-f-16-ustanovil-rekord-vo-vremya-massovoj-ataki-rossiyan)
+- [Хотів її так сильно: Андре Тан вразив зізнанням](https://fakty.ua/448551-hotel-ee-tak-silno-andre-tan-porazil-priznaniem)
+- [Наступ ЗСУ в Курській області: куди спрямований удар, його мета й чи це не є відволікаючим маневром](https://fakty.ua/448540-nastuplenie-vsu-v-kurskoj-oblasti-kuda-napravlen-udar-ego-cel-i-ne-yavlyaetsya-li-eto-otvlekayucshim-manevrom)
+- [Звільнений з ОП піарник Януковича, який мав зв’язки зі Жванією, тепер цікавиться енергетикою](https://fakty.ua/448549-uvolennyj-iz-op-piarcshik-yanukovicha-kotoryj-imel-svyazi-so-zhvaniej-teper-interesuetsya-energetikoj)
 <!-- BLOG-POST-LIST:END -->
