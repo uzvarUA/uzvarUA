@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [ЗСУ завдали високоточного удару по командному пункту ворога у Курській області: в Генштабі повідомили деталі](https://fakty.ua/448576-vsu-nanesli-vysokotochnyj-udar-po-komandnomu-punktu-vraga-v-kurskoj-oblasti-v-genshtabe-soobcshili-detali)
+- [Підприємець розповів, чого бізнес чекає від Міноборони](https://fakty.ua/448575-predprinimatel-rasskazal-chego-biznes-zhdet-ot-minoborony)
 - [Дружина директора НАБУ очолює фірми лідера кримінального угрупування, якого розшукує бюро: військовий заявив про конфлікт інтересів](https://fakty.ua/448572-zhena-direktora-nabu-vozglavlyaet-firmy-lidera-kriminalnoj-gruppirovki-kotorogo-razyskivaet-byuro-voennyj-zayavil-o-konflikte-interesov)
 - [Софію Ротару можемо побачити у майбутньому: названо ймовірну причину відмови народної артистки від виступів](https://fakty.ua/448560-sofiyu-rotaru-mozhem-uvidet-v-buducshem-nazvana-veroyatnaya-prichina-otkaza-narodnoj-artistki-ot-vystuplenij)
 - [Ґвалтували і розбещували доньок: на Київщині до 15 років ув’язнення засудили подружжя](https://fakty.ua/448568-nasilovali-i-razvracshali-docherej-v-kievskoj-oblasti-k-15-godam-zaklyucheniya-prigovorili-suprugov)
-- [Віддав наказ бити ракетами по Кривому Рогу: СБУ заочно повідомила про підозру російському полковнику](https://fakty.ua/448566-otdal-prikaz-bit-raketami-po-krivomu-rogu-sbu-zaochno-soobcshila-o-podozrenii-rossijskomu-polkovniku)
-- [Бойовий інженерний трактор для штурмовиків: на озброєнні легендарної 3-ї ОШБр помітили рідкісну техніку](https://fakty.ua/448546-boevoj-inzhenernyj-traktor-dlya-shturmovikov-na-vooruzhenii-legendarnoj-3-j-oshbr-zametili-redkuyu-tehniku)
 <!-- BLOG-POST-LIST:END -->
