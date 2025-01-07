@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Неодноразово ґвалтував 10-річну дівчинку: на Одещині затримали педофіла](https://fakty.ua/448559-neodnokratno-nasiloval-10-letnyuyu-devochku-v-odesskoj-oblasti-zaderzhali-pedofila)
+- [Кінець «серіалу»: Дженніфер Лопес та Бен Аффлек офіційно розлучилися](https://fakty.ua/448553-konec-quot-seriala-quot-dzhennifer-lopes-i-ben-afflek-oficialno-razvelis)
 - [Між окупантами почастішали випадки етнічних конфліктів, — партизани](https://fakty.ua/448521-mezhdu-okkupantami-uchastilis-sluchai-etnicheskih-konfliktov-partizany)
 - [Шість ракет за один виліт: український пілот F-16 встановив рекорд під час масової атаки росіян](https://fakty.ua/448555-shest-raket-za-odin-vylet-ukrainskij-pilot-f-16-ustanovil-rekord-vo-vremya-massovoj-ataki-rossiyan)
 - [Хотів її так сильно: Андре Тан вразив зізнанням](https://fakty.ua/448551-hotel-ee-tak-silno-andre-tan-porazil-priznaniem)
-- [Наступ ЗСУ в Курській області: куди спрямований удар, його мета й чи це не є відволікаючим маневром](https://fakty.ua/448540-nastuplenie-vsu-v-kurskoj-oblasti-kuda-napravlen-udar-ego-cel-i-ne-yavlyaetsya-li-eto-otvlekayucshim-manevrom)
-- [Звільнений з ОП піарник Януковича, який мав зв’язки зі Жванією, тепер цікавиться енергетикою](https://fakty.ua/448549-uvolennyj-iz-op-piarcshik-yanukovicha-kotoryj-imel-svyazi-so-zhvaniej-teper-interesuetsya-energetikoj)
 <!-- BLOG-POST-LIST:END -->
