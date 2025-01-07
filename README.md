@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [«Ціною свого життя прикрив відхід групи»: історія легендарного морпіха «Банана», який загинув на Тендрівській косі](https://fakty.ua/448536-cenoj-svoej-zhizni-prikryl-othod-gruppy-istoriya-legendarnogo-morpeha-banana-kotoryj-pogib-na-tendrovskoj-kose)
+- [Шпигували за волонтерами та посадовцями міжнародних організацій: СБУ затримала агентів фсб під керівництвом київського адвоката](https://fakty.ua/448542-shpionili-za-volonterami-i-chinovnikami-mezhdunarodnyh-organizacij-sbu-zaderzhala-agentov-fsb-pod-rukovodstvom-kievskogo-advokata)
+- [Колишній віце-прем&#39;єрміністр став радником Умєрова: хто отримав посаду](https://fakty.ua/448541-byvshij-vice-premer-ministr-stal-sovetnikom-umerova-kto-poluchil-dolzhnost)
 - [Моя любов: Злата Огнєвіч показала, з ким відпочиває у Карпатах](https://fakty.ua/448517-moya-lyubov-zlata-ognevich-pokazala-s-kem-otdyhaet-v-karpatah)
 - [Нас чекають буремні часи, але витримаємо: боєць ЗСУ прогнозує великі зміни на фронті](https://fakty.ua/448518-nas-zhdut-burnye-vremena-no-vyderzhim-boec-vsu-prognoziruet-bolshie-izmeneniya-na-fronte)
-- [Окупанти продовжують обстріли України: повітряна тривога лунала вночі у низці населених пунктів](https://fakty.ua/448528-okkupanty-prodolzhayut-obstrely-ukrainy-vozdushnaya-trevoga-zvuchala-nochyu-v-ryade-naselennyh-punktov)
-- [Леся Нікітюк зібралася під вінець: телеведуча побралася та похвалилася подарованою каблучкою &lpar;фото&rpar;](https://fakty.ua/448526-lesya-nikityuk-sobralas-pod-venec-televeducshaya-obruchilas-i-pohvastalas-podarennym-kolcom)
-- [Жодної згадки: Дженніфер Лопес проігнорувала Бена Аффлека у відеозвіті про минулий рік](https://fakty.ua/448515-ni-odnogo-upominaniya-dzhennifer-lopes-proignorirovala-bena-affleka-v-videootchete-o-proshlom-gode)
 <!-- BLOG-POST-LIST:END -->
