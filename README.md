@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Стратегічна задача просунутися: генерал про тактику рф в Донецькій області](https://fakty.ua/448556-strategicheskaya-zadacha-prodvinutsya-general-o-taktike-rf-v-doneckoj-oblasti)
+- [Галкін відмовлявся вірити: співачка розповіла, як екстрасенси «напророчили» Пугачовій від’їзд з сім’єю за кордон](https://fakty.ua/448578-galkin-otkazyvalsya-verit-pevica-rasskazala-kak-ekstrasensy-quot-predskazali-quot-pugachevoj-otezd-s-semej-za-granicu)
 - [ЗСУ завдали високоточного удару по командному пункту ворога у Курській області: в Генштабі повідомили деталі](https://fakty.ua/448576-vsu-nanesli-vysokotochnyj-udar-po-komandnomu-punktu-vraga-v-kurskoj-oblasti-v-genshtabe-soobcshili-detali)
 - [Підприємець розповів, чого бізнес чекає від Міноборони](https://fakty.ua/448575-predprinimatel-rasskazal-chego-biznes-zhdet-ot-minoborony)
 - [Дружина директора НАБУ очолює фірми лідера кримінального угрупування, якого розшукує бюро: військовий заявив про конфлікт інтересів](https://fakty.ua/448572-zhena-direktora-nabu-vozglavlyaet-firmy-lidera-kriminalnoj-gruppirovki-kotorogo-razyskivaet-byuro-voennyj-zayavil-o-konflikte-interesov)
-- [Софію Ротару можемо побачити у майбутньому: названо ймовірну причину відмови народної артистки від виступів](https://fakty.ua/448560-sofiyu-rotaru-mozhem-uvidet-v-buducshem-nazvana-veroyatnaya-prichina-otkaza-narodnoj-artistki-ot-vystuplenij)
-- [Ґвалтували і розбещували доньок: на Київщині до 15 років ув’язнення засудили подружжя](https://fakty.ua/448568-nasilovali-i-razvracshali-docherej-v-kievskoj-oblasti-k-15-godam-zaklyucheniya-prigovorili-suprugov)
 <!-- BLOG-POST-LIST:END -->
