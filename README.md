@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Дженніфер Гарнер може втратити коханого через Аффлека](https://fakty.ua/448561-dzhennifer-garner-mozhet-poteryat-vozlyublennogo-iz-za-affleka)
 - [Сім років боронив країну: на Донеччині загинув боєць з Житомирщини](https://fakty.ua/448557-sem-let-zacshicshal-stranu-v-doneckoj-oblasti-pogib-boec-s-zhitomircshiny)
 - [Стратегічна задача просунутися: генерал про тактику рф в Донецькій області](https://fakty.ua/448556-strategicheskaya-zadacha-prodvinutsya-general-o-taktike-rf-v-doneckoj-oblasti)
 - [Галкін відмовлявся вірити: співачка розповіла, як екстрасенси «напророчили» Пугачовій від’їзд з сім’єю за кордон](https://fakty.ua/448578-galkin-otkazyvalsya-verit-pevica-rasskazala-kak-ekstrasensy-quot-predskazali-quot-pugachevoj-otezd-s-semej-za-granicu)
 - [ЗСУ завдали високоточного удару по командному пункту ворога у Курській області: в Генштабі повідомили деталі](https://fakty.ua/448576-vsu-nanesli-vysokotochnyj-udar-po-komandnomu-punktu-vraga-v-kurskoj-oblasti-v-genshtabe-soobcshili-detali)
-- [Підприємець розповів, чого бізнес чекає від Міноборони](https://fakty.ua/448575-predprinimatel-rasskazal-chego-biznes-zhdet-ot-minoborony)
 <!-- BLOG-POST-LIST:END -->
