@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
-- [Неодноразово ґвалтував 10-річну дівчинку: на Одещині затримали педофіла](https://fakty.ua/448559-neodnokratno-nasiloval-10-letnyuyu-devochku-v-odesskoj-oblasti-zaderzhali-pedofila)
-- [Кінець «серіалу»: Дженніфер Лопес та Бен Аффлек офіційно розлучилися](https://fakty.ua/448553-konec-quot-seriala-quot-dzhennifer-lopes-i-ben-afflek-oficialno-razvelis)
-- [Між окупантами почастішали випадки етнічних конфліктів, — партизани](https://fakty.ua/448521-mezhdu-okkupantami-uchastilis-sluchai-etnicheskih-konfliktov-partizany)
-- [Шість ракет за один виліт: український пілот F-16 встановив рекорд під час масової атаки росіян](https://fakty.ua/448555-shest-raket-za-odin-vylet-ukrainskij-pilot-f-16-ustanovil-rekord-vo-vremya-massovoj-ataki-rossiyan)
-- [Хотів її так сильно: Андре Тан вразив зізнанням](https://fakty.ua/448551-hotel-ee-tak-silno-andre-tan-porazil-priznaniem)
+- [Дружина директора НАБУ очолює фірми лідера кримінального угрупування, якого розшукує бюро: військовий заявив про конфлікт інтересів](https://fakty.ua/448572-zhena-direktora-nabu-vozglavlyaet-firmy-lidera-kriminalnoj-gruppirovki-kotorogo-razyskivaet-byuro-voennyj-zayavil-o-konflikte-interesov)
+- [Софію Ротару можемо побачити у майбутньому: названо ймовірну причину відмови народної артистки від виступів](https://fakty.ua/448560-sofiyu-rotaru-mozhem-uvidet-v-buducshem-nazvana-veroyatnaya-prichina-otkaza-narodnoj-artistki-ot-vystuplenij)
+- [Ґвалтували і розбещували доньок: на Київщині до 15 років ув’язнення засудили подружжя](https://fakty.ua/448568-nasilovali-i-razvracshali-docherej-v-kievskoj-oblasti-k-15-godam-zaklyucheniya-prigovorili-suprugov)
+- [Віддав наказ бити ракетами по Кривому Рогу: СБУ заочно повідомила про підозру російському полковнику](https://fakty.ua/448566-otdal-prikaz-bit-raketami-po-krivomu-rogu-sbu-zaochno-soobcshila-o-podozrenii-rossijskomu-polkovniku)
+- [Бойовий інженерний трактор для штурмовиків: на озброєнні легендарної 3-ї ОШБр помітили рідкісну техніку](https://fakty.ua/448546-boevoj-inzhenernyj-traktor-dlya-shturmovikov-na-vooruzhenii-legendarnoj-3-j-oshbr-zametili-redkuyu-tehniku)
 <!-- BLOG-POST-LIST:END -->
