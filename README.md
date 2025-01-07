@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Все стало набагато яскравіше: Надя Дорофєєва показала свій відпочинок з чоловіком](https://fakty.ua/448550-vse-stalo-gorazdo-yarche-nadya-dorofeeva-pokazala-svoj-otdyh-s-muzhem)
+- [Терористи атакували населені пункти у Херсонській та Чернігівській областях: є жертва та поранені](https://fakty.ua/448548-terroristy-atakovali-naselennye-punkty-v-hersonskoj-i-chernigovskoj-oblastyah-est-zhertva-i-ranenye)
+- [Не тільки «піду, втоплюся»: Галкін розповів, завдяки чому знає чудово українську](https://fakty.ua/448539-ne-tolko-quot-pojdu-utoplyus-quot-galkin-rasskazal-blagodarya-chemu-znaet-otlichno-ukrainskij)
 - [«Ціною свого життя прикрив відхід групи»: історія легендарного морпіха «Банана», який загинув на Тендрівській косі](https://fakty.ua/448536-cenoj-svoej-zhizni-prikryl-othod-gruppy-istoriya-legendarnogo-morpeha-banana-kotoryj-pogib-na-tendrovskoj-kose)
 - [Шпигували за волонтерами та посадовцями міжнародних організацій: СБУ затримала агентів фсб під керівництвом київського адвоката](https://fakty.ua/448542-shpionili-za-volonterami-i-chinovnikami-mezhdunarodnyh-organizacij-sbu-zaderzhala-agentov-fsb-pod-rukovodstvom-kievskogo-advokata)
-- [Колишній віце-прем&#39;єрміністр став радником Умєрова: хто отримав посаду](https://fakty.ua/448541-byvshij-vice-premer-ministr-stal-sovetnikom-umerova-kto-poluchil-dolzhnost)
-- [Моя любов: Злата Огнєвіч показала, з ким відпочиває у Карпатах](https://fakty.ua/448517-moya-lyubov-zlata-ognevich-pokazala-s-kem-otdyhaet-v-karpatah)
-- [Нас чекають буремні часи, але витримаємо: боєць ЗСУ прогнозує великі зміни на фронті](https://fakty.ua/448518-nas-zhdut-burnye-vremena-no-vyderzhim-boec-vsu-prognoziruet-bolshie-izmeneniya-na-fronte)
 <!-- BLOG-POST-LIST:END -->
