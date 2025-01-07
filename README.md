@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Моя любов: Злата Огнєвіч показала, з ким відпочиває у Карпатах](https://fakty.ua/448517-moya-lyubov-zlata-ognevich-pokazala-s-kem-otdyhaet-v-karpatah)
+- [Нас чекають буремні часи, але витримаємо: боєць ЗСУ прогнозує великі зміни на фронті](https://fakty.ua/448518-nas-zhdut-burnye-vremena-no-vyderzhim-boec-vsu-prognoziruet-bolshie-izmeneniya-na-fronte)
 - [Окупанти продовжують обстріли України: повітряна тривога лунала вночі у низці населених пунктів](https://fakty.ua/448528-okkupanty-prodolzhayut-obstrely-ukrainy-vozdushnaya-trevoga-zvuchala-nochyu-v-ryade-naselennyh-punktov)
 - [Леся Нікітюк зібралася під вінець: телеведуча побралася та похвалилася подарованою каблучкою &lpar;фото&rpar;](https://fakty.ua/448526-lesya-nikityuk-sobralas-pod-venec-televeducshaya-obruchilas-i-pohvastalas-podarennym-kolcom)
 - [Жодної згадки: Дженніфер Лопес проігнорувала Бена Аффлека у відеозвіті про минулий рік](https://fakty.ua/448515-ni-odnogo-upominaniya-dzhennifer-lopes-proignorirovala-bena-affleka-v-videootchete-o-proshlom-gode)
-- [Під Києвом через павербанк мало не згоріла школа &lpar;фото&rpar;](https://fakty.ua/448525-pod-kievom-iz-za-pauerbanka-chut-ne-sgorela-shkola-foto)
-- [Одномісячна дитина лишилась без тата: на війні поліг боєць з Київщини](https://fakty.ua/448445-mesyachnyj-rebenok-ostalsya-bez-papy-na-vojne-pogib-boec-iz-kievskoj-oblasti)
 <!-- BLOG-POST-LIST:END -->
