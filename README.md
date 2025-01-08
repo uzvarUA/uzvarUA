@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Росіяни завдали авіаудару по Запоріжжю: багато загиблих і поранених &lpar;фото, відео&rpar;](https://fakty.ua/448616-rossiyane-nanesli-aviaudar-po-zaporozhyu-mnogo-ranenyh-foto-video)
 - [«Люблю тебе»: Катерина Бужинська вразила чуттєвим зверненням](https://fakty.ua/448603-lyublyu-tebya-ekaterina-buzhinskaya-porazila-chuvstvennym-obracsheniem)
 - [«Неможливо було передбачити всі нюанси»: як розвивається скандальна історія зі 155-ю бригадою](https://fakty.ua/448599-nevozmozhno-bylo-predusmotret-vse-nyuansy-kak-razvivaetsya-skandalnaya-istoriya-so-155-j-brigadoj)
 - [Залишилися лічені дні: пляма мазуту з російських танкерів, що затонули, підбирається до Одеси &lpar;фото, відео&rpar;](https://fakty.ua/448595-ostalis-schitannye-dni-pyatno-mazuta-s-zatonuvshih-rossijskih-tankerov-podbiraetsya-k-odesse-foto-video)
 - [Підуть легшим шляхом: аналітики про плани рф на Покровському напрямку](https://fakty.ua/448582-pojdut-po-bolee-legkomu-puti-analitiki-o-planah-rf-na-pokrovskom-napravlenii)
-- [За його дроном росіяни йшли здаватись у полон на Курщині: 22-річному воїну просять надати звання «Герой України» посмертно](https://fakty.ua/448592-za-ego-dronom-rossiyane-shli-sdavatsya-v-plen-na-kurcshine-22-letnemu-voinu-prosyat-prisvoit-zvanie-geroj-ukrainy-posmertno)
 <!-- BLOG-POST-LIST:END -->
