@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [На передовій помічено небезпечну техніку з КНДР, якій ЗСУ майже нічого протиставити](https://fakty.ua/448598-na-peredovoj-zamechena-opasnaya-tehnika-iz-kndr-kotoroj-vsu-pochti-nechego-protivopostavit)
+- [Ініціатива Порошенка вигнати ексрегіоналів з ВР може привести до втрати й ним статусу: що мали на увазі ЗМІ](https://fakty.ua/448618-iniciativa-poroshenko-izgnat-eks-regionalov-iz-vr-privedet-k-potere-i-im-statusa-chto-imeli-v-vidu-smi)
+- [Частково мобілізований: відомий музикант вразив заявою](https://fakty.ua/448605-chastichno-mobilizovan-izvestnyj-muzykant-porazil-zayavleniem)
 - [Росіяни завдали авіаудару по Запоріжжю: багато загиблих і поранених &lpar;фото, відео&rpar;](https://fakty.ua/448616-rossiyane-nanesli-aviaudar-po-zaporozhyu-mnogo-ranenyh-foto-video)
 - [«Люблю тебе»: Катерина Бужинська вразила чуттєвим зверненням](https://fakty.ua/448603-lyublyu-tebya-ekaterina-buzhinskaya-porazila-chuvstvennym-obracsheniem)
-- [«Неможливо було передбачити всі нюанси»: як розвивається скандальна історія зі 155-ю бригадою](https://fakty.ua/448599-nevozmozhno-bylo-predusmotret-vse-nyuansy-kak-razvivaetsya-skandalnaya-istoriya-so-155-j-brigadoj)
-- [Залишилися лічені дні: пляма мазуту з російських танкерів, що затонули, підбирається до Одеси &lpar;фото, відео&rpar;](https://fakty.ua/448595-ostalis-schitannye-dni-pyatno-mazuta-s-zatonuvshih-rossijskih-tankerov-podbiraetsya-k-odesse-foto-video)
-- [Підуть легшим шляхом: аналітики про плани рф на Покровському напрямку](https://fakty.ua/448582-pojdut-po-bolee-legkomu-puti-analitiki-o-planah-rf-na-pokrovskom-napravlenii)
 <!-- BLOG-POST-LIST:END -->
