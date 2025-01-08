@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Підуть легшим шляхом: аналітики про плани рф на Покровському напрямку](https://fakty.ua/448582-pojdut-po-bolee-legkomu-puti-analitiki-o-planah-rf-na-pokrovskom-napravlenii)
 - [За його дроном росіяни йшли здаватись у полон на Курщині: 22-річному воїну просять надати звання «Герой України» посмертно](https://fakty.ua/448592-za-ego-dronom-rossiyane-shli-sdavatsya-v-plen-na-kurcshine-22-letnemu-voinu-prosyat-prisvoit-zvanie-geroj-ukrainy-posmertno)
 - [20 років популярності: пісня «Сало» Поплавського стала українським феноменом](https://fakty.ua/448591-20-let-populyarnosti-pesnya-salo-poplavskogo-stala-ukrainskim-fenomenom)
 - [Тримай мою руку: дружина Віктора Павліка зворушила зверненням до маленького сина](https://fakty.ua/448567-derzhi-moyu-ruku-zhena-viktora-pavlika-rastrogala-obracsheniem-k-malenkomu-synu)
 - [Бойові дії на території рф дедалі більше стають політичною проблемою для путіна: експерти про ситуацію на Курщині](https://fakty.ua/448569-boevye-dejstviya-na-territorii-rf-vse-bolshe-stanovyatsya-politicheskoj-problemoj-dlya-putina-eksperty-o-situacii-na-kurcshine)
-- [Львівський ТЦК потрапив у скандал із «бусифікацією»: у ситуацію втрутився омбудсмен &lpar;відео&rpar;](https://fakty.ua/448583-lvovskij-tck-popal-v-skandal-s-busifikaciej-v-situaciyu-vmeshalsya-ombudsmen-video)
 <!-- BLOG-POST-LIST:END -->
