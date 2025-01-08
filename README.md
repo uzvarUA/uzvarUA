@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Тримай мою руку: дружина Віктора Павліка зворушила зверненням до маленького сина](https://fakty.ua/448567-derzhi-moyu-ruku-zhena-viktora-pavlika-rastrogala-obracsheniem-k-malenkomu-synu)
+- [Бойові дії на території рф дедалі більше стають політичною проблемою для путіна: експерти про ситуацію на Курщині](https://fakty.ua/448569-boevye-dejstviya-na-territorii-rf-vse-bolshe-stanovyatsya-politicheskoj-problemoj-dlya-putina-eksperty-o-situacii-na-kurcshine)
 - [Львівський ТЦК потрапив у скандал із «бусифікацією»: у ситуацію втрутився омбудсмен &lpar;відео&rpar;](https://fakty.ua/448583-lvovskij-tck-popal-v-skandal-s-busifikaciej-v-situaciyu-vmeshalsya-ombudsmen-video)
 - [Дженніфер Гарнер може втратити коханого через Аффлека](https://fakty.ua/448561-dzhennifer-garner-mozhet-poteryat-vozlyublennogo-iz-za-affleka)
 - [Сім років боронив країну: на Донеччині загинув боєць з Житомирщини](https://fakty.ua/448557-sem-let-zacshicshal-stranu-v-doneckoj-oblasti-pogib-boec-s-zhitomircshiny)
-- [Стратегічна задача просунутися: генерал про тактику рф в Донецькій області](https://fakty.ua/448556-strategicheskaya-zadacha-prodvinutsya-general-o-taktike-rf-v-doneckoj-oblasti)
-- [Галкін відмовлявся вірити: співачка розповіла, як екстрасенси «напророчили» Пугачовій від’їзд з сім’єю за кордон](https://fakty.ua/448578-galkin-otkazyvalsya-verit-pevica-rasskazala-kak-ekstrasensy-quot-predskazali-quot-pugachevoj-otezd-s-semej-za-granicu)
 <!-- BLOG-POST-LIST:END -->
