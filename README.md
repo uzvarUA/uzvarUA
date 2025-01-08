@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [«Знає про мене дуже багато»: відома шеф-кухарка дала поради](https://fakty.ua/448600-znaet-obo-mne-ochen-mnogo-izvestnyj-shef-povar-dala-sovety)
+- [Недостатньо: український боєць пояснив, чого бракує ЗСУ, щоб спинити ворога під Покровськом](https://fakty.ua/448601-nedostatochno-ukrainskij-boec-obyasnil-chego-ne-hvataet-vsu-chtoby-ostanovit-vraga-pod-pokrovskom)
+- [Дитина з Києва загинула на популярному гірськолижному курорті в Карпатах &lpar;відео&rpar;](https://fakty.ua/448621-rebenok-iz-kieva-pogib-na-populyarnom-gornolyzhnom-kurorte-v-karpatah-video)
 - [На передовій помічено небезпечну техніку з КНДР, якій ЗСУ майже нічого протиставити](https://fakty.ua/448598-na-peredovoj-zamechena-opasnaya-tehnika-iz-kndr-kotoroj-vsu-pochti-nechego-protivopostavit)
 - [Ініціатива Порошенка вигнати ексрегіоналів з ВР може привести до втрати й ним статусу: що мали на увазі ЗМІ](https://fakty.ua/448618-iniciativa-poroshenko-izgnat-eks-regionalov-iz-vr-privedet-k-potere-i-im-statusa-chto-imeli-v-vidu-smi)
-- [Частково мобілізований: відомий музикант вразив заявою](https://fakty.ua/448605-chastichno-mobilizovan-izvestnyj-muzykant-porazil-zayavleniem)
-- [Росіяни завдали авіаудару по Запоріжжю: багато загиблих і поранених &lpar;фото, відео&rpar;](https://fakty.ua/448616-rossiyane-nanesli-aviaudar-po-zaporozhyu-mnogo-ranenyh-foto-video)
-- [«Люблю тебе»: Катерина Бужинська вразила чуттєвим зверненням](https://fakty.ua/448603-lyublyu-tebya-ekaterina-buzhinskaya-porazila-chuvstvennym-obracsheniem)
 <!-- BLOG-POST-LIST:END -->
