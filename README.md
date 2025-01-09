@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Голлівуде, прощавай: Анджеліна Джолі має намір покинути США — стала відомою причина](https://fakty.ua/448651-gollivud-procshaj-andzhelina-dzholi-namerena-pokinut-ssha-stala-izvestnoj-prichina)
+- [Реформатор Вагабов звинуватив очільницю Агенції оборонних закупівель у недбалості](https://fakty.ua/448659-reformator-vagabov-obvinil-glavu-agentstva-oboronnyh-zakupok-v-halatnosti)
+- [Порошенко намагається розповідати ЗСУ як треба воювати, хоча сам послаблював обороноздатність країни, — військовий](https://fakty.ua/448657-poroshenko-pytaetsya-rasskazyvat-vsu-kak-nado-voevat-hotya-sam-oslablyal-oboronosposobnost-strany---voennyj)
+- [Ворог скинув три керовані авіабомби на Херсон: є влучання та постраждалі](https://fakty.ua/448658-vrag-sbrosil-tri-upravlyaemye-aviabomby-na-herson-est-popadaniya-i-postradavshie)
 - [Попри корупційні скандали та зарплати у сотні тисяч гривень, судді ВАКС та члени ВРП вимагають пільгові кредити на житло, — експерт](https://fakty.ua/448656-nesmotrya-na-korrupcionnye-skandaly-i-zarplaty-v-sotni-tysyach-griven-sudi-vaks-i-chleny-vrp-trebuyut-lgotnyh-kreditov-na-zhile-ekspert)
-- [Не можу повірити: на війні загинув переможець «Танцюють всі!»](https://fakty.ua/448652-ne-mogu-poverit-na-vojne-pogib-pobeditel-tancuyut-vse)
-- [Воювати вмітимуть всі: Рада підтримала законопроект про базову військову підготовку](https://fakty.ua/448647-voevat-budut-umet-vse-rada-podderzhala-zakonoproekt-o-bazovoj-voennoj-podgotovke)
-- [На Рівненщині засуджений за наркоторгівлю Олег Богельський збирається посісти крісло мера Дубровиці, — ЗМІ](https://fakty.ua/448625-na-rovencshine-osuzhdennyj-za-narkotorgovlyu-oleg-bogelskij-sobiraetsya-zanyat-kreslo-mera-dubrovicy---smi)
-- [Галкін показав відпочинок з дітьми в горах і звернувся з «проханням» до недоброзичливців](https://fakty.ua/448638-galkin-pokazal-otdyh-s-detmi-v-gorah-i-obratilsya-s-quot-prosboj-quot-k-nedobrozhelatelyam)
 <!-- BLOG-POST-LIST:END -->
