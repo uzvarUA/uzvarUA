@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Стало відомо, хто з представників шоубізнесу не «боявся» Алли Пугачової, і в якому разі Примадонна може повернутись до рф](https://fakty.ua/448669-stalo-izvestno-kto-iz-predstavitelej-shou-biznesa-ne-quot-boyalsya-quot-ally-pugachevoj-i-pri-kakih-usloviyah-primadonna-mozhet-vernutsya-v-rf)
+- [Радіти тут і зараз: популярна акторка вирішила пожити на острові](https://fakty.ua/448645-radovatsya-zdes-i-sejchas-populyarnaya-aktrisa-reshila-pozhit-na-ostrove)
 - [Голлівуде, прощавай: Анджеліна Джолі має намір покинути США — стала відомою причина](https://fakty.ua/448651-gollivud-procshaj-andzhelina-dzholi-namerena-pokinut-ssha-stala-izvestnoj-prichina)
 - [Реформатор Вагабов звинуватив очільницю Агенції оборонних закупівель у недбалості](https://fakty.ua/448659-reformator-vagabov-obvinil-glavu-agentstva-oboronnyh-zakupok-v-halatnosti)
 - [Порошенко намагається розповідати ЗСУ як треба воювати, хоча сам послаблював обороноздатність країни, — військовий](https://fakty.ua/448657-poroshenko-pytaetsya-rasskazyvat-vsu-kak-nado-voevat-hotya-sam-oslablyal-oboronosposobnost-strany---voennyj)
-- [Ворог скинув три керовані авіабомби на Херсон: є влучання та постраждалі](https://fakty.ua/448658-vrag-sbrosil-tri-upravlyaemye-aviabomby-na-herson-est-popadaniya-i-postradavshie)
-- [Попри корупційні скандали та зарплати у сотні тисяч гривень, судді ВАКС та члени ВРП вимагають пільгові кредити на житло, — експерт](https://fakty.ua/448656-nesmotrya-na-korrupcionnye-skandaly-i-zarplaty-v-sotni-tysyach-griven-sudi-vaks-i-chleny-vrp-trebuyut-lgotnyh-kreditov-na-zhile-ekspert)
 <!-- BLOG-POST-LIST:END -->
