@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [На Рівненщині засуджений за наркоторгівлю Олег Богельський збирається посісти крісло мера Дубровиці, — ЗМІ](https://fakty.ua/448625-na-rovencshine-osuzhdennyj-za-narkotorgovlyu-oleg-bogelskij-sobiraetsya-zanyat-kreslo-mera-dubrovicy---smi)
 - [Терористи продовжують обстрілювати мирні міста: упродовж доби завдано сотні ударів по Україні](https://fakty.ua/448624-terroristy-prodolzhayut-obstrelivat-mirnye-goroda-za-sutki-naneseny-sotni-udarov-po-ukraine)
 - [Не хоче про це: стало відомо, чому Дженніфер Еністон не вітатиме колишнього чоловіка з розлученням](https://fakty.ua/448612-ne-hochet-ob-etom-stalo-izvestno-pochemu-dzhennifer-eniston-ne-budet-pozdravlyat-byvshego-muzha-s-razvodom)
 - [Попри вік пішов добровольцем: в боях на Запоріжжі загинув воїн з Києва](https://fakty.ua/448606-nesmotrya-na-vozrast-poshel-dobrovolcem-v-boyah-v-zaporozhskoj-oblasti-pogib-voin-iz-kieva)
 - [«Знає про мене дуже багато»: відома шеф-кухарка дала поради](https://fakty.ua/448600-znaet-obo-mne-ochen-mnogo-izvestnyj-shef-povar-dala-sovety)
-- [Недостатньо: український боєць пояснив, чого бракує ЗСУ, щоб спинити ворога під Покровськом](https://fakty.ua/448601-nedostatochno-ukrainskij-boec-obyasnil-chego-ne-hvataet-vsu-chtoby-ostanovit-vraga-pod-pokrovskom)
 <!-- BLOG-POST-LIST:END -->
