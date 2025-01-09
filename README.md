@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Попри корупційні скандали та зарплати у сотні тисяч гривень, судді ВАКС та члени ВРП вимагають пільгові кредити на житло, — експерт](https://fakty.ua/448656-nesmotrya-na-korrupcionnye-skandaly-i-zarplaty-v-sotni-tysyach-griven-sudi-vaks-i-chleny-vrp-trebuyut-lgotnyh-kreditov-na-zhile-ekspert)
+- [Не можу повірити: на війні загинув переможець «Танцюють всі!»](https://fakty.ua/448652-ne-mogu-poverit-na-vojne-pogib-pobeditel-tancuyut-vse)
+- [Воювати вмітимуть всі: Рада підтримала законопроект про базову військову підготовку](https://fakty.ua/448647-voevat-budut-umet-vse-rada-podderzhala-zakonoproekt-o-bazovoj-voennoj-podgotovke)
 - [На Рівненщині засуджений за наркоторгівлю Олег Богельський збирається посісти крісло мера Дубровиці, — ЗМІ](https://fakty.ua/448625-na-rovencshine-osuzhdennyj-za-narkotorgovlyu-oleg-bogelskij-sobiraetsya-zanyat-kreslo-mera-dubrovicy---smi)
 - [Галкін показав відпочинок з дітьми в горах і звернувся з «проханням» до недоброзичливців](https://fakty.ua/448638-galkin-pokazal-otdyh-s-detmi-v-gorah-i-obratilsya-s-quot-prosboj-quot-k-nedobrozhelatelyam)
-- [Нічна атака «Шахедів»: скільки дронів збили Повітряні Сили](https://fakty.ua/448631-nochnaya-ataka-shahedov-skolko-dronov-sbili-vozdushnye-sily)
-- [Терористи продовжують обстрілювати мирні міста: упродовж доби завдано сотні ударів по Україні](https://fakty.ua/448624-terroristy-prodolzhayut-obstrelivat-mirnye-goroda-za-sutki-naneseny-sotni-udarov-po-ukraine)
-- [Не хоче про це: стало відомо, чому Дженніфер Еністон не вітатиме колишнього чоловіка з розлученням](https://fakty.ua/448612-ne-hochet-ob-etom-stalo-izvestno-pochemu-dzhennifer-eniston-ne-budet-pozdravlyat-byvshego-muzha-s-razvodom)
 <!-- BLOG-POST-LIST:END -->
