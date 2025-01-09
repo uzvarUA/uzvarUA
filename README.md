@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [«Для майбутнього країни критично важливе збільшення кількості громадян, які вважають себе українцями», — експерт](https://fakty.ua/448640-dlya-buducshego-strany-kriticheski-vazhno-uvelichenie-kolichestva-grazhdan-kotorye-schitayut-sebya-ukraincami---ekspert)
 - [Ворог атакував Кривий Ріг балістикою: скільки ракет збила ППО](https://fakty.ua/448671-vrag-atakoval-krivoj-rog-ballistikoj-skolko-raket-sbila-pvo)
 - [Стало відомо, хто з представників шоубізнесу не «боявся» Алли Пугачової, і в якому разі Примадонна може повернутись до рф](https://fakty.ua/448669-stalo-izvestno-kto-iz-predstavitelej-shou-biznesa-ne-quot-boyalsya-quot-ally-pugachevoj-i-pri-kakih-usloviyah-primadonna-mozhet-vernutsya-v-rf)
 - [Радіти тут і зараз: популярна акторка вирішила пожити на острові](https://fakty.ua/448645-radovatsya-zdes-i-sejchas-populyarnaya-aktrisa-reshila-pozhit-na-ostrove)
 - [Голлівуде, прощавай: Анджеліна Джолі має намір покинути США — стала відомою причина](https://fakty.ua/448651-gollivud-procshaj-andzhelina-dzholi-namerena-pokinut-ssha-stala-izvestnoj-prichina)
-- [Реформатор Вагабов звинуватив очільницю Агенції оборонних закупівель у недбалості](https://fakty.ua/448659-reformator-vagabov-obvinil-glavu-agentstva-oboronnyh-zakupok-v-halatnosti)
 <!-- BLOG-POST-LIST:END -->
