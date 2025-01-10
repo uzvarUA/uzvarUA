@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Порошенко вимагає зупинити транзит російської нафти, забувши, як з росіянами й Медведчуком привласнив частину нафтопроводу, — Олещук](https://fakty.ua/448713-poroshenko-trebuet-ostanovit-tranzit-rossijskoj-nefti-zabyv-kak-s-rossiyanami-i-medvedchukom-prisvoil-chast-nefteprovoda---olecshuk)
+- [Коли знову хакнуть держреєстри, ви про це не дізнаєтесь: експерт про ухвалений у ВР закон, який погіршує ситуацію з кібербезпекою](https://fakty.ua/448710-kogda-vnov-haknut-gosreestry-vy-ob-etom-ne-uznaete-ekspert-o-prinyatom-v-vr-zakone-kotoryj-uhudshaet-situaciyu-s-kiberbezopasnostyu)
+- [У справі сина екскерівника Рівненської АЄС, який до смерті побив жінку, повністю переписали обвинувачення: що відомо](https://fakty.ua/448711-v-dele-syna-eks-rukovoditelya-rovenskoj-aes-kotoryj-do-smerti-izbil-zhencshinu-polnostyu-perepisali-obvinenie-chto-izvestno)
 - [Біль не згас: Павло Зібров про втрату друга](https://fakty.ua/448694-bol-ne-ugasla-pavel-zibrov-o-potere-druga)
 - [«Нептун» добив: метою атаки безпілотників у ростовській області був склад російських дронів](https://fakty.ua/448705-neptun-dobil-celyu-ataki-bespilotnikov-v-rostovskoj-oblasti-byl-sklad-rossijskih-dronov)
-- [F-16 проти російської авіації: чому немає повітряних дуелей та чим можуть допомогти Україні модифікації «Сокола» із США, Тайваню та Сінгапуру](https://fakty.ua/448664-f-16-protiv-rossijskoj-aviacii-pochemu-net-vozdushnyh-duelej-i-chem-mogut-pomoch-ukraine-modifikacii-sokola-iz-ssha-tajvanya-i-singapura)
-- [«Снаряди летіли, земля здіймалася вгору, кулі свистіли з усіх боків. Це було пекло»: історія ветерана, який дивом врятувався на сході](https://fakty.ua/448665-snaryady-leteli-zemlya-podnimalas-vverh-puli-svisteli-so-vseh-storon-eto-byl-ad-istoriya-veterana-kotoryj-chudom-spassya-na-vostoke)
-- [Соратниці Шабуніна підтримали закон про звільнення постачальників зброї від штрафів усупереч закликам ЦПК — ЗМІ](https://fakty.ua/448689-soratnicy-shabunina-podderzhali-zakon-ob-osvobozhdenii-postavcshikov-oruzhiya-ot-shtrafov-vopreki-prizyvam-cpk-smi)
 <!-- BLOG-POST-LIST:END -->
