@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Справа Ктиторчука: суд ухвалив вирок відомому фотографу](https://fakty.ua/448718-delo-ktitorchuka-sud-vynes-prigovor-znamenitomu-fotografu)
+- [«Ми у розпачі»: зоозахисники б&amp;#39;ють на сполох у зв&amp;#39;язку з масовим отруєнням безпритульних собак у Білій Церкві](https://fakty.ua/448708-my-v-otchayanii-zoozacshiniki-byut-trevogu-v-svyazi-s-massovym-otravleniem-bezdomnyh-sobak-v-beloj-cerkvi)
 - [Порошенко вимагає зупинити транзит російської нафти, забувши, як з росіянами й Медведчуком привласнив частину нафтопроводу, — Олещук](https://fakty.ua/448713-poroshenko-trebuet-ostanovit-tranzit-rossijskoj-nefti-zabyv-kak-s-rossiyanami-i-medvedchukom-prisvoil-chast-nefteprovoda---olecshuk)
 - [Коли знову хакнуть держреєстри, ви про це не дізнаєтесь: експерт про ухвалений у ВР закон, який погіршує ситуацію з кібербезпекою](https://fakty.ua/448710-kogda-vnov-haknut-gosreestry-vy-ob-etom-ne-uznaete-ekspert-o-prinyatom-v-vr-zakone-kotoryj-uhudshaet-situaciyu-s-kiberbezopasnostyu)
 - [У справі сина екскерівника Рівненської АЄС, який до смерті побив жінку, повністю переписали обвинувачення: що відомо](https://fakty.ua/448711-v-dele-syna-eks-rukovoditelya-rovenskoj-aes-kotoryj-do-smerti-izbil-zhencshinu-polnostyu-perepisali-obvinenie-chto-izvestno)
-- [Біль не згас: Павло Зібров про втрату друга](https://fakty.ua/448694-bol-ne-ugasla-pavel-zibrov-o-potere-druga)
-- [«Нептун» добив: метою атаки безпілотників у ростовській області був склад російських дронів](https://fakty.ua/448705-neptun-dobil-celyu-ataki-bespilotnikov-v-rostovskoj-oblasti-byl-sklad-rossijskih-dronov)
 <!-- BLOG-POST-LIST:END -->
