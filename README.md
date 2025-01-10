@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Створюємо безпечний простір і працюємо над розвитком нашої громади у складні воєнні часи, — мер Білоусов](https://fakty.ua/448681-sozdaem-bezopasnoe-prostranstvo-i-rabotaem-nad-razvitiem-nashej-gromady-v-slozhnye-voennye-vremena---mer-belousov)
+- [На захоплення Покровська путіну може не вистачити часу: експерти про те, як зміна влади у США вплине на війну в Україні](https://fakty.ua/448660-na-zahvat-pokrovska-putinu-mozhet-ne-hvatit-vremeni-eksperty-o-tom-kak-smena-vlasti-v-ssha-povliyaet-na-vojnu-v-ukraine)
+- [Сотні обшуків одночасно: сьогодні поліція проводить масштабну спецоперацію по всій Україні &lpar;відео&rpar;](https://fakty.ua/448677-sotni-obyskov-odnovremenno-segodnya-policiya-provodit-masshtabnuyu-specoperaciyu-po-vsej-ukraine-video)
 - [Нічний «обмін» ударами дронів: у Києві «шахед» поцілив у багатоповерхівку, під Ростовом горить завод &lpar;фото, відео&rpar;](https://fakty.ua/448674-nochnoj-obmen-udarami-dronov-v-kieve-oblomki-upali-na-mnogoetazhku-pod-rostovom-gorit-zavod-foto-video)
 - [Лілі-Роуз Депп отримала психологічну травму через фільм свого батька Джонні Деппа](https://fakty.ua/448646-lili-rouz-depp-poluchila-psihologicheskuyu-travmu-iz-za-filma-svoego-otca-dzhonni-deppa)
-- [Ніколи не відмовляв у допомозі: у Курській області загинув воїн з Київщини](https://fakty.ua/448641-nikogda-ne-otkazyval-v-pomocshi-v-kurskoj-oblasti-pogib-voin-s-kievcshiny)
-- [«Для майбутнього країни критично важливе збільшення кількості громадян, які вважають себе українцями», — експерт](https://fakty.ua/448640-dlya-buducshego-strany-kriticheski-vazhno-uvelichenie-kolichestva-grazhdan-kotorye-schitayut-sebya-ukraincami---ekspert)
-- [Ворог атакував Кривий Ріг балістикою: скільки ракет збила ППО](https://fakty.ua/448671-vrag-atakoval-krivoj-rog-ballistikoj-skolko-raket-sbila-pvo)
 <!-- BLOG-POST-LIST:END -->
