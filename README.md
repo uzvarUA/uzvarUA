@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Нічний «обмін» ударами дронів: у Києві «шахед» поцілив у багатоповерхівку, під Ростовом горить завод &lpar;фото, відео&rpar;](https://fakty.ua/448674-nochnoj-obmen-udarami-dronov-v-kieve-oblomki-upali-na-mnogoetazhku-pod-rostovom-gorit-zavod-foto-video)
 - [Лілі-Роуз Депп отримала психологічну травму через фільм свого батька Джонні Деппа](https://fakty.ua/448646-lili-rouz-depp-poluchila-psihologicheskuyu-travmu-iz-za-filma-svoego-otca-dzhonni-deppa)
 - [Ніколи не відмовляв у допомозі: у Курській області загинув воїн з Київщини](https://fakty.ua/448641-nikogda-ne-otkazyval-v-pomocshi-v-kurskoj-oblasti-pogib-voin-s-kievcshiny)
 - [«Для майбутнього країни критично важливе збільшення кількості громадян, які вважають себе українцями», — експерт](https://fakty.ua/448640-dlya-buducshego-strany-kriticheski-vazhno-uvelichenie-kolichestva-grazhdan-kotorye-schitayut-sebya-ukraincami---ekspert)
 - [Ворог атакував Кривий Ріг балістикою: скільки ракет збила ППО](https://fakty.ua/448671-vrag-atakoval-krivoj-rog-ballistikoj-skolko-raket-sbila-pvo)
-- [Стало відомо, хто з представників шоубізнесу не «боявся» Алли Пугачової, і в якому разі Примадонна може повернутись до рф](https://fakty.ua/448669-stalo-izvestno-kto-iz-predstavitelej-shou-biznesa-ne-quot-boyalsya-quot-ally-pugachevoj-i-pri-kakih-usloviyah-primadonna-mozhet-vernutsya-v-rf)
 <!-- BLOG-POST-LIST:END -->
