@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [У найтрагічніший момент життя здійснив подвиг: на Чернігівщині поховали воїна, який після поранення майже місяць боровся за життя](https://fakty.ua/448687-v-samyj-tragicheskij-moment-zhizni-sovershil-podvig-na-chernigovcshine-pohoronili-voina-kotoryj-posle-raneniya-pochti-mesyac-borolsya-za-zhizn)
+- [Ризикований експеримент: в одній області України повітряну тривогу оголошуватимуть вибірково](https://fakty.ua/448721-riskovannyj-eksperiment-v-dvuh-oblastyah-ukrainy-vozdushnuyu-trevogu-budut-obyavlyat-vyborochno)
 - [Поставили «людину-функцію»: ЗМІ про призначення Ткаченка у КМВА](https://fakty.ua/448720-postavili-cheloveka-funkciyu-smi-o-naznachenii-tkachenko-v-kgva)
 - [Це вражаюче: Бен Годжес про події на Курщині](https://fakty.ua/448684-eto-vpechatlyayucshe-ben-hodzhes-o-sobytiyah-na-kurcshine)
 - [Мат Зеленського «увічнили» у поштовій марці](https://fakty.ua/448719-mat-zelenskogo-uvekovechili-v-pochtovoj-marke)
-- [«Я навіть про це не думаю»: переможниця «Холостяка» вразила зізнанням](https://fakty.ua/448702-ya-dazhe-ob-etom-ne-dumayu-pobeditelnica-holostyaka-porazila-priznaniem)
-- [Справа Ктиторчука: суд ухвалив вирок відомому фотографу](https://fakty.ua/448718-delo-ktitorchuka-sud-vynes-prigovor-znamenitomu-fotografu)
 <!-- BLOG-POST-LIST:END -->
