@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [F-16 проти російської авіації: чому немає повітряних дуелей та чим можуть допомогти Україні модифікації «Сокола» із США, Тайваню та Сінгапуру](https://fakty.ua/448664-f-16-protiv-rossijskoj-aviacii-pochemu-net-vozdushnyh-duelej-i-chem-mogut-pomoch-ukraine-modifikacii-sokola-iz-ssha-tajvanya-i-singapura)
 - [«Снаряди летіли, земля здіймалася вгору, кулі свистіли з усіх боків. Це було пекло»: історія ветерана, який дивом врятувався на сході](https://fakty.ua/448665-snaryady-leteli-zemlya-podnimalas-vverh-puli-svisteli-so-vseh-storon-eto-byl-ad-istoriya-veterana-kotoryj-chudom-spassya-na-vostoke)
 - [Соратниці Шабуніна підтримали закон про звільнення постачальників зброї від штрафів усупереч закликам ЦПК — ЗМІ](https://fakty.ua/448689-soratnicy-shabunina-podderzhali-zakon-ob-osvobozhdenii-postavcshikov-oruzhiya-ot-shtrafov-vopreki-prizyvam-cpk-smi)
 - [Створюємо безпечний простір і працюємо над розвитком нашої громади у складні воєнні часи, — мер Білоусов](https://fakty.ua/448681-sozdaem-bezopasnoe-prostranstvo-i-rabotaem-nad-razvitiem-nashej-gromady-v-slozhnye-voennye-vremena---mer-belousov)
 - [На захоплення Покровська путіну може не вистачити часу: експерти про те, як зміна влади у США вплине на війну в Україні](https://fakty.ua/448660-na-zahvat-pokrovska-putinu-mozhet-ne-hvatit-vremeni-eksperty-o-tom-kak-smena-vlasti-v-ssha-povliyaet-na-vojnu-v-ukraine)
-- [Сотні обшуків одночасно: сьогодні поліція проводить масштабну спецоперацію по всій Україні &lpar;відео&rpar;](https://fakty.ua/448677-sotni-obyskov-odnovremenno-segodnya-policiya-provodit-masshtabnuyu-specoperaciyu-po-vsej-ukraine-video)
 <!-- BLOG-POST-LIST:END -->
