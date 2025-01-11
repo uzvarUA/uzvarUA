@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [росія втрачає по 400 військових в одному бою — аналітики](https://fakty.ua/448742-rossiya-teryaet-po-400-voennyh-v-odnom-boyu-analitiki)
 - [Світовий тур «Казанови» начебто відміняється, але є «нюанси»](https://fakty.ua/448754-mirovoj-tur-quot-kazanovy-quot-vrode-by-otmenyaetsya-no-est-quot-nyuansy-quot)
 - [Продовження буде, і куди потужніше: експерт розповів, чому ЗСУ атакували на Курському напрямку і що буде далі](https://fakty.ua/448739-prodolzhenie-budet-i-kuda-mocshnee-ekspert-rasskazal-pochemu-vsu-atakovali-na-kurskom-napravlenii-i-chto-budet-dalshe)
 - [Зламав носа Орбакайте і одружився з молоденькою: стали відомі драматичні деталі другого шлюбу доньки Примадонни](https://fakty.ua/448751-slomal-nos-orbakajte-i-zhenilsya-na-molodenkoj-stali-izvestny-dramaticheskie-detali-vtorogo-braka-docheri-primadonny)
 - [Допомагає улюблений напій: найбільш успішна співачка XXI сторіччя розповіла, з чого починає свій день](https://fakty.ua/448745-pomogaet-lyubimyj-napitok-samaya-uspeshnaya-pevica-xxi-veka-rasskazala-s-chego-nachinaet-svoj-den)
-- [Хотіли втекти в Молдову разом з водієм: в Одеській області затримали бус з 11 чоловіками](https://fakty.ua/448748-hoteli-skrytsya-v-moldove-vmeste-s-voditelem-v-odesskoj-oblasti-zaderzhali-bus-s-11-muzhchinami)
 <!-- BLOG-POST-LIST:END -->
