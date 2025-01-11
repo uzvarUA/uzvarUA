@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Двоє представників України спостерігали, як захисники Маріуполя складають зброю: стали відомі непублічні факти про вихід «азовців» у полон](https://fakty.ua/448707-dvoe-predstavitelej-ukrainy-nablyudali-kak-zacshitniki-mariupolya-skladyvayut-oruzhie-stali-izvestny-nepublichnye-fakty-vyhoda-azovcev-v-plen)
 - [Сімнадцять наших громадян повернулися в Україну з окупованих територій, — Лубинець](https://fakty.ua/448734-semnadcat-nashih-grazhdan-vernulis-v-ukrainu-s-okkupirovannyh-territorij---lubinec)
 - [Софія Ротару передумала продавати елітну квартиру в москві: що відомо](https://fakty.ua/448731-sofiya-rotaru-peredumala-prodavat-elitnuyu-kvartiru-v-moskve-chto-izvestno)
 - [Анджеліна Джолі збрехала: актриса пояснила, чому пішла на свідомий обман режисера](https://fakty.ua/448728-andzhelina-dzholi-sovrala-aktrisa-obyasnila-pochemu-poshla-na-soznatelnyj-obman-rezhissera)
 - [Оголошено понад 60 підозр: в Нацполіції розповіли про результати масштабної спецоперації по всій Україні](https://fakty.ua/448729-obyavleno-bolee-60-podozrenij-v-nacpolicii-rasskazali-o-rezultatah-masshtabnoj-specoperacii-po-vsej-ukraine)
-- [Це стратегічна висота: військовий експерт назвав напрямки, на які у ворога найбільше планів](https://fakty.ua/448704-eto-strategicheskaya-vysota-voennyj-ekspert-nazval-napravleniya-na-kotorye-u-vraga-bolshe-vsego-planov)
 <!-- BLOG-POST-LIST:END -->
