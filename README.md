@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Світовий тур «Казанови» начебто відміняється, але є «нюанси»](https://fakty.ua/448754-mirovoj-tur-quot-kazanovy-quot-vrode-by-otmenyaetsya-no-est-quot-nyuansy-quot)
+- [Продовження буде, і куди потужніше: експерт розповів, чому ЗСУ атакували на Курському напрямку і що буде далі](https://fakty.ua/448739-prodolzhenie-budet-i-kuda-mocshnee-ekspert-rasskazal-pochemu-vsu-atakovali-na-kurskom-napravlenii-i-chto-budet-dalshe)
 - [Зламав носа Орбакайте і одружився з молоденькою: стали відомі драматичні деталі другого шлюбу доньки Примадонни](https://fakty.ua/448751-slomal-nos-orbakajte-i-zhenilsya-na-molodenkoj-stali-izvestny-dramaticheskie-detali-vtorogo-braka-docheri-primadonny)
 - [Допомагає улюблений напій: найбільш успішна співачка XXI сторіччя розповіла, з чого починає свій день](https://fakty.ua/448745-pomogaet-lyubimyj-napitok-samaya-uspeshnaya-pevica-xxi-veka-rasskazala-s-chego-nachinaet-svoj-den)
 - [Хотіли втекти в Молдову разом з водієм: в Одеській області затримали бус з 11 чоловіками](https://fakty.ua/448748-hoteli-skrytsya-v-moldove-vmeste-s-voditelem-v-odesskoj-oblasti-zaderzhali-bus-s-11-muzhchinami)
-- [Свої не встигли «добити»: ЗСУ взяли у полон двох вояків Кіма у Курській області &lpar;фото&rpar;](https://fakty.ua/448747-svoi-ne-uspeli-quot-dobit-quot-vsu-vzyali-v-plen-dvuh-voinov-kima-v-kurskoj-oblasti-foto)
-- [Кожен третій діяч ВО «Свобода» служить, партія має історію та впізнаваність, тому стартуватиме швидко: політолог високо оцінив перспективи політсили](https://fakty.ua/448746-kazhdyj-tretij-deyatel-vo-svoboda-sluzhit-partiya-imeet-istoriyu-i-uznavaemost-poetomu-startuet-bystro-politolog-vysoko-ocenil-perspektivy-politsily)
 <!-- BLOG-POST-LIST:END -->
