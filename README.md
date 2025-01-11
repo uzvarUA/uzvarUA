@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Хотіли втекти в Молдову разом з водієм: в Одеській області затримали бус з 11 чоловіками](https://fakty.ua/448748-hoteli-skrytsya-v-moldove-vmeste-s-voditelem-v-odesskoj-oblasti-zaderzhali-bus-s-11-muzhchinami)
+- [Свої не встигли «добити»: ЗСУ взяли у полон двох вояків Кіма у Курській області &lpar;фото&rpar;](https://fakty.ua/448747-svoi-ne-uspeli-quot-dobit-quot-vsu-vzyali-v-plen-dvuh-voinov-kima-v-kurskoj-oblasti-foto)
+- [Кожен третій діяч ВО «Свобода» служить, партія має історію та впізнаваність, тому стартуватиме швидко: політолог високо оцінив перспективи політсили](https://fakty.ua/448746-kazhdyj-tretij-deyatel-vo-svoboda-sluzhit-partiya-imeet-istoriyu-i-uznavaemost-poetomu-startuet-bystro-politolog-vysoko-ocenil-perspektivy-politsily)
 - [Він вбив комісара Каттані: стало відомо, чому Мікеле Плачідо переконав сценаристів застрелити свого героя](https://fakty.ua/448738-on-ubil-komissara-kattani-stalo-izvestno-pochemu-mikele-plachido-ubedil-scenaristov-zastrelit-svoego-geroya)
 - [ЗСУ отримали новітню німецьку БМП: що це за техніка](https://fakty.ua/448706-vsu-poluchili-novejshuyu-nemeckuyu-bmp-chto-eto-za-tehnika)
-- [Двоє представників України спостерігали, як захисники Маріуполя складають зброю: стали відомі непублічні факти про вихід «азовців» у полон](https://fakty.ua/448707-dvoe-predstavitelej-ukrainy-nablyudali-kak-zacshitniki-mariupolya-skladyvayut-oruzhie-stali-izvestny-nepublichnye-fakty-vyhoda-azovcev-v-plen)
-- [Сімнадцять наших громадян повернулися в Україну з окупованих територій, — Лубинець](https://fakty.ua/448734-semnadcat-nashih-grazhdan-vernulis-v-ukrainu-s-okkupirovannyh-territorij---lubinec)
-- [Софія Ротару передумала продавати елітну квартиру в москві: що відомо](https://fakty.ua/448731-sofiya-rotaru-peredumala-prodavat-elitnuyu-kvartiru-v-moskve-chto-izvestno)
 <!-- BLOG-POST-LIST:END -->
