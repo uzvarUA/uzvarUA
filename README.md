@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Сімнадцять наших громадян повернулися в Україну з окупованих територій, — Лубинець](https://fakty.ua/448734-semnadcat-nashih-grazhdan-vernulis-v-ukrainu-s-okkupirovannyh-territorij---lubinec)
+- [Софія Ротару передумала продавати елітну квартиру в москві: що відомо](https://fakty.ua/448731-sofiya-rotaru-peredumala-prodavat-elitnuyu-kvartiru-v-moskve-chto-izvestno)
 - [Анджеліна Джолі збрехала: актриса пояснила, чому пішла на свідомий обман режисера](https://fakty.ua/448728-andzhelina-dzholi-sovrala-aktrisa-obyasnila-pochemu-poshla-na-soznatelnyj-obman-rezhissera)
 - [Оголошено понад 60 підозр: в Нацполіції розповіли про результати масштабної спецоперації по всій Україні](https://fakty.ua/448729-obyavleno-bolee-60-podozrenij-v-nacpolicii-rasskazali-o-rezultatah-masshtabnoj-specoperacii-po-vsej-ukraine)
 - [Це стратегічна висота: військовий експерт назвав напрямки, на які у ворога найбільше планів](https://fakty.ua/448704-eto-strategicheskaya-vysota-voennyj-ekspert-nazval-napravleniya-na-kotorye-u-vraga-bolshe-vsego-planov)
-- [Перекривали дороги в Києві і співали «Я русский»: поліція знайшла неповнолітних негідників, які «гуляли» центром столиці](https://fakty.ua/448725-perekryvali-dorogi-v-kieve-i-peli-quot-ya-russkij-quot-policiya-nashla-nesovershennoletnih-negodyaev-kotorye-quot-gulyali-quot-po-centru-stolicy)
-- [Ворог обстріляв Київщину та низку інших регіонів України, а у відповідь отримав атаку дронів по різних об’єктах](https://fakty.ua/448724-vrag-obstrelyal-kievcshinu-i-ryad-drugih-regionov-ukrainy-a-v-otvet-poluchil-ataku-dronov-po-raznym-obektam)
 <!-- BLOG-POST-LIST:END -->
