@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Аріана Гранде зізналася, що зберігала молодість завдяки ботоксу](https://fakty.ua/448753-ariana-grande-priznalas-chto-sohranyala-molodost-blagodarya-botoksu)
 - [Рідні виконали його останнє бажання: боєць спецпідрозділу «Кракен» не вижив після важкого поранення](https://fakty.ua/448744-rodnye-ispolnili-ego-poslednee-zhelanie-boec-specpodrazdeleniya-kraken-ne-vyzhil-posle-tyazhelogo-raneniya)
 - [росія втрачає по 400 військових в одному бою — аналітики](https://fakty.ua/448742-rossiya-teryaet-po-400-voennyh-v-odnom-boyu-analitiki)
 - [Світовий тур «Казанови» начебто відміняється, але є «нюанси»](https://fakty.ua/448754-mirovoj-tur-quot-kazanovy-quot-vrode-by-otmenyaetsya-no-est-quot-nyuansy-quot)
 - [Продовження буде, і куди потужніше: експерт розповів, чому ЗСУ атакували на Курському напрямку і що буде далі](https://fakty.ua/448739-prodolzhenie-budet-i-kuda-mocshnee-ekspert-rasskazal-pochemu-vsu-atakovali-na-kurskom-napravlenii-i-chto-budet-dalshe)
-- [Зламав носа Орбакайте і одружився з молоденькою: стали відомі драматичні деталі другого шлюбу доньки Примадонни](https://fakty.ua/448751-slomal-nos-orbakajte-i-zhenilsya-na-molodenkoj-stali-izvestny-dramaticheskie-detali-vtorogo-braka-docheri-primadonny)
 <!-- BLOG-POST-LIST:END -->
