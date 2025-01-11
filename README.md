@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Він вбив комісара Каттані: стало відомо, чому Мікеле Плачідо переконав сценаристів застрелити свого героя](https://fakty.ua/448738-on-ubil-komissara-kattani-stalo-izvestno-pochemu-mikele-plachido-ubedil-scenaristov-zastrelit-svoego-geroya)
+- [ЗСУ отримали новітню німецьку БМП: що це за техніка](https://fakty.ua/448706-vsu-poluchili-novejshuyu-nemeckuyu-bmp-chto-eto-za-tehnika)
 - [Двоє представників України спостерігали, як захисники Маріуполя складають зброю: стали відомі непублічні факти про вихід «азовців» у полон](https://fakty.ua/448707-dvoe-predstavitelej-ukrainy-nablyudali-kak-zacshitniki-mariupolya-skladyvayut-oruzhie-stali-izvestny-nepublichnye-fakty-vyhoda-azovcev-v-plen)
 - [Сімнадцять наших громадян повернулися в Україну з окупованих територій, — Лубинець](https://fakty.ua/448734-semnadcat-nashih-grazhdan-vernulis-v-ukrainu-s-okkupirovannyh-territorij---lubinec)
 - [Софія Ротару передумала продавати елітну квартиру в москві: що відомо](https://fakty.ua/448731-sofiya-rotaru-peredumala-prodavat-elitnuyu-kvartiru-v-moskve-chto-izvestno)
-- [Анджеліна Джолі збрехала: актриса пояснила, чому пішла на свідомий обман режисера](https://fakty.ua/448728-andzhelina-dzholi-sovrala-aktrisa-obyasnila-pochemu-poshla-na-soznatelnyj-obman-rezhissera)
-- [Оголошено понад 60 підозр: в Нацполіції розповіли про результати масштабної спецоперації по всій Україні](https://fakty.ua/448729-obyavleno-bolee-60-podozrenij-v-nacpolicii-rasskazali-o-rezultatah-masshtabnoj-specoperacii-po-vsej-ukraine)
 <!-- BLOG-POST-LIST:END -->
