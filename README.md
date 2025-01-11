@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Перекривали дороги в Києві і співали «Я русский»: поліція знайшла неповнолітних негідників, які «гуляли» центром столиці](https://fakty.ua/448725-perekryvali-dorogi-v-kieve-i-peli-quot-ya-russkij-quot-policiya-nashla-nesovershennoletnih-negodyaev-kotorye-quot-gulyali-quot-po-centru-stolicy)
 - [Ворог обстріляв Київщину та низку інших регіонів України, а у відповідь отримав атаку дронів по різних об’єктах](https://fakty.ua/448724-vrag-obstrelyal-kievcshinu-i-ryad-drugih-regionov-ukrainy-a-v-otvet-poluchil-ataku-dronov-po-raznym-obektam)
 - [Тільки безсоння заважає: Дженніфер Еністон насолоджується відпочинком у Мексиці](https://fakty.ua/448693-tolko-bessonnica-meshaet-dzhennifer-eniston-naslazhdaetsya-otdyhom-v-meksike)
 - [Тяжка хвороба вбила відому російську акторку](https://fakty.ua/448722-tyazhelaya-bolezn-ubila-izvestnuyu-rossijskuyu-aktrisu)
 - [У найтрагічніший момент життя здійснив подвиг: на Чернігівщині поховали воїна, який після поранення майже місяць боровся за життя](https://fakty.ua/448687-v-samyj-tragicheskij-moment-zhizni-sovershil-podvig-na-chernigovcshine-pohoronili-voina-kotoryj-posle-raneniya-pochti-mesyac-borolsya-za-zhizn)
-- [Ризикований експеримент: в одній області України повітряну тривогу оголошуватимуть вибірково](https://fakty.ua/448721-riskovannyj-eksperiment-v-dvuh-oblastyah-ukrainy-vozdushnuyu-trevogu-budut-obyavlyat-vyborochno)
 <!-- BLOG-POST-LIST:END -->
