@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [У Тернополі судитимуть лікарів через смерть однорічної дитини під час операції: що сталося](https://fakty.ua/448769-v-ternopole-budut-sudit-vrachej-iz-za-smerti-godovalogo-rebenka-vo-vremya-operacii-chto-sluchilos)
+- [Ризики дуже значні: дипломат про переговори Трампа з путіним без України](https://fakty.ua/448759-riski-ochen-bolshie-diplomat-o-peregovorah-trampa-s-putinym-bez-ukrainy)
+- [«Холостяк» Терен присоромив Славу Дьоміна: телеведучому довелося вибачатися &lpar;фото&rpar;](https://fakty.ua/448768-holostyak-teren-pristydil-slavu-demina-televeducshemu-prishlos-izvinyatsya-foto)
 - [Не шкодують людей та ігнорують удари дронів: експерти — про те, як воюють під Курськом «солдати Кіма»](https://fakty.ua/448763-ne-zhaleyut-lyudej-i-ignoriruyut-udary-dronov-eksperty-o-tom-kak-voyuyut-pod-kurskom-soldaty-kima)
 - [Мазутом із затонулих у Керченській протоці танкерів забруднене азовське узбережжя під Бердянськом &lpar;фото&rpar;](https://fakty.ua/448762-mazutom-s-zatonuvshih-v-kerchenskom-prolive-tankerov-zagryazneno-azovskoe-poberezhe-pod-berdyanskom-foto)
-- [Смертельна ДТП за участю маршрутки у Києві: знадобилася допомога рятувальників &lpar;фото&rpar;](https://fakty.ua/448761-smertelnoe-dtp-s-uchastiem-marshrutki-v-kieve-ponadobilas-pomocsh-spasatelej-foto)
-- [Аріана Гранде зізналася, що зберігала молодість завдяки ботоксу](https://fakty.ua/448753-ariana-grande-priznalas-chto-sohranyala-molodost-blagodarya-botoksu)
-- [Рідні виконали його останнє бажання: боєць спецпідрозділу «Кракен» не вижив після важкого поранення](https://fakty.ua/448744-rodnye-ispolnili-ego-poslednee-zhelanie-boec-specpodrazdeleniya-kraken-ne-vyzhil-posle-tyazhelogo-raneniya)
 <!-- BLOG-POST-LIST:END -->
