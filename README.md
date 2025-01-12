@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Ще не встиг створити власну родину: на Курщині поліг стрілець із Хмельниччини](https://fakty.ua/448787-ecshe-ne-uspel-sozdat-sobstvennuyu-semyu-na-kurcshine-pogib-strelok-s-hmelnitchiny)
 - [Легендарний «Азов» зробив незвичайний крок задля посилення фронту — The Guardian](https://fakty.ua/448776-legendarnyj-azov-sdelal-neobychnyj-shag-dlya-usileniya-fronta-the-guardian)
 - [Байден насамкінець вирішив відрізати росію від передових технологій](https://fakty.ua/448771-bajden-naposledok-reshil-otrezat-rossiyu-ot-peredovyh-tehnologij)
 - [У Тернополі судитимуть лікарів через смерть однорічної дитини під час операції: що сталося](https://fakty.ua/448769-v-ternopole-budut-sudit-vrachej-iz-za-smerti-godovalogo-rebenka-vo-vremya-operacii-chto-sluchilos)
 - [Ризики дуже значні: дипломат про переговори Трампа з путіним без України](https://fakty.ua/448759-riski-ochen-bolshie-diplomat-o-peregovorah-trampa-s-putinym-bez-ukrainy)
-- [«Холостяк» Терен присоромив Славу Дьоміна: телеведучому довелося вибачатися &lpar;фото&rpar;](https://fakty.ua/448768-holostyak-teren-pristydil-slavu-demina-televeducshemu-prishlos-izvinyatsya-foto)
 <!-- BLOG-POST-LIST:END -->
