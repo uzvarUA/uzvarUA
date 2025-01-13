@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Ворог знову атакував Україну ударними БпЛА: де вночі лунали вибухи](https://fakty.ua/448798-vrag-snova-atakoval-ukrainu-udarnymi-bpla-gde-nochyu-razdavalis-vzryvy)
 - [Це все неправда: Дженніфер Еністон розвінчала популярну мантру про здоров’я](https://fakty.ua/448788-eto-vse-nepravda-dzhennifer-eniston-razvenchala-populyarnuyu-mantru-o-zdorove)
 - [Ще не встиг створити власну родину: на Курщині поліг стрілець із Хмельниччини](https://fakty.ua/448787-ecshe-ne-uspel-sozdat-sobstvennuyu-semyu-na-kurcshine-pogib-strelok-s-hmelnitchiny)
 - [Легендарний «Азов» зробив незвичайний крок задля посилення фронту — The Guardian](https://fakty.ua/448776-legendarnyj-azov-sdelal-neobychnyj-shag-dlya-usileniya-fronta-the-guardian)
 - [Байден насамкінець вирішив відрізати росію від передових технологій](https://fakty.ua/448771-bajden-naposledok-reshil-otrezat-rossiyu-ot-peredovyh-tehnologij)
-- [У Тернополі судитимуть лікарів через смерть однорічної дитини під час операції: що сталося](https://fakty.ua/448769-v-ternopole-budut-sudit-vrachej-iz-za-smerti-godovalogo-rebenka-vo-vremya-operacii-chto-sluchilos)
 <!-- BLOG-POST-LIST:END -->
