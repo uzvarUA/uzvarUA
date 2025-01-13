@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
-- [Серце розбите: британський актор загинув під час лісових пожеж у Малібу](https://fakty.ua/448799-serdce-razbito-britanskij-akter-pogib-vo-vremya-lesnyh-pozharov-v-malibu)
+- [«На Сіверськодонецькому напрямку за десять днів врятувала понад 200 поранених бійців», — бойова медикиня з позивним «Гера»](https://fakty.ua/448807-na-severskodoneckom-napravlenii-za-desyat-dnej-spasla-bolee-200-ranenyh-bojcov---boevoj-medik-s-pozyvnym-gera)
+- [Перебуваємо в депресії: онук Алли Пугачової вийшов на зв’язок з охопленого вогнем Лос-Анджелесу](https://fakty.ua/448809-nahodimsya-v-depressii-vnuk-ally-pugachevoj-vyshel-na-svyaz-s-ohvachennym-ognem-los-andzhelesom)
+- [Серце розбите: британський актор загинув під час лісових пожеж у США](https://fakty.ua/448799-serdce-razbito-britanskij-akter-pogib-vo-vremya-lesnyh-pozharov-v-malibu)
 - [Нічна атака рф: Повітряні Сили назвали кількість збитих БПЛА](https://fakty.ua/448804-nochnaya-ataka-rf-vozdushnye-sily-nazvali-kolichestvo-sbityh-bpla)
 - [Ворог знову атакував Україну ударними БпЛА: де вночі лунали вибухи](https://fakty.ua/448798-vrag-snova-atakoval-ukrainu-udarnymi-bpla-gde-nochyu-razdavalis-vzryvy)
-- [Це все неправда: Дженніфер Еністон розвінчала популярну мантру про здоров’я](https://fakty.ua/448788-eto-vse-nepravda-dzhennifer-eniston-razvenchala-populyarnuyu-mantru-o-zdorove)
-- [Ще не встиг створити власну родину: на Курщині поліг стрілець із Хмельниччини](https://fakty.ua/448787-ecshe-ne-uspel-sozdat-sobstvennuyu-semyu-na-kurcshine-pogib-strelok-s-hmelnitchiny)
 <!-- BLOG-POST-LIST:END -->
