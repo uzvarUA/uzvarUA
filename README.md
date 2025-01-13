@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Справа доньки нардепа фракції «ЄС», яка збила пішохода: в ЗМІ повідомили про наміри обвинувачення наполягати на позбавленні волі](https://fakty.ua/448848-delo-docheri-nardepa-frakcii-quot-es-quot-kotoraya-sbila-peshehoda-v-smi-soobcshili-o-namereniyah-obvineniya-nastaivat-na-lishenii-svobody)
 - [Після парочки коктейлів почуваюся на всі 17: Злата Огнєвіч вразила зізнанням](https://fakty.ua/448819-posle-parochki-koktejlej-chuvstvuyu-sebya-na-vse-17-zlata-ognevich-porazila-priznaniem)
 - [Христина Орбакайте звернулась до шанувальників: Алла Пугачова палко підтримала](https://fakty.ua/448843-kristina-orbakajte-obratilas-k-poklonnikam-alla-pugacheva-goryacho-podderzhala)
 - [Індексації 15 січня не буде: в ПФУ попередили пенсіонерів про черговий фейк шахраїв](https://fakty.ua/448844-indeksacii-15-yanvarya-ne-budet-v-pfu-predupredili-pensionerov-ob-ocherednom-fejke-moshennikov)
 - [Можливо, помиряться? Дженіфер Лопес та Бен Аффлек знову зблизилися на тлі масштабних пожеж у Лос-Анджелесі](https://fakty.ua/448820-mozhet-pomiryatsya-dzhennifer-lopes-i-ben-afflek-snova-sblizilis-na-fone-masshtabnyh-pozharov-v-los-andzhelese)
-- [«Пора міняти мізки»: Потап анонсував концерти у Лос-Анджелесі](https://fakty.ua/448827-quot-pora-menyat-mozgi-quot-potap-anonsiroval-koncerty-v-los-andzhelese)
 <!-- BLOG-POST-LIST:END -->
