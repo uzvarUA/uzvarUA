@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Нічна атака рф: Повітряні Сили назвали кількість збитих БПЛА](https://fakty.ua/448804-nochnaya-ataka-rf-vozdushnye-sily-nazvali-kolichestvo-sbityh-bpla)
 - [Ворог знову атакував Україну ударними БпЛА: де вночі лунали вибухи](https://fakty.ua/448798-vrag-snova-atakoval-ukrainu-udarnymi-bpla-gde-nochyu-razdavalis-vzryvy)
 - [Це все неправда: Дженніфер Еністон розвінчала популярну мантру про здоров’я](https://fakty.ua/448788-eto-vse-nepravda-dzhennifer-eniston-razvenchala-populyarnuyu-mantru-o-zdorove)
 - [Ще не встиг створити власну родину: на Курщині поліг стрілець із Хмельниччини](https://fakty.ua/448787-ecshe-ne-uspel-sozdat-sobstvennuyu-semyu-na-kurcshine-pogib-strelok-s-hmelnitchiny)
 - [Легендарний «Азов» зробив незвичайний крок задля посилення фронту — The Guardian](https://fakty.ua/448776-legendarnyj-azov-sdelal-neobychnyj-shag-dlya-usileniya-fronta-the-guardian)
-- [Байден насамкінець вирішив відрізати росію від передових технологій](https://fakty.ua/448771-bajden-naposledok-reshil-otrezat-rossiyu-ot-peredovyh-tehnologij)
 <!-- BLOG-POST-LIST:END -->
