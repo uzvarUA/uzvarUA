@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Христина Орбакайте звернулась до шанувальників: Алла Пугачова палко підтримала](https://fakty.ua/448843-kristina-orbakajte-obratilas-k-poklonnikam-alla-pugacheva-goryacho-podderzhala)
+- [Індексації 15 січня не буде: в ПФУ попередили пенсіонерів про черговий фейк шахраїв](https://fakty.ua/448844-indeksacii-15-yanvarya-ne-budet-v-pfu-predupredili-pensionerov-ob-ocherednom-fejke-moshennikov)
 - [Можливо, помиряться? Дженіфер Лопес та Бен Аффлек знову зблизилися на тлі масштабних пожеж у Лос-Анджелесі](https://fakty.ua/448820-mozhet-pomiryatsya-dzhennifer-lopes-i-ben-afflek-snova-sblizilis-na-fone-masshtabnyh-pozharov-v-los-andzhelese)
 - [«Пора міняти мізки»: Потап анонсував концерти у Лос-Анджелесі](https://fakty.ua/448827-quot-pora-menyat-mozgi-quot-potap-anonsiroval-koncerty-v-los-andzhelese)
 - [«Можу психонути й наговорити дурниць»: популярна акторка відверто розповіла про особисте](https://fakty.ua/448821-mogu-psihonut-i-nagovorit-glupostej-populyarnaya-aktrisa-otkrovenno-rasskazala-o-lichnom)
-- [Намагалися підірвати цистерну з пальним на залізничній станції: у Дніпрі СБУ затримала російських агентів](https://fakty.ua/448829-pytalis-vzorvat-cisternu-s-goryuchim-na-zheleznodorozhnoj-stancii-v-dnepre-sbu-zaderzhala-rossijskih-agentov)
-- [СБУ допитала полонених солдатів з КНДР: в чому вони зізналися](https://fakty.ua/448805-sbu-doprosila-plennyh-soldat-iz-kndr-v-chem-oni-priznalis)
 <!-- BLOG-POST-LIST:END -->
