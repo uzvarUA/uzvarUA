@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [«Можу психонути й наговорити дурниць»: популярна акторка відверто розповіла про особисте](https://fakty.ua/448821-mogu-psihonut-i-nagovorit-glupostej-populyarnaya-aktrisa-otkrovenno-rasskazala-o-lichnom)
 - [Намагалися підірвати цистерну з пальним на залізничній станції: у Дніпрі СБУ затримала російських агентів](https://fakty.ua/448829-pytalis-vzorvat-cisternu-s-goryuchim-na-zheleznodorozhnoj-stancii-v-dnepre-sbu-zaderzhala-rossijskih-agentov)
 - [СБУ допитала полонених солдатів з КНДР: в чому вони зізналися](https://fakty.ua/448805-sbu-doprosila-plennyh-soldat-iz-kndr-v-chem-oni-priznalis)
 - [Шпигувала за київським ППО: СБУ затримала агентку російського гру](https://fakty.ua/448818-shpionila-po-kievskomu-pvo-sbu-zaderzhala-agentku-rossijskoj-igry)
 - [«На Сіверськодонецькому напрямку за десять днів врятувала понад 200 поранених бійців», — бойова медикиня з позивним «Гера»](https://fakty.ua/448807-na-severskodoneckom-napravlenii-za-desyat-dnej-spasla-bolee-200-ranenyh-bojcov---boevoj-medik-s-pozyvnym-gera)
-- [Перебуваємо в депресії: онук Алли Пугачової вийшов на зв’язок з охопленого вогнем Лос-Анджелесу](https://fakty.ua/448809-nahodimsya-v-depressii-vnuk-ally-pugachevoj-vyshel-na-svyaz-s-ohvachennym-ognem-los-andzhelesom)
 <!-- BLOG-POST-LIST:END -->
