@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Серце розбите: британський актор загинув під час лісових пожеж у Малібу](https://fakty.ua/448799-serdce-razbito-britanskij-akter-pogib-vo-vremya-lesnyh-pozharov-v-malibu)
 - [Нічна атака рф: Повітряні Сили назвали кількість збитих БПЛА](https://fakty.ua/448804-nochnaya-ataka-rf-vozdushnye-sily-nazvali-kolichestvo-sbityh-bpla)
 - [Ворог знову атакував Україну ударними БпЛА: де вночі лунали вибухи](https://fakty.ua/448798-vrag-snova-atakoval-ukrainu-udarnymi-bpla-gde-nochyu-razdavalis-vzryvy)
 - [Це все неправда: Дженніфер Еністон розвінчала популярну мантру про здоров’я](https://fakty.ua/448788-eto-vse-nepravda-dzhennifer-eniston-razvenchala-populyarnuyu-mantru-o-zdorove)
 - [Ще не встиг створити власну родину: на Курщині поліг стрілець із Хмельниччини](https://fakty.ua/448787-ecshe-ne-uspel-sozdat-sobstvennuyu-semyu-na-kurcshine-pogib-strelok-s-hmelnitchiny)
-- [Легендарний «Азов» зробив незвичайний крок задля посилення фронту — The Guardian](https://fakty.ua/448776-legendarnyj-azov-sdelal-neobychnyj-shag-dlya-usileniya-fronta-the-guardian)
 <!-- BLOG-POST-LIST:END -->
