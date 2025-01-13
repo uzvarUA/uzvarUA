@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Намагалися підірвати цистерну з пальним на залізничній станції: у Дніпрі СБУ затримала російських агентів](https://fakty.ua/448829-pytalis-vzorvat-cisternu-s-goryuchim-na-zheleznodorozhnoj-stancii-v-dnepre-sbu-zaderzhala-rossijskih-agentov)
+- [СБУ допитала полонених солдатів з КНДР: в чому вони зізналися](https://fakty.ua/448805-sbu-doprosila-plennyh-soldat-iz-kndr-v-chem-oni-priznalis)
 - [Шпигувала за київським ППО: СБУ затримала агентку російського гру](https://fakty.ua/448818-shpionila-po-kievskomu-pvo-sbu-zaderzhala-agentku-rossijskoj-igry)
 - [«На Сіверськодонецькому напрямку за десять днів врятувала понад 200 поранених бійців», — бойова медикиня з позивним «Гера»](https://fakty.ua/448807-na-severskodoneckom-napravlenii-za-desyat-dnej-spasla-bolee-200-ranenyh-bojcov---boevoj-medik-s-pozyvnym-gera)
 - [Перебуваємо в депресії: онук Алли Пугачової вийшов на зв’язок з охопленого вогнем Лос-Анджелесу](https://fakty.ua/448809-nahodimsya-v-depressii-vnuk-ally-pugachevoj-vyshel-na-svyaz-s-ohvachennym-ognem-los-andzhelesom)
-- [Серце розбите: британський актор загинув під час лісових пожеж у США](https://fakty.ua/448799-serdce-razbito-britanskij-akter-pogib-vo-vremya-lesnyh-pozharov-v-malibu)
-- [Нічна атака рф: Повітряні Сили назвали кількість збитих БПЛА](https://fakty.ua/448804-nochnaya-ataka-rf-vozdushnye-sily-nazvali-kolichestvo-sbityh-bpla)
 <!-- BLOG-POST-LIST:END -->
