@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Начинила вибуховий пристрій гайками: на Одещині запобігли теракту проти військових &lpar;фото&rpar;](https://fakty.ua/448860-nachinila-vzryvnoe-ustrojstvo-gajkami-v-odesskoj-oblasti-predotvratili-terakt-protiv-voennyh-foto)
 - [Власника агрохолдингу, якого розшукують за земельні махінації, захищають одіозні адвокати з орбіти ОПЗЖ](https://fakty.ua/448853-vladelca-agroholdinga-kotorogo-razyskivayut-za-zemelnye-mahinacii-zacshicshayut-odioznye-advokaty-iz-orbity-opzzh)
 - [Вихованець дитбудинку з кримінальним минулим: осинтери вирахували командира окупантів, який наказував обезголовлювати українських військових &lpar;фото&rpar;](https://fakty.ua/448852-detdomovec-s-ugolovnym-proshlym-osintery-vychislili-komandira-okkupantov-prikazyvavshego-obezglavlivat-ukrainskih-voennyh-foto)
 - [Вона не повинна: стало відомо, чому Дженніфер Лопес залишила каблучку від Бена Аффлека за 5 мільйонів доларів](https://fakty.ua/448832-ona-ne-dolzhna-stalo-izvestno-pochemu-dzhennifer-lopes-ostavila-kolco-ot-bena-affleka-za-5-millionov-dollarov)
 - [Лікування з повноцінним раціоном: держава відшкодує лікарням витрати на харчування військових, — Дубіль](https://fakty.ua/448850-lechenie-s-polnocennym-racionom-gosudarstvo-vozmestit-bolnicam-rashody-na-pitanie-voennyh---dubil)
-- [Воював у найгарячіших точках: під Торецьком загинув штурмовик з Чернігівщини](https://fakty.ua/448824-voeval-v-samyh-goryachih-tochkah-pod-toreckom-pogib-shturmovik-s-chernigovcshiny)
 <!-- BLOG-POST-LIST:END -->
