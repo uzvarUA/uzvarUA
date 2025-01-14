@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Маючи інвалідність, пішов боронити країну: на Вінниччині попрощалися з 39-річним вогнеметником](https://fakty.ua/448863-imeya-invalidnost-poshel-zacshicshat-stranu-v-vinnickoj-oblasti-prostilis-s-39-letnim-ognemetchikom)
 - [Умови конкурсу на управителя для ТРЦ «Гулівер» прописали під компанію з «клану Адамовського і Грановського» — журналіст](https://fakty.ua/448898-usloviya-konkursa-na-upravlyayucshego-dlya-trc-gulliver-propisali-pod-kompaniyu-iz-klana-adamovskogo-i-granovskogo---zhurnalist)
 - [Перетворюють Україну на ресурсний центр Європи, — Тимошенко про загрозу втрати суверенітету через останні голосування в ВР](https://fakty.ua/448897-prevracshayut-ukrainu-v-resursnyj-centr-evropy---timoshenko-ob-ugroze-poteri-suvereniteta-iz-za-poslednih-golosovanij-v-vr)
 - [Авіатехніків — у піхоту? Генштаб ЗСУ зробив важливу заяву](https://fakty.ua/448896-aviatehnikov---v-pehotu-genshtab-vsu-sdelal-vazhnoe-zayavlenie)
 - [«Ми чули багато сигналів»: Зеленський відреагував на черговий заклик із США зменшити мобілізаційний вік в Україні](https://fakty.ua/448895-my-slyshali-mnogo-signalov-zelenskij-otreagiroval-na-ocherednoj-prizyv-iz-ssha-snizit-mobilizacionnyj-vozrast-v-ukraine)
-- [«Це найкращий розподіл тягаря»: Блінкен про допомогу Україні](https://fakty.ua/448859-quot-eto-luchshee-raspredelenie-nagruzki-quot-blinken-o-pomocshi-ukraine)
 <!-- BLOG-POST-LIST:END -->
