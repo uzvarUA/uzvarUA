@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [«Ми чули багато сигналів»: Зеленський відреагував на черговий заклик із США зменшити мобілізаційний вік в Україні](https://fakty.ua/448895-my-slyshali-mnogo-signalov-zelenskij-otreagiroval-na-ocherednoj-prizyv-iz-ssha-snizit-mobilizacionnyj-vozrast-v-ukraine)
+- [«Це найкращий розподіл тягаря»: Блінкен про допомогу Україні](https://fakty.ua/448859-quot-eto-luchshee-raspredelenie-nagruzki-quot-blinken-o-pomocshi-ukraine)
 - [Підставили ЗСУ у бою: чиновників Міноборони викрили в афері з кулеметами](https://fakty.ua/448877-podstavili-vsu-v-boyu-chinovnikov-minoborony-ulichili-v-afere-s-pulemetami)
 - [Постріл у русі, без розрахунку і на 54 км: ЗСУ отримали першу унікальну САУ, ставши поки що єдиним її користувачем, окрім Німеччини](https://fakty.ua/448858-vystrel-v-dvizhenii-bez-rascheta-i-na-54-km-vsu-poluchili-pervuyu-unikalnuyu-sau-stav-poka-edinstvennym-ee-polzovatelem-krome-germanii)
 - [В Києві повністю зупинилось скандальне будівництво в Солом’янському ландшафтному парку](https://fakty.ua/448885-v-kieve-polnostyu-ostanovilos-skandalnoe-stroitelstvo-v-solomenskom-landshaftnom-parke)
-- [У Харкові спіймали винуватця скандального інциденту з «новобранцями», що втекли від ТЦК &lpar;відео&rpar;](https://fakty.ua/448875-v-harkove-pojmali-vinovnika-skandalnogo-incidenta-so-sbezhavshimi-ot-tck-novobrancami-video)
-- [«Ось це справжнє щастя»: відомий шеф-кухар здивував зізнанням](https://fakty.ua/448874-vot-eto-nastoyacshee-schaste-izvestnyj-shef-povar-udivil-priznaniem)
 <!-- BLOG-POST-LIST:END -->
