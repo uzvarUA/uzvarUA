@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Терен зізнався, навіщо йому потрібний був проект «Холостяк»](https://fakty.ua/448869-teren-priznalsya-zachem-emu-nuzhen-byl-proekt-holostyak)
 - [Скандал у «Вікіпедії»: адмін Goo3 використовує платформу для власного збагачення](https://fakty.ua/448871-skandal-v-vikipedii-admin-goo3-ispolzuet-platformu-dlya-sobstvennogo-obogacsheniya)
 - [«Перебуваючи в оточенні, вискочив з окопу та поцілив з ручного протитанкового гранатомета в окупанта»: дружина про останній бій Олександра Палія](https://fakty.ua/448845-nahodyas-v-okruzhenii-vyskochil-iz-okopa-i-popal-iz-ruchnogo-protivotankovogo-granatometa-v-okkupanta-zhena-o-poslednem-boe-aleksandra-paliya)
 - [Ціна війни — 400 мільярдів доларів: аналітик розповів, скільки коштує рф агресія проти України і яка схема допомагає це приховувати](https://fakty.ua/448836-cena-vojny---400-milliardov-dollarov-analitik-rasskazal-skolko-stoit-rf-agressiya-protiv-ukrainy-i-kakaya-shema-pomogaet-eto-skryvat)
 - [Начинила вибуховий пристрій гайками: на Одещині запобігли теракту проти військових &lpar;фото&rpar;](https://fakty.ua/448860-nachinila-vzryvnoe-ustrojstvo-gajkami-v-odesskoj-oblasti-predotvratili-terakt-protiv-voennyh-foto)
-- [Власника агрохолдингу, якого розшукують за земельні махінації, захищають одіозні адвокати з орбіти ОПЗЖ](https://fakty.ua/448853-vladelca-agroholdinga-kotorogo-razyskivayut-za-zemelnye-mahinacii-zacshicshayut-odioznye-advokaty-iz-orbity-opzzh)
 <!-- BLOG-POST-LIST:END -->
