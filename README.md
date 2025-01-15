@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Як легко очистити рибу без ножа: кілька дієвих лайфхаків &lpar;відео&rpar;](https://fakty.ua/448920-kak-legko-ochistit-rybu-bez-nozha-neskolko-dejstvennyh-lajfhakov-video)
+- [Україна може вступити до НАТО: ЗМІ назвали, за яких умов](https://fakty.ua/448881-ukraina-mozhet-vstupit-v-nato-smi-nazvali-pri-kakih-usloviyah)
 - [«Не можу повірити»: популярна акторка вразила коштовним подарунком &lpar;фото&rpar;](https://fakty.ua/448919-ne-mogu-poverit-populyarnaya-aktrisa-porazila-dorogostoyacshim-podarkom-foto)
 - [Новий формат обміну: Україна домоглася повернення з полону рф важкохворих та поранених бійців](https://fakty.ua/448931-novyj-format-obmena-ukraina-dobilas-vozvracsheniya-iz-plena-rossii-tyazhelobolnyh-i-ranenyh-bojcov)
 - [Зустріч неминуча: стало відомо, коли Анджеліна Джолі та Дженніфер Еністон стикнуться віч-на-віч](https://fakty.ua/448925-vstrecha-neizbezhna-stalo-izvestno-kogda-andzhelina-dzholi-i-dzhennifer-eniston-stolknutsya-licom-k-licu)
-- [Зняв золоту обручку із пальця загиблого військового та здав у ломбард: на Житомирщині працівнику СМЕ повідомили про підозру](https://fakty.ua/448928-snyal-zolotoe-kolco-s-palca-pogibshego-voennogo-i-sdal-v-lombard-v-zhitomirskoj-oblasti-rabotniku-sme-soobcshili-o-podozrenii)
-- [«Кому війна, а кому куртка Loro Piana за 18400 євро»: експерт дорікнув Порошенку за кричуще дороге вбрання](https://fakty.ua/448927-komu-vojna-a-komu-kurtka-loro-piana-za-18-400-evro-ekspert-upreknul-poroshenko-za-roskoshnyj-dorogoj-naryad)
 <!-- BLOG-POST-LIST:END -->
