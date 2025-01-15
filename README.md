@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Знищений штаб окупантів біля Покровська: стали відомі подробиці](https://fakty.ua/448873-unichtozhen-shtab-okkupantov-vozle-pokrovska-stali-izvestny-podrobnosti)
+- [Ціллю була газова інфраструктура: Зеленський розповів про ранкову атаку росії](https://fakty.ua/448910-celyu-byla-gazovaya-infrastruktura-zelenskij-rasskazal-ob-utrennej-atake-rossii)
 - [Терористи з рф масовано обстрілюють Україну: де лунають вибухи та працює ППО](https://fakty.ua/448899-terroristy-iz-rf-massirovanno-obstrelivayut-ukrainu-gde-razdayutsya-vzryvy-i-rabotaet-pvo)
 - [Намагається бути ідеальним: Джастін Тімберлейк хоче повернути довіру дружини](https://fakty.ua/448866-pytaetsya-byt-idealnym-dzhastin-timberlejk-hochet-vernut-doverie-zheny)
 - [Маючи інвалідність, пішов боронити країну: на Вінниччині попрощалися з 39-річним вогнеметником](https://fakty.ua/448863-imeya-invalidnost-poshel-zacshicshat-stranu-v-vinnickoj-oblasti-prostilis-s-39-letnim-ognemetchikom)
-- [Умови конкурсу на управителя для ТРЦ «Гулівер» прописали під компанію з «клану Адамовського і Грановського» — журналіст](https://fakty.ua/448898-usloviya-konkursa-na-upravlyayucshego-dlya-trc-gulliver-propisali-pod-kompaniyu-iz-klana-adamovskogo-i-granovskogo---zhurnalist)
-- [Перетворюють Україну на ресурсний центр Європи, — Тимошенко про загрозу втрати суверенітету через останні голосування в ВР](https://fakty.ua/448897-prevracshayut-ukrainu-v-resursnyj-centr-evropy---timoshenko-ob-ugroze-poteri-suvereniteta-iz-za-poslednih-golosovanij-v-vr)
 <!-- BLOG-POST-LIST:END -->
