@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Зустріч неминуча: стало відомо, коли Анджеліна Джолі та Дженніфер Еністон стикнуться віч-на-віч](https://fakty.ua/448925-vstrecha-neizbezhna-stalo-izvestno-kogda-andzhelina-dzholi-i-dzhennifer-eniston-stolknutsya-licom-k-licu)
+- [Зняв золоту обручку із пальця загиблого військового та здав у ломбард: на Житомирщині працівнику СМЕ повідомили про підозру](https://fakty.ua/448928-snyal-zolotoe-kolco-s-palca-pogibshego-voennogo-i-sdal-v-lombard-v-zhitomirskoj-oblasti-rabotniku-sme-soobcshili-o-podozrenii)
 - [«Кому війна, а кому куртка Loro Piana за 18400 євро»: експерт дорікнув Порошенку за кричуще дороге вбрання](https://fakty.ua/448927-komu-vojna-a-komu-kurtka-loro-piana-za-18-400-evro-ekspert-upreknul-poroshenko-za-roskoshnyj-dorogoj-naryad)
 - [Вони уперлися ще влітку: аналітик про те, чому армія рф проти вуличних боїв у Покровську](https://fakty.ua/448878-oni-uperlis-ecshe-letom-analitik-o-tom-pochemu-armiya-rf-protiv-ulichnyh-boev-v-pokrovske)
 - [Шукали легкого заробітку, але отримали підозру: в Києві затримали дві групи паліїв](https://fakty.ua/448926-iskali-legkij-zarabotok-no-poluchili-podozrenie-v-kieve-zaderzhali-dve-gruppy-podzhigatelej)
-- [Напад на співака Wellboy: в поліції прокоментували ситуацію](https://fakty.ua/448913-napadenie-na-pevca-wellboy-v-policii-prokommentirovali-situaciyu)
-- [Не хотіла навіть жити: популярна співачка шокувала зізнанням](https://fakty.ua/448917-ne-hotela-dazhe-zhit-populyarnaya-pevica-shokirovala-priznaniem)
 <!-- BLOG-POST-LIST:END -->
