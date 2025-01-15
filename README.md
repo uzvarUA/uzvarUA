@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [На сім кілограмів більше: переможниця «Холостяка» про проблеми з вагою](https://fakty.ua/448932-na-sem-kilogrammov-bolshe-pobeditelnica-holostyaka-o-problemah-s-vesom)
+- [Ліза та Гаррі Галкіни навчаються в Лондоні: сусіди Алли Пугачової розповіли деталі життя співачки](https://fakty.ua/448935-liza-i-garri-galkiny-uchatsya-v-londone-sosedi-ally-pugachevoj-rasskazali-detali-zhizni-pevicy)
 - [Як легко очистити рибу без ножа: кілька дієвих лайфхаків &lpar;відео&rpar;](https://fakty.ua/448920-kak-legko-ochistit-rybu-bez-nozha-neskolko-dejstvennyh-lajfhakov-video)
 - [Україна може вступити до НАТО: ЗМІ назвали, за яких умов](https://fakty.ua/448881-ukraina-mozhet-vstupit-v-nato-smi-nazvali-pri-kakih-usloviyah)
 - [«Не можу повірити»: популярна акторка вразила коштовним подарунком &lpar;фото&rpar;](https://fakty.ua/448919-ne-mogu-poverit-populyarnaya-aktrisa-porazila-dorogostoyacshim-podarkom-foto)
-- [Новий формат обміну: Україна домоглася повернення з полону рф важкохворих та поранених бійців](https://fakty.ua/448931-novyj-format-obmena-ukraina-dobilas-vozvracsheniya-iz-plena-rossii-tyazhelobolnyh-i-ranenyh-bojcov)
-- [Зустріч неминуча: стало відомо, коли Анджеліна Джолі та Дженніфер Еністон стикнуться віч-на-віч](https://fakty.ua/448925-vstrecha-neizbezhna-stalo-izvestno-kogda-andzhelina-dzholi-i-dzhennifer-eniston-stolknutsya-licom-k-licu)
 <!-- BLOG-POST-LIST:END -->
