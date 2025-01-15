@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
-- [Винен «Бред Пітт»: жінка віддала шахраю майже 1 млн євро через бажання бути з голлівудською знаменитістю](https://fakty.ua/448911-vinovat-quot-bred-pitt-quot-zhencshina-otdala-moshenniku-pochti-1-mln-evro-iz-za-zhelaniya-byt-s-gollivudskoj-znamenitostyu)
-- [«Толя встиг надіслати татові відео, де він лежить поранений»: мама 20-річного прикордонника «Монтана», який залишив академію, щоб захищати країну](https://fakty.ua/448879-tolya-uspel-prislat-pape-video-gde-on-lezhit-ranenyj-mama-20-letnego-pogranichnika-montana-kotoryj-ostavil-akademiyu-chtoby-zacshicshat-stranu)
-- [В Україні продовжили воєнний стан та мобілізацію](https://fakty.ua/448914-v-ukraine-prodolzhili-voennoe-polozhenie-i-mobilizaciyu)
-- [Знищений штаб окупантів біля Покровська: стали відомі подробиці](https://fakty.ua/448873-unichtozhen-shtab-okkupantov-vozle-pokrovska-stali-izvestny-podrobnosti)
-- [Ціллю була газова інфраструктура: Зеленський розповів про ранкову атаку росії](https://fakty.ua/448910-celyu-byla-gazovaya-infrastruktura-zelenskij-rasskazal-ob-utrennej-atake-rossii)
+- [«Кому війна, а кому куртка Loro Piana за 18400 євро»: експерт дорікнув Порошенку за кричуще дороге вбрання](https://fakty.ua/448927-komu-vojna-a-komu-kurtka-loro-piana-za-18-400-evro-ekspert-upreknul-poroshenko-za-roskoshnyj-dorogoj-naryad)
+- [Вони уперлися ще влітку: аналітик про те, чому армія рф проти вуличних боїв у Покровську](https://fakty.ua/448878-oni-uperlis-ecshe-letom-analitik-o-tom-pochemu-armiya-rf-protiv-ulichnyh-boev-v-pokrovske)
+- [Шукали легкого заробітку, але отримали підозру: в Києві затримали дві групи паліїв](https://fakty.ua/448926-iskali-legkij-zarabotok-no-poluchili-podozrenie-v-kieve-zaderzhali-dve-gruppy-podzhigatelej)
+- [Напад на співака Wellboy: в поліції прокоментували ситуацію](https://fakty.ua/448913-napadenie-na-pevca-wellboy-v-policii-prokommentirovali-situaciyu)
+- [Не хотіла навіть жити: популярна співачка шокувала зізнанням](https://fakty.ua/448917-ne-hotela-dazhe-zhit-populyarnaya-pevica-shokirovala-priznaniem)
 <!-- BLOG-POST-LIST:END -->
