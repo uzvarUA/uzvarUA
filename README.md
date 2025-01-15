@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Винен «Бред Пітт»: жінка віддала шахраю майже 1 млн євро через бажання бути з голлівудською знаменитістю](https://fakty.ua/448911-vinovat-quot-bred-pitt-quot-zhencshina-otdala-moshenniku-pochti-1-mln-evro-iz-za-zhelaniya-byt-s-gollivudskoj-znamenitostyu)
+- [«Толя встиг надіслати татові відео, де він лежить поранений»: мама 20-річного прикордонника «Монтана», який залишив академію, щоб захищати країну](https://fakty.ua/448879-tolya-uspel-prislat-pape-video-gde-on-lezhit-ranenyj-mama-20-letnego-pogranichnika-montana-kotoryj-ostavil-akademiyu-chtoby-zacshicshat-stranu)
+- [В Україні продовжили воєнний стан та мобілізацію](https://fakty.ua/448914-v-ukraine-prodolzhili-voennoe-polozhenie-i-mobilizaciyu)
 - [Знищений штаб окупантів біля Покровська: стали відомі подробиці](https://fakty.ua/448873-unichtozhen-shtab-okkupantov-vozle-pokrovska-stali-izvestny-podrobnosti)
 - [Ціллю була газова інфраструктура: Зеленський розповів про ранкову атаку росії](https://fakty.ua/448910-celyu-byla-gazovaya-infrastruktura-zelenskij-rasskazal-ob-utrennej-atake-rossii)
-- [Терористи з рф масовано обстрілюють Україну: де лунають вибухи та працює ППО](https://fakty.ua/448899-terroristy-iz-rf-massirovanno-obstrelivayut-ukrainu-gde-razdayutsya-vzryvy-i-rabotaet-pvo)
-- [Намагається бути ідеальним: Джастін Тімберлейк хоче повернути довіру дружини](https://fakty.ua/448866-pytaetsya-byt-idealnym-dzhastin-timberlejk-hochet-vernut-doverie-zheny)
-- [Маючи інвалідність, пішов боронити країну: на Вінниччині попрощалися з 39-річним вогнеметником](https://fakty.ua/448863-imeya-invalidnost-poshel-zacshicshat-stranu-v-vinnickoj-oblasti-prostilis-s-39-letnim-ognemetchikom)
 <!-- BLOG-POST-LIST:END -->
