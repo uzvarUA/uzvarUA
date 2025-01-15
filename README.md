@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Ракетні атаки можуть стати частішими? Експерт розповів про дивні ігри російської пропаганди](https://fakty.ua/448884-raketnye-ataki-mogut-stat-chacshe-ekspert-rasskazal-o-strannyh-igrah-rossijskoj-propagandy)
+- [До нестями: Надя Дорофєєва вразила світлинами](https://fakty.ua/448929-do-umopomracheniya-nadya-dorofeeva-porazila-fotografiyami)
 - [Відбила Галкіна у молодої актриси: Кіркоров виклав власну версію відносин з Примадонною](https://fakty.ua/448943-otbila-galkina-u-molodoj-aktrisy-kirkorov-izlozhil-sobstvennuyu-versiyu-otnoshenij-s-primadonnoj)
 - [Попадання авіабомби у багатоповерхівку в Краматорську: кількість поранених зростає](https://fakty.ua/448945-popadanie-aviabomby-v-mnogoetazhku-v-kramatorske-kolichestvo-ranenyh-rastet)
 - [На сім кілограмів більше: переможниця «Холостяка» про проблеми з вагою](https://fakty.ua/448932-na-sem-kilogrammov-bolshe-pobeditelnica-holostyaka-o-problemah-s-vesom)
-- [Ліза та Гаррі Галкіни навчаються в Лондоні: сусіди Алли Пугачової розповіли деталі життя співачки](https://fakty.ua/448935-liza-i-garri-galkiny-uchatsya-v-londone-sosedi-ally-pugachevoj-rasskazali-detali-zhizni-pevicy)
-- [Як легко очистити рибу без ножа: кілька дієвих лайфхаків &lpar;відео&rpar;](https://fakty.ua/448920-kak-legko-ochistit-rybu-bez-nozha-neskolko-dejstvennyh-lajfhakov-video)
 <!-- BLOG-POST-LIST:END -->
