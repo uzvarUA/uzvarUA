@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Не лише унікальна САУ: Україна отримає від Німеччини ще одну важливу техніку](https://fakty.ua/448940-ne-tolko-unikalnaya-sau-ukraina-poluchit-ot-germanii-ecshe-odnu-vazhnuyu-tehniku)
 - [Про заручини повідомлю: популярна акторка заінтригувала мережу](https://fakty.ua/448963-o-pomolvke-soobcshu-populyarnaya-aktrisa-zaintrigovala-set)
 - [Україна та Велика Британія підписали історичну угоду на 100 років: про що йдеться &lpar;фото&rpar;](https://fakty.ua/448989-ukraina-i-velikobritaniya-podpisali-istoricheskoe-soglashenie-na-100-let-o-chem-idet-rech)
 - [Українцям за кордоном відновлюють видачу паспортів: що відомо](https://fakty.ua/448987-ukraincam-za-granicej-vozobnovlyayut-vydachu-pasportov-chto-izvestno)
 - [За видалення з сайту матеріалу про закупівлю мін часів Другої світової «Еспресо» пропонували гроші: редакція відмовилась](https://fakty.ua/448986-za-udalenie-s-sajta-materiala-o-zakupke-min-vremen-vtoroj-mirovoj-quot-espresso-quot-predlagali-dengi-redakciya-otkazalas)
-- [Трагедії вдалося уникнути: диверсанти підірвали рейки перед військовим ешелоном на Рівненщині &lpar;фото&rpar;](https://fakty.ua/448971-tragedii-udalos-izbezhat-diversanty-podorvali-relsy-pered-voennym-eshelonom-v-rovenskoj-oblasti-foto)
 <!-- BLOG-POST-LIST:END -->
