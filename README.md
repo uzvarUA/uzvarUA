@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Про заручини повідомлю: популярна акторка заінтригувала мережу](https://fakty.ua/448963-o-pomolvke-soobcshu-populyarnaya-aktrisa-zaintrigovala-set)
+- [Україна та Велика Британія підписали історичну угоду на 100 років: про що йдеться &lpar;фото&rpar;](https://fakty.ua/448989-ukraina-i-velikobritaniya-podpisali-istoricheskoe-soglashenie-na-100-let-o-chem-idet-rech)
 - [Українцям за кордоном відновлюють видачу паспортів: що відомо](https://fakty.ua/448987-ukraincam-za-granicej-vozobnovlyayut-vydachu-pasportov-chto-izvestno)
 - [За видалення з сайту матеріалу про закупівлю мін часів Другої світової «Еспресо» пропонували гроші: редакція відмовилась](https://fakty.ua/448986-za-udalenie-s-sajta-materiala-o-zakupke-min-vremen-vtoroj-mirovoj-quot-espresso-quot-predlagali-dengi-redakciya-otkazalas)
 - [Трагедії вдалося уникнути: диверсанти підірвали рейки перед військовим ешелоном на Рівненщині &lpar;фото&rpar;](https://fakty.ua/448971-tragedii-udalos-izbezhat-diversanty-podorvali-relsy-pered-voennym-eshelonom-v-rovenskoj-oblasti-foto)
-- [«Найкращий варіант — щоб війна тривала»: ветеран — про те, чому «мир» у 2025 році означатиме поразку України](https://fakty.ua/448969-luchshij-variant-chtoby-vojna-prodolzhalas-veteran-o-tom-pochemu-mir-v-2025-godu-budet-oznachat-porazhenie-ukrainy)
-- [Кому за 30: у мережі сперечаються з приводу нового сезону «Холостяка»](https://fakty.ua/448964-komu-za-30-v-seti-sporyat-po-povodu-novogo-sezona-holostyaka)
 <!-- BLOG-POST-LIST:END -->
