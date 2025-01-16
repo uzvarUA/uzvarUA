@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [«Шанс, що Україна витримає, є»: колишній генерал НАТО обурений через заяву німецького експерта](https://fakty.ua/448939-shans-chto-ukraina-vyderzhit-est-byvshij-general-nato-vozmucshen-zayavleniem-nemeckogo-eksperta)
+- [У ДСНС спростовують «чутки» про швидку мобілізацію половини рятувальників](https://fakty.ua/448967-v-gschs-oprovergayut-sluhi-o-skoroj-mobilizacii-poloviny-spasatelej)
 - [Моє улюблене імʼя: популярний музикант вперше став батьком](https://fakty.ua/448961-moe-lyubimoe-imya-populyarnyj-muzykant-vpervye-stal-otcom)
 - [Моделі не дивляться по боках: переселенка з Луганщини у 48 вперше вийшла на подіум і говорить, що бути позитивною завжди на часі](https://fakty.ua/448924-modeli-ne-smotryat-po-storonam-pereselenka-s-lugancshiny-v-48-vpervye-vyshla-na-podium-i-govorit-chto-byt-pozitivnoj-vsegda-aktualno)
 - [У ТЦК під Києвом військові побили правозахисницю, яка заступилася за насильно мобілізованого &lpar;фото&rpar;](https://fakty.ua/448956-v-tck-pod-kievom-voennye-izbili-pravozacshitnicu-vstupivshuyusya-za-nasilno-mobilizovannogo-foto)
-- [Всупереч всім: Лілія Ребрик розчулила мережу](https://fakty.ua/448936-vopreki-vsem-liliya-rebrik-rastrogala-set)
-- [Десятки житлових будинків пошкоджено внаслідок нічного удару росіян по Нікополю, є жертви &lpar;фото&rpar;](https://fakty.ua/448949-desyatki-zhilyh-domov-povrezhdeny-v-rezultate-nochnogo-udara-rossiyan-po-nikopolyu-est-zhertvy-foto)
 <!-- BLOG-POST-LIST:END -->
