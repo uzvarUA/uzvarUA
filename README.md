@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [У ТЦК під Києвом військові побили правозахисницю, яка заступилася за насильно мобілізованого &lpar;фото&rpar;](https://fakty.ua/448956-v-tck-pod-kievom-voennye-izbili-pravozacshitnicu-vstupivshuyusya-za-nasilno-mobilizovannogo-foto)
+- [Всупереч всім: Лілія Ребрик розчулила мережу](https://fakty.ua/448936-vopreki-vsem-liliya-rebrik-rastrogala-set)
 - [Десятки житлових будинків пошкоджено внаслідок нічного удару росіян по Нікополю, є жертви &lpar;фото&rpar;](https://fakty.ua/448949-desyatki-zhilyh-domov-povrezhdeny-v-rezultate-nochnogo-udara-rossiyan-po-nikopolyu-est-zhertvy-foto)
 - [Почуваються сусідами по кімнаті: відома голлівудська пара розлучається](https://fakty.ua/448894-chuvstvuyut-sebya-sosedyami-po-komnate-izvestnaya-gollivudskaya-para-razvoditsya)
 - [Ще під час навчання отримав позивний «Квітка», бо любив їх дарувати: під Покровськом загинув боєць з Вінниччини](https://fakty.ua/448890-ecshe-vo-vremya-ucheby-poluchil-pozyvnoj-kvitka-potomu-chto-lyubil-ih-darit-pod-pokrovskom-pogib-boec-iz-vinnickoj-oblasti)
-- [Ракетні атаки можуть стати частішими? Експерт розповів про дивні ігри російської пропаганди](https://fakty.ua/448884-raketnye-ataki-mogut-stat-chacshe-ekspert-rasskazal-o-strannyh-igrah-rossijskoj-propagandy)
-- [До нестями: Надя Дорофєєва вразила світлинами](https://fakty.ua/448929-do-umopomracheniya-nadya-dorofeeva-porazila-fotografiyami)
 <!-- BLOG-POST-LIST:END -->
