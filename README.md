@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Його втіхою були двоє синів та донечка: на Сумщині загинув доброволець з Хмельниччини](https://fakty.ua/448944-ego-utesheniem-byli-dvoe-synovej-i-dochenka-na-sumcshine-pogib-dobrovolec-iz-hmelnickoj-oblasti)
 - [Не лише унікальна САУ: Україна отримає від Німеччини ще одну важливу техніку](https://fakty.ua/448940-ne-tolko-unikalnaya-sau-ukraina-poluchit-ot-germanii-ecshe-odnu-vazhnuyu-tehniku)
 - [Про заручини повідомлю: популярна акторка заінтригувала мережу](https://fakty.ua/448963-o-pomolvke-soobcshu-populyarnaya-aktrisa-zaintrigovala-set)
 - [Україна та Велика Британія підписали історичну угоду на 100 років: про що йдеться &lpar;фото&rpar;](https://fakty.ua/448989-ukraina-i-velikobritaniya-podpisali-istoricheskoe-soglashenie-na-100-let-o-chem-idet-rech)
 - [Українцям за кордоном відновлюють видачу паспортів: що відомо](https://fakty.ua/448987-ukraincam-za-granicej-vozobnovlyayut-vydachu-pasportov-chto-izvestno)
-- [За видалення з сайту матеріалу про закупівлю мін часів Другої світової «Еспресо» пропонували гроші: редакція відмовилась](https://fakty.ua/448986-za-udalenie-s-sajta-materiala-o-zakupke-min-vremen-vtoroj-mirovoj-quot-espresso-quot-predlagali-dengi-redakciya-otkazalas)
 <!-- BLOG-POST-LIST:END -->
