@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Десятки житлових будинків пошкоджено внаслідок нічного удару росіян по Нікополю, є жертви &lpar;фото&rpar;](https://fakty.ua/448949-desyatki-zhilyh-domov-povrezhdeny-v-rezultate-nochnogo-udara-rossiyan-po-nikopolyu-est-zhertvy-foto)
 - [Почуваються сусідами по кімнаті: відома голлівудська пара розлучається](https://fakty.ua/448894-chuvstvuyut-sebya-sosedyami-po-komnate-izvestnaya-gollivudskaya-para-razvoditsya)
 - [Ще під час навчання отримав позивний «Квітка», бо любив їх дарувати: під Покровськом загинув боєць з Вінниччини](https://fakty.ua/448890-ecshe-vo-vremya-ucheby-poluchil-pozyvnoj-kvitka-potomu-chto-lyubil-ih-darit-pod-pokrovskom-pogib-boec-iz-vinnickoj-oblasti)
 - [Ракетні атаки можуть стати частішими? Експерт розповів про дивні ігри російської пропаганди](https://fakty.ua/448884-raketnye-ataki-mogut-stat-chacshe-ekspert-rasskazal-o-strannyh-igrah-rossijskoj-propagandy)
 - [До нестями: Надя Дорофєєва вразила світлинами](https://fakty.ua/448929-do-umopomracheniya-nadya-dorofeeva-porazila-fotografiyami)
-- [Відбила Галкіна у молодої актриси: Кіркоров виклав власну версію відносин з Примадонною](https://fakty.ua/448943-otbila-galkina-u-molodoj-aktrisy-kirkorov-izlozhil-sobstvennuyu-versiyu-otnoshenij-s-primadonnoj)
 <!-- BLOG-POST-LIST:END -->
