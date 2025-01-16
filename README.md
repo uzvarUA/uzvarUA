@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [«Найкращий варіант — щоб війна тривала»: ветеран — про те, чому «мир» у 2025 році означатиме поразку України](https://fakty.ua/448969-luchshij-variant-chtoby-vojna-prodolzhalas-veteran-o-tom-pochemu-mir-v-2025-godu-budet-oznachat-porazhenie-ukrainy)
+- [Кому за 30: у мережі сперечаються з приводу нового сезону «Холостяка»](https://fakty.ua/448964-komu-za-30-v-seti-sporyat-po-povodu-novogo-sezona-holostyaka)
 - [«Шанс, що Україна витримає, є»: колишній генерал НАТО обурений через заяву німецького експерта](https://fakty.ua/448939-shans-chto-ukraina-vyderzhit-est-byvshij-general-nato-vozmucshen-zayavleniem-nemeckogo-eksperta)
 - [У ДСНС спростовують «чутки» про швидку мобілізацію половини рятувальників](https://fakty.ua/448967-v-gschs-oprovergayut-sluhi-o-skoroj-mobilizacii-poloviny-spasatelej)
 - [Моє улюблене імʼя: популярний музикант вперше став батьком](https://fakty.ua/448961-moe-lyubimoe-imya-populyarnyj-muzykant-vpervye-stal-otcom)
-- [Моделі не дивляться по боках: переселенка з Луганщини у 48 вперше вийшла на подіум і говорить, що бути позитивною завжди на часі](https://fakty.ua/448924-modeli-ne-smotryat-po-storonam-pereselenka-s-lugancshiny-v-48-vpervye-vyshla-na-podium-i-govorit-chto-byt-pozitivnoj-vsegda-aktualno)
-- [У ТЦК під Києвом військові побили правозахисницю, яка заступилася за насильно мобілізованого &lpar;фото&rpar;](https://fakty.ua/448956-v-tck-pod-kievom-voennye-izbili-pravozacshitnicu-vstupivshuyusya-za-nasilno-mobilizovannogo-foto)
 <!-- BLOG-POST-LIST:END -->
