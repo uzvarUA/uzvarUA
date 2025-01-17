@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Був справжнім професіоналом і мріяв розпочати свою справу: на війні загинув 43-річний боєць із Чернігівщини](https://fakty.ua/448990-byl-nastoyacshim-professionalom-i-mechtal-nachat-svoe-delo-na-vojne-pogib-43-letnij-boec-s-chernigovcshiny)
 - [Антикорупційний комітет закликав посилити незалежність оборонних агенцій](https://fakty.ua/449049-antikorrupcionnyj-komitet-prizval-usilit-nezavisimost-oboronnyh-agentstv)
 - [У росії немає можливості щодня використовувати у війні 300 літаків: експерт назвав кількість боєздатних літаків ворога](https://fakty.ua/448985-u-rossii-net-vozmozhnosti-ezhednevno-ispolzovat-v-vojne-300-samoletov-ekspert-nazval-kolichestvo-boesposobnyh-samoletov-vraga)
 - [Не тільки добре грав на клавішних: колишній чоловік Алли Пугачової розповів, чим привернув до себе її увагу Ігор Ніколаєв](https://fakty.ua/449048-ne-tolko-horosho-igral-na-klavishnyh-byvshij-muzh-ally-pugachevoj-rasskazal-chem-privlek-k-sebe-ee-vnimanie-igor-nikolaev)
 - [Майже спортивний метаболізм: іменинниця Полякова розповіла, як їй вдається багато їсти і не набирати зайвої ваги](https://fakty.ua/449045-pochti-sportivnyj-metabolizm-imeninnica-polyakova-rasskazala-kak-ej-udaetsya-mnogo-est-i-ne-nabirat-lishnij-ves)
-- [У Кривому Розі завершили рятувальну операцію, число поранених зросло](https://fakty.ua/449047-v-krivom-roge-zavershili-spasatelnuyu-operaciyu-chislo-ranenyh-vyroslo)
 <!-- BLOG-POST-LIST:END -->
