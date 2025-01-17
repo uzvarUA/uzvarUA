@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Передавала фсб інформацію про рух військових ешелонів: СБУ затримала головбуха Укрзалізниці](https://fakty.ua/449019-peredavala-fsb-informaciyu-o-dvizhenii-voennyh-eshelonov-sbu-zaderzhala-glavbuha-ukrzaliznyci)
+- [«Влітку 2024 року безвісти зник мій рідний брат, а восени загинув син»: історія родини з Житомирщини, якій росія принесла так багато горя](https://fakty.ua/448974-letom-2024-goda-bez-vesti-propal-moj-rodnoj-brat-a-osenyu-pogib-syn-istoriya-semi-s-zhitomircshiny-kotorym-rossiya-prinesla-tak-mnogo-gorya)
 - [Ситуація не на користь Україні: експерт про бойові дії](https://fakty.ua/448966-situaciya-ne-na-polzu-ukraine-ekspert-o-boevyh-dejstviyah)
 - [Труїли заради квартир: на Чернігівщині затримали злочинну групу](https://fakty.ua/449011-travili-radi-kvartir-na-chernigovcshine-zaderzhali-prestupnuyu-gruppu)
 - [Привітали Алла Пугачова та Анжела Перл: Христина Орбакайте провела «святкову фотосесію» з чоловіком](https://fakty.ua/449004-pozdravili-alla-pugacheva-i-anzhela-perl-kristina-orbakajte-provela-quot-prazdnichnuyu-fotosessiyu-quot-s-muzhem)
-- [На заступника керівника Одеської облпрокуратури Раковича відкрили кримінальну справу: рішення ВАКС](https://fakty.ua/449005-na-zamestitelya-rukovoditelya-odesskoj-oblprokuratury-rakovicha-otkryli-ugolovnoe-delo-reshenie-vaks)
-- [Нічна атака ворожих БПЛА: Повітряні сили підсумували наслідки](https://fakty.ua/449003-nochnaya-ataka-vrazheskih-bpla-vozdushnye-sily-podytozhili-posledstviya)
 <!-- BLOG-POST-LIST:END -->
