@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Боїться ТЦК: Юлія Саніна показала чоловіка на відпочинку](https://fakty.ua/449016-boitsya-tck-yuliya-sanina-pokazala-muzha-na-otdyhe)
+- [Вдавали з себе військових, аби перетнути кордон: на Одещині затримали групу ухилянтів](https://fakty.ua/449022-pritvoryalis-voennymi-chtoby-peresech-granicu-v-odesskoj-oblasti-zaderzhali-gruppu-uklonistov)
+- [Загарбники вдарили по Кривому Розі: загинуло четверо людей](https://fakty.ua/449021-zahvatchiki-udarili-po-krivomu-rogu-pogibli-tri-cheloveka)
 - [Передавала фсб інформацію про рух військових ешелонів: СБУ затримала головбуха Укрзалізниці](https://fakty.ua/449019-peredavala-fsb-informaciyu-o-dvizhenii-voennyh-eshelonov-sbu-zaderzhala-glavbuha-ukrzaliznyci)
 - [«Влітку 2024 року безвісти зник мій рідний брат, а восени загинув син»: історія родини з Житомирщини, якій росія принесла так багато горя](https://fakty.ua/448974-letom-2024-goda-bez-vesti-propal-moj-rodnoj-brat-a-osenyu-pogib-syn-istoriya-semi-s-zhitomircshiny-kotorym-rossiya-prinesla-tak-mnogo-gorya)
-- [Ситуація не на користь Україні: експерт про бойові дії](https://fakty.ua/448966-situaciya-ne-na-polzu-ukraine-ekspert-o-boevyh-dejstviyah)
-- [Труїли заради квартир: на Чернігівщині затримали злочинну групу](https://fakty.ua/449011-travili-radi-kvartir-na-chernigovcshine-zaderzhali-prestupnuyu-gruppu)
-- [Привітали Алла Пугачова та Анжела Перл: Христина Орбакайте провела «святкову фотосесію» з чоловіком](https://fakty.ua/449004-pozdravili-alla-pugacheva-i-anzhela-perl-kristina-orbakajte-provela-quot-prazdnichnuyu-fotosessiyu-quot-s-muzhem)
 <!-- BLOG-POST-LIST:END -->
