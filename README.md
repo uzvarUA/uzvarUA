@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [У Кривому Розі завершили рятувальну операцію, число поранених зросло](https://fakty.ua/449047-v-krivom-roge-zavershili-spasatelnuyu-operaciyu-chislo-ranenyh-vyroslo)
+- [Буде як бабуся Алла Пугачова: онука Примадонни зайнялась вокалом &lpar;фото&rpar;](https://fakty.ua/449032-budet-kak-babushka-alla-pugacheva-vnuchka-primadonny-zanyalas-vokalom-foto)
 - [Тіктокерка, яка атакувала «Глобино», приймала оплату в рублях, — Кушнірук](https://fakty.ua/449046-tiktokersha-atakovavshaya-globino-prinimala-oplatu-v-rublyah---kushniruk)
 - [До нестями: колишня учасниця «Холостяка» зізналася у коханні](https://fakty.ua/449020-do-bezumiya-byvshaya-uchastnica-holostyaka-priznalas-v-lyubvi)
 - [Винен не Бред Пітт, а штучний інтелект: актор відреагував на інцидент із жінкою, яка покинула чоловіка-мільйонера заради нього](https://fakty.ua/449014-vinovat-ne-bred-pitt-a-iskusstvennyj-intellekt-akter-otreagiroval-na-incident-s-zhencshinoj-pokinuvshej-muzha-millionera-radi-nego)
-- [Боїться ТЦК: Юлія Саніна показала чоловіка на відпочинку](https://fakty.ua/449016-boitsya-tck-yuliya-sanina-pokazala-muzha-na-otdyhe)
-- [Вдавали з себе військових, аби перетнути кордон: на Одещині затримали групу ухилянтів](https://fakty.ua/449022-pritvoryalis-voennymi-chtoby-peresech-granicu-v-odesskoj-oblasti-zaderzhali-gruppu-uklonistov)
 <!-- BLOG-POST-LIST:END -->
