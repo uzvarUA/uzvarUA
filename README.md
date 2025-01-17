@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Ворог продовжує обстріли України: під Києвом через падіння уламків дрону поранено дитину, сталася пожежа](https://fakty.ua/448999-vrag-prodolzhaet-obstrely-ukrainy-pod-kievom-iz-za-padeniya-oblomkov-drona-ranen-rebenok-proizoshel-pozhar)
 - [Брітні Спірс потрапила в центр уваги своїм танцем після втечі від пожеж у Лос-Анджелесі &lpar;відео&rpar;](https://fakty.ua/448958-britni-spirs-popala-v-centr-vnimaniya-svoim-tancem-posle-begstva-ot-pozharov-v-los-andzhelese-video)
 - [Його втіхою були двоє синів та донечка: на Сумщині загинув доброволець з Хмельниччини](https://fakty.ua/448944-ego-utesheniem-byli-dvoe-synovej-i-dochenka-na-sumcshine-pogib-dobrovolec-iz-hmelnickoj-oblasti)
 - [Не лише унікальна САУ: Україна отримає від Німеччини ще одну важливу техніку](https://fakty.ua/448940-ne-tolko-unikalnaya-sau-ukraina-poluchit-ot-germanii-ecshe-odnu-vazhnuyu-tehniku)
 - [Про заручини повідомлю: популярна акторка заінтригувала мережу](https://fakty.ua/448963-o-pomolvke-soobcshu-populyarnaya-aktrisa-zaintrigovala-set)
-- [Україна та Велика Британія підписали історичну угоду на 100 років: про що йдеться &lpar;фото&rpar;](https://fakty.ua/448989-ukraina-i-velikobritaniya-podpisali-istoricheskoe-soglashenie-na-100-let-o-chem-idet-rech)
 <!-- BLOG-POST-LIST:END -->
