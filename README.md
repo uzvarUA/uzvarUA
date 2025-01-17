@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Ситуація не на користь Україні: експерт про бойові дії](https://fakty.ua/448966-situaciya-ne-na-polzu-ukraine-ekspert-o-boevyh-dejstviyah)
 - [Труїли заради квартир: на Чернігівщині затримали злочинну групу](https://fakty.ua/449011-travili-radi-kvartir-na-chernigovcshine-zaderzhali-prestupnuyu-gruppu)
 - [Привітали Алла Пугачова та Анжела Перл: Христина Орбакайте провела «святкову фотосесію» з чоловіком](https://fakty.ua/449004-pozdravili-alla-pugacheva-i-anzhela-perl-kristina-orbakajte-provela-quot-prazdnichnuyu-fotosessiyu-quot-s-muzhem)
 - [На заступника керівника Одеської облпрокуратури Раковича відкрили кримінальну справу: рішення ВАКС](https://fakty.ua/449005-na-zamestitelya-rukovoditelya-odesskoj-oblprokuratury-rakovicha-otkryli-ugolovnoe-delo-reshenie-vaks)
 - [Нічна атака ворожих БПЛА: Повітряні сили підсумували наслідки](https://fakty.ua/449003-nochnaya-ataka-vrazheskih-bpla-vozdushnye-sily-podytozhili-posledstviya)
-- [Ворог продовжує обстріли України: під Києвом через падіння уламків дрону поранено дитину, сталася пожежа](https://fakty.ua/448999-vrag-prodolzhaet-obstrely-ukrainy-pod-kievom-iz-za-padeniya-oblomkov-drona-ranen-rebenok-proizoshel-pozhar)
 <!-- BLOG-POST-LIST:END -->
