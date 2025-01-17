@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Антикорупційний комітет закликав посилити незалежність оборонних агенцій](https://fakty.ua/449049-antikorrupcionnyj-komitet-prizval-usilit-nezavisimost-oboronnyh-agentstv)
+- [У росії немає можливості щодня використовувати у війні 300 літаків: експерт назвав кількість боєздатних літаків ворога](https://fakty.ua/448985-u-rossii-net-vozmozhnosti-ezhednevno-ispolzovat-v-vojne-300-samoletov-ekspert-nazval-kolichestvo-boesposobnyh-samoletov-vraga)
+- [Не тільки добре грав на клавішних: колишній чоловік Алли Пугачової розповів, чим привернув до себе її увагу Ігор Ніколаєв](https://fakty.ua/449048-ne-tolko-horosho-igral-na-klavishnyh-byvshij-muzh-ally-pugachevoj-rasskazal-chem-privlek-k-sebe-ee-vnimanie-igor-nikolaev)
+- [Майже спортивний метаболізм: іменинниця Полякова розповіла, як їй вдається багато їсти і не набирати зайвої ваги](https://fakty.ua/449045-pochti-sportivnyj-metabolizm-imeninnica-polyakova-rasskazala-kak-ej-udaetsya-mnogo-est-i-ne-nabirat-lishnij-ves)
 - [У Кривому Розі завершили рятувальну операцію, число поранених зросло](https://fakty.ua/449047-v-krivom-roge-zavershili-spasatelnuyu-operaciyu-chislo-ranenyh-vyroslo)
-- [Буде як бабуся Алла Пугачова: онука Примадонни зайнялась вокалом &lpar;фото&rpar;](https://fakty.ua/449032-budet-kak-babushka-alla-pugacheva-vnuchka-primadonny-zanyalas-vokalom-foto)
-- [Тіктокерка, яка атакувала «Глобино», приймала оплату в рублях, — Кушнірук](https://fakty.ua/449046-tiktokersha-atakovavshaya-globino-prinimala-oplatu-v-rublyah---kushniruk)
-- [До нестями: колишня учасниця «Холостяка» зізналася у коханні](https://fakty.ua/449020-do-bezumiya-byvshaya-uchastnica-holostyaka-priznalas-v-lyubvi)
-- [Винен не Бред Пітт, а штучний інтелект: актор відреагував на інцидент із жінкою, яка покинула чоловіка-мільйонера заради нього](https://fakty.ua/449014-vinovat-ne-bred-pitt-a-iskusstvennyj-intellekt-akter-otreagiroval-na-incident-s-zhencshinoj-pokinuvshej-muzha-millionera-radi-nego)
 <!-- BLOG-POST-LIST:END -->
