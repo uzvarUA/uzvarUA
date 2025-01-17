@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Винен не Бред Пітт, а штучний інтелект: актор відреагував на інцидент із жінкою, яка покинула чоловіка-мільйонера заради нього](https://fakty.ua/449014-vinovat-ne-bred-pitt-a-iskusstvennyj-intellekt-akter-otreagiroval-na-incident-s-zhencshinoj-pokinuvshej-muzha-millionera-radi-nego)
 - [Боїться ТЦК: Юлія Саніна показала чоловіка на відпочинку](https://fakty.ua/449016-boitsya-tck-yuliya-sanina-pokazala-muzha-na-otdyhe)
 - [Вдавали з себе військових, аби перетнути кордон: на Одещині затримали групу ухилянтів](https://fakty.ua/449022-pritvoryalis-voennymi-chtoby-peresech-granicu-v-odesskoj-oblasti-zaderzhali-gruppu-uklonistov)
 - [Загарбники вдарили по Кривому Розі: загинуло четверо людей](https://fakty.ua/449021-zahvatchiki-udarili-po-krivomu-rogu-pogibli-tri-cheloveka)
 - [Передавала фсб інформацію про рух військових ешелонів: СБУ затримала головбуха Укрзалізниці](https://fakty.ua/449019-peredavala-fsb-informaciyu-o-dvizhenii-voennyh-eshelonov-sbu-zaderzhala-glavbuha-ukrzaliznyci)
-- [«Влітку 2024 року безвісти зник мій рідний брат, а восени загинув син»: історія родини з Житомирщини, якій росія принесла так багато горя](https://fakty.ua/448974-letom-2024-goda-bez-vesti-propal-moj-rodnoj-brat-a-osenyu-pogib-syn-istoriya-semi-s-zhitomircshiny-kotorym-rossiya-prinesla-tak-mnogo-gorya)
 <!-- BLOG-POST-LIST:END -->
