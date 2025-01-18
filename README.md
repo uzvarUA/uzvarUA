@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [«Королева!»: Оля Полякова оголила груди «на честь» свого дня народження &lpar;фото&rpar;](https://fakty.ua/449063-koroleva-olya-polyakova-ogolila-grud-v-chest-svoego-dnya-rozhdeniya-foto)
 - [На суддів у справі Коломойського та Боголюбова подано скаргу до Вищої ради правосуддя — ЗМІ](https://fakty.ua/449068-na-sudej-po-delu-kolomojskogo-i-bogolyubova-podana-zhaloba-v-vysshij-sovet-pravosudiya---smi)
 - [«Це капець!»: мережа в шоку від старої світлини Лесі Нікітюк](https://fakty.ua/449027-quot-eto-kapec-quot-set-v-shoke-ot-staroj-fotografii-lesi-nikityuk)
 - [Ще один екснардеп-мільйонер із ОПЗЖ отримав підозру у держзраді](https://fakty.ua/449066-ecshe-odin-eks-nardep-millioner-iz-opzzh-poluchil-podozrenie-v-gosizmene)
 - [«Дуже важко бачити тіла маленьких діточок»: подружжя з Кривого Рогу рятує живих та вивозять загиблих з фронту](https://fakty.ua/449025-ochen-tyazhelo-videt-tela-malenkih-detishek-suprugi-iz-krivogo-roga-spasayut-zhivyh-i-vyvozyat-pogibshih-s-fronta)
-- [Військові спростовують нардепа Безглуглу: ворога в Покровську немає](https://fakty.ua/449054-voennye-oprovergayut-nardepa-bezugluyu-vraga-v-pokrovske-net)
 <!-- BLOG-POST-LIST:END -->
