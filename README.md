@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Військові спростовують нардепа Безглуглу: ворога в Покровську немає](https://fakty.ua/449054-voennye-oprovergayut-nardepa-bezugluyu-vraga-v-pokrovske-net)
+- [Російські окупанти не досягли жодної зі своїх стратегічних цілей: що заявив представник НАТО](https://fakty.ua/449012-rossijskie-okkupanty-ne-dostigli-ni-odnoj-iz-svoih-strategicheskih-celej-chto-zayavil-predstavitel-nato)
 - [Окупанти вдарили ракетами по центру Запоріжжя та дронами — по Павлограду &lpar;фото, відео&rpar;](https://fakty.ua/449051-okkupanty-udarili-raketami-po-centru-zaporozhya-i-dronami-po-pavlogradu-foto-video)
 - [Ворог атакував Київ балістикою: на Лук&amp;#39;янівці «приліт», є жертви &lpar;фото, відео&rpar;](https://fakty.ua/449050-vrag-atakoval-kiev-ballistikoj-na-lukyanovke-prilet-est-zhertvy-foto-video)
 - [Дженніфер Лопес зітхнула з полегшенням: її ім’я не вказано в позові няні-підлітка, яку зґвалтував Дідді](https://fakty.ua/449009-dzhennifer-lopes-vzdohnula-s-oblegcheniem-ee-imya-ne-ukazano-v-iske-nyani-podrostka-kotoruyu-iznasiloval-diddi)
-- [Був справжнім професіоналом і мріяв розпочати свою справу: на війні загинув 43-річний боєць із Чернігівщини](https://fakty.ua/448990-byl-nastoyacshim-professionalom-i-mechtal-nachat-svoe-delo-na-vojne-pogib-43-letnij-boec-s-chernigovcshiny)
-- [Антикорупційний комітет закликав посилити незалежність оборонних агенцій](https://fakty.ua/449049-antikorrupcionnyj-komitet-prizval-usilit-nezavisimost-oboronnyh-agentstv)
 <!-- BLOG-POST-LIST:END -->
