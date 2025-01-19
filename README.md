@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Вибуховий ефір: у руках радіоведучої Армія FM здетонував боєприпас](https://fakty.ua/449117-vzryvnoj-efir-v-rukah-radioveducshej-armiya-fm-sdetonirovala-boepripas)
+- [Партнери не зацікавлені в тому, аби Україна перемогла росію: експерт про нюанси перемовин](https://fakty.ua/449080-partnery-ne-zainteresovany-v-tom-chtoby-ukraina-pobedila-rossiyu-ekspert-o-nyuansah-peregovorov)
 - [Більше не будуть Героями України: Зеленський ввів у дію санкції РНБО проти зрадників та пропагандистів рф](https://fakty.ua/449110-bolshe-ne-budut-geroyami-ukrainy-zelenskij-vvel-v-dejstvie-sankcii-snbo-protiv-predatelej-i-propagandistov-rf)
 - [«Підтримка Міноборони дозволила б нам зробити більше», — Марина Безрукова про роботу АОЗ](https://fakty.ua/449109-podderzhka-minoborony-pozvolila-by-nam-sdelat-bolshe---marina-bezrukova-o-rabote-aoz)
 - [Видавали себе за військових і вкрали 2,5 млн грн донатів: Нацполіція викрила групу шахраїв](https://fakty.ua/449104-vydavali-sebya-za-voennyh-i-ukrali-2-5-mln-grn-donatov-nacpoliciya-razoblachila-gruppu-moshennikov)
-- [«Приписували» чоловікам ВІЛ для зняття з обліку: в Дніпрі в одному з військкоматів викрили лікарів-хабарників](https://fakty.ua/449101-quot-pripisyvali-quot-muzhchinam-vich-dlya-snyatiya-s-ucheta-v-dnepre-v-odnom-iz-voenkomatov-razoblachili-vrachej-vzyatochnikov)
-- [Продавали трофейне озброєння та боєприпаси: СБУ та Нацполіція затримали 15 ділків](https://fakty.ua/449100-prodavali-trofejnoe-vooruzhenie-i-boepripasy-sbu-i-nacpoliciya-zaderzhali-15-delcov)
 <!-- BLOG-POST-LIST:END -->
