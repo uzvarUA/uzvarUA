@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Серце вільне: колишня учасниця «ВІА Гра» повідомила про розставання з радником Зеленського](https://fakty.ua/449096-serdce-svobodno-byvshaya-uchastnica-quot-via-gra-quot-soobcshila-o-rasstavanii-s-sovetnikom-zelenskogo)
+- [«Сестра рятувала поранених, коли осколок поцілив їй в голову»: родина медикині, яка втратила на війні чотирьох рідних, просить державу нагородити захисницю](https://fakty.ua/449067-sestra-spasala-ranenyh-kogda-oskolok-popal-ej-v-golovu-semya-medika-kotoraya-poteryala-na-vojne-chetyreh-rodnyh-prosit-gosudarstvo-nagradit-zacshitnicu)
 - [Вербував агентів для російського гру та захищав їх у судах: СБУ затримала адвоката-зрадника](https://fakty.ua/449088-verboval-agentov-dlya-rossijskogo-gru-i-zacshicshal-ih-v-sudah-sbu-zaderzhala-advokata-predatelya)
 - [Ворог атакує Україну з повітря: де працюють сили ППО](https://fakty.ua/449085-vrag-atakuet-ukrainu-s-vozduha-gde-rabotayut-sily-pvo)
 - [Кожен намагається зробити, що може: Дженніфер Гарнер вразила людяністю у розпал лісових пожеж](https://fakty.ua/449040-kazhdyj-pytaetsya-sdelat-chto-mozhet-dzhennifer-garner-porazila-chelovechnostyu-v-razgar-lesnyh-pozharov)
-- [Навчався військовій науці у закордонних фахівців: на Луганщині загинув воїн з Полтавщини](https://fakty.ua/449038-uchilsya-voennoj-nauke-u-zarubezhnyh-specialistov-na-lugancshine-pogib-voin-s-poltavcshiny)
-- [Під виглядом особистих водіїв нардеп вивіз за кордон близько 20 військовозобов&amp;#39;язаних — ДБР &lpar;фото&rpar;](https://fakty.ua/449082-pod-vidom-lichnyh-voditelej-nardep-vyvez-za-granicu-bolee-20-voennoobyazannyh---gbr-foto)
 <!-- BLOG-POST-LIST:END -->
