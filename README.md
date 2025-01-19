@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Двоє синів героя продовжують боронити країну: на війні загинув 59-річний воїн з Хмельниччини](https://fakty.ua/449105-dvoe-synovej-geroya-prodolzhayut-zacshicshat-stranu-na-vojne-pogib-59-letnij-voin-iz-hmelnickoj-oblasti)
 - [Примітивний, але небезпечний: окупанти поліпшили свій дальній безпілотник, який може атакувати тили ЗСУ](https://fakty.ua/449094-primitivnyj-no-opasnyj-okkupanty-uluchshili-svoj-dalnij-bespilotnik-kotoryj-mozhet-atakovat-tyly-vsu)
 - [«Присвячую коханій дружині цю прекрасну пісню»: Галкін і Пугачова розчулили публіку](https://fakty.ua/449118-posvyacshayu-lyubimoj-zhene-etu-prekrasnuyu-pesnyu-maksim-galkin-rastrogal-publiku)
 - [Небезпечний ефір: у руках радіоведучої Армія FM здетонував боєприпас](https://fakty.ua/449117-vzryvnoj-efir-v-rukah-radioveducshej-armiya-fm-sdetonirovala-boepripas)
 - [Партнери не зацікавлені в тому, аби Україна перемогла росію: експерт про нюанси перемовин](https://fakty.ua/449080-partnery-ne-zainteresovany-v-tom-chtoby-ukraina-pobedila-rossiyu-ekspert-o-nyuansah-peregovorov)
-- [Більше не будуть Героями України: Зеленський ввів у дію санкції РНБО проти зрадників та пропагандистів рф](https://fakty.ua/449110-bolshe-ne-budut-geroyami-ukrainy-zelenskij-vvel-v-dejstvie-sankcii-snbo-protiv-predatelej-i-propagandistov-rf)
 <!-- BLOG-POST-LIST:END -->
