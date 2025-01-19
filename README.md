@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Ворог атакує Україну з повітря: де працюють сили ППО](https://fakty.ua/449085-vrag-atakuet-ukrainu-s-vozduha-gde-rabotayut-sily-pvo)
 - [Кожен намагається зробити, що може: Дженніфер Гарнер вразила людяністю у розпал лісових пожеж](https://fakty.ua/449040-kazhdyj-pytaetsya-sdelat-chto-mozhet-dzhennifer-garner-porazila-chelovechnostyu-v-razgar-lesnyh-pozharov)
 - [Навчався військовій науці у закордонних фахівців: на Луганщині загинув воїн з Полтавщини](https://fakty.ua/449038-uchilsya-voennoj-nauke-u-zarubezhnyh-specialistov-na-lugancshine-pogib-voin-s-poltavcshiny)
 - [Під виглядом особистих водіїв нардеп вивіз за кордон близько 20 військовозобов&amp;#39;язаних — ДБР &lpar;фото&rpar;](https://fakty.ua/449082-pod-vidom-lichnyh-voditelej-nardep-vyvez-za-granicu-bolee-20-voennoobyazannyh---gbr-foto)
 - [Сина Порошенка за ігнорування повісток до ТЦК оштрафували на 25 тисяч гривень — ЗМІ](https://fakty.ua/449074-syna-poroshenko-za-ignorirovanie-povestok-v-tck-oshtrafovali-na-25-tysyach-griven---smi)
-- [У TikTok поширюється смертельно небезпечний челендж: поліція звернулася до батьків](https://fakty.ua/449061-v-tiktok-rasprostranyaetsya-smertelno-opasnyj-chellendzh-policiya-obratilas-k-roditelyam)
 <!-- BLOG-POST-LIST:END -->
