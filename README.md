@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Образ кози: Джамала здивувала мережу](https://fakty.ua/449143-obraz-kozy-dzhamala-udivila-set)
 - [Нові деталі справи Порошенка: стало відомо, чому «Севморзавод» у Криму не був націоналізований рф](https://fakty.ua/449164-novye-detali-dela-poroshenko-stalo-izvestno-pochemu-quot-sevmorzavod-quot-v-krymu-ne-byl-nacionalizirovan-rf)
 - [«Не пошукати, а знайти!»: силовикам дали 29 постанов на обшуки в оточення Кличка, — експерт](https://fakty.ua/449159-ne-poiskat-a-najti-silovikam-dali-29-postanovlenij-na-obyski-u-okruzheniya-klichko-ekspert)
 - [Допустив масове СЗЧ: затримано колишнього командира 155-ї бригади, що оскандалилася &lpar;фото&rpar;](https://fakty.ua/449156-dopustil-massovoe-soch-zaderzhan-byvshij-komandir-oskandalivshejsya-155-j-brigady-foto)
 - [Гадав, що це ніколи не трапиться зі мною: Холостяк звернувся до мережі](https://fakty.ua/449136-dumal-chto-eto-nikogda-ne-sluchitsya-so-mnoj-holostyak-obratilsya-k-seti)
-- [Провал оборони Харківщини: під підозрою два генерали та полковник &lpar;фото&rpar;](https://fakty.ua/449152-proval-oborony-harkovcshiny-pod-podozreniem-dva-generala-i-polkovnik-foto)
 <!-- BLOG-POST-LIST:END -->
