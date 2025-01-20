@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [«Не пошукати, а знайти!»: силовикам дали 29 постанов на обшуки в оточення Кличка, — експерт](https://fakty.ua/449159-ne-poiskat-a-najti-silovikam-dali-29-postanovlenij-na-obyski-u-okruzheniya-klichko-ekspert)
+- [Допустив масове СЗЧ: затримано колишнього командира 155-ї бригади, що оскандалилася &lpar;фото&rpar;](https://fakty.ua/449156-dopustil-massovoe-soch-zaderzhan-byvshij-komandir-oskandalivshejsya-155-j-brigady-foto)
 - [Гадав, що це ніколи не трапиться зі мною: Холостяк звернувся до мережі](https://fakty.ua/449136-dumal-chto-eto-nikogda-ne-sluchitsya-so-mnoj-holostyak-obratilsya-k-seti)
 - [Провал оборони Харківщини: під підозрою два генерали та полковник &lpar;фото&rpar;](https://fakty.ua/449152-proval-oborony-harkovcshiny-pod-podozreniem-dva-generala-i-polkovnik-foto)
 - [Після побиття вимагали 15 тисяч гривень: під Києвом підлітки влаштували розправу над 12-річною дівчинкою](https://fakty.ua/449137-posle-izbieniya-potrebovali-15-tysyach-griven-pod-kievom-podrostki-ustroili-raspravu-nad-12-letnej-devochkoj)
-- [Через місяць Мін&amp;#39;юст відновив роботу своїх реєстрів після хакерської атаки рф](https://fakty.ua/449144-spustya-mesyac-minyust-vosstanovil-rabotu-svoih-reestrov-posle-hakerskoj-ataki-rf)
-- [Дуже небезпечно: росія посилює тиск на важливий для українських бійців населений пункт](https://fakty.ua/449130-ochen-opasno-rossiya-usilivaet-davlenie-na-vazhnyj-dlya-ukrainskih-bojcov-naselennyj-punkt)
 <!-- BLOG-POST-LIST:END -->
