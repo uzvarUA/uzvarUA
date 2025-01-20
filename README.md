@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Гадав, що це ніколи не трапиться зі мною: Холостяк звернувся до мережі](https://fakty.ua/449136-dumal-chto-eto-nikogda-ne-sluchitsya-so-mnoj-holostyak-obratilsya-k-seti)
+- [Провал оборони Харківщини: під підозрою два генерали та полковник &lpar;фото&rpar;](https://fakty.ua/449152-proval-oborony-harkovcshiny-pod-podozreniem-dva-generala-i-polkovnik-foto)
 - [Після побиття вимагали 15 тисяч гривень: під Києвом підлітки влаштували розправу над 12-річною дівчинкою](https://fakty.ua/449137-posle-izbieniya-potrebovali-15-tysyach-griven-pod-kievom-podrostki-ustroili-raspravu-nad-12-letnej-devochkoj)
 - [Через місяць Мін&amp;#39;юст відновив роботу своїх реєстрів після хакерської атаки рф](https://fakty.ua/449144-spustya-mesyac-minyust-vosstanovil-rabotu-svoih-reestrov-posle-hakerskoj-ataki-rf)
 - [Дуже небезпечно: росія посилює тиск на важливий для українських бійців населений пункт](https://fakty.ua/449130-ochen-opasno-rossiya-usilivaet-davlenie-na-vazhnyj-dlya-ukrainskih-bojcov-naselennyj-punkt)
-- [«Росіяни присудили мені 44 роки ув’язнення»: в полоні капітана морської піхоти змушували зізнатися, що він… агент розвідки США](https://fakty.ua/449126-rossiyane-prisudili-mne-44-goda-zaklyucheniya-v-plenu-kapitana-morskoj-pehoty-zastavlyali-priznatsya-chto-on-agent-razvedki-ssha)
-- [Стежили кілька місяців та тренувалися у тирі: у Києві запобігли вбивству заступника міністра охорони здоров&amp;#39;я &lpar;фото&rpar;](https://fakty.ua/449129-sledili-neskolko-mesyacev-i-trenirovalis-v-tire-v-kieve-predotvracsheno-ubijstvo-zamministra-zdravoohraneniya-foto)
 <!-- BLOG-POST-LIST:END -->
