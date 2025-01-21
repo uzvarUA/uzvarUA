@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Так виглядає відчай: Потап став «Славіком Балаганом» і почав стрибати під «Айн-цвай-поліцай»](https://fakty.ua/449191-tak-vyglyadit-otchayanie-potap-stal-quot-slavikom-balaganom-quot-i-nachal-prygat-pod-quot-ajn-cvaj-policaj-quot)
+- [«Іноді наче струмом б’є по пальцях або п’ятках, яких немає»: ветерану ЗСУ встановили унікальні остеопротези](https://fakty.ua/448953-inogda-kak-tokom-bet-po-palcam-ili-pyatkam-kotoryh-net-veteranu-vsu-ustanovili-unikalnye-osteoprotezy)
 - [Ворог завдав удару по Харкову: що відомо](https://fakty.ua/449188-vrag-nanes-udar-po-harkovu-chto-izvestno)
 - [Головному психіатру ЗСУ загрожує 10-річне ув’язнення: що показали обшуки СБУ](https://fakty.ua/449184-glavnomu-psihiatru-vsu-grozit-10-letnee-zaklyuchenie-chto-pokazali-obyski-sbu)
 - [Просто катастрофа: Бред Пітт і його дівчина відклали весілля &lpar;все знову через Анджеліну Джолі&rpar;](https://fakty.ua/449180-prosto-katastrofa-bred-pitt-i-ego-devushka-otlozhili-svadbu-vse-snova-cherez-andzhelinu-dzholi)
-- [«Вирішальне питання в тому, чи зможе Україна протриматися доти, доки росія не стане на коліна», — експерт](https://fakty.ua/449160-reshayucshij-vopros-v-tom-smozhet-li-ukraina-proderzhatsya-do-teh-por-poka-rossiya-ne-stanet-na-koleni---ekspert)
-- [Балістика і 131 дрон: як спрацювали захисники неба вночі 21 січня](https://fakty.ua/449179-ballistika-i-131-dron-kak-srabotali-zacshitniki-neba-nochyu-21-yanvarya)
 <!-- BLOG-POST-LIST:END -->
