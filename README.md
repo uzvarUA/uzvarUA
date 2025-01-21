@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Балістика і 131 дрон: як спрацювали захисники неба вночі 21 січня](https://fakty.ua/449179-ballistika-i-131-dron-kak-srabotali-zacshitniki-neba-nochyu-21-yanvarya)
+- [«Невідомі» дрони атакували російський Смоленськ: на військовому авіазаводі виникла пожежа](https://fakty.ua/449175-quot-neizvestnye-quot-drony-atakovali-rossijskij-smolensk-na-voennom-aviazavode-voznik-pozhar)
 - [Ворог продовжує обстріли мирних міст: де вночі лунали вибухи](https://fakty.ua/449172-vrag-prodolzhaet-obstrely-mirnyh-gorodov-gde-nochyu-razdavalis-vzryvy)
 - [100 разів відмовляли: Анджеліна Джолі про початок кар’єри](https://fakty.ua/449153-100-raz-otkazyvali-andzhelina-dzholi-o-nachale-karery)
 - [На інавгураційному молебні помітили Юлію Тимошенко &lpar;фото&rpar;](https://fakty.ua/449169-na-inauguracionnom-molebne-zametili-yuliyu-timoshenko-foto)
-- [У нього було багато планів на майбутнє: на Донеччині загинув ветеран АТО з Вінниччини](https://fakty.ua/449151-u-nego-bylo-mnogo-planov-na-buducshee-na-donetchine-pogib-veteran-ato-iz-vinnickoj-oblasti)
-- [«Страшнішого за Бахмут пекла не бачив, але найгірше, що висновків ніхто не робить»: український захисник про проблеми на фронті](https://fakty.ua/449150-quot-strashnee-chem-bahmut-ada-ne-videl-no-huzhe-vsego-chto-vyvodov-nikto-ne-delaet-quot-ukrainskij-zacshitnik-o-problemah-na-fronte)
 <!-- BLOG-POST-LIST:END -->
