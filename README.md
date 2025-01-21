@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Справа Зотька — відволікаючий маневр та прикриття для рейдерства, — думка політтехнолога](https://fakty.ua/449214-delo-zotko-otvlekayucshij-manevr-i-prikrytie-dlya-rejderstva---mnenie-polittehnologa)
+- [Копія: Позитив показав новонароджену донечку](https://fakty.ua/449193-kopiya-pozitiv-pokazal-novorozhdennuyu-doch)
 - [Ближче до Давосу, ніж до Пхеньяну: Зеленський застеріг ЄС від ігнорування участі вояків Кіма у війні](https://fakty.ua/449213-blizhe-k-davosu-chem-k-phenyanu-zelenskij-predostereg-es-ot-ignorirovaniya-uchastiya-voinov-kima-v-vojne)
 - [Вогонь: мережа відреагувала на звернення Наталки Могилевської](https://fakty.ua/449199-ogon-set-otreagirovala-na-obracshenie-natali-mogilevskoj)
 - [Кохання всього життя: Софія Ротару показала рідкісне фото із чоловіком](https://fakty.ua/449198-lyubov-vsej-zhizni-sofiya-rotaru-pokazala-redkoe-foto-s-muzhem)
-- [Так виглядає відчай: Потап став «Славіком Балаганом» і почав стрибати під «Айн-цвай-поліцай»](https://fakty.ua/449191-tak-vyglyadit-otchayanie-potap-stal-quot-slavikom-balaganom-quot-i-nachal-prygat-pod-quot-ajn-cvaj-policaj-quot)
-- [«Іноді наче струмом б’є по пальцях або п’ятках, яких немає»: ветерану ЗСУ встановили унікальні остеопротези](https://fakty.ua/448953-inogda-kak-tokom-bet-po-palcam-ili-pyatkam-kotoryh-net-veteranu-vsu-ustanovili-unikalnye-osteoprotezy)
 <!-- BLOG-POST-LIST:END -->
