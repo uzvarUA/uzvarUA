@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [«Я не закликаю владу одуматися. Хай її дії бачить вся країна та весь світ» — Палатний звинуватив ОП в інформкампанії проти нього та команди](https://fakty.ua/449218-quot-ya-ne-prizyvayu-vlast-odumatsya-pust-ee-dejstviya-vidit-vsya-strana-i-ves-mir-quot---palatnyj-obvinil-op-v-informkampanii-protiv-nego-i-komandy)
+- [Корейський сценарій: аналітики про те, на якій території України рф залишить свої війська](https://fakty.ua/449182-korejskij-scenarij-analitiki-o-tom-na-kakoj-territorii-ukrainy-rf-ostavit-svoi-vojska)
+- [Не хоче бути самотньою: стало відомо, з ким Дженніфер Лопес намагається розпочати стосунки](https://fakty.ua/449216-ne-hochet-byt-odinokoj-stalo-izvestno-s-kem-dzhennifer-lopes-pytaetsya-nachat-otnosheniya)
+- [«Зустріли на Кіпрі стареньку Пугачову»: у мережі викрили популярний міф про Примадонну](https://fakty.ua/449207-quot-vstretili-na-kipre-starenkuyu-pugachevu-quot-v-seti-razoblachili-populyarnyj-mif-o-primadonne)
 - [Справа Зотька — відволікаючий маневр та прикриття для рейдерства, — думка політтехнолога](https://fakty.ua/449214-delo-zotko-otvlekayucshij-manevr-i-prikrytie-dlya-rejderstva---mnenie-polittehnologa)
-- [Копія: Позитив показав новонароджену донечку](https://fakty.ua/449193-kopiya-pozitiv-pokazal-novorozhdennuyu-doch)
-- [Ближче до Давосу, ніж до Пхеньяну: Зеленський застеріг ЄС від ігнорування участі вояків Кіма у війні](https://fakty.ua/449213-blizhe-k-davosu-chem-k-phenyanu-zelenskij-predostereg-es-ot-ignorirovaniya-uchastiya-voinov-kima-v-vojne)
-- [Вогонь: мережа відреагувала на звернення Наталки Могилевської](https://fakty.ua/449199-ogon-set-otreagirovala-na-obracshenie-natali-mogilevskoj)
-- [Кохання всього життя: Софія Ротару показала рідкісне фото із чоловіком](https://fakty.ua/449198-lyubov-vsej-zhizni-sofiya-rotaru-pokazala-redkoe-foto-s-muzhem)
 <!-- BLOG-POST-LIST:END -->
