@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Головному психіатру ЗСУ загрожує 10-річне ув’язнення: що показали обшуки СБУ](https://fakty.ua/449184-glavnomu-psihiatru-vsu-grozit-10-letnee-zaklyuchenie-chto-pokazali-obyski-sbu)
+- [Просто катастрофа: Бред Пітт і його дівчина відклали весілля &lpar;все знову через Анджеліну Джолі&rpar;](https://fakty.ua/449180-prosto-katastrofa-bred-pitt-i-ego-devushka-otlozhili-svadbu-vse-snova-cherez-andzhelinu-dzholi)
+- [«Вирішальне питання в тому, чи зможе Україна протриматися доти, доки росія не стане на коліна», — експерт](https://fakty.ua/449160-reshayucshij-vopros-v-tom-smozhet-li-ukraina-proderzhatsya-do-teh-por-poka-rossiya-ne-stanet-na-koleni---ekspert)
 - [Балістика і 131 дрон: як спрацювали захисники неба вночі 21 січня](https://fakty.ua/449179-ballistika-i-131-dron-kak-srabotali-zacshitniki-neba-nochyu-21-yanvarya)
 - [«Невідомі» дрони атакували російський Смоленськ: на військовому авіазаводі виникла пожежа](https://fakty.ua/449175-quot-neizvestnye-quot-drony-atakovali-rossijskij-smolensk-na-voennom-aviazavode-voznik-pozhar)
-- [Ворог продовжує обстріли мирних міст: де вночі лунали вибухи](https://fakty.ua/449172-vrag-prodolzhaet-obstrely-mirnyh-gorodov-gde-nochyu-razdavalis-vzryvy)
-- [100 разів відмовляли: Анджеліна Джолі про початок кар’єри](https://fakty.ua/449153-100-raz-otkazyvali-andzhelina-dzholi-o-nachale-karery)
-- [На інавгураційному молебні помітили Юлію Тимошенко &lpar;фото&rpar;](https://fakty.ua/449169-na-inauguracionnom-molebne-zametili-yuliyu-timoshenko-foto)
 <!-- BLOG-POST-LIST:END -->
