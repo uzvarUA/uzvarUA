@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Розлучення Джессіки Альби та Кеша Уоррена: у пари виникли проблеми через статки](https://fakty.ua/449196-razvod-dzhessiki-alby-i-kesha-uorrena-u-pary-voznikli-problemy-iz-za-sostoyaniya)
 - [Без роздумів підписав контракт: на Донеччині загинув 22-річний боєць з Кіровоградщини](https://fakty.ua/449185-bez-razdumij-podpisal-kontrakt-v-doneckoj-oblasti-pogib-22-letnij-boec-s-kirovogradcshiny)
 - [«Я не закликаю владу одуматися. Хай її дії бачить вся країна та весь світ» — Палатний звинуватив ОП в інформкампанії проти нього та команди](https://fakty.ua/449218-quot-ya-ne-prizyvayu-vlast-odumatsya-pust-ee-dejstviya-vidit-vsya-strana-i-ves-mir-quot---palatnyj-obvinil-op-v-informkampanii-protiv-nego-i-komandy)
 - [Корейський сценарій: аналітики про те, на якій території України рф залишить свої війська](https://fakty.ua/449182-korejskij-scenarij-analitiki-o-tom-na-kakoj-territorii-ukrainy-rf-ostavit-svoi-vojska)
 - [Не хоче бути самотньою: стало відомо, з ким Дженніфер Лопес намагається розпочати стосунки](https://fakty.ua/449216-ne-hochet-byt-odinokoj-stalo-izvestno-s-kem-dzhennifer-lopes-pytaetsya-nachat-otnosheniya)
-- [«Зустріли на Кіпрі стареньку Пугачову»: у мережі викрили популярний міф про Примадонну](https://fakty.ua/449207-quot-vstretili-na-kipre-starenkuyu-pugachevu-quot-v-seti-razoblachili-populyarnyj-mif-o-primadonne)
 <!-- BLOG-POST-LIST:END -->
