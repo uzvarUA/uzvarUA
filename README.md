@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Вогонь: мережа відреагувала на звернення Наталки Могилевської](https://fakty.ua/449199-ogon-set-otreagirovala-na-obracshenie-natali-mogilevskoj)
 - [Кохання всього життя: Софія Ротару показала рідкісне фото із чоловіком](https://fakty.ua/449198-lyubov-vsej-zhizni-sofiya-rotaru-pokazala-redkoe-foto-s-muzhem)
 - [Так виглядає відчай: Потап став «Славіком Балаганом» і почав стрибати під «Айн-цвай-поліцай»](https://fakty.ua/449191-tak-vyglyadit-otchayanie-potap-stal-quot-slavikom-balaganom-quot-i-nachal-prygat-pod-quot-ajn-cvaj-policaj-quot)
 - [«Іноді наче струмом б’є по пальцях або п’ятках, яких немає»: ветерану ЗСУ встановили унікальні остеопротези](https://fakty.ua/448953-inogda-kak-tokom-bet-po-palcam-ili-pyatkam-kotoryh-net-veteranu-vsu-ustanovili-unikalnye-osteoprotezy)
 - [Ворог завдав удару по Харкову: що відомо](https://fakty.ua/449188-vrag-nanes-udar-po-harkovu-chto-izvestno)
-- [Головному психіатру ЗСУ загрожує 10-річне ув’язнення: що показали обшуки СБУ](https://fakty.ua/449184-glavnomu-psihiatru-vsu-grozit-10-letnee-zaklyuchenie-chto-pokazali-obyski-sbu)
 <!-- BLOG-POST-LIST:END -->
