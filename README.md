@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Шлях до відновлення й процвітання: Пелюховський про об’єднання української нації](https://fakty.ua/449233-put-k-obnovleniyu-i-procvetaniyu-pelyuhovskij-ob-obedinenii-ukrainskoj-nacii)
+- [Росіяни скоро воюватимуть пішки, — ЗМІ](https://fakty.ua/449200-rossiyane-skoro-budut-voevat-peshkom---smi)
 - [«У цьому слові — „разом“ — прихована сила українців. Коли обираємо не срач, а меч»: Зеленський привітав українців з Днем Соборності &lpar;відео&rpar;](https://fakty.ua/449226-v-etom-slove-vmeste-skryta-sila-ukraincev-kogda-vybiraem-ne-srach-a-mech-zelenskij-pozdravil-ukraincev-s-dnem-sobornosti-video)
 - [Нічний терор: Миколаїв та Суми зазнали атак дронов, є руйнування та поранені &lpar;фото, відео&rpar;](https://fakty.ua/449220-nochnoj-terror-nikolaev-i-sumy-podverglis-atakam-dronov-est-razrusheniya-i-ranenye-foto-video)
 - [Осиротіли двоє діток-школярів: у Києві від російської ракети у машині згоріло подружжя підприємців з Вінниччини](https://fakty.ua/449208-osiroteli-dvoe-detej-shkolnikov-v-kieve-ot-rossijskoj-rakety-v-mashine-sgoreli-suprugi-predprinimateli-iz-vinnickoj-oblasti)
-- [Розлучення Джессіки Альби та Кеша Уоррена: у пари виникли проблеми через статки](https://fakty.ua/449196-razvod-dzhessiki-alby-i-kesha-uorrena-u-pary-voznikli-problemy-iz-za-sostoyaniya)
-- [Без роздумів підписав контракт: на Донеччині загинув 22-річний боєць з Кіровоградщини](https://fakty.ua/449185-bez-razdumij-podpisal-kontrakt-v-doneckoj-oblasti-pogib-22-letnij-boec-s-kirovogradcshiny)
 <!-- BLOG-POST-LIST:END -->
