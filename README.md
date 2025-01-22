@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [З початком війни не міг залишитись осторонь: на Харківщині загинув підполковник зі Львівщини](https://fakty.ua/449235-s-nachalom-vojny-ne-mog-ostatsya-v-storone-na-harkovcshine-pogib-podpolkovnik-so-lvovcshiny)
 - [Немає жодних ознак краху чи російського прориву: експерт про те, що Трамп має зробити для миру, а не капітуляції України](https://fakty.ua/449239-net-nikakih-priznakov-kraha-ili-rossijskogo-proryva-ekspert-o-tom-chto-tramp-dolzhen-sdelat-dlya-mira-a-ne-kapitulyacii-ukrainy)
 - [У Синєгубова «відхрестилися» від призначення Удянського почесним консулом: ЗМІ опублікували відповідь](https://fakty.ua/449264-u-sinegubova-otkrestilis-ot-naznacheniya-udyanskogo-pochetnym-konsulom-smi-opublikovali-otvet)
 - [Чутки й маніпуляції: Чмут щодо заяв ЦПК про «ручний вплив» Міноборони на Агенцію оборонних закупівель](https://fakty.ua/449261-sluhi-i-manipulyacii-chmut-otnositelno-zayavlenij-cpk-o-ruchnom-vliyanii-minoborony-na-agentstvo-oboronnyh-zakupok)
 - [Учасниця українського Нацвідбору на Євробачення представить на конкурсі іншу країну](https://fakty.ua/449249-uchastnica-ukrainskogo-nacotbora-na-evrovidenie-predstavit-na-konkurse-druguyu-stranu)
-- [Дев&amp;#39;ять авіаударів протягом 15 хвилин: ворог жорстко атакував Костянтинівку, є загиблі та поранені &lpar;фото&rpar;](https://fakty.ua/449255-devyat-aviaudarov-v-techenie-15-minut-vrag-zhestko-atakoval-konstantinovku-est-pogibshie-i-ranenye-foto)
 <!-- BLOG-POST-LIST:END -->
