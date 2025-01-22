@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Суд заарештував без права застави 16-річного учасника гучного побиття школярки під Києвом](https://fakty.ua/449240-sud-arestoval-bez-prava-zaloga-16-letnego-uchastnika-nashumevshego-izbieniya-shkolnicy-pod-kievom)
+- [«Шкода буде, якщо ми всі тут просто загинемо», — журналіст Євген Спірін, який служить санітаром у стабпункті](https://fakty.ua/449128-zhal-budet-esli-my-vse-zdes-prosto-pogibnem---zhurnalist-evgenij-spirin-sluzhacshij-sanitarom-v-stabpunkte)
 - [Колишній очільник служби боротьби з кіберзлочинністю подався на посаду директора БЕБ: що відомо](https://fakty.ua/449237-byvshij-rukovoditel-sluzhby-po-borbe-s-kiberprestupnostyu-podalsya-na-dolzhnost-direktora-beb-chto-izvestno)
 - [Шлях до відновлення й процвітання: Пелюховський про об’єднання української нації](https://fakty.ua/449233-put-k-obnovleniyu-i-procvetaniyu-pelyuhovskij-ob-obedinenii-ukrainskoj-nacii)
 - [Росіяни скоро воюватимуть пішки, — ЗМІ](https://fakty.ua/449200-rossiyane-skoro-budut-voevat-peshkom---smi)
-- [«У цьому слові — „разом“ — прихована сила українців. Коли обираємо не срач, а меч»: Зеленський привітав українців з Днем Соборності &lpar;відео&rpar;](https://fakty.ua/449226-v-etom-slove-vmeste-skryta-sila-ukraincev-kogda-vybiraem-ne-srach-a-mech-zelenskij-pozdravil-ukraincev-s-dnem-sobornosti-video)
-- [Нічний терор: Миколаїв та Суми зазнали атак дронов, є руйнування та поранені &lpar;фото, відео&rpar;](https://fakty.ua/449220-nochnoj-terror-nikolaev-i-sumy-podverglis-atakam-dronov-est-razrusheniya-i-ranenye-foto-video)
 <!-- BLOG-POST-LIST:END -->
