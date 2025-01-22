@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Осиротіли двоє діток-школярів: у Києві від російської ракети у машині згоріло подружжя підприємців з Вінниччини](https://fakty.ua/449208-osiroteli-dvoe-detej-shkolnikov-v-kieve-ot-rossijskoj-rakety-v-mashine-sgoreli-suprugi-predprinimateli-iz-vinnickoj-oblasti)
 - [Розлучення Джессіки Альби та Кеша Уоррена: у пари виникли проблеми через статки](https://fakty.ua/449196-razvod-dzhessiki-alby-i-kesha-uorrena-u-pary-voznikli-problemy-iz-za-sostoyaniya)
 - [Без роздумів підписав контракт: на Донеччині загинув 22-річний боєць з Кіровоградщини](https://fakty.ua/449185-bez-razdumij-podpisal-kontrakt-v-doneckoj-oblasti-pogib-22-letnij-boec-s-kirovogradcshiny)
 - [«Я не закликаю владу одуматися. Хай її дії бачить вся країна та весь світ» — Палатний звинуватив ОП в інформкампанії проти нього та команди](https://fakty.ua/449218-quot-ya-ne-prizyvayu-vlast-odumatsya-pust-ee-dejstviya-vidit-vsya-strana-i-ves-mir-quot---palatnyj-obvinil-op-v-informkampanii-protiv-nego-i-komandy)
 - [Корейський сценарій: аналітики про те, на якій території України рф залишить свої війська](https://fakty.ua/449182-korejskij-scenarij-analitiki-o-tom-na-kakoj-territorii-ukrainy-rf-ostavit-svoi-vojska)
-- [Не хоче бути самотньою: стало відомо, з ким Дженніфер Лопес намагається розпочати стосунки](https://fakty.ua/449216-ne-hochet-byt-odinokoj-stalo-izvestno-s-kem-dzhennifer-lopes-pytaetsya-nachat-otnosheniya)
 <!-- BLOG-POST-LIST:END -->
