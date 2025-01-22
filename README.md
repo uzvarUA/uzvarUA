@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Екскомандиру скандально відомої 155-ї бригади призначили заставу 90 млн гривень](https://fakty.ua/449269-eks-komandiru-skandalno-izvestnoj-155-j-brigady-naznachili-zalog-v-90-mln-griven)
 - [Ні про що не шкодує: Дженніфер Лопес насолоджується самотністю після розлучення](https://fakty.ua/449242-ni-o-chem-ne-zhaleet-dzhennifer-lopes-naslazhdaetsya-odinochestvom-posle-razvoda)
 - [З початком війни не міг залишитись осторонь: на Харківщині загинув підполковник зі Львівщини](https://fakty.ua/449235-s-nachalom-vojny-ne-mog-ostatsya-v-storone-na-harkovcshine-pogib-podpolkovnik-so-lvovcshiny)
 - [Немає жодних ознак краху чи російського прориву: експерт про те, що Трамп має зробити для миру, а не капітуляції України](https://fakty.ua/449239-net-nikakih-priznakov-kraha-ili-rossijskogo-proryva-ekspert-o-tom-chto-tramp-dolzhen-sdelat-dlya-mira-a-ne-kapitulyacii-ukrainy)
 - [У Синєгубова «відхрестилися» від призначення Удянського почесним консулом: ЗМІ опублікували відповідь](https://fakty.ua/449264-u-sinegubova-otkrestilis-ot-naznacheniya-udyanskogo-pochetnym-konsulom-smi-opublikovali-otvet)
-- [Чутки й маніпуляції: Чмут щодо заяв ЦПК про «ручний вплив» Міноборони на Агенцію оборонних закупівель](https://fakty.ua/449261-sluhi-i-manipulyacii-chmut-otnositelno-zayavlenij-cpk-o-ruchnom-vliyanii-minoborony-na-agentstvo-oboronnyh-zakupok)
 <!-- BLOG-POST-LIST:END -->
