@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Колишній очільник служби боротьби з кіберзлочинністю подався на посаду директора БЕБ: що відомо](https://fakty.ua/449237-byvshij-rukovoditel-sluzhby-po-borbe-s-kiberprestupnostyu-podalsya-na-dolzhnost-direktora-beb-chto-izvestno)
 - [Шлях до відновлення й процвітання: Пелюховський про об’єднання української нації](https://fakty.ua/449233-put-k-obnovleniyu-i-procvetaniyu-pelyuhovskij-ob-obedinenii-ukrainskoj-nacii)
 - [Росіяни скоро воюватимуть пішки, — ЗМІ](https://fakty.ua/449200-rossiyane-skoro-budut-voevat-peshkom---smi)
 - [«У цьому слові — „разом“ — прихована сила українців. Коли обираємо не срач, а меч»: Зеленський привітав українців з Днем Соборності &lpar;відео&rpar;](https://fakty.ua/449226-v-etom-slove-vmeste-skryta-sila-ukraincev-kogda-vybiraem-ne-srach-a-mech-zelenskij-pozdravil-ukraincev-s-dnem-sobornosti-video)
 - [Нічний терор: Миколаїв та Суми зазнали атак дронов, є руйнування та поранені &lpar;фото, відео&rpar;](https://fakty.ua/449220-nochnoj-terror-nikolaev-i-sumy-podverglis-atakam-dronov-est-razrusheniya-i-ranenye-foto-video)
-- [Осиротіли двоє діток-школярів: у Києві від російської ракети у машині згоріло подружжя підприємців з Вінниччини](https://fakty.ua/449208-osiroteli-dvoe-detej-shkolnikov-v-kieve-ot-rossijskoj-rakety-v-mashine-sgoreli-suprugi-predprinimateli-iz-vinnickoj-oblasti)
 <!-- BLOG-POST-LIST:END -->
