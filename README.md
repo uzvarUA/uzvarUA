@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [У Синєгубова «відхрестилися» від призначення Удянського почесним консулом: ЗМІ опублікували відповідь](https://fakty.ua/449264-u-sinegubova-otkrestilis-ot-naznacheniya-udyanskogo-pochetnym-konsulom-smi-opublikovali-otvet)
 - [Чутки й маніпуляції: Чмут щодо заяв ЦПК про «ручний вплив» Міноборони на Агенцію оборонних закупівель](https://fakty.ua/449261-sluhi-i-manipulyacii-chmut-otnositelno-zayavlenij-cpk-o-ruchnom-vliyanii-minoborony-na-agentstvo-oboronnyh-zakupok)
 - [Учасниця українського Нацвідбору на Євробачення представить на конкурсі іншу країну](https://fakty.ua/449249-uchastnica-ukrainskogo-nacotbora-na-evrovidenie-predstavit-na-konkurse-druguyu-stranu)
 - [Дев&amp;#39;ять авіаударів протягом 15 хвилин: ворог жорстко атакував Костянтинівку, є загиблі та поранені &lpar;фото&rpar;](https://fakty.ua/449255-devyat-aviaudarov-v-techenie-15-minut-vrag-zhestko-atakoval-konstantinovku-est-pogibshie-i-ranenye-foto)
 - [Суд заарештував без права застави 16-річного учасника гучного побиття школярки під Києвом](https://fakty.ua/449240-sud-arestoval-bez-prava-zaloga-16-letnego-uchastnika-nashumevshego-izbieniya-shkolnicy-pod-kievom)
-- [«Шкода буде, якщо ми всі тут просто загинемо», — журналіст Євген Спірін, який служить санітаром у стабпункті](https://fakty.ua/449128-zhal-budet-esli-my-vse-zdes-prosto-pogibnem---zhurnalist-evgenij-spirin-sluzhacshij-sanitarom-v-stabpunkte)
 <!-- BLOG-POST-LIST:END -->
