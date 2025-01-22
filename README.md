@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Чутки й маніпуляції: Чмут щодо заяв ЦПК про «ручний вплив» Міноборони на Агенцію оборонних закупівель](https://fakty.ua/449261-sluhi-i-manipulyacii-chmut-otnositelno-zayavlenij-cpk-o-ruchnom-vliyanii-minoborony-na-agentstvo-oboronnyh-zakupok)
+- [Учасниця українського Нацвідбору на Євробачення представить на конкурсі іншу країну](https://fakty.ua/449249-uchastnica-ukrainskogo-nacotbora-na-evrovidenie-predstavit-na-konkurse-druguyu-stranu)
 - [Дев&amp;#39;ять авіаударів протягом 15 хвилин: ворог жорстко атакував Костянтинівку, є загиблі та поранені &lpar;фото&rpar;](https://fakty.ua/449255-devyat-aviaudarov-v-techenie-15-minut-vrag-zhestko-atakoval-konstantinovku-est-pogibshie-i-ranenye-foto)
 - [Суд заарештував без права застави 16-річного учасника гучного побиття школярки під Києвом](https://fakty.ua/449240-sud-arestoval-bez-prava-zaloga-16-letnego-uchastnika-nashumevshego-izbieniya-shkolnicy-pod-kievom)
 - [«Шкода буде, якщо ми всі тут просто загинемо», — журналіст Євген Спірін, який служить санітаром у стабпункті](https://fakty.ua/449128-zhal-budet-esli-my-vse-zdes-prosto-pogibnem---zhurnalist-evgenij-spirin-sluzhacshij-sanitarom-v-stabpunkte)
-- [Колишній очільник служби боротьби з кіберзлочинністю подався на посаду директора БЕБ: що відомо](https://fakty.ua/449237-byvshij-rukovoditel-sluzhby-po-borbe-s-kiberprestupnostyu-podalsya-na-dolzhnost-direktora-beb-chto-izvestno)
-- [Шлях до відновлення й процвітання: Пелюховський про об’єднання української нації](https://fakty.ua/449233-put-k-obnovleniyu-i-procvetaniyu-pelyuhovskij-ob-obedinenii-ukrainskoj-nacii)
 <!-- BLOG-POST-LIST:END -->
