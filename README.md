@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Це неприємно напередодні переговорів: офіцер пояснив, чому путін вагається йти на Дніпро](https://fakty.ua/449254-eto-nepriyatno-nakanune-peregovorov-oficer-obyasnil-pochemu-putin-kolebletsya-idti-na-dnepr)
+- [Під копірку: сімʼя популярного танцівника вразила світлинами](https://fakty.ua/449293-pod-kopirku-semya-populyarnogo-tancovcshika-porazila-fotografiyami)
 - [Це відкритий терор: компанія із Дніпра звинувачує силовиків у цілеспрямованому знищенні легального бізнесу](https://fakty.ua/449321-eto-otkrytyj-terror-kompaniya-iz-dnepra-obvinyaet-silovikov-v-celenapravlennom-unichtozhenii-legalnogo-biznesa)
 - [Зустріч з Пугачовою передбачила Ванга: стало відомо, чому Кіркоров вважав Примадонну жінкою всього свого життя](https://fakty.ua/449320-vstrecha-s-pugachevoj-predusmotrela-vanga-stalo-izvestno-pochemu-kirkorov-schital-primadonnu-zhencshinoj-vsej-svoej-zhizni)
 - [Зброя з Північної Кореї допомогла окупантам просунутися на Лиманському напрямку](https://fakty.ua/449276-oruzhie-iz-severnoj-korei-pomoglo-okkupantam-prodvinutsya-na-limanskom-napravlenii)
-- [Журналістку Світлану Крюкову до санкційних списків додав радник президента Дмитро Литвин, — нардеп Гончаренко](https://fakty.ua/449315-zhurnalistku-svetlanu-kryukovu-v-sankcionnye-spiski-vnes-sovetnik-prezidenta-dmitrij-litvin---nardep-goncharenko)
-- [Відправились до пекла з «вогником»: росіяни були змушені спалити близько сотні своїх загиблих вояків](https://fakty.ua/449314-otpravilis-v-ad-s-quot-ogonkom-quot-rossiyane-byli-vynuzhdeny-sozhgli-okolo-sotni-svoih-pogibshih-voinov)
 <!-- BLOG-POST-LIST:END -->
