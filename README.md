@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Журналістку Світлану Крюкову до санкційних списків додав радник президента Дмитро Литвин, — нардеп Гончаренко](https://fakty.ua/449315-zhurnalistku-svetlanu-kryukovu-v-sankcionnye-spiski-vnes-sovetnik-prezidenta-dmitrij-litvin---nardep-goncharenko)
+- [Відправились до пекла з «вогником»: росіяни були змушені спалити близько сотні своїх загиблих вояків](https://fakty.ua/449314-otpravilis-v-ad-s-quot-ogonkom-quot-rossiyane-byli-vynuzhdeny-sozhgli-okolo-sotni-svoih-pogibshih-voinov)
 - [Сирість, холод, втомилася: популярна шеф-кухарка звернулася до шанувальників у мережі](https://fakty.ua/449287-syrost-holod-ustala-populyarnyj-shef-povar-obratilas-k-poklonnikam-v-seti)
 - [«Навіть найкращі командири припускаються помилок, але покарання за них не повинно руйнувати армію»: що відомо про справу заарештованих генералів](https://fakty.ua/449307-dazhe-samye-luchshie-komandiry-dopuskayut-oshibki-no-nakazanie-za-nih-ne-dolzhno-razrushat-armiyu-chto-izvestno-o-dele-arestovannyh-generalov)
 - [«НАБУ треба ліквідовувати»: з чим пов’язана така заява юриста Кравця](https://fakty.ua/449306-quot-nabu-nuzhno-likvidirovat-quot-s-chem-svyazano-takoe-zayavlenie-yurista-kravca)
-- [«Там зосереджені найбоєздатніші підрозділи»: експерт про колосальні втрати рф на Курщині](https://fakty.ua/449256-tam-sosredotocheny-samye-boesposobnye-podrazdeleniya-ekspert-o-kolossalnyh-poteryah-rf-na-kurcshine)
-- [Краще вілла на березі моря: Софія Ротару зняла з продажу квартиру у москві](https://fakty.ua/449285-luchshee-villa-na-beregu-morya-sofiya-rotaru-snyala-s-prodazh-kvartiru-v-moskve)
 <!-- BLOG-POST-LIST:END -->
