@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Сирість, холод, втомилася: популярна шеф-кухарка звернулася до шанувальників у мережі](https://fakty.ua/449287-syrost-holod-ustala-populyarnyj-shef-povar-obratilas-k-poklonnikam-v-seti)
+- [«Навіть найкращі командири припускаються помилок, але покарання за них не повинно руйнувати армію»: що відомо про справу заарештованих генералів](https://fakty.ua/449307-dazhe-samye-luchshie-komandiry-dopuskayut-oshibki-no-nakazanie-za-nih-ne-dolzhno-razrushat-armiyu-chto-izvestno-o-dele-arestovannyh-generalov)
+- [«НАБУ треба ліквідовувати»: з чим пов’язана така заява юриста Кравця](https://fakty.ua/449306-quot-nabu-nuzhno-likvidirovat-quot-s-chem-svyazano-takoe-zayavlenie-yurista-kravca)
+- [«Там зосереджені найбоєздатніші підрозділи»: експерт про колосальні втрати рф на Курщині](https://fakty.ua/449256-tam-sosredotocheny-samye-boesposobnye-podrazdeleniya-ekspert-o-kolossalnyh-poteryah-rf-na-kurcshine)
 - [Краще вілла на березі моря: Софія Ротару зняла з продажу квартиру у москві](https://fakty.ua/449285-luchshee-villa-na-beregu-morya-sofiya-rotaru-snyala-s-prodazh-kvartiru-v-moskve)
-- [Телеканал, який належав Порошенку, видалив відео, де могли бути докази роботи його бізнесу з рф — ЗМІ](https://fakty.ua/449302-telekanal-prinadlezhavshij-poroshenko-udalil-video-gde-mogli-byt-dokazatelstva-raboty-ego-biznesa-s-rf---smi)
-- [Понад 13 мільйонів незаконних виплат: підозру отримали 13 військових посадовців](https://fakty.ua/449301-bolee-13-millionov-nezakonnyh-vyplat-podozrenie-poluchili-13-voennyh-dolzhnostnyh-lic)
-- [Тарас Чмут викрив Шабуніна на брехні: про що йдеться](https://fakty.ua/449298-taras-chmut-pojmal-shabunina-na-lzhi-o-chem-idet-rech)
-- [Нічого не видно: у мережі сперечаються з приводу оголених фото Лесі Нікітюк](https://fakty.ua/449283-nichego-ne-vidno-v-seti-sporyat-po-povodu-obnazhennyh-foto-lesi-nikityuk)
 <!-- BLOG-POST-LIST:END -->
