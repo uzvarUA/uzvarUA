@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Наслідуючи приклад сестри, підписав контракт: на Курщині загинув боєць з Рівненщини](https://fakty.ua/449277-sleduya-primeru-sestry-podpisal-kontrakt-na-kurcshine-pogib-boec-s-rovencshiny)
 - [Це неприємно напередодні переговорів: офіцер пояснив, чому путін вагається йти на Дніпро](https://fakty.ua/449254-eto-nepriyatno-nakanune-peregovorov-oficer-obyasnil-pochemu-putin-kolebletsya-idti-na-dnepr)
 - [Під копірку: сімʼя популярного танцівника вразила світлинами](https://fakty.ua/449293-pod-kopirku-semya-populyarnogo-tancovcshika-porazila-fotografiyami)
 - [Це відкритий терор: компанія із Дніпра звинувачує силовиків у цілеспрямованому знищенні легального бізнесу](https://fakty.ua/449321-eto-otkrytyj-terror-kompaniya-iz-dnepra-obvinyaet-silovikov-v-celenapravlennom-unichtozhenii-legalnogo-biznesa)
 - [Зустріч з Пугачовою передбачила Ванга: стало відомо, чому Кіркоров вважав Примадонну жінкою всього свого життя](https://fakty.ua/449320-vstrecha-s-pugachevoj-predusmotrela-vanga-stalo-izvestno-pochemu-kirkorov-schital-primadonnu-zhencshinoj-vsej-svoej-zhizni)
-- [Зброя з Північної Кореї допомогла окупантам просунутися на Лиманському напрямку](https://fakty.ua/449276-oruzhie-iz-severnoj-korei-pomoglo-okkupantam-prodvinutsya-na-limanskom-napravlenii)
 <!-- BLOG-POST-LIST:END -->
