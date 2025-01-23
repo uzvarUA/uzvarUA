@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Понад 13 мільйонів незаконних виплат: підозру отримали 13 військових посадовців](https://fakty.ua/449301-bolee-13-millionov-nezakonnyh-vyplat-podozrenie-poluchili-13-voennyh-dolzhnostnyh-lic)
+- [Тарас Чмут викрив Шабуніна на брехні: про що йдеться](https://fakty.ua/449298-taras-chmut-pojmal-shabunina-na-lzhi-o-chem-idet-rech)
+- [Нічого не видно: у мережі сперечаються з приводу оголених фото Лесі Нікітюк](https://fakty.ua/449283-nichego-ne-vidno-v-seti-sporyat-po-povodu-obnazhennyh-foto-lesi-nikityuk)
+- [У Житомирі затримали агентів рф, які збиралися підірвати наряд поліцейських, що мав приїхати за викликом на «102»](https://fakty.ua/449297-v-zhitomire-zaderzhali-agentov-rf-kotorye-sobiralis-vzorvat-naryad-policejskih-kotoryj-dolzhen-byl-priehat-po-vyzovu-na-quot-102-quot)
 - [Окупанти розстріляли шістьох українських військовополонених, розпочато розслідування](https://fakty.ua/449291-okkupanty-rasstrelyali-shesteryh-ukrainskih-voennoplennyh-nachato-rassledovanie)
-- [Українські моряки повернуться після полону додому: ГУР та МЗС провели успішну операцію](https://fakty.ua/449281-ukrainskie-moryaki-vernutsya-posle-plena-domoj-gur-i-mid-proveli-uspeshnuyu-operaciyu)
-- [Вважає 93% військових психами, переніс чи то інсульт, чи інфаркт і вже затримувався на хабарі: суд обрав запобіжний захід головному психіатру ЗСУ](https://fakty.ua/449274-schitaet-93-voennyh-psihami-perenes-to-li-insult-to-li-infarkt-i-uzhe-zaderzhivalsya-na-vzyatke-sud-izbral-meru-presecheniya-glavnomu-psihiatru-vsu)
-- [Терористи з рф атакували балістикою Запоріжжя: в результаті варварського удару є вбиті та постраждалі, серед них — немовля](https://fakty.ua/449272-terroristy-iz-rf-atakovali-ballistikoj-zaporozhya-v-rezultate-varvarskogo-udara-est-ubitye-i-postradavshie-sredi-nih---mladenec)
-- [Екскомандиру скандально відомої 155-ї бригади призначили заставу 90 млн гривень](https://fakty.ua/449269-eks-komandiru-skandalno-izvestnoj-155-j-brigady-naznachili-zalog-v-90-mln-griven)
 <!-- BLOG-POST-LIST:END -->
