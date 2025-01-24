@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Мазут з Керченської протоки досяг заповідника на Одещині: екологи говорять про поступове вимирання Чорного моря](https://fakty.ua/449337-mazut-iz-kerchenskogo-proliva-dostig-zapovednika-v-odesskoj-oblasti-ekologi-govoryat-o-postepennom-vymiranii-chernogo-morya)
+- [«Ти щось неправильно зробив, щось пішло не так — і підрив одразу на місці», — жінка-сапер з позивним «Карма»](https://fakty.ua/449158-ty-chto-to-nepravilno-sdelal-chto-to-poshlo-ne-tak-i-podryv-srazu-na-meste-zhencshina-saper)
 - [Близько 150 балістичних ракет і не менше артилерійських установок: як КНДР компенсує рф брак зброї](https://fakty.ua/449309-pochti-150-ballisticheskih-raket-i-ne-menshe-artillerijskih-ustanovok-kak-kndr-kompensiruet-rf-nehvatku-oruzhiya)
 - [Зруйновано 12 будинків та магазин: мер Броварів показав наслідки нічного нальоту дронів на місто &lpar;фото&rpar;](https://fakty.ua/449328-razrusheny-12-domov-i-magazin-mer-brovarov-pokazal-posledstviya-nochnogo-naleta-dronov-na-gorod-foto)
 - [Понад сотню українських дронів атакували вночі регіони росії: горять заводи в Рязані, Брянську та Енгельсі &lpar;фото, відео&rpar;](https://fakty.ua/449324-bolee-sotni-ukrainskih-dronov-atakovali-nochyu-regiony-rossii-goryat-zavody-v-ryazani-bryanske-i-engelse-foto-video)
-- [Багатоповерхівка під Києвом частково зруйнована внаслідок атаки російських безпілотників, є жертви &lpar;фото, відео&rpar;](https://fakty.ua/449323-mnogoetazhka-pod-kievom-chastichno-razrushena-v-rezultate-ataki-rossijskih-bespilotnikov-est-zhertvy-foto-video)
-- [Оплакала: Періс Гілтон відверто розповіла, як справляється з тим, що сімейний будинок згорів на її очах](https://fakty.ua/449292-oplakala-peris-hilton-otkrovenno-rasskazala-kak-spravlyaetsya-s-tem-chto-semejnyj-dom-sgorel-na-ee-glazah)
 <!-- BLOG-POST-LIST:END -->
