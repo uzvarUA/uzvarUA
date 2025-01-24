@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [З приходом Трампа до влади зміниться розклад сил в Україні, — прогноз NYT](https://fakty.ua/449364-s-prihodom-trampa-k-vlasti-izmenitsya-rasklad-sil-v-ukraine---prognoz-nyt)
+- [Тисяча обшуків, сотні вилучених «стволів» та десятки затриманих: в Україні провели масштабну спецоперацію &lpar;фото, відео&rpar;](https://fakty.ua/449363-tysyacha-obyskov-sotni-izyatyh-stvolov-i-desyatki-zaderzhannyh-v-ukraine-proveli-masshtabnuyu-specoperaciyu-foto-video)
 - [Повз «Оскар»: Аджеліні Джолі знову не дістанеться заповітна статуетка](https://fakty.ua/449362-mimo-oskara-adzheline-dzholi-snova-ne-dostanetsya-zavetnaya-statuetka)
 - [ЗМІ підозрюють родичів нардепа Железняка у бізнес-зв&#39;язках з головою пропутінської партії в «ДНР»: що відомо](https://fakty.ua/449355-smi-podozrevayut-rodstvennikov-nardepa-zheleznyaka-v-biznes-svyazyah-s-glavoj-proputinskoj-partii-v-quot-dnr-quot-chto-izvestno)
 - [Готовий повернутися на фронт рядовим: заарештований генерал Галушкін виступив зі зверненням](https://fakty.ua/449353-gotov-vernutsya-na-front-ryadovym-arestovannyj-general-galushkin-vystupil-s-obracsheniem)
-- [ТРЦ «Гулівер» може опинитися під контролем Порошенка через підставну компанію, — політтехнолог](https://fakty.ua/449351-trc-gulliver-mozhet-okazatsya-pod-kontrolem-poroshenko-cherez-podstavnuyu-kompaniyu-polittehnolog)
-- [Ексспіввласник «Привату» закликав Тігіпка припинити вести спільний бізнес с Боголюбовим і Коломойським](https://fakty.ua/449350-eks-sovladelec-quot-privata-quot-prizval-tigipko-prekratit-vesti-sovmestnyj-biznes-s-bogolyubovym-i-kolomojskim)
 <!-- BLOG-POST-LIST:END -->
