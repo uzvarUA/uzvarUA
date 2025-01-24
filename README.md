@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [ТРЦ «Гулівер» може опинитися під контролем Порошенка через підставну компанію, — політтехнолог](https://fakty.ua/449351-trc-gulliver-mozhet-okazatsya-pod-kontrolem-poroshenko-cherez-podstavnuyu-kompaniyu-polittehnolog)
+- [Ексспіввласник «Привату» закликав Тігіпка припинити вести спільний бізнес с Боголюбовим і Коломойським](https://fakty.ua/449350-eks-sovladelec-quot-privata-quot-prizval-tigipko-prekratit-vesti-sovmestnyj-biznes-s-bogolyubovym-i-kolomojskim)
 - [Відома блогерка загинула у ДТП на трасі Харків — Київ](https://fakty.ua/449343-izvestnaya-blogersha-pogibla-v-dtp-na-trasse-harkov---kiev)
 - [Мазут з Керченської протоки досяг заповідника на Одещині: екологи говорять про вимирання Чорного моря](https://fakty.ua/449337-mazut-iz-kerchenskogo-proliva-dostig-zapovednika-v-odesskoj-oblasti-ekologi-govoryat-o-postepennom-vymiranii-chernogo-morya)
 - [«Ти щось неправильно зробив, щось пішло не так — і підрив одразу на місці», — жінка-сапер з позивним «Карма»](https://fakty.ua/449158-ty-chto-to-nepravilno-sdelal-chto-to-poshlo-ne-tak-i-podryv-srazu-na-meste-zhencshina-saper)
-- [Близько 150 балістичних ракет і не менше артилерійських установок: як КНДР компенсує рф брак зброї](https://fakty.ua/449309-pochti-150-ballisticheskih-raket-i-ne-menshe-artillerijskih-ustanovok-kak-kndr-kompensiruet-rf-nehvatku-oruzhiya)
-- [Зруйновано 12 будинків та магазин: мер Броварів показав наслідки нічного нальоту дронів на місто &lpar;фото&rpar;](https://fakty.ua/449328-razrusheny-12-domov-i-magazin-mer-brovarov-pokazal-posledstviya-nochnogo-naleta-dronov-na-gorod-foto)
 <!-- BLOG-POST-LIST:END -->
