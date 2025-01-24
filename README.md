@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Таємно від батьків підписав контракт: на Покровському напрямку загинув студент з Вінниччини](https://fakty.ua/449327-tajno-ot-roditelej-podpisal-kontrakt-na-pokrovskom-napravlenii-pogib-student-iz-vinnickoj-oblasti)
 - [Влада має почати діяти відповідально — допомагати захисникам, а не переслідувати їх, — заява «УДАРу Віталія Кличка»](https://fakty.ua/449368-vlast-dolzhna-nachat-dejstvovat-otvetstvenno-pomogat-zacshitnikam-a-ne-presledovat-ih---zayavlenie-udara-vitaliya-klichko)
 - [«Пропаганда»: авіаексперт про модернізацію росією літаків для запуску «Кинджалів»](https://fakty.ua/449318-propaganda-aviaekspert-o-modernizacii-rossiej-samoletov-dlya-zapuska-kinzhalov)
 - [«ДБР і прокуратура перетворилися на інструмент тиску для досягнення політичних цілей», — адвокат Ємельянов](https://fakty.ua/449365-gbr-i-prokuratura-prevratilis-v-instrument-davleniya-dlya-dostizheniya-politicheskih-celej-advokat-emelyanov)
 - [З приходом Трампа до влади зміниться розклад сил в Україні, — прогноз NYT](https://fakty.ua/449364-s-prihodom-trampa-k-vlasti-izmenitsya-rasklad-sil-v-ukraine---prognoz-nyt)
-- [Тисяча обшуків, сотні вилучених «стволів» та десятки затриманих: в Україні провели масштабну спецоперацію &lpar;фото, відео&rpar;](https://fakty.ua/449363-tysyacha-obyskov-sotni-izyatyh-stvolov-i-desyatki-zaderzhannyh-v-ukraine-proveli-masshtabnuyu-specoperaciyu-foto-video)
 <!-- BLOG-POST-LIST:END -->
