@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [З перших місяців війни став на захист України: в бою з окупантами загинув офіцер зі Львівщини](https://fakty.ua/449378-s-pervyh-mesyacev-vojny-vstal-na-zacshitu-ukrainy-v-boyu-s-okkupantami-pogib-oficer-iz-lvovskoj-oblasti)
 - [Сподіваються, що переїзд буде останнім: Алла Пугачова та Максим Галкін покидають Кіпр](https://fakty.ua/449408-nadeyutsya-chto-pereezd-budet-poslednim-alla-pugacheva-i-maksim-galkin-pokidayut-kipr)
 - [Мирна угода задовольнить путіна лише за однієї умови — аналітик](https://fakty.ua/449352-mirnoe-soglashenie-udovletvorit-putina-tolko-pri-odnom-uslovii---analitik)
 - [Брітні Спірс це точно не сподобається: стала відомо, чому сини співачки вирішили «раптово» помирилися з нею](https://fakty.ua/449395-britni-spirs-eto-tochno-ne-ponravitsya-stalo-izvestno-pochemu-synovya-pevicy-reshili-quot-vnezapno-quot-pomiritsya-s-nej)
 - [Тотальньний контроль за закритим 300-мільярдним збройним бюджетом: ЦПК про &lpar;не&rpar;безпечне рішення Умєрова](https://fakty.ua/449401-tyanet-na-ugolovnuyu-statyu-cpk-o-reshenii-umerova-po-aoz)
-- [Христина Орбкайте заспівала англійською і показала, як Аллу Пугачову приймали до «чорнобильскої сім’ї»](https://fakty.ua/449388-kristina-orbkajte-spela-po-anglijski-i-pokazala-kak-allu-pugachevu-prinimali-v-quot-chernobylskuyu-semyu-quot)
 <!-- BLOG-POST-LIST:END -->
