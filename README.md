@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Окупанти атакували Харків дронами: в місті можливі перебої з водою та світлом](https://fakty.ua/449397-okkupanty-atakovali-harkov-dronami-v-gorode-vozmozhny-pereboi-s-vodoj-i-svetom)
 - [Ворог вночі атакував дронами Полтавську область: в ОВА показали фото наслідків нальоту](https://fakty.ua/449394-vrag-nochyu-atakoval-dronami-poltavskuyu-oblast-v-ova-pokazali-foto-posledstvij-naleta)
 - [Нічна атака ворожих дронів: у Київській області поранення отримала п’ятирічна дитина](https://fakty.ua/449393-nochnaya-ataka-vrazheskih-dronov-v-kievskoj-oblasti-raneniya-poluchil-pyatiletnij-rebenok)
 - [У багатоповерхівці в Ірпені під Києвом стався вибух: що відомо](https://fakty.ua/449391-v-mnogoetazhke-v-irpene-pod-kievom-proizoshel-vzryv-chto-izvestno)
 - [«Голлівуд на боці Бреда Пітта»: чому засмутилась Анджеліна Джолі](https://fakty.ua/449382-quot-gollivud-na-storone-breda-pitta-quot-pochemu-rasstroilas-andzhelina-dzholi)
-- [Американки завжди повертаються до українських майстринь манікюру й залишають хороші чайові: історія успіху полтавки, яка вважала себе безталанною](https://fakty.ua/449344-amerikanki-vsegda-vozvracshayutsya-k-ukrainskim-mastericam-manikyura-i-ostavlyayut-horoshie-chaevye-istoriya-uspeha-poltavchanki-schitavshej-sebya-bestalannoj)
 <!-- BLOG-POST-LIST:END -->
