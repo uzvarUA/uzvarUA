@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Брітні Спірс це точно не сподобається: стала відомо, чому сини співачки вирішили «раптово» помирилися з нею](https://fakty.ua/449395-britni-spirs-eto-tochno-ne-ponravitsya-stalo-izvestno-pochemu-synovya-pevicy-reshili-quot-vnezapno-quot-pomiritsya-s-nej)
+- [Тотальньний контроль за закритим 300-мільярдним збройним бюджетом: ЦПК про &lpar;не&rpar;безпечне рішення Умєрова](https://fakty.ua/449401-tyanet-na-ugolovnuyu-statyu-cpk-o-reshenii-umerova-po-aoz)
 - [Христина Орбкайте заспівала англійською і показала, як Аллу Пугачову приймали до «чорнобильскої сім’ї»](https://fakty.ua/449388-kristina-orbkajte-spela-po-anglijski-i-pokazala-kak-allu-pugachevu-prinimali-v-quot-chernobylskuyu-semyu-quot)
 - [Окупанти атакували Харків дронами: в місті можливі перебої з водою та світлом](https://fakty.ua/449397-okkupanty-atakovali-harkov-dronami-v-gorode-vozmozhny-pereboi-s-vodoj-i-svetom)
 - [Ворог вночі атакував дронами Полтавську область: в ОВА показали фото наслідків нальоту](https://fakty.ua/449394-vrag-nochyu-atakoval-dronami-poltavskuyu-oblast-v-ova-pokazali-foto-posledstvij-naleta)
-- [Нічна атака ворожих дронів: у Київській області поранення отримала п’ятирічна дитина](https://fakty.ua/449393-nochnaya-ataka-vrazheskih-dronov-v-kievskoj-oblasti-raneniya-poluchil-pyatiletnij-rebenok)
-- [У багатоповерхівці в Ірпені під Києвом стався вибух: що відомо](https://fakty.ua/449391-v-mnogoetazhke-v-irpene-pod-kievom-proizoshel-vzryv-chto-izvestno)
 <!-- BLOG-POST-LIST:END -->
