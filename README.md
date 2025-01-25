@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Ворог вкотре атакував мирні міста України: під Києвом пошкоджено багатоповерхівку, виникла пожежа](https://fakty.ua/449372-vrag-snova-atakoval-mirnye-goroda-ukrainy-pod-kievom-povrezhdena-mnogoetazhka-voznik-pozhar)
 - [Ми щасливіші, ніж будь-коли: Річард Гір розповів про своє нове життя в Іспанії](https://fakty.ua/449331-my-schastlivee-chem-kogda-libo-richard-gir-rasskazal-o-svoej-novoj-zhizni-v-ispanii)
 - [Таємно від батьків підписав контракт: на Покровському напрямку загинув студент з Вінниччини](https://fakty.ua/449327-tajno-ot-roditelej-podpisal-kontrakt-na-pokrovskom-napravlenii-pogib-student-iz-vinnickoj-oblasti)
 - [Влада має почати діяти відповідально — допомагати захисникам, а не переслідувати їх, — заява «УДАРу Віталія Кличка»](https://fakty.ua/449368-vlast-dolzhna-nachat-dejstvovat-otvetstvenno-pomogat-zacshitnikam-a-ne-presledovat-ih---zayavlenie-udara-vitaliya-klichko)
 - [«Пропаганда»: авіаексперт про модернізацію росією літаків для запуску «Кинджалів»](https://fakty.ua/449318-propaganda-aviaekspert-o-modernizacii-rossiej-samoletov-dlya-zapuska-kinzhalov)
-- [«ДБР і прокуратура перетворилися на інструмент тиску для досягнення політичних цілей», — адвокат Ємельянов](https://fakty.ua/449365-gbr-i-prokuratura-prevratilis-v-instrument-davleniya-dlya-dostizheniya-politicheskih-celej-advokat-emelyanov)
 <!-- BLOG-POST-LIST:END -->
