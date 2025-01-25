@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Христина Орбкайте заспівала англійською і показала, як Аллу Пугачову приймали до «чорнобильскої сім’ї»](https://fakty.ua/449388-kristina-orbkajte-spela-po-anglijski-i-pokazala-kak-allu-pugachevu-prinimali-v-quot-chernobylskuyu-semyu-quot)
 - [Окупанти атакували Харків дронами: в місті можливі перебої з водою та світлом](https://fakty.ua/449397-okkupanty-atakovali-harkov-dronami-v-gorode-vozmozhny-pereboi-s-vodoj-i-svetom)
 - [Ворог вночі атакував дронами Полтавську область: в ОВА показали фото наслідків нальоту](https://fakty.ua/449394-vrag-nochyu-atakoval-dronami-poltavskuyu-oblast-v-ova-pokazali-foto-posledstvij-naleta)
 - [Нічна атака ворожих дронів: у Київській області поранення отримала п’ятирічна дитина](https://fakty.ua/449393-nochnaya-ataka-vrazheskih-dronov-v-kievskoj-oblasti-raneniya-poluchil-pyatiletnij-rebenok)
 - [У багатоповерхівці в Ірпені під Києвом стався вибух: що відомо](https://fakty.ua/449391-v-mnogoetazhke-v-irpene-pod-kievom-proizoshel-vzryv-chto-izvestno)
-- [«Голлівуд на боці Бреда Пітта»: чому засмутилась Анджеліна Джолі](https://fakty.ua/449382-quot-gollivud-na-storone-breda-pitta-quot-pochemu-rasstroilas-andzhelina-dzholi)
 <!-- BLOG-POST-LIST:END -->
