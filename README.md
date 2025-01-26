@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Виглядала розслабленою: дочка Анджеліни Джолі та Бреда Пітта вперше за довгий час з’явилася на публіці](https://fakty.ua/449427-vyglyadela-rasslablennoj-doch-andzheliny-dzholi-i-breda-pitta-vpervye-za-dolgoe-vremya-poyavilas-na-publike)
 - [Осиротіла однорічна донька: в бою на Харківщині загинув переселенець з Херсонщини](https://fakty.ua/449434-osirotela-godovalaya-doch-v-boyu-na-harkovcshine-pogib-pereselenec-iz-hersonskoj-oblasti)
 - [В окупованому Маріуполі загадково зникають пенсіонери](https://fakty.ua/449442-v-okkupirovannom-mariupole-zagadochno-propadayut-pensionery)
 - [КНДР кинула у бій проти України дивні системи на вантажівках](https://fakty.ua/449428-kndr-brosila-v-boj-protiv-ukrainy-strannye-sistemy-na-gruzovikah)
 - [Заяви щодо «продовження контракту Безрукової, як оцінку ефективності», не відповідають реальності, — ГАР МОУ](https://fakty.ua/449417-zayavleniya-o-prodlenii-kontrakta-bezrukovoj-kak-ocenku-effektivnosti-ne-sootvetstvuyut-realnosti---oas-mou)
-- [Неадекват вчинив стрілянину на зупинці у Черкасах: є поранені &lpar;фото, відео&rpar;](https://fakty.ua/449413-neadekvat-ustroil-strelbu-na-ostanovke-v-cherkassah-est-ranenye-foto-video)
 <!-- BLOG-POST-LIST:END -->
