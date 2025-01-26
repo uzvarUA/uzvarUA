@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Неадекват вчинив стрілянину на зупинці у Черкасах: є поранені &lpar;фото, відео&rpar;](https://fakty.ua/449413-neadekvat-ustroil-strelbu-na-ostanovke-v-cherkassah-est-ranenye-foto-video)
 - [Дрони ворога атакували вночі Суми та Харків, є руйнування](https://fakty.ua/449410-drony-vraga-atakovali-nochyu-sumy-i-harkov-est-razrusheniya)
 - [Невдячний: ексдружина Бена Аффлека вважає, що він має бути добрішим до Дженніфер Лопес](https://fakty.ua/449387-neblagodarnyj-eks-zhena-bena-affleka-schitaet-chto-on-dolzhen-byt-dobree-k-dzhennifer-lopes)
 - [З перших місяців війни став на захист України: в бою з окупантами загинув офіцер зі Львівщини](https://fakty.ua/449378-s-pervyh-mesyacev-vojny-vstal-na-zacshitu-ukrainy-v-boyu-s-okkupantami-pogib-oficer-iz-lvovskoj-oblasti)
 - [Сподіваються, що переїзд буде останнім: Алла Пугачова та Максим Галкін покидають Кіпр](https://fakty.ua/449408-nadeyutsya-chto-pereezd-budet-poslednim-alla-pugacheva-i-maksim-galkin-pokidayut-kipr)
-- [Мирна угода задовольнить путіна лише за однієї умови — аналітик](https://fakty.ua/449352-mirnoe-soglashenie-udovletvorit-putina-tolko-pri-odnom-uslovii---analitik)
 <!-- BLOG-POST-LIST:END -->
