@@ -145,11 +145,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Позбавили військових 133 генераторів: ДБР завершило нове розслідування](https://fakty.ua/449486-lishili-voennyh-133-generatorov-dbr-zavershilo-novoe-rassledovanie)
+- [Я обожнюю її: Дантес вразив зізнанням](https://fakty.ua/449468-ya-obozhayu-ee-dantes-porazil-priznaniem)
 - [Klavdia Petrivna зробила дві головні помилки: відома співачка вказала на них](https://fakty.ua/449476-klavdia-petrivna-sovershila-dve-glavnye-oshibki-izvestnaya-pevica-ukazala-na-nih)
 - [Збив п’яним на переході чотирьох людей: суд оголосив вирок ексголові Броварської РДА Майбоженку](https://fakty.ua/449481-sbil-pyanym-na-perehode-chetyreh-chelovek-sud-obyavil-prigovor-ekspredsedatelyu-brovarskoj-rga-majbozhenko)
 - [Залишиться з нами назавжди: дружина Дмитра Монатіка вразила світлинами](https://fakty.ua/449463-ostanetsya-s-nami-navsegda-zhena-dmitriya-monatika-porazila-fotografiyami)
-- [Уламки розповідають іншу історію: експерти про «унікальність» російського «Орєшніка»](https://fakty.ua/449454-oskolki-rasskazyvayut-druguyu-istoriyu-eksperty-ob-unikalnosti-rossijskogo-oreshnika)
-- [Нацвідбір на «Євробачення»: фанати назвали своїх фаворитів](https://fakty.ua/449461-nacotbor-na-evrovidenie-fanaty-nazvali-svoih-favoritov)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
