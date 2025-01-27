@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Славік Балаган &lpar;колишній Потап&rpar; влаштував «ігрища в кальмара» у центрі Валенсії і почав вчити іспанців новим рухам](https://fakty.ua/449447-slavik-balagan-byvshij-potap-ustroil-quot-igricsha-v-kalmara-quot-v-centre-barselony-i-nachal-uchit-ispancev-novym-dvizheniyam)
+- [Нічна атака дронів: на Прикарпатті пошкоджено критичну інфраструктуру, сталися загоряння](https://fakty.ua/449448-nochnaya-ataka-dronov-na-prikarpate-povrezhdena-kriticheskaya-infrastruktura-proizoshli-vozgoraniya)
 - [Ворог продовжує атакувати Україну: над Дніпропетровщиною збили 13 БПЛА, а добрі дрони вдарили по НПЗ у російській твері](https://fakty.ua/449444-vrag-prodolzhaet-atakovat-ukrainu-nad-dnepropetrovcshinoj-sbili-13-bpla-a-horoshie-drony-udarili-po-npz-v-rossijskoj-tveri)
 - [Виглядала розслабленою: дочка Анджеліни Джолі та Бреда Пітта вперше за довгий час з’явилася на публіці](https://fakty.ua/449427-vyglyadela-rasslablennoj-doch-andzheliny-dzholi-i-breda-pitta-vpervye-za-dolgoe-vremya-poyavilas-na-publike)
 - [Осиротіла однорічна донька: в бою на Харківщині загинув переселенець з Херсонщини](https://fakty.ua/449434-osirotela-godovalaya-doch-v-boyu-na-harkovcshine-pogib-pereselenec-iz-hersonskoj-oblasti)
-- [В окупованому Маріуполі загадково зникають пенсіонери](https://fakty.ua/449442-v-okkupirovannom-mariupole-zagadochno-propadayut-pensionery)
-- [КНДР кинула у бій проти України дивні системи на вантажівках](https://fakty.ua/449428-kndr-brosila-v-boj-protiv-ukrainy-strannye-sistemy-na-gruzovikah)
 <!-- BLOG-POST-LIST:END -->
