@@ -145,11 +145,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Залишиться з нами назавжди: дружина Дмитра Монатіка вразила світлинами](https://fakty.ua/449463-ostanetsya-s-nami-navsegda-zhena-dmitriya-monatika-porazila-fotografiyami)
 - [Уламки розповідають іншу історію: експерти про «унікальність» російського «Орєшніка»](https://fakty.ua/449454-oskolki-rasskazyvayut-druguyu-istoriyu-eksperty-ob-unikalnosti-rossijskogo-oreshnika)
 - [Нацвідбір на «Євробачення»: фанати назвали своїх фаворитів](https://fakty.ua/449461-nacotbor-na-evrovidenie-fanaty-nazvali-svoih-favoritov)
 - [П’ятеро травмованих: росіяни вдарили по підприємству в Нікополі](https://fakty.ua/449465-pyatero-travmirovannyh-rossiyane-udarili-po-predpriyatiyu-v-nikopole)
 - [На Порошенка пропонують накласти санкції за шкоду інтересам України: на сайті президента з’явилась відповідна петиція](https://fakty.ua/449462-na-poroshenko-predlagayut-nalozhit-sankcii-za-nanesenie-vreda-interesam-ukrainy-na-sajte-prezidenta-poyavilas-sootvetstvuyucshaya-peticiya)
-- [Ніякого порівняння з Пугачовою: фанати Примадонни розкритикували Анжеліку Варум](https://fakty.ua/449459-nikakogo-sravneniya-s-pugachevoj-fanaty-primadonny-raskritikovali-anzheliku-varum)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
