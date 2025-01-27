@@ -145,9 +145,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Дедлайн горить: як розлучення з Джей Ло вплинуло на бізнес Бена Аффлека](https://fakty.ua/449480-dedlajn-gorit-kak-razvod-s-dzhej-lo-povliyal-na-biznes-bena-affleka)
 - [Два роки жевріла надія: на Тернопільщині попрощались із 36-річним добровольцем](https://fakty.ua/449472-dva-goda-teplilas-nadezhda-na-ternopolcshine-poprocshalis-s-36-letnim-dobrovolcem)
 - [Модна зірка навіть після смерті: на могилі улюбленця Алли Пугачової стали відбуватися незвичні речі](https://fakty.ua/449491-modnaya-zvezda-dazhe-posle-smerti-na-mogile-lyubimca-ally-pugachevoj-stali-proishodit-neobychnye-vecshi)
-- [«Якщо ми засуджуємо своїх командирів, то розраховувати на успішне завершення війни не варто»: Віктор Назаров про «справу генералів»](https://fakty.ua/449441-esli-my-osuzhdaem-svoih-komandirov-to-rasschityvat-na-uspeshnoe-zavershenie-vojny-ne-stoit-viktor-nazarov-o-dele-generalov)
 - [НАБУ відкрило кримінальне провадження на Умерова: міністра підозрюють у перевищенні службових повноважень](https://fakty.ua/449490-nabu-otkrylo-ugolovnoe-proizvodstvo-na-umerova-ministr-podozrevaetsya-v-prevyshenii-sluzhebnyh-polnomochij)
 - [Позбавили військових 133 генераторів: ДБР завершило нове розслідування](https://fakty.ua/449486-lishili-voennyh-133-generatorov-dbr-zavershilo-novoe-rassledovanie)
 <!-- BLOG-POST-LIST:END -->
