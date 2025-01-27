@@ -145,11 +145,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Модна зірка навіть після смерті: на могилі улюбленця Алли Пугачової стали відбуватися незвичні речі](https://fakty.ua/449491-modnaya-zvezda-dazhe-posle-smerti-na-mogile-lyubimca-ally-pugachevoj-stali-proishodit-neobychnye-vecshi)
+- [«Якщо ми засуджуємо своїх командирів, то розраховувати на успішне завершення війни не варто»: Віктор Назаров про «справу генералів»](https://fakty.ua/449441-esli-my-osuzhdaem-svoih-komandirov-to-rasschityvat-na-uspeshnoe-zavershenie-vojny-ne-stoit-viktor-nazarov-o-dele-generalov)
 - [НАБУ відкрило кримінальне провадження на Умерова: міністра підозрюють у перевищенні службових повноважень](https://fakty.ua/449490-nabu-otkrylo-ugolovnoe-proizvodstvo-na-umerova-ministr-podozrevaetsya-v-prevyshenii-sluzhebnyh-polnomochij)
 - [Позбавили військових 133 генераторів: ДБР завершило нове розслідування](https://fakty.ua/449486-lishili-voennyh-133-generatorov-dbr-zavershilo-novoe-rassledovanie)
 - [Я обожнюю її: Дантес вразив зізнанням](https://fakty.ua/449468-ya-obozhayu-ee-dantes-porazil-priznaniem)
-- [Klavdia Petrivna зробила дві головні помилки: відома співачка вказала на них](https://fakty.ua/449476-klavdia-petrivna-sovershila-dve-glavnye-oshibki-izvestnaya-pevica-ukazala-na-nih)
-- [Збив п’яним на переході чотирьох людей: суд оголосив вирок ексголові Броварської РДА Майбоженку](https://fakty.ua/449481-sbil-pyanym-na-perehode-chetyreh-chelovek-sud-obyavil-prigovor-ekspredsedatelyu-brovarskoj-rga-majbozhenko)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
