@@ -144,9 +144,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [На Порошенка пропонують накласти санкції за шкоду інтересам України: на сайті президента з’явилась відповідна петиція](https://fakty.ua/449462-na-poroshenko-predlagayut-nalozhit-sankcii-za-nanesenie-vreda-interesam-ukrainy-na-sajte-prezidenta-poyavilas-sootvetstvuyucshaya-peticiya)
+- [Ніякого порівняння з Пугачовою: фанати Примадонни розкритикували Анжеліку Варум](https://fakty.ua/449459-nikakogo-sravneniya-s-pugachevoj-fanaty-primadonny-raskritikovali-anzheliku-varum)
+- [Без спортзалу й енергетиків: у 45 років Юрій Балясний з Полтавщини демонструє унікальні фізичні можливості](https://fakty.ua/449453-bez-sportzala-i-energetikov-v-45-let-yurij-balyasnyj-s-poltavcshiny-demonstriruet-unikalnye-fizicheskie-vozmozhnosti)
 - [Приїхав під виглядом відвідин доньки: СБУ затримала «сплячого агента» росії на Донеччині](https://fakty.ua/449452-priehal-pod-vidom-posecsheniya-docheri-sbu-zaderzhala-spyacshego-agenta-rossii-v-doneckoj-oblasti)
 - [Американські дипломати закликали держсекретаря не призупиняти допомогу Україні](https://fakty.ua/449439-amerikanskie-diplomaty-prizvali-gossekretarya-ne-priostanavlivat-pomocsh-ukraine)
-- [Славік Балаган &lpar;колишній Потап&rpar; влаштував «ігрища в кальмара» у центрі Валенсії і почав вчити іспанців новим рухам](https://fakty.ua/449447-slavik-balagan-byvshij-potap-ustroil-quot-igricsha-v-kalmara-quot-v-centre-barselony-i-nachal-uchit-ispancev-novym-dvizheniyam)
-- [Нічна атака дронів: на Прикарпатті пошкоджено критичну інфраструктуру, сталися загоряння](https://fakty.ua/449448-nochnaya-ataka-dronov-na-prikarpate-povrezhdena-kriticheskaya-infrastruktura-proizoshli-vozgoraniya)
-- [Ворог продовжує атакувати Україну: над Дніпропетровщиною збили 13 БПЛА, а добрі дрони вдарили по НПЗ у російській твері](https://fakty.ua/449444-vrag-prodolzhaet-atakovat-ukrainu-nad-dnepropetrovcshinoj-sbili-13-bpla-a-horoshie-drony-udarili-po-npz-v-rossijskoj-tveri)
 <!-- BLOG-POST-LIST:END -->
