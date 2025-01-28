@@ -146,11 +146,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Користувався повагою і авторитетом: на Харківщині загинув боєць з Київщини](https://fakty.ua/449514-polzovalsya-uvazheniem-i-avtoritetom-na-harkovcshine-pogib-boec-iz-kievskoj-oblasti)
 - [Вимагають гроші чи інтимні фото: як росіяни схиляють до співпраці родичів полонених українців](https://fakty.ua/449536-trebuyut-dengi-ili-intimnye-foto-kak-rossiyane-sklonyayut-k-sotrudnichestvu-rodstvennikov-plennyh-ukraincev)
 - [«В моєму тілі багато всього»: популярна співачка відреагувала на хейт &lpar;фото&rpar;](https://fakty.ua/449522-quot-v-moem-tele-mnogo-vsego-quot-populyarnaya-pevica-otreagirovala-na-hejt-foto)
 - [У бій прямо з музею? ЗСУ знищили 80-річну техніку окупантів](https://fakty.ua/449509-v-boj-pryamo-iz-muzeya-vsu-unichtozhili-80-letnyuyu-tehniku-okkupantov)
 - [СБУ знешкодила російських мисливців на F-16 &lpar;фото&rpar;](https://fakty.ua/449527-sbu-obezvredila-rossijskih-ohotnikov-na-f-16-foto)
-- [«Дуже сумую за тобою»: Ектор Хіменес-Браво вразив відвертим зізнанням &lpar;фото&rpar;](https://fakty.ua/449519-ochen-skuchayu-po-tebe-ektor-himenes-bravo-porazil-otkrovennym-priznaniem-foto)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
