@@ -145,11 +145,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Отримав нове поранення вже з протезом: історія спецпризначенця, який після втрати ноги повернувся на поле бою](https://fakty.ua/449499-poluchil-novoe-ranenie-uzhe-s-protezom-istoriya-specnazovca-kotoryj-posle-poteri-nogi-vernulsya-na-pole-boya)
 - [США тимчасово заморозили програму підтримки для біженців з України](https://fakty.ua/449496-ssha-vremenno-zamorozili-programmu-podderzhki-dlya-bezhencev-iz-ukrainy)
 - [Озброюють свою піхоту дробовиками: ЗМІ про військових з КНДР](https://fakty.ua/449494-vooruzhayut-svoyu-pehotu-drobovikami-smi-o-voennyh-iz-kndr)
 - [Музей ретро-автомобілів під Києвом знищено внаслідок атаки ворожих дронів &lpar;фото, відео&rpar;](https://fakty.ua/449495-muzej-retro-avtomobilej-pod-kievom-unichtozhen-vsledstvie-ataki-vrazheskih-dronov-foto-video)
 - [У Харкові гасять масштабну пожежу після удару російського безпілотника &lpar;фото, відео&rpar;](https://fakty.ua/449492-v-harkove-tushat-masshtabnyj-pozhar-posle-udara-rossijskogo-bespilotnika-foto-video)
-- [Дедлайн горить: як розлучення з Джей Ло вплинуло на бізнес Бена Аффлека](https://fakty.ua/449480-dedlajn-gorit-kak-razvod-s-dzhej-lo-povliyal-na-biznes-bena-affleka)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
