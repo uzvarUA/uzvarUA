@@ -145,11 +145,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Михайло Федоров на подкасті «Закрив раунд»: як перевести міністерство на OKR](https://fakty.ua/449525-mihail-fedorov-na-podkaste-zakryl-raund-kak-perevesti-ministerstvo-na-okr)
+- [Тисяча доларів за шість днів «свободи»: в ТЦК на Одещині вигадали новий спосіб «доїти» військовозобов&amp;#39;язаних](https://fakty.ua/449515-tysyacha-dollarov-za-shest-dnej-svobody-v-tck-na-odescshine-pridumali-novyj-sposob-doit-voennoobyazannyh)
+- [Іспанський сором: мережа обурена поведінкою родини Бабкіних](https://fakty.ua/449520-ispanskij-styd-set-vozmucshena-povedeniem-semi-babkinyh)
 - [ЗСУ отримали протипіхотні міни ADAM: фахівці розповіли, чим вони важливі](https://fakty.ua/449502-vsu-poluchili-protivopehotnye-miny-adam-specialisty-rasskazali-chem-oni-vazhny)
 - [Кохана Енріке Іглесіаса Анна Курнікова з’явилася в інвалідному візку: що сталося](https://fakty.ua/449500-lyubimaya-enrike-iglesiasa-anna-kurnikova-poyavilas-v-invalidnoj-kolyaske-chto-sluchilos)
-- [Отримав нове поранення вже з протезом: історія спецпризначенця, який після втрати ноги повернувся на поле бою](https://fakty.ua/449499-poluchil-novoe-ranenie-uzhe-s-protezom-istoriya-specnazovca-kotoryj-posle-poteri-nogi-vernulsya-na-pole-boya)
-- [США тимчасово заморозили програму підтримки для біженців з України](https://fakty.ua/449496-ssha-vremenno-zamorozili-programmu-podderzhki-dlya-bezhencev-iz-ukrainy)
-- [Озброюють свою піхоту дробовиками: ЗМІ про військових з КНДР](https://fakty.ua/449494-vooruzhayut-svoyu-pehotu-drobovikami-smi-o-voennyh-iz-kndr)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
