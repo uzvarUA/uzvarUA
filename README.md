@@ -146,11 +146,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Вимагають гроші чи інтимні фото: як росіяни схиляють до співпраці родичів полонених українців](https://fakty.ua/449536-trebuyut-dengi-ili-intimnye-foto-kak-rossiyane-sklonyayut-k-sotrudnichestvu-rodstvennikov-plennyh-ukraincev)
+- [«В моєму тілі багато всього»: популярна співачка відреагувала на хейт &lpar;фото&rpar;](https://fakty.ua/449522-quot-v-moem-tele-mnogo-vsego-quot-populyarnaya-pevica-otreagirovala-na-hejt-foto)
+- [У бій прямо з музею? ЗСУ знищили 80-річну техніку окупантів](https://fakty.ua/449509-v-boj-pryamo-iz-muzeya-vsu-unichtozhili-80-letnyuyu-tehniku-okkupantov)
 - [СБУ знешкодила російських мисливців на F-16 &lpar;фото&rpar;](https://fakty.ua/449527-sbu-obezvredila-rossijskih-ohotnikov-na-f-16-foto)
 - [«Дуже сумую за тобою»: Ектор Хіменес-Браво вразив відвертим зізнанням &lpar;фото&rpar;](https://fakty.ua/449519-ochen-skuchayu-po-tebe-ektor-himenes-bravo-porazil-otkrovennym-priznaniem-foto)
-- [Леся Нікітюк вагітна первістком, — ЗМІ](https://fakty.ua/449531-lesya-nikityuk-beremenna-pervencem---smi)
-- [Це бюджетна латка без системного планування: експерти про «податок на посилки»](https://fakty.ua/449530-eto-byudzhetnaya-zaplatka-bez-sistemnogo-planirovaniya-eksperty-o-naloge-na-posylki)
-- [Михайло Федоров на подкасті «Закрив раунд»: як перевести міністерство на OKR](https://fakty.ua/449525-mihail-fedorov-na-podkaste-zakryl-raund-kak-perevesti-ministerstvo-na-okr)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
