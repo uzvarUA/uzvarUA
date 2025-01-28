@@ -146,11 +146,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [«Дуже сумую за тобою»: Ектор Хіменес-Браво вразив відвертим зізнанням &lpar;фото&rpar;](https://fakty.ua/449519-ochen-skuchayu-po-tebe-ektor-himenes-bravo-porazil-otkrovennym-priznaniem-foto)
+- [Леся Нікітюк вагітна первістком, — ЗМІ](https://fakty.ua/449531-lesya-nikityuk-beremenna-pervencem---smi)
+- [Це бюджетна латка без системного планування: експерти про «податок на посилки»](https://fakty.ua/449530-eto-byudzhetnaya-zaplatka-bez-sistemnogo-planirovaniya-eksperty-o-naloge-na-posylki)
 - [Михайло Федоров на подкасті «Закрив раунд»: як перевести міністерство на OKR](https://fakty.ua/449525-mihail-fedorov-na-podkaste-zakryl-raund-kak-perevesti-ministerstvo-na-okr)
 - [Тисяча доларів за шість днів «свободи»: в ТЦК на Одещині вигадали новий спосіб «доїти» військовозобов&amp;#39;язаних](https://fakty.ua/449515-tysyacha-dollarov-za-shest-dnej-svobody-v-tck-na-odescshine-pridumali-novyj-sposob-doit-voennoobyazannyh)
-- [Іспанський сором: мережа обурена поведінкою родини Бабкіних](https://fakty.ua/449520-ispanskij-styd-set-vozmucshena-povedeniem-semi-babkinyh)
-- [ЗСУ отримали протипіхотні міни ADAM: фахівці розповіли, чим вони важливі](https://fakty.ua/449502-vsu-poluchili-protivopehotnye-miny-adam-specialisty-rasskazali-chem-oni-vazhny)
-- [Кохана Енріке Іглесіаса Анна Курнікова з’явилася в інвалідному візку: що сталося](https://fakty.ua/449500-lyubimaya-enrike-iglesiasa-anna-kurnikova-poyavilas-v-invalidnoj-kolyaske-chto-sluchilos)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
