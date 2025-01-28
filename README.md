@@ -145,11 +145,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [У Харкові гасять масштабну пожежу після удару російського безпілотника &lpar;фото, відео&rpar;](https://fakty.ua/449492-v-harkove-tushat-masshtabnyj-pozhar-posle-udara-rossijskogo-bespilotnika-foto-video)
 - [Дедлайн горить: як розлучення з Джей Ло вплинуло на бізнес Бена Аффлека](https://fakty.ua/449480-dedlajn-gorit-kak-razvod-s-dzhej-lo-povliyal-na-biznes-bena-affleka)
 - [Два роки жевріла надія: на Тернопільщині попрощались із 36-річним добровольцем](https://fakty.ua/449472-dva-goda-teplilas-nadezhda-na-ternopolcshine-poprocshalis-s-36-letnim-dobrovolcem)
 - [Модна зірка навіть після смерті: на могилі улюбленця Алли Пугачової стали відбуватися незвичні речі](https://fakty.ua/449491-modnaya-zvezda-dazhe-posle-smerti-na-mogile-lyubimca-ally-pugachevoj-stali-proishodit-neobychnye-vecshi)
 - [НАБУ відкрило кримінальне провадження на Умерова: міністра підозрюють у перевищенні службових повноважень](https://fakty.ua/449490-nabu-otkrylo-ugolovnoe-proizvodstvo-na-umerova-ministr-podozrevaetsya-v-prevyshenii-sluzhebnyh-polnomochij)
-- [Позбавили військових 133 генераторів: ДБР завершило нове розслідування](https://fakty.ua/449486-lishili-voennyh-133-generatorov-dbr-zavershilo-novoe-rassledovanie)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
