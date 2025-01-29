@@ -146,11 +146,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Європейське фінансування не залежить від персони директора АОЗ — експерт](https://fakty.ua/449550-evropejskoe-finansirovanie-ne-zavisit-ot-persony-direktora-aoz-ekspert)
+- [Потапа хочуть позбавити громадянства: «ігрища в кальмара» можуть мати сумні наслідки](https://fakty.ua/449545-potapa-hotyat-lishit-grazhdanstva-quot-igricsha-v-kalmare-quot-mogut-imet-pechalnye-posledstviya)
+- [Ворог атакував з п’яти напрямків: Повітряні Сили відзвітували про бойову роботу](https://fakty.ua/449547-vrag-atakoval-s-pyati-napravlenij-vozdushnye-sily-otchitalis-o-boevoj-rabote)
 - [В Києві вранці пролунав вибух, а біля метро впали уламки дрону ворога](https://fakty.ua/449540-v-kieve-utrom-razdalsya-vzryv-a-u-metro-upali-oblomki-drona-vraga)
 - [Поряд з Беном: Дженніфер Лопес придивляється до нерухомості](https://fakty.ua/449521-ryadom-s-benom-dzhennifer-lopes-prismatrivaetsya-k-nedvizhimosti)
-- [Користувався повагою і авторитетом: на Харківщині загинув боєць з Київщини](https://fakty.ua/449514-polzovalsya-uvazheniem-i-avtoritetom-na-harkovcshine-pogib-boec-iz-kievskoj-oblasti)
-- [Вимагають гроші чи інтимні фото: як росіяни схиляють до співпраці родичів полонених українців](https://fakty.ua/449536-trebuyut-dengi-ili-intimnye-foto-kak-rossiyane-sklonyayut-k-sotrudnichestvu-rodstvennikov-plennyh-ukraincev)
-- [«В моєму тілі багато всього»: популярна співачка відреагувала на хейт &lpar;фото&rpar;](https://fakty.ua/449522-quot-v-moem-tele-mnogo-vsego-quot-populyarnaya-pevica-otreagirovala-na-hejt-foto)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
