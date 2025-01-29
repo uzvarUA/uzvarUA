@@ -146,11 +146,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Поєднували наведення ударів рф із «закладками» наркотиків: у Харкові затримали двох зловмисників](https://fakty.ua/449553-sochetali-navedenie-udarov-rf-s-zakladkami-narkotikov-v-harkove-zaderzhali-dvuh-zloumyshlennikov)
+- [Не як у США: держборг України виріс, але це добре](https://fakty.ua/449532-ne-kak-v-ssha-gosdolg-ukrainy-vyros-no-eto-horosho)
 - [Європейське фінансування не залежить від персони директора АОЗ — експерт](https://fakty.ua/449550-evropejskoe-finansirovanie-ne-zavisit-ot-persony-direktora-aoz-ekspert)
 - [Потапа хочуть позбавити громадянства: «ігрища в кальмара» можуть мати сумні наслідки](https://fakty.ua/449545-potapa-hotyat-lishit-grazhdanstva-quot-igricsha-v-kalmare-quot-mogut-imet-pechalnye-posledstviya)
 - [Ворог атакував з п’яти напрямків: Повітряні Сили відзвітували про бойову роботу](https://fakty.ua/449547-vrag-atakoval-s-pyati-napravlenij-vozdushnye-sily-otchitalis-o-boevoj-rabote)
-- [В Києві вранці пролунав вибух, а біля метро впали уламки дрону ворога](https://fakty.ua/449540-v-kieve-utrom-razdalsya-vzryv-a-u-metro-upali-oblomki-drona-vraga)
-- [Поряд з Беном: Дженніфер Лопес придивляється до нерухомості](https://fakty.ua/449521-ryadom-s-benom-dzhennifer-lopes-prismatrivaetsya-k-nedvizhimosti)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
