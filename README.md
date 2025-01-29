@@ -146,11 +146,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Це знищення чесного бізнесу: Дніпровська кіностудія обурена діями правоохоронців і звернулася до суду](https://fakty.ua/449585-eto-unichtozhenie-chestnogo-biznesa-dneprovskaya-kinostudiya-vozmucshena-dejstviyami-pravoohranitelej-i-obratilas-v-sud)
 - [Не віриться: популярний музикант розсекретив дату народження доньки](https://fakty.ua/449573-ne-veritsya-populyarnyj-muzykant-rassekretil-datu-rozhdeniya-docheri)
 - [Печерський суд вкотре переніс розгляд справи щодо взяття під варту агробарона Сергія Тарасова](https://fakty.ua/449580-pecherskij-sud-v-kotoryj-raz-perenes-rassmotrenie-dela-o-vzyatii-pod-strazhu-agrobarona-sergeya-tarasova)
 - [Пивоваров «вбив» Машу Краш: відома співачка розповіла про важливу пораду від Артема](https://fakty.ua/449569-pivovarov-quot-ubil-quot-mashu-krash-izvestnaya-pevica-rasskazala-o-vazhnom-sovete-ot-artema)
 - [Вночі п’яний водій у Києві протаранив 7 автомобілів та травмував двох своїх пасажирів: в поліції розповіли деталі](https://fakty.ua/449574-nochyu-pyanyj-voditel-v-kieve-protaranil-7-avtomobilej-i-travmiroval-dvuh-svoih-passazhirov-v-policii-rasskazali-detali)
-- [Все майно сина Порошенка було заарештовано через несплату штрафу за ухиляння від армії](https://fakty.ua/449572-vse-imucshestvo-syna-poroshenko-bylo-arestovano-iz-za-neuplaty-shtrafa-za-uklonenie-ot-armii)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
