@@ -146,11 +146,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Донька Примадонни Христина Орбакайте раптово заспівала разом з Філіпом Кіркоровим: що трапилося](https://fakty.ua/449557-doch-primadonny-kristina-orbakajte-vnezapno-spela-vmeste-s-filippom-kirkorovym-chto-sluchilos)
+- [Працівників ТЦК хочуть саджати на 8 років: до Ради внесли законопроект](https://fakty.ua/449556-rabotnikov-tck-hotyat-sazhat-na-8-let-v-radu-vnesli-zakonoproekt)
 - [Поєднували наведення ударів рф із «закладками» наркотиків: у Харкові затримали двох зловмисників](https://fakty.ua/449553-sochetali-navedenie-udarov-rf-s-zakladkami-narkotikov-v-harkove-zaderzhali-dvuh-zloumyshlennikov)
 - [Не як у США: держборг України виріс, але це добре](https://fakty.ua/449532-ne-kak-v-ssha-gosdolg-ukrainy-vyros-no-eto-horosho)
 - [Європейське фінансування не залежить від персони директора АОЗ — експерт](https://fakty.ua/449550-evropejskoe-finansirovanie-ne-zavisit-ot-persony-direktora-aoz-ekspert)
-- [Потапа хочуть позбавити громадянства: «ігрища в кальмара» можуть мати сумні наслідки](https://fakty.ua/449545-potapa-hotyat-lishit-grazhdanstva-quot-igricsha-v-kalmare-quot-mogut-imet-pechalnye-posledstviya)
-- [Ворог атакував з п’яти напрямків: Повітряні Сили відзвітували про бойову роботу](https://fakty.ua/449547-vrag-atakoval-s-pyati-napravlenij-vozdushnye-sily-otchitalis-o-boevoj-rabote)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
