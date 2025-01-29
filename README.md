@@ -146,11 +146,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Пивоваров «вбив» Машу Краш: відома співачка розповіла про важливу пораду від Артема](https://fakty.ua/449569-pivovarov-quot-ubil-quot-mashu-krash-izvestnaya-pevica-rasskazala-o-vazhnom-sovete-ot-artema)
+- [Вночі п’яний водій у Києві протаранив 7 автомобілів та травмував двох своїх пасажирів: в поліції розповіли деталі](https://fakty.ua/449574-nochyu-pyanyj-voditel-v-kieve-protaranil-7-avtomobilej-i-travmiroval-dvuh-svoih-passazhirov-v-policii-rasskazali-detali)
+- [Все майно сина Порошенка було заарештовано через несплату штрафу за ухиляння від армії](https://fakty.ua/449572-vse-imucshestvo-syna-poroshenko-bylo-arestovano-iz-za-neuplaty-shtrafa-za-uklonenie-ot-armii)
 - [Вирішив «підзаробити»: депутата міськради викрили на оборудці із закупівлею неякісного одягу для ЗСУ](https://fakty.ua/449566-reshil-quot-podrabotat-quot-deputata-gorsoveta-razoblachili-na-sdelke-s-zakupkoj-nekachestvennoj-odezhdy-dlya-vsu)
 - [Каменських стала схожою на відому нардепку і зібралась до Варшави](https://fakty.ua/449562-kamenskih-stala-pohozha-na-izvestnogo-nardepa-i-sobralas-v-varshavu)
-- [Донька Примадонни Христина Орбакайте раптово заспівала разом з Філіпом Кіркоровим: що трапилося](https://fakty.ua/449557-doch-primadonny-kristina-orbakajte-vnezapno-spela-vmeste-s-filippom-kirkorovym-chto-sluchilos)
-- [Працівників ТЦК хочуть саджати на 8 років: до Ради внесли законопроект](https://fakty.ua/449556-rabotnikov-tck-hotyat-sazhat-na-8-let-v-radu-vnesli-zakonoproekt)
-- [Поєднували наведення ударів рф із «закладками» наркотиків: у Харкові затримали двох зловмисників](https://fakty.ua/449553-sochetali-navedenie-udarov-rf-s-zakladkami-narkotikov-v-harkove-zaderzhali-dvuh-zloumyshlennikov)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
