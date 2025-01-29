@@ -146,11 +146,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [В Києві вранці пролунав вибух, а біля метро впали уламки дрону ворога](https://fakty.ua/449540-v-kieve-utrom-razdalsya-vzryv-a-u-metro-upali-oblomki-drona-vraga)
 - [Поряд з Беном: Дженніфер Лопес придивляється до нерухомості](https://fakty.ua/449521-ryadom-s-benom-dzhennifer-lopes-prismatrivaetsya-k-nedvizhimosti)
 - [Користувався повагою і авторитетом: на Харківщині загинув боєць з Київщини](https://fakty.ua/449514-polzovalsya-uvazheniem-i-avtoritetom-na-harkovcshine-pogib-boec-iz-kievskoj-oblasti)
 - [Вимагають гроші чи інтимні фото: як росіяни схиляють до співпраці родичів полонених українців](https://fakty.ua/449536-trebuyut-dengi-ili-intimnye-foto-kak-rossiyane-sklonyayut-k-sotrudnichestvu-rodstvennikov-plennyh-ukraincev)
 - [«В моєму тілі багато всього»: популярна співачка відреагувала на хейт &lpar;фото&rpar;](https://fakty.ua/449522-quot-v-moem-tele-mnogo-vsego-quot-populyarnaya-pevica-otreagirovala-na-hejt-foto)
-- [У бій прямо з музею? ЗСУ знищили 80-річну техніку окупантів](https://fakty.ua/449509-v-boj-pryamo-iz-muzeya-vsu-unichtozhili-80-letnyuyu-tehniku-okkupantov)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
