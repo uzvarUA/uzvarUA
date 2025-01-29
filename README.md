@@ -146,11 +146,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Вирішив «підзаробити»: депутата міськради викрили на оборудці із закупівлею неякісного одягу для ЗСУ](https://fakty.ua/449566-reshil-quot-podrabotat-quot-deputata-gorsoveta-razoblachili-na-sdelke-s-zakupkoj-nekachestvennoj-odezhdy-dlya-vsu)
+- [Каменських стала схожою на відому нардепку і зібралась до Варшави](https://fakty.ua/449562-kamenskih-stala-pohozha-na-izvestnogo-nardepa-i-sobralas-v-varshavu)
 - [Донька Примадонни Христина Орбакайте раптово заспівала разом з Філіпом Кіркоровим: що трапилося](https://fakty.ua/449557-doch-primadonny-kristina-orbakajte-vnezapno-spela-vmeste-s-filippom-kirkorovym-chto-sluchilos)
 - [Працівників ТЦК хочуть саджати на 8 років: до Ради внесли законопроект](https://fakty.ua/449556-rabotnikov-tck-hotyat-sazhat-na-8-let-v-radu-vnesli-zakonoproekt)
 - [Поєднували наведення ударів рф із «закладками» наркотиків: у Харкові затримали двох зловмисників](https://fakty.ua/449553-sochetali-navedenie-udarov-rf-s-zakladkami-narkotikov-v-harkove-zaderzhali-dvuh-zloumyshlennikov)
-- [Не як у США: держборг України виріс, але це добре](https://fakty.ua/449532-ne-kak-v-ssha-gosdolg-ukrainy-vyros-no-eto-horosho)
-- [Європейське фінансування не залежить від персони директора АОЗ — експерт](https://fakty.ua/449550-evropejskoe-finansirovanie-ne-zavisit-ot-persony-direktora-aoz-ekspert)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
