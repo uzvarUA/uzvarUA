@@ -146,11 +146,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Не віриться: популярний музикант розсекретив дату народження доньки](https://fakty.ua/449573-ne-veritsya-populyarnyj-muzykant-rassekretil-datu-rozhdeniya-docheri)
+- [Печерський суд вкотре переніс розгляд справи щодо взяття під варту агробарона Сергія Тарасова](https://fakty.ua/449580-pecherskij-sud-v-kotoryj-raz-perenes-rassmotrenie-dela-o-vzyatii-pod-strazhu-agrobarona-sergeya-tarasova)
 - [Пивоваров «вбив» Машу Краш: відома співачка розповіла про важливу пораду від Артема](https://fakty.ua/449569-pivovarov-quot-ubil-quot-mashu-krash-izvestnaya-pevica-rasskazala-o-vazhnom-sovete-ot-artema)
 - [Вночі п’яний водій у Києві протаранив 7 автомобілів та травмував двох своїх пасажирів: в поліції розповіли деталі](https://fakty.ua/449574-nochyu-pyanyj-voditel-v-kieve-protaranil-7-avtomobilej-i-travmiroval-dvuh-svoih-passazhirov-v-policii-rasskazali-detali)
 - [Все майно сина Порошенка було заарештовано через несплату штрафу за ухиляння від армії](https://fakty.ua/449572-vse-imucshestvo-syna-poroshenko-bylo-arestovano-iz-za-neuplaty-shtrafa-za-uklonenie-ot-armii)
-- [Вирішив «підзаробити»: депутата міськради викрили на оборудці із закупівлею неякісного одягу для ЗСУ](https://fakty.ua/449566-reshil-quot-podrabotat-quot-deputata-gorsoveta-razoblachili-na-sdelke-s-zakupkoj-nekachestvennoj-odezhdy-dlya-vsu)
-- [Каменських стала схожою на відому нардепку і зібралась до Варшави](https://fakty.ua/449562-kamenskih-stala-pohozha-na-izvestnogo-nardepa-i-sobralas-v-varshavu)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
