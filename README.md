@@ -146,11 +146,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Медики боролись до останнього: від важких поранень у лікарні помер 39-річний воїн з Вінниччини](https://fakty.ua/449559-mediki-borolis-do-poslednego-ot-tyazhelyh-ranenij-v-bolnice-umer-39-letnij-voin-iz-vinnickoj-oblasti)
+- [Україна вдарила у вразливе місце путінського режиму: про що йдеться](https://fakty.ua/449555-ukraina-udarila-v-uyazvimoe-mesto-putinskogo-rezhima-o-chem-idet-rech)
+- [Стало відомо, коли Україна виступатиме на «Євробаченні-2025»](https://fakty.ua/449575-stalo-izvestno-kogda-ukraina-budet-vystupat-na-evrovidenii-2025)
 - [Красиві та щасливі: Максим Галкін показав нові фото Алли Пугачової](https://fakty.ua/449588-krasivye-i-schastlivye-maksim-galkin-pokazal-novye-foto-ally-pugachevoj)
 - [Re: start — це новий підхід до реабілітації: як працює інноваційна програма «Кревні» та Favbet Foundation](https://fakty.ua/449587-re-start-eto-novyj-podhod-k-reabilitacii-kak-rabotaet-innovacionnaya-programma-krevni-i-favbet-foundation)
-- [Злив внутрішньої інформації ексдетективом НАБУ свідчить про повну неспроможність бюро, — експерт](https://fakty.ua/449586-sliv-vnutrennej-informacii-eks-detektivom-nabu-svidetelstvuet-o-polnoj-nesostoyatelnosti-byuro-ekspert)
-- [Це знищення чесного бізнесу: Дніпровська кіностудія обурена діями правоохоронців і звернулася до суду](https://fakty.ua/449585-eto-unichtozhenie-chestnogo-biznesa-dneprovskaya-kinostudiya-vozmucshena-dejstviyami-pravoohranitelej-i-obratilas-v-sud)
-- [Не віриться: популярний музикант розсекретив дату народження доньки](https://fakty.ua/449573-ne-veritsya-populyarnyj-muzykant-rassekretil-datu-rozhdeniya-docheri)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
