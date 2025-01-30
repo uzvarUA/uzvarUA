@@ -146,11 +146,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Хотів одружитися і створити сім’ю: на Курщині загинув захисник з Черкащини](https://fakty.ua/449614-hotel-zhenitsya-i-sozdat-semyu-na-kurcshine-pogib-zacshitnik-iz-cherkasskoj-oblasti)
+- [Переборщила з худобою: мережа накинулася на популярну акторку](https://fakty.ua/449624-pereborcshila-s-hudoboj-set-nabrosilas-na-populyarnuyu-aktrisu)
 - [Тепер свої: у Міністерстві оборони заявили, що почали створювати FPV-дрони](https://fakty.ua/449582-teper-svoi-v-ministerstve-oborony-zayavili-chto-nachali-sozdavat-fpv-drony)
 - [Ну вже занадто: мережа шокована новим кліпом популярної співачки](https://fakty.ua/449617-nu-uzh-slishkom-set-shokirovana-novym-klipom-populyarnoj-pevicy)
 - [Кількість жертв удару по багатоповерхівці в Сумах зросла: у місті оголошено жалобу](https://fakty.ua/449633-chislo-zhertv-udara-po-mnogoetazhke-v-sumah-vozroslo-v-gorode-obyavlen-traur)
-- [Нарешті: хто буде вести Національний відбір на «Євробачення&quot;-2025](https://fakty.ua/449615-nakonec-to-kto-budet-vesti-nacionalnyj-otbor-na-evrovidenie--2025)
-- [Досі не профінансовано жодного контракту: NAUDI звернулася до Зеленського щодо дій АОЗ](https://fakty.ua/449625-do-sih-por-ne-profinansirovan-ni-odin-kontrakt-naudi-obratilas-k-zelenskomu-po-povodu-dejstvij-aoz)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
