@@ -146,11 +146,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Експерт Гладких зловив команду Порошенка на спробах виправдати його сина-втікача: про що йдеться](https://fakty.ua/449620-ekspert-gladkih-pojmal-komandu-poroshenko-na-popytkah-opravdat-ego-syna-begleca-o-chem-idet-rech)
 - [За обіцяні 2500 доларів завербовані росіянами одесити підірвали волонтера &lpar;фото&rpar;](https://fakty.ua/449604-za-obecshannye-2500-dollarov-zaverbovannye-rossiyanami-odessity-vzorvali-volontera-foto)
 - [Хаос в управлінні: Міноборони двічі за декілька днів вніс зміни у держреєстрі — Безрукова знову очолила агенцію](https://fakty.ua/449612-haos-v-upravlenii-minoborony-dvazhdy-za-neskolko-dnej-vneslo-izmeneniya-v-gosreestr---bezrukova-snova-vozglavila-agentstvo)
 - [Олексій Порошенко ще у 2019 році уклав контракт з міжнародною компанією і виїхав для роботи за кордон, — Ігор Головань](https://fakty.ua/449606-aleksej-poroshenko-ecshe-v-2019-godu-zaklyuchil-kontrakt-s-mezhdunarodnoj-kompaniej-i-uehal-dlya-raboty-za-granicu---igor-golovan)
 - [Чотири області постраждали внаслідок нічного нальоту безпілотників](https://fakty.ua/449598-chetyre-oblasti-ukrainy-postradali-v-rezultate-nochnogo-naleta-bespilotnikov)
-- [Термін проходження ВЛК «обмежено придатними» продовжать до червня](https://fakty.ua/449594-srok-prohozhdeniya-vvk-ogranichenno-prigodnymi-prodlyat-do-iyunya)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
