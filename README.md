@@ -146,11 +146,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Бена Аффлека застукали за заняттям, яке Дженніфер Лопес ненавиділа найбільше](https://fakty.ua/449623-bena-affleka-zastukali-za-zanyatiem-kotoroe-dzhennifer-lopes-nenavidela-bolshe-vsego)
 - [Хотів одружитися і створити сім’ю: на Курщині загинув захисник з Черкащини](https://fakty.ua/449614-hotel-zhenitsya-i-sozdat-semyu-na-kurcshine-pogib-zacshitnik-iz-cherkasskoj-oblasti)
 - [Переборщила з худобою: мережа накинулася на популярну акторку](https://fakty.ua/449624-pereborcshila-s-hudoboj-set-nabrosilas-na-populyarnuyu-aktrisu)
 - [Тепер свої: у Міністерстві оборони заявили, що почали створювати FPV-дрони](https://fakty.ua/449582-teper-svoi-v-ministerstve-oborony-zayavili-chto-nachali-sozdavat-fpv-drony)
 - [Ну вже занадто: мережа шокована новим кліпом популярної співачки](https://fakty.ua/449617-nu-uzh-slishkom-set-shokirovana-novym-klipom-populyarnoj-pevicy)
-- [Кількість жертв удару по багатоповерхівці в Сумах зросла: у місті оголошено жалобу](https://fakty.ua/449633-chislo-zhertv-udara-po-mnogoetazhke-v-sumah-vozroslo-v-gorode-obyavlen-traur)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
