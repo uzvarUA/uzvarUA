@@ -146,11 +146,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Досі не профінансовано жодного контракту: NAUDI звернулася до Зеленського щодо дій АОЗ](https://fakty.ua/449625-do-sih-por-ne-profinansirovan-ni-odin-kontrakt-naudi-obratilas-k-zelenskomu-po-povodu-dejstvij-aoz)
+- [Окупанти планують щомісяця мобілізувати на війну 10 тисяч карних злочинців та інших представників «спецконтингенту», — ГУР](https://fakty.ua/449622-okkupanty-planiruyut-ezhemesyachno-mobilizovat-na-vojnu-10-tysyach-ugolovnikov-i-drugih-predstavitelej-speckontingenta---gur)
+- [Півтора роки у сексуальному рабстві: жахлива історія українки, викраденої окупантами на Харківщині](https://fakty.ua/449610-poltora-goda-v-seksualnom-rabstve-zhutkaya-istoriya-ukrainki-pohicshennoj-okkupantami-na-harkovcshine)
 - [Експерт Гладких зловив команду Порошенка на спробах виправдати його сина-втікача: про що йдеться](https://fakty.ua/449620-ekspert-gladkih-pojmal-komandu-poroshenko-na-popytkah-opravdat-ego-syna-begleca-o-chem-idet-rech)
 - [За обіцяні 2500 доларів завербовані росіянами одесити підірвали волонтера &lpar;фото&rpar;](https://fakty.ua/449604-za-obecshannye-2500-dollarov-zaverbovannye-rossiyanami-odessity-vzorvali-volontera-foto)
-- [Хаос в управлінні: Міноборони двічі за декілька днів вніс зміни у держреєстрі — Безрукова знову очолила агенцію](https://fakty.ua/449612-haos-v-upravlenii-minoborony-dvazhdy-za-neskolko-dnej-vneslo-izmeneniya-v-gosreestr---bezrukova-snova-vozglavila-agentstvo)
-- [Олексій Порошенко ще у 2019 році уклав контракт з міжнародною компанією і виїхав для роботи за кордон, — Ігор Головань](https://fakty.ua/449606-aleksej-poroshenko-ecshe-v-2019-godu-zaklyuchil-kontrakt-s-mezhdunarodnoj-kompaniej-i-uehal-dlya-raboty-za-granicu---igor-golovan)
-- [Чотири області постраждали внаслідок нічного нальоту безпілотників](https://fakty.ua/449598-chetyre-oblasti-ukrainy-postradali-v-rezultate-nochnogo-naleta-bespilotnikov)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
