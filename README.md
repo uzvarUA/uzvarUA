@@ -146,11 +146,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Кількість жертв удару по багатоповерхівці в Сумах зросла: у місті оголошено жалобу](https://fakty.ua/449633-chislo-zhertv-udara-po-mnogoetazhke-v-sumah-vozroslo-v-gorode-obyavlen-traur)
 - [Нарешті: хто буде вести Національний відбір на «Євробачення&quot;-2025](https://fakty.ua/449615-nakonec-to-kto-budet-vesti-nacionalnyj-otbor-na-evrovidenie--2025)
 - [Досі не профінансовано жодного контракту: NAUDI звернулася до Зеленського щодо дій АОЗ](https://fakty.ua/449625-do-sih-por-ne-profinansirovan-ni-odin-kontrakt-naudi-obratilas-k-zelenskomu-po-povodu-dejstvij-aoz)
 - [Окупанти планують щомісяця мобілізувати на війну 10 тисяч карних злочинців та інших представників «спецконтингенту», — ГУР](https://fakty.ua/449622-okkupanty-planiruyut-ezhemesyachno-mobilizovat-na-vojnu-10-tysyach-ugolovnikov-i-drugih-predstavitelej-speckontingenta---gur)
 - [Півтора роки у сексуальному рабстві: жахлива історія українки, викраденої окупантами на Харківщині](https://fakty.ua/449610-poltora-goda-v-seksualnom-rabstve-zhutkaya-istoriya-ukrainki-pohicshennoj-okkupantami-na-harkovcshine)
-- [Експерт Гладких зловив команду Порошенка на спробах виправдати його сина-втікача: про що йдеться](https://fakty.ua/449620-ekspert-gladkih-pojmal-komandu-poroshenko-na-popytkah-opravdat-ego-syna-begleca-o-chem-idet-rech)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
