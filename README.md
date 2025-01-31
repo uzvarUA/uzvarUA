@@ -147,11 +147,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Бен Аффлек возз’єднався з колишньою дружиною Дженніфер Гарнер](https://fakty.ua/449671-ben-afflek-vossoedinilsya-s-byvshej-zhenoj-dzhennifer-garner)
 - [Отримав дуже багато контузій: на Вінниччині попрощались із воїном, який вісім років віддав армії](https://fakty.ua/449659-poluchil-ochen-mnogo-kontuzij-v-vinnickoj-oblasti-prostilis-s-voinom-kotoryj-vosem-let-otdal-armii)
 - [Христина Орбакайте — моя донька: в Мережі згадали дивну розповідь Бориса Мойсеєва](https://fakty.ua/449692-kristina-orbakajte-moya-doch-v-seti-vspomnili-strannyj-rasskaz-borisa-moiseeva)
 - [Справжня жінка: колишній Холостяк вдруге став батьком](https://fakty.ua/449666-nastoyacshaya-zhencshina-byvshij-holostyak-vo-vtoroj-raz-stal-otcom)
 - [«Славік Балаган» анонсував спільний концерт з Потапом: глядачі чекають на «безумство»](https://fakty.ua/449691-quot-slavik-balagan-quot-anonsiroval-sovmestnyj-koncert-s-potapom-zriteli-zhdut-quot-bezumiya-quot)
-- [Непорозуміння у минулому: Ольга Сумська про конфлікт з сестрою](https://fakty.ua/449668-nedorazumenie-v-proshlom-olga-sumskaya-o-konflikte-s-sestroj)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
