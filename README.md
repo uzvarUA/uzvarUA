@@ -146,11 +146,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Росіяни зранку атакували Куп’янськ: двоє людей зазнали гострої реакції на стрес](https://fakty.ua/449656-rossiyane-utrom-atakovali-kupyansk-dva-cheloveka-podverglis-ostroj-reakcii-na-stress)
 - [Каменських «пробачила», але Потап знову розізлив українців: що утнув «Балаган»](https://fakty.ua/449649-kamenskih-quot-prostila-quot-no-potap-snova-razozlil-ukraincev-chto-vykinul-quot-balagan-quot)
 - [рф не зможе використовувати стратегічну авіацію для ударів по Україні: експерт пояснив, що для цього треба зробити](https://fakty.ua/449630-rf-ne-smozhet-ispolzovat-strategicheskuyu-aviaciyu-dlya-udarov-po-ukraine-ekspert-obyasnil-chto-dlya-etogo-nuzhno-sdelat)
 - [Замовив вбивство, щоб заволодіти бізнесом: на Полтавщині СБУ затримала депутата облради](https://fakty.ua/449647-zakazal-ubijstvo-chtoby-zavladet-biznesom-v-poltavskoj-oblasti-sbu-zaderzhala-deputata-oblsoveta)
 - [Атака на Україну: як відпрацювала ППО та які регіони постраждали](https://fakty.ua/449646-ataka-na-ukrainu-kak-otrabotala-pvo-i-kakie-regiony-postradali)
-- [Дешево і примітивно: в парламенті Петру Порошенку заборонили відвідувати сесійну залу через нецензурні вислови на адресу Богдана Яременка](https://fakty.ua/449643-deshevo-i-primitivno-v-parlamente-petru-poroshenko-zapretili-posecshat-sessionnyj-zal-iz-za-necenzurnyh-vyskazyvanij-v-adres-bogdana-yaremenko)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
