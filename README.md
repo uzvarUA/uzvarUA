@@ -147,11 +147,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Можете втратити гроші на банківському рахунку: українців попередили про фейкові «листи від газмереж»](https://fakty.ua/449665-mozhete-poteryat-dengi-na-bankovskom-schete-ukraincev-predupredili-o-fejkovyh-quot-pismah-ot-gazsetej-quot)
+- [Вказував номер банківського рахунку знайомої: бухгалтер привласнив 2,3 млн грн виплат зниклих безвісті воїнів](https://fakty.ua/449677-ukazyval-nomer-bankovskogo-scheta-znakomoj-buhgalter-prisvoil-2-3-mln-grn-vyplat-propavshih-bez-vesti-voinov)
+- [Європейці поділяють страх: західні ЗМІ про те, скільки українців підтримують мирні переговори з рф](https://fakty.ua/449645-evropejcy-razdelyayut-strah-zapadnye-smi-o-tom-skolko-ukraincev-podderzhivayut-mirnye-peregovory-s-rf)
 - [Пожежа: популярний шеф-кухар зізнався у почуттях](https://fakty.ua/449657-pozhar-populyarnyj-shef-povar-priznalsya-v-chuvstvah)
 - [Наводила удари по Херсону: СБУ затримала зрадницю](https://fakty.ua/449670-navodila-udary-po-hersonu-sbu-zaderzhala-predatelnicu)
-- [Підтримали тата: Бекхеми у майже повному складі відвідали вечірку модного бренда, яку організував Девід](https://fakty.ua/449658-podderzhali-papu-bekhemy-pochti-v-polnom-sostave-posetili-vecherinku-modnogo-brenda-organizovannuyu-devidom)
-- [Чинні підходи до визначення вартості будівництва гальмують розвиток і бізнес: ФРУ звернулася до глави Мінрозвитку Кулеби](https://fakty.ua/449664-dejstvuyucshie-podhody-k-opredeleniyu-stoimosti-stroitelstva-tormozyat-razvitie-i-biznes-fru-obratilas-k-glave-minrazvitiya-kulebe)
-- [Росіяни зранку атакували Куп’янськ: двоє людей зазнали гострої реакції на стрес](https://fakty.ua/449656-rossiyane-utrom-atakovali-kupyansk-dva-cheloveka-podverglis-ostroj-reakcii-na-stress)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
