@@ -146,11 +146,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Замовив вбивство, щоб заволодіти бізнесом: на Полтавщині СБУ затримала депутата облради](https://fakty.ua/449647-zakazal-ubijstvo-chtoby-zavladet-biznesom-v-poltavskoj-oblasti-sbu-zaderzhala-deputata-oblsoveta)
+- [Атака на Україну: як відпрацювала ППО та які регіони постраждали](https://fakty.ua/449646-ataka-na-ukrainu-kak-otrabotala-pvo-i-kakie-regiony-postradali)
 - [Дешево і примітивно: в парламенті Петру Порошенку заборонили відвідувати сесійну залу через нецензурні вислови на адресу Богдана Яременка](https://fakty.ua/449643-deshevo-i-primitivno-v-parlamente-petru-poroshenko-zapretili-posecshat-sessionnyj-zal-iz-za-necenzurnyh-vyskazyvanij-v-adres-bogdana-yaremenko)
 - [Ворог атакував низку регіонів України, а до волгоградської області рф завітали «невідомі» дрони](https://fakty.ua/449639-vrag-atakoval-ryad-regionov-ukrainy-a-v-volgogradskuyu-oblast-rf-prileteli-quot-neizvestnye-quot-drony)
 - [Бена Аффлека застукали за заняттям, яке Дженніфер Лопес ненавиділа найбільше](https://fakty.ua/449623-bena-affleka-zastukali-za-zanyatiem-kotoroe-dzhennifer-lopes-nenavidela-bolshe-vsego)
-- [Хотів одружитися і створити сім’ю: на Курщині загинув захисник з Черкащини](https://fakty.ua/449614-hotel-zhenitsya-i-sozdat-semyu-na-kurcshine-pogib-zacshitnik-iz-cherkasskoj-oblasti)
-- [Переборщила з худобою: мережа накинулася на популярну акторку](https://fakty.ua/449624-pereborcshila-s-hudoboj-set-nabrosilas-na-populyarnuyu-aktrisu)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
