@@ -147,11 +147,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Справжня жінка: колишній Холостяк вдруге став батьком](https://fakty.ua/449666-nastoyacshaya-zhencshina-byvshij-holostyak-vo-vtoroj-raz-stal-otcom)
+- [«Славік Балаган» анонсував спільний концерт з Потапом: глядачі чекають на «безумство»](https://fakty.ua/449691-quot-slavik-balagan-quot-anonsiroval-sovmestnyj-koncert-s-potapom-zriteli-zhdut-quot-bezumiya-quot)
 - [Непорозуміння у минулому: Ольга Сумська про конфлікт з сестрою](https://fakty.ua/449668-nedorazumenie-v-proshlom-olga-sumskaya-o-konflikte-s-sestroj)
 - [Наводив ракети ворога на казарми та навчальні центри ЗСУ: в Черкасах затримали агента росії](https://fakty.ua/449684-navodil-rakety-vraga-na-kazarmy-i-uchebnye-centry-vsu-v-cherkassah-zaderzhan-agent-rossii)
 - [Можете втратити гроші на банківському рахунку: українців попередили про фейкові «листи від газмереж»](https://fakty.ua/449665-mozhete-poteryat-dengi-na-bankovskom-schete-ukraincev-predupredili-o-fejkovyh-quot-pismah-ot-gazsetej-quot)
-- [Вказував номер банківського рахунку знайомої: бухгалтер привласнив 2,3 млн грн виплат зниклих безвісті воїнів](https://fakty.ua/449677-ukazyval-nomer-bankovskogo-scheta-znakomoj-buhgalter-prisvoil-2-3-mln-grn-vyplat-propavshih-bez-vesti-voinov)
-- [Європейці поділяють страх: західні ЗМІ про те, скільки українців підтримують мирні переговори з рф](https://fakty.ua/449645-evropejcy-razdelyayut-strah-zapadnye-smi-o-tom-skolko-ukraincev-podderzhivayut-mirnye-peregovory-s-rf)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
