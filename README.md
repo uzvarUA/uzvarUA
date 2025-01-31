@@ -146,11 +146,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Каменських «пробачила», але Потап знову розізлив українців: що утнув «Балаган»](https://fakty.ua/449649-kamenskih-quot-prostila-quot-no-potap-snova-razozlil-ukraincev-chto-vykinul-quot-balagan-quot)
+- [рф не зможе використовувати стратегічну авіацію для ударів по Україні: експерт пояснив, що для цього треба зробити](https://fakty.ua/449630-rf-ne-smozhet-ispolzovat-strategicheskuyu-aviaciyu-dlya-udarov-po-ukraine-ekspert-obyasnil-chto-dlya-etogo-nuzhno-sdelat)
 - [Замовив вбивство, щоб заволодіти бізнесом: на Полтавщині СБУ затримала депутата облради](https://fakty.ua/449647-zakazal-ubijstvo-chtoby-zavladet-biznesom-v-poltavskoj-oblasti-sbu-zaderzhala-deputata-oblsoveta)
 - [Атака на Україну: як відпрацювала ППО та які регіони постраждали](https://fakty.ua/449646-ataka-na-ukrainu-kak-otrabotala-pvo-i-kakie-regiony-postradali)
 - [Дешево і примітивно: в парламенті Петру Порошенку заборонили відвідувати сесійну залу через нецензурні вислови на адресу Богдана Яременка](https://fakty.ua/449643-deshevo-i-primitivno-v-parlamente-petru-poroshenko-zapretili-posecshat-sessionnyj-zal-iz-za-necenzurnyh-vyskazyvanij-v-adres-bogdana-yaremenko)
-- [Ворог атакував низку регіонів України, а до волгоградської області рф завітали «невідомі» дрони](https://fakty.ua/449639-vrag-atakoval-ryad-regionov-ukrainy-a-v-volgogradskuyu-oblast-rf-prileteli-quot-neizvestnye-quot-drony)
-- [Бена Аффлека застукали за заняттям, яке Дженніфер Лопес ненавиділа найбільше](https://fakty.ua/449623-bena-affleka-zastukali-za-zanyatiem-kotoroe-dzhennifer-lopes-nenavidela-bolshe-vsego)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
