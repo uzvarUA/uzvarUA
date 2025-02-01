@@ -147,11 +147,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Після кожного поранення знову рвався на фронт: на війні поліг 51-річний воїн зі Львівщини](https://fakty.ua/449712-posle-kazhdogo-raneniya-snova-rvalsya-na-front-na-vojne-pogib-51-letnij-voin-iz-lvovskoj-oblasti)
 - [Катери, гранатомети та протитанкові ракети: ЗСУ отримають від Швеції зброї та військової техніки на 1,2 млрд доларів](https://fakty.ua/449700-katera-granatomety-i-protivotankovye-rakety-vsu-poluchat-ot-shvecii-oruzhiya-i-voennoj-tehniki-na-1-2-mlrd-dollarov)
 - [Тіло однорічної дитини виявили у морозилці в одеській квартирі &lpar;фото&rpar;](https://fakty.ua/449725-telo-godovalogo-rebenka-obnaruzhili-v-morozilke-v-odesskoj-kvartire-foto)
 - [У рівненському ТЦК пролунав вибух, є жертви, — ЗМІ](https://fakty.ua/449722-v-rovenskom-tck-progremel-vzryv-est-zhertvy---smi)
 - [Запалила: популярний гурт переспівав хіт 2000-х &lpar;відео&rpar;](https://fakty.ua/449688-zazhgla-populyarnaya-gruppa-perepela-hit-2000-h-video)
-- [Страшна помста: у Німеччині винесли довічний вирок вбивці дівчинки з України](https://fakty.ua/449721-strashnaya-mest-v-germanii-vynesli-pozhiznennyj-prigovor-ubijce-devochki-iz-ukrainy)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
