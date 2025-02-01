@@ -147,11 +147,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [СБУ затримала російських марксистів-підпільників, які намагалися зірвати мобілізацію &lpar;фото&rpar;](https://fakty.ua/449714-sbu-zaderzhala-rossijskih-marksistov-podpolcshikov-pytavshihsya-sorvat-mobilizaciyu-foto)
 - [Завербована росіянами наркоманка зі Львова збиралася влаштувати теракт у центрі Києва &lpar;фото&rpar;](https://fakty.ua/449706-zaverbovannaya-rossiyanami-narkomanka-iz-lvova-sobiralas-ustroit-terakt-v-centre-kieva-foto)
 - [Величезне виснаження: Холостяк Олександр «Терен» звернувся до мережі](https://fakty.ua/449682-ogromnoe-istocshenie-holostyak-aleksandr-teren-obratilsya-k-seti)
 - [На Полтавщині вбили військового, який супроводжував мобілізованих до навчального центру: в області оголошено спецоперацію](https://fakty.ua/449704-na-poltavcshine-ubili-voennogo-soprovozhdavshego-mobilizovannyh-v-uchebku-v-oblasti-obyavlena-specoperaciya)
 - [Українцям не вистачає піхоти: росіяни змінили тактику наступу на Покровськ, поставивши ЗСУ у скрутне становище, — ЗМІ](https://fakty.ua/449697-ukraincam-ne-hvataet-pehoty-rossiyane-izmenili-taktiku-nastupleniya-na-pokrovsk-postaviv-vsu-v-trudnoe-polozhenie---smi)
-- [У Полтаві внаслідок удару росіян зруйновано п&amp;#39;ятиповерхівку, є жертви &lpar;відео&rpar;](https://fakty.ua/449695-v-poltave-v-rezultate-udara-rossiyan-razrushena-pyatietazhka-est-zhertvy-video)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
