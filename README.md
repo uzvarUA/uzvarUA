@@ -147,11 +147,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Тіло однорічної дитини виявили у морозилці в одеській квартирі &lpar;фото&rpar;](https://fakty.ua/449725-telo-godovalogo-rebenka-obnaruzhili-v-morozilke-v-odesskoj-kvartire-foto)
 - [У рівненському ТЦК пролунав вибух, є жертви, — ЗМІ](https://fakty.ua/449722-v-rovenskom-tck-progremel-vzryv-est-zhertvy---smi)
 - [Запалила: популярний гурт переспівав хіт 2000-х &lpar;відео&rpar;](https://fakty.ua/449688-zazhgla-populyarnaya-gruppa-perepela-hit-2000-h-video)
 - [Страшна помста: у Німеччині винесли довічний вирок вбивці дівчинки з України](https://fakty.ua/449721-strashnaya-mest-v-germanii-vynesli-pozhiznennyj-prigovor-ubijce-devochki-iz-ukrainy)
 - [Понад 160 ракет і дронів використали росіяни під час атаки на Україну 1 лютого, — Повітряні сили](https://fakty.ua/449717-bolee-160-raket-i-dronov-ispolzovali-rossiyane-vo-vremya-ataki-na-ukrainu-1-fevralya---vozdushnye-sily)
-- [СБУ затримала російських марксистів-підпільників, які намагалися зірвати мобілізацію &lpar;фото&rpar;](https://fakty.ua/449714-sbu-zaderzhala-rossijskih-marksistov-podpolcshikov-pytavshihsya-sorvat-mobilizaciyu-foto)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
