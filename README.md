@@ -147,11 +147,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Точно запалить: Тоня Матвієнко дала нове дихання своїй пісні, яка стала вірусною завдяки TikTok](https://fakty.ua/449744-tochno-zazhzhet-tonya-matvienko-dala-novoe-dyhanie-svoej-pesne-kotoraya-stala-virusnoj-blagodarya-tiktok)
+- [Катування в’язнів: керівництву колонії на Полтавщині повідомили про нові підозри](https://fakty.ua/449746-pytki-zaklyuchennyh-rukovodstvu-kolonii-v-poltavskoj-oblasti-soobcshili-o-novyh-podozreniyah)
 - [Використовував Google Maps: в Одесі затримали агента рф, який слідкував за українськими кораблями](https://fakty.ua/449741-ispolzoval-google-maps-v-odesse-zaderzhali-agenta-rf-kotoryj-sledil-za-ukrainskimi-korablyami)
 - [Анджеліна Джолі та Бред Пітт знову звернулися до суду: що трапилося](https://fakty.ua/449738-andzhelina-dzholi-i-bred-pitt-snova-obratilis-v-sud-chto-sluchilos)
 - [Поки Потап заграє з росіянами: Каменських повернулась у соцмережу і відреагувала на обстріл Полтави](https://fakty.ua/449736-poka-potap-zaigryvaet-s-rossiyanami-kamenskih-vernulas-v-socset-i-otreagirovala-na-obstrel-poltavy)
-- [Окупанти вночі атакували мирні міста України: є загиблі та поранені](https://fakty.ua/449731-okkupanty-nochyu-atakovali-mirnye-goroda-ukrainy-est-pogibshie-i-ranenye)
-- [Дженніфер Лопес зі сльозами розповіла про давню мрію, яку Бен Аффлек так і не допоміг їй втілити](https://fakty.ua/449705-dzhennifer-lopes-so-slezami-rasskazala-o-davnej-mechte-kotoruyu-ben-afflek-tak-i-ne-pomog-ej-voplotit)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
