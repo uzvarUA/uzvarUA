@@ -147,11 +147,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [«Зливала» ворогу позиції ЗСУ на Донеччині через племінника-дезертира: правоохоронці затримали інформаторку росії](https://fakty.ua/449754-slivala-vragu-pozicii-vsu-v-doneckoj-oblasti-cherez-plemyannika-dezertira-pravoohraniteli-zaderzhali-informatora-rossii)
+- [Отримає почесне місце на «концерті кобзона»: на фронті ліквідовано російського віцегубернатора](https://fakty.ua/449760-poluchit-pochetnoe-mesto-na-quot-koncerte-kobzona-quot-na-fronte-likvidirovan-rossijskij-vice-gubernator)
 - [В готелі в центрі Львова пролунав вибух: що відомо](https://fakty.ua/449752-v-otele-v-centre-lvova-razdalsya-vzryv-chto-izvestno)
 - [Точно запалить: Тоня Матвієнко дала нове дихання своїй пісні, яка стала вірусною завдяки TikTok](https://fakty.ua/449744-tochno-zazhzhet-tonya-matvienko-dala-novoe-dyhanie-svoej-pesne-kotoraya-stala-virusnoj-blagodarya-tiktok)
 - [Катування в’язнів: керівництву колонії на Полтавщині повідомили про нові підозри](https://fakty.ua/449746-pytki-zaklyuchennyh-rukovodstvu-kolonii-v-poltavskoj-oblasti-soobcshili-o-novyh-podozreniyah)
-- [Використовував Google Maps: в Одесі затримали агента рф, який слідкував за українськими кораблями](https://fakty.ua/449741-ispolzoval-google-maps-v-odesse-zaderzhali-agenta-rf-kotoryj-sledil-za-ukrainskimi-korablyami)
-- [Анджеліна Джолі та Бред Пітт знову звернулися до суду: що трапилося](https://fakty.ua/449738-andzhelina-dzholi-i-bred-pitt-snova-obratilis-v-sud-chto-sluchilos)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
