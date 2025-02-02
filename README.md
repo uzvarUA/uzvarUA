@@ -147,11 +147,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [В готелі в центрі Львова пролунав вибух: що відомо](https://fakty.ua/449752-v-otele-v-centre-lvova-razdalsya-vzryv-chto-izvestno)
 - [Точно запалить: Тоня Матвієнко дала нове дихання своїй пісні, яка стала вірусною завдяки TikTok](https://fakty.ua/449744-tochno-zazhzhet-tonya-matvienko-dala-novoe-dyhanie-svoej-pesne-kotoraya-stala-virusnoj-blagodarya-tiktok)
 - [Катування в’язнів: керівництву колонії на Полтавщині повідомили про нові підозри](https://fakty.ua/449746-pytki-zaklyuchennyh-rukovodstvu-kolonii-v-poltavskoj-oblasti-soobcshili-o-novyh-podozreniyah)
 - [Використовував Google Maps: в Одесі затримали агента рф, який слідкував за українськими кораблями](https://fakty.ua/449741-ispolzoval-google-maps-v-odesse-zaderzhali-agenta-rf-kotoryj-sledil-za-ukrainskimi-korablyami)
 - [Анджеліна Джолі та Бред Пітт знову звернулися до суду: що трапилося](https://fakty.ua/449738-andzhelina-dzholi-i-bred-pitt-snova-obratilis-v-sud-chto-sluchilos)
-- [Поки Потап заграє з росіянами: Каменських повернулась у соцмережу і відреагувала на обстріл Полтави](https://fakty.ua/449736-poka-potap-zaigryvaet-s-rossiyanami-kamenskih-vernulas-v-socset-i-otreagirovala-na-obstrel-poltavy)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
