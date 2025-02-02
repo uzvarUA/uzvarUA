@@ -147,11 +147,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Поки Потап заграє з росіянами: Каменських повернулась у соцмережу і відреагувала на обстріл Полтави](https://fakty.ua/449736-poka-potap-zaigryvaet-s-rossiyanami-kamenskih-vernulas-v-socset-i-otreagirovala-na-obstrel-poltavy)
 - [Окупанти вночі атакували мирні міста України: є загиблі та поранені](https://fakty.ua/449731-okkupanty-nochyu-atakovali-mirnye-goroda-ukrainy-est-pogibshie-i-ranenye)
 - [Дженніфер Лопес зі сльозами розповіла про давню мрію, яку Бен Аффлек так і не допоміг їй втілити](https://fakty.ua/449705-dzhennifer-lopes-so-slezami-rasskazala-o-davnej-mechte-kotoruyu-ben-afflek-tak-i-ne-pomog-ej-voplotit)
 - [Після кожного поранення знову рвався на фронт: на війні поліг 51-річний воїн зі Львівщини](https://fakty.ua/449712-posle-kazhdogo-raneniya-snova-rvalsya-na-front-na-vojne-pogib-51-letnij-voin-iz-lvovskoj-oblasti)
 - [Катери, гранатомети та протитанкові ракети: ЗСУ отримають від Швеції зброї та військової техніки на 1,2 млрд доларів](https://fakty.ua/449700-katera-granatomety-i-protivotankovye-rakety-vsu-poluchat-ot-shvecii-oruzhiya-i-voennoj-tehniki-na-1-2-mlrd-dollarov)
-- [Тіло однорічної дитини виявили у морозилці в одеській квартирі &lpar;фото&rpar;](https://fakty.ua/449725-telo-godovalogo-rebenka-obnaruzhili-v-morozilke-v-odesskoj-kvartire-foto)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
