@@ -147,11 +147,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [«Неймовірно прекрасно»: Klavdia Petrivna показала пісню, з якою збиралась їхати на «Євробачення-2025»](https://fakty.ua/449768-quot-neveroyatno-prekrasno-quot-klavdia-petrivna-pokazala-pesnyu-s-kotoroj-sobiralas-ehat-na-quot-evrovidenie-2025-quot)
 - [Змусив росіян «донатити» на ЗСУ: Макс Барських розповів, що зробив з грошима за продані в рф квитки](https://fakty.ua/449748-zastavil-rossiyan-quot-donatit-quot-na-vsu-maks-barskih-rasskazal-chto-sdelal-s-dengami-za-prodannye-v-rossii-bilety)
 - [Відчуває себе третім зайвим: бойфренд Дженніфер Гарнер ревнує її до Бена Аффлека](https://fakty.ua/449755-chuvstvuet-sebya-tretim-lishnim-bojfrend-dzhennifer-garner-revnuet-ee-k-benu-affleku)
 - [«Зливала» ворогу позиції ЗСУ на Донеччині через племінника-дезертира: правоохоронці затримали інформаторку росії](https://fakty.ua/449754-slivala-vragu-pozicii-vsu-v-doneckoj-oblasti-cherez-plemyannika-dezertira-pravoohraniteli-zaderzhali-informatora-rossii)
 - [Отримає почесне місце на «концерті кобзона»: на фронті ліквідовано російського віцегубернатора](https://fakty.ua/449760-poluchit-pochetnoe-mesto-na-quot-koncerte-kobzona-quot-na-fronte-likvidirovan-rossijskij-vice-gubernator)
-- [В готелі в центрі Львова пролунав вибух: що відомо](https://fakty.ua/449752-v-otele-v-centre-lvova-razdalsya-vzryv-chto-izvestno)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
