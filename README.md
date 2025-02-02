@@ -147,11 +147,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Міг бути біологічним батьком Лізи та Гаррі? Сергій Челобанов розповів про відносини з Аллою Пугачовою](https://fakty.ua/449772-mog-byt-biologicheskim-otcom-lizy-i-garri-sergej-chelobanov-rasskazal-ob-otnosheniyah-s-alloj-pugachevoj)
+- [Понад рік жевріла надія: на Полтавщині поховали бійця, який безвісти зник в бою на Харківщині](https://fakty.ua/449762-bolshe-goda-teplilas-nadezhda-na-poltavcshine-pohoronili-bojca-kotoryj-bez-vesti-propal-v-boyu-na-harkovcshine)
 - [рф перекидає свої підрозділи з Курахівського напрямку під Покровськ: експерт про ситуацію в місті](https://fakty.ua/449759-rf-perebrasyvaet-svoi-podrazdeleniya-s-kurahovskogo-napravleniya-pod-pokrovsk-ekspert-o-situacii-v-gorode)
 - [Ми боремося і ми живемо: Зеленський заявив, що Україна як ніколи близька до миру](https://fakty.ua/449771-my-boremsya-i-zhivem-zelenskij-zayavil-chto-ukraina-kak-nikogda-blizka-k-miru)
 - [«Неймовірно прекрасно»: Klavdia Petrivna показала пісню, з якою збиралась їхати на «Євробачення-2025»](https://fakty.ua/449768-quot-neveroyatno-prekrasno-quot-klavdia-petrivna-pokazala-pesnyu-s-kotoroj-sobiralas-ehat-na-quot-evrovidenie-2025-quot)
-- [Змусив росіян «донатити» на ЗСУ: Макс Барських розповів, що зробив з грошима за продані в рф квитки](https://fakty.ua/449748-zastavil-rossiyan-quot-donatit-quot-na-vsu-maks-barskih-rasskazal-chto-sdelal-s-dengami-za-prodannye-v-rossii-bilety)
-- [Відчуває себе третім зайвим: бойфренд Дженніфер Гарнер ревнує її до Бена Аффлека](https://fakty.ua/449755-chuvstvuet-sebya-tretim-lishnim-bojfrend-dzhennifer-garner-revnuet-ee-k-benu-affleku)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
