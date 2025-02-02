@@ -147,11 +147,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Використовував Google Maps: в Одесі затримали агента рф, який слідкував за українськими кораблями](https://fakty.ua/449741-ispolzoval-google-maps-v-odesse-zaderzhali-agenta-rf-kotoryj-sledil-za-ukrainskimi-korablyami)
 - [Анджеліна Джолі та Бред Пітт знову звернулися до суду: що трапилося](https://fakty.ua/449738-andzhelina-dzholi-i-bred-pitt-snova-obratilis-v-sud-chto-sluchilos)
 - [Поки Потап заграє з росіянами: Каменських повернулась у соцмережу і відреагувала на обстріл Полтави](https://fakty.ua/449736-poka-potap-zaigryvaet-s-rossiyanami-kamenskih-vernulas-v-socset-i-otreagirovala-na-obstrel-poltavy)
 - [Окупанти вночі атакували мирні міста України: є загиблі та поранені](https://fakty.ua/449731-okkupanty-nochyu-atakovali-mirnye-goroda-ukrainy-est-pogibshie-i-ranenye)
 - [Дженніфер Лопес зі сльозами розповіла про давню мрію, яку Бен Аффлек так і не допоміг їй втілити](https://fakty.ua/449705-dzhennifer-lopes-so-slezami-rasskazala-o-davnej-mechte-kotoruyu-ben-afflek-tak-i-ne-pomog-ej-voplotit)
-- [Після кожного поранення знову рвався на фронт: на війні поліг 51-річний воїн зі Львівщини](https://fakty.ua/449712-posle-kazhdogo-raneniya-snova-rvalsya-na-front-na-vojne-pogib-51-letnij-voin-iz-lvovskoj-oblasti)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
