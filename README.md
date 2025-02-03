@@ -147,11 +147,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Не планували: відома пара телеведучих про своє весілля](https://fakty.ua/449804-ne-planirovali-izvestnaya-para-televeducshih-o-svoej-svadbe)
+- [Тієї миті хлопець був у туалеті, а диван, з якого щойно встав, привалило плитами: родина дивом вижила під час ракетного удару по Полтаві](https://fakty.ua/449799-v-tot-moment-paren-byl-v-tualete-a-divan-s-kotorogo-tolko-chto-vstal-privalilo-plitami-semya-chudom-vyzhila-vo-vremya-raketnogo-udara-po-poltave)
 - [Не варто постійно відбілювати себе: популярний актор зізнався у проблемах](https://fakty.ua/449802-ne-stoit-postoyanno-otbelivat-sebya-populyarnyj-akter-priznalsya-v-problemah)
 - [Божечкі: мережа у захваті від відео популярної шеф-кухарки](https://fakty.ua/449801-bozhenki-set-v-vostorge-ot-video-populyarnoj-shef-povara)
 - [З рацією наперевагу: зв&amp;#39;язківців заборонили примусово переводити в піхоту](https://fakty.ua/449796-s-raciej-napereves-svyazistov-zapretili-prinuditelno-perevodit-v-pehotu)
-- [Якщо зараз припинити вогонь — стане гірше: ЗМІ публікують думки українських бійців](https://fakty.ua/449789-esli-sejchas-prekratit-ogon---stanet-huzhe-smi-publikuyut-mneniya-ukrainskih-bojcov)
-- [Прикинувся хворим і попросив зупинити автобус: шокуючі деталі вбивства військового на Полтавщині](https://fakty.ua/449787-pritvorilsya-bolnym-i-poprosil-ostanovit-avtobus-shokiruyucshie-detali-ubijstva-voennogo-na-poltavcshine)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
