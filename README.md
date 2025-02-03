@@ -147,11 +147,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Електрика закінчилася: у дев’яти областях України введено екстрені відключення електроенергії](https://fakty.ua/449780-elektrichestvo-konchilos-v-devyati-oblastyah-ukrainy-vvedeny-ekstrennye-otklyucheniya-elektroenergii)
+- [Дочекалася: Бейонсе з п&amp;#39;ятої спроби отримала «Греммі» у категорії «Найкращий альбом»](https://fakty.ua/449776-dozhdalas-bejonse-s-pyatoj-popytki-poluchila-gremmi-v-kategorii-luchshij-albom)
 - [Вибух біля ТЦК у Павлограді: терактів буде більше?](https://fakty.ua/449774-vzryv-vozle-tck-v-pavlograde-teraktov-budet-bolshe)
 - [Одна з найкрасивіших актрис світу прийняла важке рішення після розлучення зі зрадливим чоловіком](https://fakty.ua/449766-odna-iz-samyh-krasivyh-aktris-mira-prinyala-tyazheloe-reshenie-posle-razvoda-s-nevernym-muzhem)
 - [Міг бути біологічним батьком Лізи та Гаррі? Сергій Челобанов розповів про відносини з Аллою Пугачовою](https://fakty.ua/449772-mog-byt-biologicheskim-otcom-lizy-i-garri-sergej-chelobanov-rasskazal-ob-otnosheniyah-s-alloj-pugachevoj)
-- [Понад рік жевріла надія: на Полтавщині поховали бійця, який безвісти зник в бою на Харківщині](https://fakty.ua/449762-bolshe-goda-teplilas-nadezhda-na-poltavcshine-pohoronili-bojca-kotoryj-bez-vesti-propal-v-boyu-na-harkovcshine)
-- [рф перекидає свої підрозділи з Курахівського напрямку під Покровськ: експерт про ситуацію в місті](https://fakty.ua/449759-rf-perebrasyvaet-svoi-podrazdeleniya-s-kurahovskogo-napravleniya-pod-pokrovsk-ekspert-o-situacii-v-gorode)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
