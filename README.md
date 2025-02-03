@@ -147,11 +147,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [З рацією наперевагу: зв&amp;#39;язківців заборонили примусово переводити в піхоту](https://fakty.ua/449796-s-raciej-napereves-svyazistov-zapretili-prinuditelno-perevodit-v-pehotu)
+- [Якщо зараз припинити вогонь — стане гірше: ЗМІ публікують думки українських бійців](https://fakty.ua/449789-esli-sejchas-prekratit-ogon---stanet-huzhe-smi-publikuyut-mneniya-ukrainskih-bojcov)
 - [Прикинувся хворим і попросив зупинити автобус: шокуючі деталі вбивства військового на Полтавщині](https://fakty.ua/449787-pritvorilsya-bolnym-i-poprosil-ostanovit-avtobus-shokiruyucshie-detali-ubijstva-voennogo-na-poltavcshine)
 - [Донецького кримінального авторитета підірвали в елітному житловому комплексі у москві, — ЗМІ &lpar;відео&rpar;](https://fakty.ua/449782-doneckogo-kriminalnogo-avtoriteta-vzorvali-v-elitnom-zhilom-komplekse-v-moskve---smi-video)
 - [Україна застосувала найпотужніший багаторазовий БПЛА, — ЗМІ](https://fakty.ua/449775-ukraina-primenila-samyj-mocshnyj-mnogorazovyj-bpla---smi)
-- [Електрика закінчилася: у дев’яти областях України введено екстрені відключення електроенергії](https://fakty.ua/449780-elektrichestvo-konchilos-v-devyati-oblastyah-ukrainy-vvedeny-ekstrennye-otklyucheniya-elektroenergii)
-- [Дочекалася: Бейонсе з п&amp;#39;ятої спроби отримала «Греммі» у категорії «Найкращий альбом»](https://fakty.ua/449776-dozhdalas-bejonse-s-pyatoj-popytki-poluchila-gremmi-v-kategorii-luchshij-albom)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
