@@ -147,11 +147,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Українців попередили про фальшиві листи від ТЦК](https://fakty.ua/449812-ukraincev-predupredili-o-falshivyh-pismah-ot-tck)
+- [Покровськ залишається найголовнішою метою: аналітик про плани путіна](https://fakty.ua/449798-pokrovsk-ostaetsya-samoj-glavnoj-celyu-analitik-o-planah-putina)
 - [Не планували: відома пара телеведучих про своє весілля](https://fakty.ua/449804-ne-planirovali-izvestnaya-para-televeducshih-o-svoej-svadbe)
 - [Тієї миті хлопець був у туалеті, а диван, з якого щойно встав, привалило плитами: родина дивом вижила під час ракетного удару по Полтаві](https://fakty.ua/449799-v-tot-moment-paren-byl-v-tualete-a-divan-s-kotorogo-tolko-chto-vstal-privalilo-plitami-semya-chudom-vyzhila-vo-vremya-raketnogo-udara-po-poltave)
 - [Не варто постійно відбілювати себе: популярний актор зізнався у проблемах](https://fakty.ua/449802-ne-stoit-postoyanno-otbelivat-sebya-populyarnyj-akter-priznalsya-v-problemah)
-- [Божечкі: мережа у захваті від відео популярної шеф-кухарки](https://fakty.ua/449801-bozhenki-set-v-vostorge-ot-video-populyarnoj-shef-povara)
-- [З рацією наперевагу: зв&amp;#39;язківців заборонили примусово переводити в піхоту](https://fakty.ua/449796-s-raciej-napereves-svyazistov-zapretili-prinuditelno-perevodit-v-pehotu)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
