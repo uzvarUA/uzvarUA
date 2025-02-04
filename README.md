@@ -147,11 +147,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Стало відомо, коли Христина Орбакайте зустрінеться на Кіпрі з Аллою Пугачовою, а Максим Галкін в Іспанії — з Потапом](https://fakty.ua/449864-stalo-izvestno-kogda-kristina-orbakajte-vstretitsya-na-kipre-s-alloj-pugachevoj-a-maksim-galkin-v-ispanii-s-potapom)
+- [Україна втрачає позиції під Покровськом: військові назвали причини](https://fakty.ua/449836-ukraina-teryaet-pozicii-pod-pokrovskom-voennye-nazvali-prichiny)
 - [Мені глибоко наплювати: популярна артистка гнівно звернулася до хейтерів](https://fakty.ua/449843-mne-gluboko-naplevat-populyarnaya-artistka-gnevno-obratilas-k-hejteram)
 - [До нового парламенту можуть прийти новостворені партії Валерія Залужного і Олексія Гончаренка, — соцопитування](https://fakty.ua/449860-v-novyj-parlament-mogut-prijti-novosozdannye-partii-valeriya-zaluzhnogo-i-alekseya-goncharenko---socopros)
 - [Силовики блокують допомогу столичної громади ЗСУ: «Це загроза нацбезпеці», — в Київраді звернулися до СБУ](https://fakty.ua/449859-siloviki-blokiruyut-pomocsh-stolichnoj-gromady-vsu-eto-ugroza-nacbezopasnosti---v-kievsovete-obratilis-v-sbu)
-- [Далі окремо: Холостяк шокував заявою](https://fakty.ua/449846-dalshe-otdelno-holostyak-shokiroval-zayavleniem)
-- [П’іятеро загиблих, серед яких — вагітна жінка: стали відомими подробиці варварського удару росіян по Ізюму](https://fakty.ua/449856-pyatero-pogibshih-sredi-kotoryh---beremennaya-zhencshina-stali-izvestny-podrobnosti-varvarskogo-udara-rossiyan-po-izyumu)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
