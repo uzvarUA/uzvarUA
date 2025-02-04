@@ -147,11 +147,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Шпигували під прикриттям волонтерства: СБУ на Харківщині затримала двох агентів російського гру](https://fakty.ua/449821-shpionili-pod-prikrytiem-volonterstva-sbu-na-harkovcshine-zaderzhala-dvuh-agentov-rossijskogo-gru)
+- [В Україну повернулися 12 дітей, які були під російською окупацією](https://fakty.ua/449819-v-ukrainu-vernulis-12-detej-kotorye-byli-pod-rossijskoj-okkupaciej)
 - [Терористи знову атакували Україну: де лунали вибухи та працювала ППО](https://fakty.ua/449814-terroristy-snova-atakovali-ukrainu-gde-razdavalis-vzryvy-i-rabotala-pvo)
 - [Час гоїти розбиті серця: яких чоловіків шукають самотні Кім Кардаш’ян і Дженніфер Лопес](https://fakty.ua/449806-pora-lechit-razbitye-serdca-kakih-muzhchin-icshut-odinokie-kim-kardashyan-i-dzhennifer-lopes)
 - [Він не чекав повістки — пішов добровольцем: в бою під Куп’янськом загинув 33-річний воїн з Прикарпаття](https://fakty.ua/449803-on-ne-zhdal-povestki---poshel-dobrovolcem-v-boyu-pod-kupyanskom-pogib-33-letnij-voin-iz-prikarpatya)
-- [Українців попередили про фальшиві листи від ТЦК](https://fakty.ua/449812-ukraincev-predupredili-o-falshivyh-pismah-ot-tck)
-- [Покровськ залишається найголовнішою метою: аналітик про плани путіна](https://fakty.ua/449798-pokrovsk-ostaetsya-samoj-glavnoj-celyu-analitik-o-planah-putina)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
