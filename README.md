@@ -147,11 +147,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Королівське походження: приголомшливе відкриття про родину Шерон Стоун](https://fakty.ua/449851-korolevskoe-proishozhdenie-potryasayucshee-otkrytie-o-seme-sheron-stoun)
 - [Незадовго до загибелі отримав нагороду від командувача Нацгвардії: на Донеччині віддав життя за Україну боєць з Рівненщини](https://fakty.ua/449841-nezadolgo-do-gibeli-poluchil-nagradu-ot-komanduyucshego-nacgvardiej-v-doneckoj-oblasti-otdal-zhizn-za-ukrainu-boec-s-rovencshiny)
 - [Стало відомо, коли Христина Орбакайте зустрінеться на Кіпрі з Аллою Пугачовою, а Максим Галкін в Іспанії — з Потапом](https://fakty.ua/449864-stalo-izvestno-kogda-kristina-orbakajte-vstretitsya-na-kipre-s-alloj-pugachevoj-a-maksim-galkin-v-ispanii-s-potapom)
 - [Україна втрачає позиції під Покровськом: військові назвали причини](https://fakty.ua/449836-ukraina-teryaet-pozicii-pod-pokrovskom-voennye-nazvali-prichiny)
 - [Мені глибоко наплювати: популярна артистка гнівно звернулася до хейтерів](https://fakty.ua/449843-mne-gluboko-naplevat-populyarnaya-artistka-gnevno-obratilas-k-hejteram)
-- [До нового парламенту можуть прийти новостворені партії Валерія Залужного і Олексія Гончаренка, — соцопитування](https://fakty.ua/449860-v-novyj-parlament-mogut-prijti-novosozdannye-partii-valeriya-zaluzhnogo-i-alekseya-goncharenko---socopros)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
