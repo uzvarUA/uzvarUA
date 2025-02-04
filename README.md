@@ -147,11 +147,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
-- [Модний скранч-2025: який вибрати та з чим носити](https://fakty.ua/449808-modnyj-skranch-2025-kakoj-vybrat-i-s-chem-nosit)
 - [Час гоїти розбиті серця: яких чоловіків шукають самотні Кім Кардаш’ян і Дженніфер Лопес](https://fakty.ua/449806-pora-lechit-razbitye-serdca-kakih-muzhchin-icshut-odinokie-kim-kardashyan-i-dzhennifer-lopes)
 - [Він не чекав повістки — пішов добровольцем: в бою під Куп’янськом загинув 33-річний воїн з Прикарпаття](https://fakty.ua/449803-on-ne-zhdal-povestki---poshel-dobrovolcem-v-boyu-pod-kupyanskom-pogib-33-letnij-voin-iz-prikarpatya)
 - [Українців попередили про фальшиві листи від ТЦК](https://fakty.ua/449812-ukraincev-predupredili-o-falshivyh-pismah-ot-tck)
 - [Покровськ залишається найголовнішою метою: аналітик про плани путіна](https://fakty.ua/449798-pokrovsk-ostaetsya-samoj-glavnoj-celyu-analitik-o-planah-putina)
+- [Не планували: відома пара телеведучих про своє весілля](https://fakty.ua/449804-ne-planirovali-izvestnaya-para-televeducshih-o-svoej-svadbe)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
