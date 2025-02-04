@@ -147,11 +147,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Занадто «гола» сукня: дружина Каньє Веста Б’янка Цензорі з’явилась практично без одягу на врученні премії «Греммі»](https://fakty.ua/449835-slishkom-quot-goloe-quot-plate-zhena-kane-vesta-byanka-cenzori-poyavilas-prakticheski-bez-odezhdy-na-vruchenii-premii-quot-gremmi-quot)
 - [Поки Каменських «копає окопи»: Потап показав, як розважається у Мексиці та Іспанії](https://fakty.ua/449828-poka-kamenskih-quot-kopaet-okopy-quot-potap-pokazal-kak-razvlekaetsya-v-meksike-i-ispanii)
 - [Масовий пікет: уманці зірвали виступ нардепа Яценка у місті](https://fakty.ua/449832-massovyj-piket-umanchane-sorvali-vystuplenie-nardepa-yacenko-v-gorode)
 - [Вторгнення стало реальністю через слабкість української влади, — Ігор Гринів](https://fakty.ua/449831-vtorzhenie-stalo-realnostyu-iz-za-slabosti-ukrainskoj-vlasti---igor-gryniv)
 - [РФ вдарила балістикою по Ізюму: багато поранених, є загиблі](https://fakty.ua/449830-rf-udarila-ballistikoj-po-izyumu-mnogo-ranenyh-est-pogibshie)
-- [«Ми допомагаємо росії заробляти нафтодолари, які потім прилітають до нас у вигляді ракет та шахедів», — експерт Михайло Гончар](https://fakty.ua/449778-quot-my-pomogaem-rossii-zarabatyvat-neftedollary-kotorye-potom-priletayut-k-nam-v-vide-raket-i-shahedov-quot---ekspert-mihail-gonchar)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
