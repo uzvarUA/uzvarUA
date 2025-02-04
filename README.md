@@ -147,11 +147,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Силовики блокують допомогу столичної громади ЗСУ: «Це загроза нацбезпеці», — в Київраді звернулися до СБУ](https://fakty.ua/449859-siloviki-blokiruyut-pomocsh-stolichnoj-gromady-vsu-eto-ugroza-nacbezopasnosti---v-kievsovete-obratilis-v-sbu)
+- [Далі окремо: Холостяк шокував заявою](https://fakty.ua/449846-dalshe-otdelno-holostyak-shokiroval-zayavleniem)
+- [П’іятеро загиблих, серед яких — вагітна жінка: стали відомими подробиці варварського удару росіян по Ізюму](https://fakty.ua/449856-pyatero-pogibshih-sredi-kotoryh---beremennaya-zhencshina-stali-izvestny-podrobnosti-varvarskogo-udara-rossiyan-po-izyumu)
+- [Всупереч закону: Святошинський суд видав 39 ухвал на обшуки та арешт майна компанії з Дніпра](https://fakty.ua/449855-vopreki-zakonu-svyatoshinskij-sud-vydal-39-postanovlenij-na-obyski-i-arest-imucshestva-kompanii-iz-dnepra)
 - [Намагались підірвати наряд поліції: на Буковині затримали зловмисників](https://fakty.ua/449849-pytalis-vzorvat-naryad-policii-na-bukovine-zaderzhali-zloumyshlennikov)
-- [«Ми втомлені»: переможниця «Холостяка» звернулася до підписників у соцмережі &lpar;фото&rpar;](https://fakty.ua/449844-my-ustali-pobeditelnica-holostyaka-obratilas-k-podpischikam-v-socseti-foto)
-- [Потрібно зупинити терор і захистити життя: Зеленський показав жахливі наслідки удару терористів по Ізюму](https://fakty.ua/449842-nuzhno-ostanovit-terror-i-zacshitit-zhizn-zelenskij-pokazal-uzhasayucshie-posledstviya-udara-terroristov-po-izyumu)
-- [Занадто «гола» сукня: дружина Каньє Веста Б’янка Цензорі з’явилась практично без одягу на врученні премії «Греммі»](https://fakty.ua/449835-slishkom-quot-goloe-quot-plate-zhena-kane-vesta-byanka-cenzori-poyavilas-prakticheski-bez-odezhdy-na-vruchenii-premii-quot-gremmi-quot)
-- [Поки Каменських «копає окопи»: Потап показав, як розважається у Мексиці та Іспанії](https://fakty.ua/449828-poka-kamenskih-quot-kopaet-okopy-quot-potap-pokazal-kak-razvlekaetsya-v-meksike-i-ispanii)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
