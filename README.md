@@ -147,11 +147,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [«Просування російської армії — неадекватне, так би не воювала жодна армія світу», — ветеран](https://fakty.ua/449884-prodvizhenie-rossijskoj-armii---neadekvatno-tak-by-ne-voevala-ni-odna-armiya-mira---veteran)
 - [Зеленський продовжив воєнний стан в Україні до 9 травня 2025 року](https://fakty.ua/449907-zelenskij-prodlil-voennoe-polozhenie-v-ukraine-do-9-maya-2025-goda)
 - [В Україну повернулися ще 150 полонених українців &lpar;фото&rpar;](https://fakty.ua/449903-v-ukrainu-vernulis-ecshe-150-plennyh-ukraincev-foto)
 - [Замість піхоти з КНДР: на передовій помітили 70-річні гармати, які можуть бути від Кім Чен Ина](https://fakty.ua/449882-vmesto-pehoty-iz-kndr-na-peredovoj-zametili-70-letnie-pushki-kotorye-mogut-byt-ot-kim-chen-yna)
 - [Ще один теракт із жертвами: вибух пролунав біля ТЦК у Кам&amp;#39;янці-Подільському &lpar;фото, відео&rpar;](https://fakty.ua/449900-ecshe-odin-terakt-s-zhertvami-vzryv-progremel-vozle-tck-v-kamyance-podolskom-video)
-- [Дай мені спокій: шокуючі подробиці стосунків з Холостяком Олександром «Тереном»](https://fakty.ua/449890-ostav-menya-v-pokoe-shokiruyucshie-podrobnosti-otnoshenij-s-holostyakom-aleksandrom-terenom)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
