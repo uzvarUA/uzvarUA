@@ -147,11 +147,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Плював у військових, заперечував збройну агресію рф: скандальний тренер і блогер з Полтави отримав тюремний термін](https://fakty.ua/449861-pleval-v-voennyh-otrical-vooruzhennuyu-agressiyu-rf-skandalnyj-trener-i-bloger-iz-poltavy-poluchil-tyuremnyj-srok)
+- [«Дайте нам ядерну зброю»: Зеленський — про переговори з путіним та втрати України у війні](https://fakty.ua/449869-dajte-nam-yadernoe-oruzhie-zelenskij---o-peregovorah-s-putinym-i-poteryah-ukrainy-v-vojne)
 - [«Шахеди» вдарили по центру Харкова: зруйновано адмінбудівлю та навчальний заклад](https://fakty.ua/449866-shahedy-udarili-po-centru-harkova-razrusheny-adminzdanie-i-uchebnoe-zavedenie)
 - [Королівське походження: приголомшливе відкриття про родину Шерон Стоун](https://fakty.ua/449851-korolevskoe-proishozhdenie-potryasayucshee-otkrytie-o-seme-sheron-stoun)
 - [Незадовго до загибелі отримав нагороду від командувача Нацгвардії: на Донеччині віддав життя за Україну боєць з Рівненщини](https://fakty.ua/449841-nezadolgo-do-gibeli-poluchil-nagradu-ot-komanduyucshego-nacgvardiej-v-doneckoj-oblasti-otdal-zhizn-za-ukrainu-boec-s-rovencshiny)
-- [Стало відомо, коли Христина Орбакайте зустрінеться на Кіпрі з Аллою Пугачовою, а Максим Галкін в Іспанії — з Потапом](https://fakty.ua/449864-stalo-izvestno-kogda-kristina-orbakajte-vstretitsya-na-kipre-s-alloj-pugachevoj-a-maksim-galkin-v-ispanii-s-potapom)
-- [Україна втрачає позиції під Покровськом: військові назвали причини](https://fakty.ua/449836-ukraina-teryaet-pozicii-pod-pokrovskom-voennye-nazvali-prichiny)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
