@@ -147,11 +147,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Ще один теракт із жертвами: вибух пролунав біля ТЦК у Кам&amp;#39;янці-Подільському &lpar;відео&rpar;](https://fakty.ua/449900-ecshe-odin-terakt-s-zhertvami-vzryv-progremel-vozle-tck-v-kamyance-podolskom-video)
 - [Дай мені спокій: шокуючі подробиці стосунків з Холостяком Олександром «Тереном»](https://fakty.ua/449890-ostav-menya-v-pokoe-shokiruyucshie-podrobnosti-otnoshenij-s-holostyakom-aleksandrom-terenom)
 - [Лежав поранений, весь в крові: знімальна група ТСН потрапила під обстріл росіян](https://fakty.ua/449885-lezhal-ranenyj-ves-v-krovi-semochnaya-gruppa-tsn-popala-pod-obstrel-rossiyan)
 - [Залягли «на дно» та чекали на винагороду від окупантів: поліція та СБУ розшукали підривників ТЦК у Павлограді &lpar;фото, відео&rpar;](https://fakty.ua/449880-zalegli-na-dno-i-zhdali-voznagrazhdenie-ot-okkupantov-policiya-i-sbu-razyskali-podryvnikov-tck-v-pavlograde-foto-video)
 - [Плював у військових, заперечував збройну агресію рф: скандальний тренер і блогер з Полтави отримав тюремний термін](https://fakty.ua/449861-pleval-v-voennyh-otrical-vooruzhennuyu-agressiyu-rf-skandalnyj-trener-i-bloger-iz-poltavy-poluchil-tyuremnyj-srok)
-- [«Дайте нам ядерну зброю»: Зеленський — про переговори з путіним та втрати України у війні](https://fakty.ua/449869-dajte-nam-yadernoe-oruzhie-zelenskij---o-peregovorah-s-putinym-i-poteryah-ukrainy-v-vojne)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
