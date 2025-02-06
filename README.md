@@ -147,11 +147,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Ворог вночі атакував Україну: є «прильоти» та постраждалі](https://fakty.ua/449916-vrag-nochyu-atakoval-ukrainu-est-quot-prilety-quot-i-postradavshie)
 - [Стрункі ноги та сніжно-біла посмішка: Галкін показав погарнішавшу Пугачову](https://fakty.ua/449915-strojnye-nogi-i-snezhno-belaya-ulybka-galkin-pokazal-pokrasnevshuyu-pugachevu)
 - [Джессіка Біл зробила шокуюче зізнання про шлюб з Джастіном Тімберлейком](https://fakty.ua/449895-dzhessika-bil-sdelala-shokiruyucshee-priznanie-o-brake-s-dzhastinom-timberlejkom)
 - [Одружив синів, тішився онуками: в бою за Україну загинув 54-річний воїн з Хмельниччини](https://fakty.ua/449888-zhenil-synovej-radovalsya-vnukam-v-boyu-za-ukrainu-pogib-54-letnij-voin-s-hmelnitchiny)
 - [«Просування російської армії — неадекватне, так би не воювала жодна армія світу», — ветеран](https://fakty.ua/449884-prodvizhenie-rossijskoj-armii---neadekvatno-tak-by-ne-voevala-ni-odna-armiya-mira---veteran)
-- [Зеленський продовжив воєнний стан в Україні до 9 травня 2025 року](https://fakty.ua/449907-zelenskij-prodlil-voennoe-polozhenie-v-ukraine-do-9-maya-2025-goda)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
