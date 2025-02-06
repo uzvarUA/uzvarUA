@@ -147,11 +147,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [У мене були сталеві яйця: популярна співачка шокувала зізнанням](https://fakty.ua/449946-u-menya-byli-stalnye-yajca-populyarnaya-pevica-shokirovala-priznaniem)
+- [«Шакалячий експрес»: антикорупціонери, які підтримували НАБУ, тепер вимагають закрити бюро через неефективність](https://fakty.ua/449957-shakalij-ekspress-podderzhivavshie-nabu-antikorrupcionery-teper-trebuyut-zakryt-byuro-iz-za-neeffektivnosti)
 - [«Краще збудувати будинок на Рубльовці»: хейтери Пугачової і Галкіна радіють, що знайшли «вразливе місце» подружжя](https://fakty.ua/449949-quot-luchshe-postroit-dom-na-rublevke-quot-hejtery-pugachevoj-i-galkina-raduyutsya-chto-nashli-quot-uyazvimoe-mesto-quot-suprugov)
 - [Схудла як: мережа замилувалася світлинами популярної співачки](https://fakty.ua/449942-pohudela-kak-set-zalyubovalas-fotografiyami-populyarnoj-pevicy)
 - [Намагались пустити під укіс вантажний потяг: на Одещині затримано російських агентів](https://fakty.ua/449943-pytalis-pustit-pod-otkos-gruzovoj-poezd-v-odesskoj-oblasti-zaderzhany-rossijskie-agenty)
-- [Викрали більше 100 млн гривень: ДБР викрило банду, яка збагачувалась на закупівлях для військових](https://fakty.ua/449941-pohitili-bolee-100-mln-griven-gbr-razoblachilo-bandu-kotoraya-obogacshalas-na-zakupkah-dlya-voennyh)
-- [Корчинський закликав Бутусова не сіяти зневіру та капітулянтство в інтересах кремля](https://fakty.ua/449937-korchinskij-prizval-butusova-ne-seyat-unynie-i-kapitulyantstvo-v-interesah-kremlya)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
