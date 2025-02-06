@@ -147,11 +147,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Елітна нерухомість та картини: дружина Порошенка намагається врятувати майно від конфіскації у справі про держзраду чоловіка, — ЗМІ](https://fakty.ua/449927-elitnaya-nedvizhimost-i-kartiny-zhena-poroshenko-pytaetsya-spasti-imucshestvo-ot-konfiskacii-po-delu-o-gosizmene-muzha---smi)
 - [На Дніпропетровщині трапилася ДТП з автобусом: багато постраждалих](https://fakty.ua/449922-na-dnepropetrovcshine-proizoshlo-dtp-s-avtobusom-mnogo-postradavshih)
 - [Ціна миру для України — 15 трильйонів доларів: чому США шукають доступ до рідкісноземельних металів](https://fakty.ua/449902-cena-mira-dlya-ukrainy---15-trillionov-dollarov-pochemu-ssha-icshut-dostup-k-redkozemelnym-metallam)
 - [Ворог вночі атакував Україну: є «прильоти» та постраждалі](https://fakty.ua/449916-vrag-nochyu-atakoval-ukrainu-est-quot-prilety-quot-i-postradavshie)
 - [Стрункі ноги та сніжно-біла посмішка: Галкін показав погарнішавшу Пугачову](https://fakty.ua/449915-strojnye-nogi-i-snezhno-belaya-ulybka-galkin-pokazal-pokrasnevshuyu-pugachevu)
-- [Джессіка Біл зробила шокуюче зізнання про шлюб з Джастіном Тімберлейком](https://fakty.ua/449895-dzhessika-bil-sdelala-shokiruyucshee-priznanie-o-brake-s-dzhastinom-timberlejkom)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
