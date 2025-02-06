@@ -147,11 +147,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [«Хороша авантюра»: Маша Кондратенко розповіла, чи отримувала гроші за «виконання ролі» Klavdia Petrivna](https://fakty.ua/449965-quot-horoshaya-avantyura-quot-masha-kondratenko-rasskazala-poluchala-li-dengi-za-quot-ispolnenie-roli-quot-klavdia-petrivna)
+- [Окупанти похизувалися новітнім ЗРК: які в нього проблеми та коли може з’явитися на передовій](https://fakty.ua/449930-okkupanty-pohvastalis-novejshim-zrk-kakie-u-nego-problemy-i-kogda-mozhet-poyavitsya-na-peredovoj)
+- [Закликала захопити Україну: зрадниця Таїсія Повалій піде під суд](https://fakty.ua/449964-prizvala-zahvatit-ukrainu-predatelnica-taisiya-povalij-pojdet-pod-sud)
 - [Мартинов закликав прискорити розслідування у справі заволодіння портом «Боріваж» Коломойським і Боголюбовим](https://fakty.ua/449962-martynov-prizval-uskorit-rassledovanie-po-delu-zavladeniya-portom-quot-borivazh-quot-kolomojskim-i-bogolyubovym)
 - [У мене були сталеві яйця: популярна співачка шокувала зізнанням](https://fakty.ua/449946-u-menya-byli-stalnye-yajca-populyarnaya-pevica-shokirovala-priznaniem)
-- [«Шакалячий експрес»: антикорупціонери, які підтримували НАБУ, тепер вимагають закрити бюро через неефективність](https://fakty.ua/449957-shakalij-ekspress-podderzhivavshie-nabu-antikorrupcionery-teper-trebuyut-zakryt-byuro-iz-za-neeffektivnosti)
-- [«Краще збудувати будинок на Рубльовці»: хейтери Пугачової і Галкіна радіють, що знайшли «вразливе місце» подружжя](https://fakty.ua/449949-quot-luchshe-postroit-dom-na-rublevke-quot-hejtery-pugachevoj-i-galkina-raduyutsya-chto-nashli-quot-uyazvimoe-mesto-quot-suprugov)
-- [Схудла як: мережа замилувалася світлинами популярної співачки](https://fakty.ua/449942-pohudela-kak-set-zalyubovalas-fotografiyami-populyarnoj-pevicy)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
