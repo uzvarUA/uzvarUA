@@ -147,11 +147,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Викрали більше 100 млн гривень: ДБР викрило банду, яка збагачувалась на закупівлях для військових](https://fakty.ua/449941-pohitili-bolee-100-mln-griven-gbr-razoblachilo-bandu-kotoraya-obogacshalas-na-zakupkah-dlya-voennyh)
+- [Корчинський закликав Бутусова не сіяти зневіру та капітулянтство в інтересах кремля](https://fakty.ua/449937-korchinskij-prizval-butusova-ne-seyat-unynie-i-kapitulyantstvo-v-interesah-kremlya)
+- [«Хочу туди»: відома шеф-кухарка замилувала дитячим відео](https://fakty.ua/449921-hochu-tuda-izvestnyj-shef-povar-umilila-detskim-video)
 - [Україна отримала перші винищувачі Mirage 2000: що відомо?](https://fakty.ua/449933-ukraina-poluchila-pervye-istrebiteli-mirage-2000-chto-izvestno)
 - [Хоч і не «Оскар»: Анджеліна Джолі у сукні-комбінації розплакалась на врученні кінопремії у Каліфорнії](https://fakty.ua/449931-hot-i-ne-quot-oskar-quot-andzhelina-dzholi-v-plate-kombinacii-rasplakalas-na-vruchenii-kinopremii-v-kalifornii)
-- [Елітна нерухомість та картини: дружина Порошенка намагається врятувати майно від конфіскації у справі про держзраду чоловіка, — ЗМІ](https://fakty.ua/449927-elitnaya-nedvizhimost-i-kartiny-zhena-poroshenko-pytaetsya-spasti-imucshestvo-ot-konfiskacii-po-delu-o-gosizmene-muzha---smi)
-- [На Дніпропетровщині трапилася ДТП з автобусом: багато постраждалих](https://fakty.ua/449922-na-dnepropetrovcshine-proizoshlo-dtp-s-avtobusom-mnogo-postradavshih)
-- [Ціна миру для України — 15 трильйонів доларів: чому США шукають доступ до рідкісноземельних металів](https://fakty.ua/449902-cena-mira-dlya-ukrainy---15-trillionov-dollarov-pochemu-ssha-icshut-dostup-k-redkozemelnym-metallam)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
