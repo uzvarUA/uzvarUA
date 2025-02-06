@@ -147,11 +147,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Намагались пустити під укіс вантажний потяг: на Одещині затримано російських агентів](https://fakty.ua/449943-pytalis-pustit-pod-otkos-gruzovoj-poezd-v-odesskoj-oblasti-zaderzhany-rossijskie-agenty)
 - [Викрали більше 100 млн гривень: ДБР викрило банду, яка збагачувалась на закупівлях для військових](https://fakty.ua/449941-pohitili-bolee-100-mln-griven-gbr-razoblachilo-bandu-kotoraya-obogacshalas-na-zakupkah-dlya-voennyh)
 - [Корчинський закликав Бутусова не сіяти зневіру та капітулянтство в інтересах кремля](https://fakty.ua/449937-korchinskij-prizval-butusova-ne-seyat-unynie-i-kapitulyantstvo-v-interesah-kremlya)
 - [«Хочу туди»: відома шеф-кухарка замилувала дитячим відео](https://fakty.ua/449921-hochu-tuda-izvestnyj-shef-povar-umilila-detskim-video)
 - [Україна отримала перші винищувачі Mirage 2000: що відомо?](https://fakty.ua/449933-ukraina-poluchila-pervye-istrebiteli-mirage-2000-chto-izvestno)
-- [Хоч і не «Оскар»: Анджеліна Джолі у сукні-комбінації розплакалась на врученні кінопремії у Каліфорнії](https://fakty.ua/449931-hot-i-ne-quot-oskar-quot-andzhelina-dzholi-v-plate-kombinacii-rasplakalas-na-vruchenii-kinopremii-v-kalifornii)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
