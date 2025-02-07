@@ -147,11 +147,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Обіцяють доставити посилку: активізувалися аферисти, які «заробляють» на родичах полонених захисників України](https://fakty.ua/449980-obecshayut-dostavit-posylku-aktivizirovalis-aferisty-zarabatyvayucshie-na-rodstvennikah-plennyh-zacshitnikov-ukrainy)
 - [З «ручною поклажею» прохід заборонений: після низки вибухів ТЦК та СП посилюють заходи безпеки](https://fakty.ua/449970-s-ruchnoj-kladyu-prohod-zaprecshen-posle-ryada-vzryvov-tck-i-sp-usilivayut-mery-bezopasnosti)
 - [Махнули на Крим рукою: окупанти виводять ППО з півострова, щоб захистити прикордонні області росії, — «АТЕШ»](https://fakty.ua/449978-mahnuli-na-krym-rukoj-okkupanty-vyvodyat-pvo-s-poluostrova-chtoby-zacshitit-prigranichnye-oblasti-rossii---atesh)
 - [Наркоман готувався вчинити теракт у Хмельницькому за завданням росіян &lpar;фото&rpar;](https://fakty.ua/449976-narkoman-gotovilsya-sovershit-terakt-v-hmelnickom-po-zadaniyu-rossiyan-foto)
 - [В Україні частину медиків «розбронюють» та мобілізують на один рік](https://fakty.ua/449969-v-ukraine-chast-medikov-razbroniruyut-i-mobilizuyut-na-odin-god)
-- [В Україні вперше позбавили водійських прав за ухилення від мобілізації: скільки всього подали таких позовів](https://fakty.ua/449951-v-ukraine-vpervye-lishili-voditelskih-prav-za-uklonenie-ot-mobilizacii-skolko-vsego-podali-takih-iskov)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
