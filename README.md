@@ -147,11 +147,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [В Україні вперше позбавили водійських прав за ухилення від мобілізації: скільки всього подали таких позовів](https://fakty.ua/449951-v-ukraine-vpervye-lishili-voditelskih-prav-za-uklonenie-ot-mobilizacii-skolko-vsego-podali-takih-iskov)
+- [У нічній атаці на Україну брали участь понад 110 ворожих дронів: скільки вдалося знешкодити ППО](https://fakty.ua/449972-v-nochnoj-atake-na-ukrainu-uchastvovali-bolee-110-vrazheskih-dronov-skolko-udalos-obezvredit-pvo)
 - [У восьми областях України запроваджено аварійні відключення електрики, — «Укренерго»](https://fakty.ua/449968-v-vosmi-oblastyah-ukrainy-vvedeny-avarijnye-otklyucheniya-elektrichestva---ukrenergo)
 - [росія могла запустити другу балістичну ракету «Орєшнік» по Україні: що про це відомо](https://fakty.ua/449966-rossiya-mogla-zapustit-vtoruyu-ballisticheskuyu-raketu-oreshnik-po-ukraine-chto-ob-etom-izvestno)
 - [«Мені дуже прикро»: Кейт Бланшетт пригадала про сексуальні домагання у Голлівуді](https://fakty.ua/449939-mne-ochen-obidno-kejt-blanshett-vspomnila-o-seksualnyh-domogatelstvah-v-gollivude)
-- [Велика війна зробила з підприємця воїна: на Луганщині загинув молодший сержант з Житомирщини](https://fakty.ua/449932-bolshaya-vojna-sdelala-iz-predprinimatelya-voina-v-luganskoj-oblasti-v-boyu-pogib-mladshij-serzhant-s-zhitomircshiny)
-- [«Хороша авантюра»: Маша Кондратенко розповіла, чи отримувала гроші за «виконання ролі» Klavdia Petrivna](https://fakty.ua/449965-quot-horoshaya-avantyura-quot-masha-kondratenko-rasskazala-poluchala-li-dengi-za-quot-ispolnenie-roli-quot-klavdia-petrivna)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
