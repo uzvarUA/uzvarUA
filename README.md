@@ -147,11 +147,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Лідер українських Instagram-блогерів: Поплавський у рейтингу Forbes](https://fakty.ua/450014-lider-ukrainskih-instagram-blogerov-poplavskij-v-rejtinge-forbes)
+- [Сім місяців родина вірила у диво: на Харківщині поліг воїн з Київської області](https://fakty.ua/449979-sem-mesyacev-semya-verila-v-chudo-na-harkovcshine-pogib-voin-iz-kievskoj-oblasti)
 - [Україна отримала підкріплення для Повітряних сил: чи зможуть французькі Mirage 2000 завоювати панування в повітрі](https://fakty.ua/449975-ukraina-poluchila-podkreplenie-dlya-vozdushnyh-sil-smogut-li-francuzskie-mirage-2000-zavoevat-gospodstvo-v-vozduhe)
 - [Букмекери назвали фаворитів Нацвідбору на «Євробачення-2025»](https://fakty.ua/449994-bukmekery-nazvali-favoritov-nacotbora-na-evrovidenie-2025)
 - [У партії «Сила нації» ініціювали розробку і всенародне обговорення програми післявоєнної відбудови України](https://fakty.ua/450010-v-partii-sila-nacii-iniciirovali-razrabotku-i-vsenarodnoe-obsuzhdenie-programmy-poslevoennogo-vosstanovleniya-ukrainy)
-- [Паралізувати Київ тепер намагатимуться разом голова КМВА Ткаченко та його родич — директор НАБУ Кривонос, — експерт](https://fakty.ua/450009-paralizovat-kiev-teper-budut-pytatsya-vmeste-glava-kgva-tkachenko-i-ego-rodstvennik-direktor-nabu-krivonos---ekspert)
-- [«Перевірка на міцність на шляху до справедливості»: суд виніс новий вирок у скандальній справі про зґвалтування на Закарпатті](https://fakty.ua/450002-proverka-na-prochnost-na-puti-k-spravedlivosti-sud-vynes-novyj-prigovor-po-skandalnomu-delu-ob-iznasilovanii-v-zakarpate)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
