@@ -147,11 +147,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Аудіозаписи з обшуку Комарницького можуть викрити розмови топ-чиновників «Слуги народу», — блогерка](https://fakty.ua/450015-audiozapisi-iz-obyska-komarnickogo-mogut-razoblachit-razgovory-top-chinovnikov-slugi-naroda---bloger)
+- [Нарешті робить те, що хоче: Бен Аффлек почувався обділеним у шлюбі з Дженніфер Лопес](https://fakty.ua/449983-nakonec-delaet-to-chto-hochet-ben-afflek-chuvstvoval-sebya-obdelennym-v-brake-s-dzhennifer-lopes)
 - [Лідер українських Instagram-блогерів: Поплавський у рейтингу Forbes](https://fakty.ua/450014-lider-ukrainskih-instagram-blogerov-poplavskij-v-rejtinge-forbes)
 - [Сім місяців родина вірила у диво: на Харківщині поліг воїн з Київської області](https://fakty.ua/449979-sem-mesyacev-semya-verila-v-chudo-na-harkovcshine-pogib-voin-iz-kievskoj-oblasti)
 - [Україна отримала підкріплення для Повітряних сил: чи зможуть французькі Mirage 2000 завоювати панування в повітрі](https://fakty.ua/449975-ukraina-poluchila-podkreplenie-dlya-vozdushnyh-sil-smogut-li-francuzskie-mirage-2000-zavoevat-gospodstvo-v-vozduhe)
-- [Букмекери назвали фаворитів Нацвідбору на «Євробачення-2025»](https://fakty.ua/449994-bukmekery-nazvali-favoritov-nacotbora-na-evrovidenie-2025)
-- [У партії «Сила нації» ініціювали розробку і всенародне обговорення програми післявоєнної відбудови України](https://fakty.ua/450010-v-partii-sila-nacii-iniciirovali-razrabotku-i-vsenarodnoe-obsuzhdenie-programmy-poslevoennogo-vosstanovleniya-ukrainy)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
