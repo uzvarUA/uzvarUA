@@ -147,11 +147,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Зірка «Володаря перснів» нарешті одружився, але таємно](https://fakty.ua/449988-zvezda-vlastelina-kolec-nakonec-zhenilsya-no-tajno)
+- [Справу сина Павлишина про убивство жінки на турбазі місцевий суд слухає «заднім числом»](https://fakty.ua/450001-delo-syna-pavlishina-ob-ubijstve-zhencshiny-na-turbaze-mestnyj-sud-slushaet-quot-zadnim-chislom-quot)
 - [Виступи, які хотілося б стерти з пам’яті: Джамала вразила зізнанням](https://fakty.ua/449990-vystupleniya-kotorye-hotelos-by-steret-iz-pamyati-dzhamala-porazila-priznaniem)
 - [«Орєшніком» — по Києву: чому це фейк](https://fakty.ua/449993-oreshnikom---po-kievu-pochemu-eto-fejk)
 - [Обіцяють доставити посилку: активізувалися аферисти, які «заробляють» на родичах полонених захисників України](https://fakty.ua/449980-obecshayut-dostavit-posylku-aktivizirovalis-aferisty-zarabatyvayucshie-na-rodstvennikah-plennyh-zacshitnikov-ukrainy)
-- [З «ручною поклажею» прохід заборонений: після низки вибухів ТЦК та СП посилюють заходи безпеки](https://fakty.ua/449970-s-ruchnoj-kladyu-prohod-zaprecshen-posle-ryada-vzryvov-tck-i-sp-usilivayut-mery-bezopasnosti)
-- [Махнули на Крим рукою: окупанти виводять ППО з півострова, щоб захистити прикордонні області росії, — «АТЕШ»](https://fakty.ua/449978-mahnuli-na-krym-rukoj-okkupanty-vyvodyat-pvo-s-poluostrova-chtoby-zacshitit-prigranichnye-oblasti-rossii---atesh)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
