@@ -147,11 +147,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [У восьми областях України запроваджено аварійні відключення електрики, — «Укренерго»](https://fakty.ua/449968-v-vosmi-oblastyah-ukrainy-vvedeny-avarijnye-otklyucheniya-elektrichestva---ukrenergo)
+- [росія могла запустити другу балістичну ракету «Орєшнік» по Україні: що про це відомо](https://fakty.ua/449966-rossiya-mogla-zapustit-vtoruyu-ballisticheskuyu-raketu-oreshnik-po-ukraine-chto-ob-etom-izvestno)
 - [«Мені дуже прикро»: Кейт Бланшетт пригадала про сексуальні домагання у Голлівуді](https://fakty.ua/449939-mne-ochen-obidno-kejt-blanshett-vspomnila-o-seksualnyh-domogatelstvah-v-gollivude)
 - [Велика війна зробила з підприємця воїна: на Луганщині загинув молодший сержант з Житомирщини](https://fakty.ua/449932-bolshaya-vojna-sdelala-iz-predprinimatelya-voina-v-luganskoj-oblasti-v-boyu-pogib-mladshij-serzhant-s-zhitomircshiny)
 - [«Хороша авантюра»: Маша Кондратенко розповіла, чи отримувала гроші за «виконання ролі» Klavdia Petrivna](https://fakty.ua/449965-quot-horoshaya-avantyura-quot-masha-kondratenko-rasskazala-poluchala-li-dengi-za-quot-ispolnenie-roli-quot-klavdia-petrivna)
-- [Окупанти похизувалися новітнім ЗРК: які в нього проблеми та коли може з’явитися на передовій](https://fakty.ua/449930-okkupanty-pohvastalis-novejshim-zrk-kakie-u-nego-problemy-i-kogda-mozhet-poyavitsya-na-peredovoj)
-- [Закликала захопити Україну: зрадниця Таїсія Повалій піде під суд](https://fakty.ua/449964-prizvala-zahvatit-ukrainu-predatelnica-taisiya-povalij-pojdet-pod-sud)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
