@@ -147,11 +147,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [У партії «Сила нації» ініціювали розробку і всенародне обговорення програми післявоєнної відбудови України](https://fakty.ua/450010-v-partii-sila-nacii-iniciirovali-razrabotku-i-vsenarodnoe-obsuzhdenie-programmy-poslevoennogo-vosstanovleniya-ukrainy)
+- [Паралізувати Київ тепер намагатимуться разом голова КМВА Ткаченко та його родич — директор НАБУ Кривонос, — експерт](https://fakty.ua/450009-paralizovat-kiev-teper-budut-pytatsya-vmeste-glava-kgva-tkachenko-i-ego-rodstvennik-direktor-nabu-krivonos---ekspert)
 - [«Перевірка на міцність на шляху до справедливості»: суд виніс новий вирок у скандальній справі про зґвалтування на Закарпатті](https://fakty.ua/450002-proverka-na-prochnost-na-puti-k-spravedlivosti-sud-vynes-novyj-prigovor-po-skandalnomu-delu-ob-iznasilovanii-v-zakarpate)
 - [Зірка «Володаря перснів» нарешті одружився, але таємно](https://fakty.ua/449988-zvezda-vlastelina-kolec-nakonec-zhenilsya-no-tajno)
 - [Справу сина Павлишина про убивство жінки на турбазі місцевий суд слухає «заднім числом»](https://fakty.ua/450001-delo-syna-pavlishina-ob-ubijstve-zhencshiny-na-turbaze-mestnyj-sud-slushaet-quot-zadnim-chislom-quot)
-- [Виступи, які хотілося б стерти з пам’яті: Джамала вразила зізнанням](https://fakty.ua/449990-vystupleniya-kotorye-hotelos-by-steret-iz-pamyati-dzhamala-porazila-priznaniem)
-- [«Орєшніком» — по Києву: чому це фейк](https://fakty.ua/449993-oreshnikom---po-kievu-pochemu-eto-fejk)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
