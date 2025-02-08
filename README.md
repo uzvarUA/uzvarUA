@@ -147,11 +147,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [«Супер Роккі»: Галкін показав їх з Аллою Пугачовою симпатичного улюбленця](https://fakty.ua/450020-quot-super-rokki-quot-galkin-pokazal-ih-s-alloj-pugachevoj-simpatichnogo-lyubimca)
 - [Ворог вночі атакував Україну: де лунали вибухи](https://fakty.ua/450017-vrag-nochyu-atakoval-ukrainu-gde-razdavalis-vzryvy)
 - [Аудіозаписи з обшуку Комарницького можуть викрити розмови топ-чиновників «Слуги народу», — блогерка](https://fakty.ua/450015-audiozapisi-iz-obyska-komarnickogo-mogut-razoblachit-razgovory-top-chinovnikov-slugi-naroda---bloger)
 - [Нарешті робить те, що хоче: Бен Аффлек почувався обділеним у шлюбі з Дженніфер Лопес](https://fakty.ua/449983-nakonec-delaet-to-chto-hochet-ben-afflek-chuvstvoval-sebya-obdelennym-v-brake-s-dzhennifer-lopes)
 - [Лідер українських Instagram-блогерів: Поплавський у рейтингу Forbes](https://fakty.ua/450014-lider-ukrainskih-instagram-blogerov-poplavskij-v-rejtinge-forbes)
-- [Сім місяців родина вірила у диво: на Харківщині поліг воїн з Київської області](https://fakty.ua/449979-sem-mesyacev-semya-verila-v-chudo-na-harkovcshine-pogib-voin-iz-kievskoj-oblasti)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
