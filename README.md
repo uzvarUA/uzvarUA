@@ -147,11 +147,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Чужа нерухомість не дає спокою: музичний критик Сосєдов виступив з «пропозицією» щодо підмосковного замку Пугачової](https://fakty.ua/450053-chuzhaya-nedvizhimost-ne-daet-pokoya-muzykalnyj-kritik-sosedov-vystupil-s-predlozheniem-o-podmoskovnom-zamke-pugachevoj)
+- [В Україні триває електромагнітна війна: ЗМІ пояснили, хто в ній має перевагу](https://fakty.ua/450006-v-ukraine-idet-elektromagnitnaya-vojna-smi-obyasnili-kto-v-nej-imeet-preimucshestvo)
+- [В росії планують збільшити армію ще на 100 тисяч людей: Зеленський розповів про підступні плани путіна](https://fakty.ua/450051-v-rossii-planiruyut-uvelichit-armiyu-ecshe-na-100-tysyach-chelovek-zelenskij-rasskazal-o-kovarnyh-planah-putina)
 - [81% українців не відчули відключень, попри «лякалки» псевдоекспертів, — блогер](https://fakty.ua/450047-81-ukraincev-ne-pochuvstvovali-otklyuchenij-nesmotrya-na-quot-pugalki-quot-psevdoekspertov---bloger)
 - [Одним ворожим штурмовиком стало менше: воїни ЗСУ знищили російський Су-25 на Торецькому напрямку](https://fakty.ua/450046-odnim-vrazheskim-shturmovikom-stalo-menshe-voiny-vsu-unichtozhili-rossijskij-su-25-na-toreckom-napravlenii)
-- [Поки Потап мучить глядачів «Хуторянкою»: Каменських показала, як виступила у Варшаві](https://fakty.ua/450039-poka-potap-muchaet-zritelej-quot-hutoryankoj-quot-kamenskih-pokazala-kak-vystupila-v-varshave)
-- [Ryanair хоче стати першою авіакомпанією, яка повернеться до України після відкриття неба](https://fakty.ua/449998-ryanair-hochet-stat-pervoj-aviakompaniej-kotoraya-vernetsya-v-ukrainu-posle-otkrytiya-neba)
-- [Трагедія на Кіровоградщині: у пожежі загинула дитина, ще двоє людей постраждали](https://fakty.ua/450033-tragediya-na-kirovogradcshine-v-pozhare-pogib-rebenok-ecshe-dva-cheloveka-postradali)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
