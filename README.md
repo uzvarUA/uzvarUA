@@ -147,11 +147,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Поки Потап мучить глядачів «Хуторянкою»: Каменських показала, як виступила у Варшаві](https://fakty.ua/450039-poka-potap-muchaet-zritelej-quot-hutoryankoj-quot-kamenskih-pokazala-kak-vystupila-v-varshave)
 - [Ryanair хоче стати першою авіакомпанією, яка повернеться до України після відкриття неба](https://fakty.ua/449998-ryanair-hochet-stat-pervoj-aviakompaniej-kotoraya-vernetsya-v-ukrainu-posle-otkrytiya-neba)
 - [Трагедія на Кіровоградщині: у пожежі загинула дитина, ще двоє людей постраждали](https://fakty.ua/450033-tragediya-na-kirovogradcshine-v-pozhare-pogib-rebenok-ecshe-dva-cheloveka-postradali)
 - [Курила як паровоз: Анджеліна Джолі розкрила, які мала шкідливі звички, і як змогла позбутися їх](https://fakty.ua/450030-kurila-kak-parovoz-andzhelina-dzholi-raskryla-kakie-imela-vrednye-privychki-i-kak-smogla-izbavitsya-ot-nih)
 - [«Знизу постукали»: Потап напідпитку розважав росіян, а потім оголосив «кастинг» до свого колективу](https://fakty.ua/450025-quot-snizu-postuchali-quot-potap-pod-hmelkom-razvlekal-rossiyan-a-zatem-obyavil-quot-kasting-quot-v-svoj-kollektiv)
-- [Зупинили «елітні» частини ворога: Третя штурмова разгромила колону військ рф на танках та багі](https://fakty.ua/450027-ostanovili-quot-elitnye-quot-chasti-vraga-tretya-shturmovaya-razgromila-kolonnu-vojsk-rossii-na-tankah-i-baggii)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
