@@ -147,11 +147,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [81% українців не відчули відключень, попри «лякалки» псевдоекспертів, — блогер](https://fakty.ua/450047-81-ukraincev-ne-pochuvstvovali-otklyuchenij-nesmotrya-na-quot-pugalki-quot-psevdoekspertov---bloger)
+- [Одним ворожим штурмовиком стало менше: воїни ЗСУ знищили російський Су-25 на Торецькому напрямку](https://fakty.ua/450046-odnim-vrazheskim-shturmovikom-stalo-menshe-voiny-vsu-unichtozhili-rossijskij-su-25-na-toreckom-napravlenii)
 - [Поки Потап мучить глядачів «Хуторянкою»: Каменських показала, як виступила у Варшаві](https://fakty.ua/450039-poka-potap-muchaet-zritelej-quot-hutoryankoj-quot-kamenskih-pokazala-kak-vystupila-v-varshave)
 - [Ryanair хоче стати першою авіакомпанією, яка повернеться до України після відкриття неба](https://fakty.ua/449998-ryanair-hochet-stat-pervoj-aviakompaniej-kotoraya-vernetsya-v-ukrainu-posle-otkrytiya-neba)
 - [Трагедія на Кіровоградщині: у пожежі загинула дитина, ще двоє людей постраждали](https://fakty.ua/450033-tragediya-na-kirovogradcshine-v-pozhare-pogib-rebenok-ecshe-dva-cheloveka-postradali)
-- [Курила як паровоз: Анджеліна Джолі розкрила, які мала шкідливі звички, і як змогла позбутися їх](https://fakty.ua/450030-kurila-kak-parovoz-andzhelina-dzholi-raskryla-kakie-imela-vrednye-privychki-i-kak-smogla-izbavitsya-ot-nih)
-- [«Знизу постукали»: Потап напідпитку розважав росіян, а потім оголосив «кастинг» до свого колективу](https://fakty.ua/450025-quot-snizu-postuchali-quot-potap-pod-hmelkom-razvlekal-rossiyan-a-zatem-obyavil-quot-kasting-quot-v-svoj-kollektiv)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
