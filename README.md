@@ -147,11 +147,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Ryanair хоче стати першою авіакомпанією, яка повернеться до України після відкриття неба](https://fakty.ua/449998-ryanair-hochet-stat-pervoj-aviakompaniej-kotoraya-vernetsya-v-ukrainu-posle-otkrytiya-neba)
+- [Трагедія на Кіровоградщині: у пожежі загинула дитина, ще двоє людей постраждали](https://fakty.ua/450033-tragediya-na-kirovogradcshine-v-pozhare-pogib-rebenok-ecshe-dva-cheloveka-postradali)
+- [Курила як паровоз: Анджеліна Джолі розкрила, які мала шкідливі звички, і як змогла позбутися їх](https://fakty.ua/450030-kurila-kak-parovoz-andzhelina-dzholi-raskryla-kakie-imela-vrednye-privychki-i-kak-smogla-izbavitsya-ot-nih)
 - [«Знизу постукали»: Потап напідпитку розважав росіян, а потім оголосив «кастинг» до свого колективу](https://fakty.ua/450025-quot-snizu-postuchali-quot-potap-pod-hmelkom-razvlekal-rossiyan-a-zatem-obyavil-quot-kasting-quot-v-svoj-kollektiv)
-- [Зупинили «елітні» частини ворога: Третя штурмова разгромила колону військ рф на танках та баггі](https://fakty.ua/450027-ostanovili-quot-elitnye-quot-chasti-vraga-tretya-shturmovaya-razgromila-kolonnu-vojsk-rossii-na-tankah-i-baggii)
-- [«Через рік після втрати сина померла мама. Тепер спочивають разом»: історія 27-річного Героя України, який загинув під Бахмутом](https://fakty.ua/449995-cherez-god-posle-poteri-syna-umerla-mama-teper-pokoyatsya-vmeste-istoriya-27-letnego-geroya-ukrainy-pogibshego-pod-bahmutom)
-- [«Супер Роккі»: Галкін показав їх з Аллою Пугачовою симпатичного улюбленця](https://fakty.ua/450020-quot-super-rokki-quot-galkin-pokazal-ih-s-alloj-pugachevoj-simpatichnogo-lyubimca)
-- [Ворог вночі атакував Україну: де лунали вибухи](https://fakty.ua/450017-vrag-nochyu-atakoval-ukrainu-gde-razdavalis-vzryvy)
+- [Зупинили «елітні» частини ворога: Третя штурмова разгромила колону військ рф на танках та багі](https://fakty.ua/450027-ostanovili-quot-elitnye-quot-chasti-vraga-tretya-shturmovaya-razgromila-kolonnu-vojsk-rossii-na-tankah-i-baggii)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
