@@ -147,11 +147,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Провокативна, сексуальна і стильна: Ріанна набагато успішніше, ніж Меган Маркл, просуває свій бренд](https://fakty.ua/450026-provokativnaya-seksualnaya-i-stilnaya-rianna-uspeshnee-chem-megan-markl-prodvigaet-svoj-brend)
 - [Не цурався важкої праці: від ворожого дрона загинув захисник з Черкащини](https://fakty.ua/450024-ne-boyalsya-tyazhelogo-truda-ot-vrazheskogo-drona-pogib-zacshitnik-s-cherkaschiny)
 - [Чужа нерухомість не дає спокою: музичний критик Сосєдов виступив з «пропозицією» щодо підмосковного замку Пугачової](https://fakty.ua/450053-chuzhaya-nedvizhimost-ne-daet-pokoya-muzykalnyj-kritik-sosedov-vystupil-s-predlozheniem-o-podmoskovnom-zamke-pugachevoj)
 - [В Україні триває електромагнітна війна: ЗМІ пояснили, хто в ній має перевагу](https://fakty.ua/450006-v-ukraine-idet-elektromagnitnaya-vojna-smi-obyasnili-kto-v-nej-imeet-preimucshestvo)
 - [В росії планують збільшити армію ще на 100 тисяч людей: Зеленський розповів про підступні плани путіна](https://fakty.ua/450051-v-rossii-planiruyut-uvelichit-armiyu-ecshe-na-100-tysyach-chelovek-zelenskij-rasskazal-o-kovarnyh-planah-putina)
-- [81% українців не відчули відключень, попри «лякалки» псевдоекспертів, — блогер](https://fakty.ua/450047-81-ukraincev-ne-pochuvstvovali-otklyuchenij-nesmotrya-na-quot-pugalki-quot-psevdoekspertov---bloger)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
