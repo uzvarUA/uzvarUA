@@ -147,9 +147,9 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [«Викрадення» викладача львівського університету: стали відомі деталі інциденту під Києвом &lpar;фото&rpar;](https://fakty.ua/450064-prepodavatelya-lvovskogo-universiteta-nashli-pod-kievom-v-kriticheskom-sostoyanii-yakoby-posle-pohicsheniya-sotrudnikami-tck-foto)
 - [Розчарування року: мережа обурена результатом Нацвідбору на «Євробачення-2025»](https://fakty.ua/450071-razocharovanie-goda-set-vozmucshena-rezultatom-nacotbora-na-quot-evrovidenie-2025-quot)
 - [Зухвалий та п&amp;#39;яний: у Черкасах поліція ганялася за викрадачем, який викрав автомобіль із дитиною в салоні &lpar;фото, відео&rpar;](https://fakty.ua/450063-derzkij-i-pyanyj-v-cherkassah-policiya-gonyalas-za-ugoncshikom-pohitivshim-avtomobil-s-rebenkom-v-salone-foto-video)
-- [Викладача львівського університету знайшли під Києвом у тяжкому стані: що відповіли в ТЦК на закиди щодо причетності до «викрадення» &lpar;фото&rpar;](https://fakty.ua/450064-prepodavatelya-lvovskogo-universiteta-nashli-pod-kievom-v-kriticheskom-sostoyanii-yakoby-posle-pohicsheniya-sotrudnikami-tck-foto)
 - [Небезпечна вдень і вночі: російські пропагандисти назвали наземну техніку ЗСУ, якої бояться найбільше](https://fakty.ua/450036-opasna-dnem-i-nochyu-rossijskie-propagandisty-nazvali-nazemnuyu-tehniku-vsu-kotoroj-boyatsya-bolshe-vsego)
 - [Понад 150 безпілотників атакували Україну в ніч проти 9 лютого: постраждали шість областей, — Повітряні сили](https://fakty.ua/450058-bolee-150-bespilotnikov-atakovali-ukrainu-v-noch-na-9-fevralya-postradali-shest-oblastej---vozdushnye-sily)
 <!-- BLOG-POST-LIST:END -->
