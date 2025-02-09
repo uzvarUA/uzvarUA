@@ -147,11 +147,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Зухвалий та п&amp;#39;яний: у Черкасах поліція ганялася за викрадачем, який викрав автомобіль із дитиною в салоні &lpar;фото, відео&rpar;](https://fakty.ua/450063-derzkij-i-pyanyj-v-cherkassah-policiya-gonyalas-za-ugoncshikom-pohitivshim-avtomobil-s-rebenkom-v-salone-foto-video)
+- [Викладача львівського університету знайшли під Києвом у критичному стані нібито після «викрадення» співробітниками ТЦК &lpar;фото&rpar;](https://fakty.ua/450064-prepodavatelya-lvovskogo-universiteta-nashli-pod-kievom-v-kriticheskom-sostoyanii-yakoby-posle-pohicsheniya-sotrudnikami-tck-foto)
 - [Небезпечна вдень і вночі: російські пропагандисти назвали наземну техніку ЗСУ, якої бояться найбільше](https://fakty.ua/450036-opasna-dnem-i-nochyu-rossijskie-propagandisty-nazvali-nazemnuyu-tehniku-vsu-kotoroj-boyatsya-bolshe-vsego)
 - [Понад 150 безпілотників атакували Україну в ніч проти 9 лютого: постраждали шість областей, — Повітряні сили](https://fakty.ua/450058-bolee-150-bespilotnikov-atakovali-ukrainu-v-noch-na-9-fevralya-postradali-shest-oblastej---vozdushnye-sily)
 - [Ziferblat їде від України на Євробачення до Швейцарії: що відомо про переможця Нацвідбору &lpar;відео&rpar;](https://fakty.ua/450054-ziferblat-edet-ot-ukrainy-na-evrovidenie-v-shvejcariyu-chto-izvestno-o-pobeditele-nacotbora-video)
-- [Провокативна, сексуальна і стильна: Ріанна набагато успішніше, ніж Меган Маркл, просуває свій бренд](https://fakty.ua/450026-provokativnaya-seksualnaya-i-stilnaya-rianna-uspeshnee-chem-megan-markl-prodvigaet-svoj-brend)
-- [Не цурався важкої праці: від ворожого дрона загинув захисник з Черкащини](https://fakty.ua/450024-ne-boyalsya-tyazhelogo-truda-ot-vrazheskogo-drona-pogib-zacshitnik-s-cherkaschiny)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
