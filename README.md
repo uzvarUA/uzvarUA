@@ -147,11 +147,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Понад 150 безпілотників атакували Україну в ніч проти 9 лютого: постраждали шість областей, — Повітряні сили](https://fakty.ua/450058-bolee-150-bespilotnikov-atakovali-ukrainu-v-noch-na-9-fevralya-postradali-shest-oblastej---vozdushnye-sily)
 - [Ziferblat їде від України на Євробачення до Швейцарії: що відомо про переможця Нацвідбору &lpar;відео&rpar;](https://fakty.ua/450054-ziferblat-edet-ot-ukrainy-na-evrovidenie-v-shvejcariyu-chto-izvestno-o-pobeditele-nacotbora-video)
 - [Провокативна, сексуальна і стильна: Ріанна набагато успішніше, ніж Меган Маркл, просуває свій бренд](https://fakty.ua/450026-provokativnaya-seksualnaya-i-stilnaya-rianna-uspeshnee-chem-megan-markl-prodvigaet-svoj-brend)
 - [Не цурався важкої праці: від ворожого дрона загинув захисник з Черкащини](https://fakty.ua/450024-ne-boyalsya-tyazhelogo-truda-ot-vrazheskogo-drona-pogib-zacshitnik-s-cherkaschiny)
 - [Чужа нерухомість не дає спокою: музичний критик Сосєдов виступив з «пропозицією» щодо підмосковного замку Пугачової](https://fakty.ua/450053-chuzhaya-nedvizhimost-ne-daet-pokoya-muzykalnyj-kritik-sosedov-vystupil-s-predlozheniem-o-podmoskovnom-zamke-pugachevoj)
-- [В Україні триває електромагнітна війна: ЗМІ пояснили, хто в ній має перевагу](https://fakty.ua/450006-v-ukraine-idet-elektromagnitnaya-vojna-smi-obyasnili-kto-v-nej-imeet-preimucshestvo)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
