@@ -147,11 +147,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
-- [Пропонували сотні тисяч доларів: Потап розповів, як чоловіки хотіли «купити» час спілкування з Каменських](https://fakty.ua/450133-predlagali-sotni-tysyach-dollarov-potap-rasskazal-kak-muzhchiny-hoteli-quot-kupit-quot-vremya-obcsheniya-s-kamenskim)
-- [Вже відчуваю: Лілія Ребрик вразила зізнанням](https://fakty.ua/450115-uzhe-chuvstvuyu-liliya-rebrik-porazila-priznaniem)
-- [Закарпаття може стати новою Врадіївкою, — Володимир Цибулько](https://fakty.ua/450129-zakarpate-mozhet-stat-novoj-vradievkoj---vladimir-cybulko)
-- [Такому тілу позаздрять навіть студентки: Ніколь Кідман знялася топлес](https://fakty.ua/450124-takomu-telu-pozaviduyut-dazhe-studentki-nikol-kidman-snyalas-topless)
-- [За будівництво в Міноборони відповідають некомпетентні люди, — ЗМІ](https://fakty.ua/450126-za-stroitelstvo-v-minoborony-otvechayut-nekompetentnye-lyudi---smi)
+- [MÉLOVIN заявив про плани повернутися на «Євробачення-2026»](https://fakty.ua/450123-m-lovin-zayavil-o-planah-vernutsya-na-evrovidenie-2026)
+- [«План помсти» Анджеліни Джолі: стало відомо, як актриса збирається вдарити по репутації Бреда Пітта](https://fakty.ua/450141-quot-plan-mesti-quot-andzheliny-dzholi-stalo-izvestno-chto-aktrisa-sobiraetsya-udarit-po-reputacii-breda-pitta)
+- [Михайло Поплавський та Павло Зібров оголосили про старт спільного проєкту «Українська пісня року — 2024»](https://fakty.ua/450140-mihail-poplavskij-i-pavel-zibrov-obyavili-o-starte-sovmestnogo-proekta-ukrainskaya-pesnya-goda-2024)
+- [Мільйони, але не червоних троянд: стало відомо, за скільки в рф продають автограф Алли Пугачової](https://fakty.ua/450138-milliony-no-ne-krasnyh-roz-stalo-izvestno-za-skolko-v-rossii-prodayut-avtograf-ally-pugachevoj)
+- [Зондувати та атакувати: нова тактика України у Курській області](https://fakty.ua/450107-zondirovat-i-atakovat-novaya-taktika-ukrainy-v-kurskoj-oblasti)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
