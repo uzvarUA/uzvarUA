@@ -147,11 +147,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Атака на Україну: скільки цілей знищила українська ППО](https://fakty.ua/450096-ataka-na-ukrainu-skolko-celej-unichtozhila-ukrainskaya-pvo)
+- [Карма в дії: стало відомо, скільки паливних підприємств росії пошкодила Україна](https://fakty.ua/450090-karma-v-dejstvii-stalo-izvestno-skolko-toplivnyh-predpriyatij-rossii-povredila-ukraina)
 - [Україну атакували ворожі дрони: де зафіксовано вибухи та влучання](https://fakty.ua/450089-ukrainu-atakovali-vrazheskie-drony-gde-zafiksirovany-vzryvy-i-popadaniya)
 - [Брітні Спірс звернулася до кінної терапії, щоб подолати травми минулого](https://fakty.ua/450076-britni-spirs-obratilas-k-konnoj-terapii-chtoby-preodolet-travmy-proshlogo)
 - [Мріяв одружитися із коханою: на війні загинув молодий вчитель з Чернігівщини](https://fakty.ua/450073-mechtal-zhenitsya-na-lyubimoj-na-vojne-pogib-molodoj-uchitel-s-chernigovcshiny)
-- [«Трампу потрібно не просто закінчити війну»: Зеленський про брехню путіна, ризик для Європи і вибори в Україні](https://fakty.ua/450084-trampu-nuzhno-ne-prosto-zakonchit-vojnu-zelenskij-o-lzhi-putina-riske-dlya-evropy-i-vyborah-v-ukraine)
-- [«Викрадення» викладача львівського університету: стали відомі деталі інциденту під Києвом &lpar;фото&rpar;](https://fakty.ua/450064-prepodavatelya-lvovskogo-universiteta-nashli-pod-kievom-v-kriticheskom-sostoyanii-yakoby-posle-pohicsheniya-sotrudnikami-tck-foto)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
