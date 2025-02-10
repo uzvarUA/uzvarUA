@@ -147,11 +147,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Прикидались бійцями Інтернаціонального легіону та обкрадали житло заможних киян: у Києві затримали банду «домушників»](https://fakty.ua/450104-pritvoryalis-bojcami-internacionalnogo-legiona-i-obvorovyvali-zhile-zazhitochnyh-kievlyan-v-kieve-zaderzhali-bandu-quot-domushnikov-quot)
+- [Одним словом: Андрій Данилко прокоментував результати Нацвідбору на «Євробачення-2025»](https://fakty.ua/450099-odnim-slovom-andrej-danilko-prokommentiroval-rezultaty-nacotbora-na-evrovidenie-2025)
+- [Одна чиновницька примха запустила справжній конвеєр смерті, — Сердюк про оновлені правила закупівель](https://fakty.ua/450102-odna-chinovnichya-prihot-zapustila-nastoyacshij-konvejer-smerti---serdyuk-ob-obnovlennyh-pravilah-zakupok)
+- [Це виключно предмет їхніх юридичних домовленостей, — голова ГО «Відчуй» щодо заяви про нібито «рейдерство» Art Ukraine Gallery](https://fakty.ua/450101-eto-isklyuchitelno-predmet-ih-yuridicheskih-dogovorennostej---glava-oo-quot-vidchuj-quot-po-povodu-zayavleniya-o-yakoby-quot-rejderstve-quot-art-ukraine-gallery)
 - [Атака на Україну: скільки цілей знищила українська ППО](https://fakty.ua/450096-ataka-na-ukrainu-skolko-celej-unichtozhila-ukrainskaya-pvo)
-- [Карма в дії: стало відомо, скільки паливних підприємств росії пошкодила Україна](https://fakty.ua/450090-karma-v-dejstvii-stalo-izvestno-skolko-toplivnyh-predpriyatij-rossii-povredila-ukraina)
-- [Україну атакували ворожі дрони: де зафіксовано вибухи та влучання](https://fakty.ua/450089-ukrainu-atakovali-vrazheskie-drony-gde-zafiksirovany-vzryvy-i-popadaniya)
-- [Брітні Спірс звернулася до кінної терапії, щоб подолати травми минулого](https://fakty.ua/450076-britni-spirs-obratilas-k-konnoj-terapii-chtoby-preodolet-travmy-proshlogo)
-- [Мріяв одружитися із коханою: на війні загинув молодий вчитель з Чернігівщини](https://fakty.ua/450073-mechtal-zhenitsya-na-lyubimoj-na-vojne-pogib-molodoj-uchitel-s-chernigovcshiny)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
