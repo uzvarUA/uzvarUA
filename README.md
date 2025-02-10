@@ -147,11 +147,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Такому тілу позаздрять навіть студентки: Ніколь Кідман знялася топлес](https://fakty.ua/450124-takomu-telu-pozaviduyut-dazhe-studentki-nikol-kidman-snyalas-topless)
+- [За будівництво в Міноборони відповідають некомпетентні люди, — ЗМІ](https://fakty.ua/450126-za-stroitelstvo-v-minoborony-otvechayut-nekompetentnye-lyudi---smi)
+- [Вбивство на АЗС у Києві: підозрюваного відправлять на примусове лікування](https://fakty.ua/450122-ubijstvo-na-azs-v-kieve-podozrevaemogo-otpravyat-na-prinuditelnoe-lechenie)
+- [Мало кого цікавлять: популярна співачка зізналася у проблемах](https://fakty.ua/450113-malo-kogo-interesuyut-populyarnaya-pevica-priznalas-v-problemah)
 - [Потрібні три складові: Наєв розповів, як стабілізувати фронт](https://fakty.ua/450118-trebuyutsya-tri-sostavlyayucshie-naev-rasskazal-kak-stabilizirovat-front)
-- [Графіків не уникнути: експерти назвали причини, а також терміни та тривалість відключень електроенергії](https://fakty.ua/450114-grafikov-ne-minovat-eksperty-nazvali-prichiny-a-takzhe-sroki-i-prodolzhitelnost-otklyuchenij-elektroenergii)
-- [Хотів би ще чотирьох дітей: Потап розповів про стосунки з Каменських та плани на майбутнє](https://fakty.ua/450109-hotel-by-ecshe-chetyreh-detej-potap-rasskazal-ob-otnosheniyah-s-kamenskim-i-o-planah-na-buducshee)
-- [Прикидались бійцями Інтернаціонального легіону та обкрадали житло заможних киян: у Києві затримали банду «домушників»](https://fakty.ua/450104-pritvoryalis-bojcami-internacionalnogo-legiona-i-obvorovyvali-zhile-zazhitochnyh-kievlyan-v-kieve-zaderzhali-bandu-quot-domushnikov-quot)
-- [Одним словом: Андрій Данилко прокоментував результати Нацвідбору на «Євробачення-2025»](https://fakty.ua/450099-odnim-slovom-andrej-danilko-prokommentiroval-rezultaty-nacotbora-na-evrovidenie-2025)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
