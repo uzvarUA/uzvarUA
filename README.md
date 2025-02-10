@@ -147,11 +147,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Пропонували сотні тисяч доларів: Потап розповів, як чоловіки хотіли «купити» час спілкування з Каменських](https://fakty.ua/450133-predlagali-sotni-tysyach-dollarov-potap-rasskazal-kak-muzhchiny-hoteli-quot-kupit-quot-vremya-obcsheniya-s-kamenskim)
+- [Вже відчуваю: Лілія Ребрик вразила зізнанням](https://fakty.ua/450115-uzhe-chuvstvuyu-liliya-rebrik-porazila-priznaniem)
 - [Закарпаття може стати новою Врадіївкою, — Володимир Цибулько](https://fakty.ua/450129-zakarpate-mozhet-stat-novoj-vradievkoj---vladimir-cybulko)
 - [Такому тілу позаздрять навіть студентки: Ніколь Кідман знялася топлес](https://fakty.ua/450124-takomu-telu-pozaviduyut-dazhe-studentki-nikol-kidman-snyalas-topless)
 - [За будівництво в Міноборони відповідають некомпетентні люди, — ЗМІ](https://fakty.ua/450126-za-stroitelstvo-v-minoborony-otvechayut-nekompetentnye-lyudi---smi)
-- [Вбивство на АЗС у Києві: підозрюваного відправлять на примусове лікування](https://fakty.ua/450122-ubijstvo-na-azs-v-kieve-podozrevaemogo-otpravyat-na-prinuditelnoe-lechenie)
-- [Мало кого цікавлять: популярна співачка зізналася у проблемах](https://fakty.ua/450113-malo-kogo-interesuyut-populyarnaya-pevica-priznalas-v-problemah)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
