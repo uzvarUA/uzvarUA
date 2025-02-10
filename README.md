@@ -147,11 +147,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Потрібні три складові: Наєв розповів, як стабілізувати фронт](https://fakty.ua/450118-trebuyutsya-tri-sostavlyayucshie-naev-rasskazal-kak-stabilizirovat-front)
 - [Графіків не уникнути: експерти назвали причини, а також терміни та тривалість відключень електроенергії](https://fakty.ua/450114-grafikov-ne-minovat-eksperty-nazvali-prichiny-a-takzhe-sroki-i-prodolzhitelnost-otklyuchenij-elektroenergii)
 - [Хотів би ще чотирьох дітей: Потап розповів про стосунки з Каменських та плани на майбутнє](https://fakty.ua/450109-hotel-by-ecshe-chetyreh-detej-potap-rasskazal-ob-otnosheniyah-s-kamenskim-i-o-planah-na-buducshee)
 - [Прикидались бійцями Інтернаціонального легіону та обкрадали житло заможних киян: у Києві затримали банду «домушників»](https://fakty.ua/450104-pritvoryalis-bojcami-internacionalnogo-legiona-i-obvorovyvali-zhile-zazhitochnyh-kievlyan-v-kieve-zaderzhali-bandu-quot-domushnikov-quot)
 - [Одним словом: Андрій Данилко прокоментував результати Нацвідбору на «Євробачення-2025»](https://fakty.ua/450099-odnim-slovom-andrej-danilko-prokommentiroval-rezultaty-nacotbora-na-evrovidenie-2025)
-- [Одна чиновницька примха запустила справжній конвеєр смерті, — Сердюк про оновлені правила закупівель](https://fakty.ua/450102-odna-chinovnichya-prihot-zapustila-nastoyacshij-konvejer-smerti---serdyuk-ob-obnovlennyh-pravilah-zakupok)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
