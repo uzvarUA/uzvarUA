@@ -147,11 +147,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Закарпаття може стати новою Врадіївкою, — Володимир Цибулько](https://fakty.ua/450129-zakarpate-mozhet-stat-novoj-vradievkoj---vladimir-cybulko)
 - [Такому тілу позаздрять навіть студентки: Ніколь Кідман знялася топлес](https://fakty.ua/450124-takomu-telu-pozaviduyut-dazhe-studentki-nikol-kidman-snyalas-topless)
 - [За будівництво в Міноборони відповідають некомпетентні люди, — ЗМІ](https://fakty.ua/450126-za-stroitelstvo-v-minoborony-otvechayut-nekompetentnye-lyudi---smi)
 - [Вбивство на АЗС у Києві: підозрюваного відправлять на примусове лікування](https://fakty.ua/450122-ubijstvo-na-azs-v-kieve-podozrevaemogo-otpravyat-na-prinuditelnoe-lechenie)
 - [Мало кого цікавлять: популярна співачка зізналася у проблемах](https://fakty.ua/450113-malo-kogo-interesuyut-populyarnaya-pevica-priznalas-v-problemah)
-- [Потрібні три складові: Наєв розповів, як стабілізувати фронт](https://fakty.ua/450118-trebuyutsya-tri-sostavlyayucshie-naev-rasskazal-kak-stabilizirovat-front)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
