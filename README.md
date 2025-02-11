@@ -147,11 +147,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [На Рівненщині напали на співробітників ТЦК: перші подробиці](https://fakty.ua/450183-na-rovencshine-napali-na-sotrudnikov-tck-pervye-podrobnosti)
 - [Після критики влади генерала Наєва хочуть відправити командиром на фронт, — Юрій Бутусов](https://fakty.ua/450180-posle-kritiki-vlastej-generala-naeva-hotyat-otpravit-komandirom-na-front---yurij-butusov)
 - [Розрив: Оля Полякова вразила неочікуваною стриманістю](https://fakty.ua/450175-razryv-olya-polyakova-porazila-neozhidannoj-sderzhannostyu)
 - [«Вишки Бойка» — дитячі забавки в порівнянні з цією історією: Рада схвалила закупівлю російських реакторів для Хмельницької АЕС &lpar;фото&rpar;](https://fakty.ua/450177-vyshki-bojko-detskie-igrushki-po-sravneniyu-s-etoj-istoriej-rada-odobrila-zakupku-rossijskih-reaktorov-dlya-hmelnickoj-aes-foto)
 - [13 років життя: Святослав Вакарчук показав будинок свого дитинства](https://fakty.ua/450165-13-let-zhizni-svyatoslav-vakarchuk-pokazal-dom-svoego-detstva)
-- [Від уряду вимагають скасувати бронь для грантовиків: відомий адвокат зареєстрував петицію](https://fakty.ua/450173-ot-pravitelstva-trebuyut-otmeny-broni-dlya-grantovikov-izvestnyj-advokat-zaregistriroval-peticiyu)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
