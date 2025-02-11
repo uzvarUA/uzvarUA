@@ -147,11 +147,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Чотири дні на уколах: популярний співак шокував подробицями](https://fakty.ua/450174-chetyre-dnya-na-ukolah-populyarnyj-pevec-shokiroval-podrobnostyami)
+- [Українські F-16 готуються завдавати ударів по наземних силах окупантів: у мережі засвітилося цікаве відео](https://fakty.ua/450136-ukrainskie-f-16-gotovyatsya-nanosit-udary-po-nazemnym-silam-okkupantov-v-seti-zasvetilos-interesnoe-video)
 - [На Рівненщині напали на співробітників ТЦК: перші подробиці](https://fakty.ua/450183-na-rovencshine-napali-na-sotrudnikov-tck-pervye-podrobnosti)
 - [Після критики влади генерала Наєва хочуть відправити командиром на фронт, — Юрій Бутусов](https://fakty.ua/450180-posle-kritiki-vlastej-generala-naeva-hotyat-otpravit-komandirom-na-front---yurij-butusov)
 - [Розрив: Оля Полякова вразила неочікуваною стриманістю](https://fakty.ua/450175-razryv-olya-polyakova-porazila-neozhidannoj-sderzhannostyu)
-- [«Вишки Бойка» — дитячі забавки в порівнянні з цією історією: Рада схвалила закупівлю російських реакторів для Хмельницької АЕС &lpar;фото&rpar;](https://fakty.ua/450177-vyshki-bojko-detskie-igrushki-po-sravneniyu-s-etoj-istoriej-rada-odobrila-zakupku-rossijskih-reaktorov-dlya-hmelnickoj-aes-foto)
-- [13 років життя: Святослав Вакарчук показав будинок свого дитинства](https://fakty.ua/450165-13-let-zhizni-svyatoslav-vakarchuk-pokazal-dom-svoego-detstva)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
