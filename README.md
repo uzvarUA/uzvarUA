@@ -147,11 +147,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [«Вишки Бойка» — дитячі забавки в порівнянні з цією історією: Рада схвалили закупівлю російських реакторів для Хмельницької АЕС &lpar;фото&rpar;](https://fakty.ua/450177-vyshki-bojko-detskie-igrushki-po-sravneniyu-s-etoj-istoriej-rada-odobrila-zakupku-rossijskih-reaktorov-dlya-hmelnickoj-aes-foto)
 - [13 років життя: Святослав Вакарчук показав будинок свого дитинства](https://fakty.ua/450165-13-let-zhizni-svyatoslav-vakarchuk-pokazal-dom-svoego-detstva)
 - [Від уряду вимагають скасувати бронь для грантовиків: відомий адвокат зареєстрував петицію](https://fakty.ua/450173-ot-pravitelstva-trebuyut-otmeny-broni-dlya-grantovikov-izvestnyj-advokat-zaregistriroval-peticiyu)
 - [На Маршаллові острови з Опішні — з любов’ю та бюджетними грошима](https://fakty.ua/450167-na-marshallovy-ostrova-iz-oposhni-s-lyubovyu-i-byudzhetnymi-dengami)
 - [Після авіаудару у Золочеві на Харківщині врятували трьох людей та кота &lpar;фото, відео&rpar;](https://fakty.ua/450166-posle-aviaudara-v-zolocheve-na-harkovcshine-spasli-treh-chelovek-i-kota-foto-video)
-- [Стримування наступу росіян: ЗСУ відновили контратаки вздовж лінії фронту](https://fakty.ua/450146-sderzhivanie-nastupleniya-rossiyan-vsu-vozobnovili-kontrataki-vdol-linii-fronta)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
