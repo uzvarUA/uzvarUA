@@ -147,11 +147,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [На Маршаллові острови з Опішні — з любов’ю та бюджетними грошима](https://fakty.ua/450167-na-marshallovy-ostrova-iz-oposhni-s-lyubovyu-i-byudzhetnymi-dengami)
+- [Після авіаудару у Золочеві на Харківщині врятували трьох людей та кота &lpar;фото, відео&rpar;](https://fakty.ua/450166-posle-aviaudara-v-zolocheve-na-harkovcshine-spasli-treh-chelovek-i-kota-foto-video)
+- [Стримування наступу росіян: ЗСУ відновили контратаки вздовж лінії фронту](https://fakty.ua/450146-sderzhivanie-nastupleniya-rossiyan-vsu-vozobnovili-kontrataki-vdol-linii-fronta)
+- [На Чернігівщині «поліцейські» відбили у військових двох мобілізованих &lpar;фото&rpar;](https://fakty.ua/450163-na-chernigovcshine-avtomatchiki-otbili-u-voennyh-dvoih-mobilizovannyh-foto)
 - [У Німеччині ухвалили вирок у гучній справі про вбивство двох українок з метою викрадення дитини](https://fakty.ua/450149-v-germanii-vynesli-prigovor-po-gromkomu-delu-ob-ubijstve-dvuh-ukrainok-s-celyu-pohicsheniya-rebenka)
-- [Подвійна втрата: чому знищення навіть одного Су-25 непоправне для окупантів](https://fakty.ua/450121-dvojnaya-poterya-pochemu-unichtozhenie-dazhe-odnogo-su-25-nevospolnimo-dlya-okkupantov)
-- [На Україну насувається пилова буря: які міста постраждають більше за інших](https://fakty.ua/450147-na-ukrainu-nadvigaetsya-pylevaya-burya-kakie-goroda-postradayut-bolshe-drugih)
-- [На фронті загинув колишній журналіст «ФАКТІВ» Ярослав Шапочка](https://fakty.ua/450145-na-fronte-pogib-byvshij-zhurnalist-faktov-yaroslav-shapochka)
-- [В Україні запроваджено аварійні відключення електрики у зв&amp;#39;язку з комбінованою атакою росіян](https://fakty.ua/450143-v-ukraine-vvedeny-avarijnye-otklyucheniya-elektrichestva-v-svyazi-s-kombinirovannoj-atakoj-rossiyan)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
