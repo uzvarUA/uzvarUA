@@ -147,11 +147,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [На фронті загинув колишній журналіст «ФАКТІВ» Ярослав Шапочка](https://fakty.ua/450145-na-fronte-pogib-byvshij-zhurnalist-faktov-yaroslav-shapochka)
 - [В Україні запроваджено аварійні відключення електрики у зв&amp;#39;язку з комбінованою атакою росіян](https://fakty.ua/450143-v-ukraine-vvedeny-avarijnye-otklyucheniya-elektrichestva-v-svyazi-s-kombinirovannoj-atakoj-rossiyan)
 - [План помсти Анджеліни Джолі: стало відомо, що актриса збирається «покарати» Бреда Пітта](https://fakty.ua/450141-quot-plan-mesti-quot-andzheliny-dzholi-stalo-izvestno-chto-aktrisa-sobiraetsya-udarit-po-reputacii-breda-pitta)
 - [В росії продають автограф Алли Пугачової: ціна вас точно здивує](https://fakty.ua/450138-milliony-no-ne-krasnyh-roz-stalo-izvestno-za-skolko-v-rossii-prodayut-avtograf-ally-pugachevoj)
 - [Коли ти на ігнорі: українська співачка влаштувала справжній скандал &lpar;відео&rpar;](https://fakty.ua/450116-kogda-ty-na-ignore-ukrainskaya-pevica-ustroila-nastoyacshij-skandal-video)
-- [Дідусь з бабусею вкладали у нього всю душу: в бою на Курщині загинув сирота зі Львівщини](https://fakty.ua/450108-dedushka-s-babushkoj-vkladyvali-v-nego-vsyu-dushu-v-boyu-na-kurcshine-pogib-sirota-iz-lvovskoj-oblasti)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
