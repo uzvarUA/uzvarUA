@@ -147,11 +147,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Задихнулися в диму: на Одещині горів геріатричний пансіонат](https://fakty.ua/450205-zadyhalis-v-dymu-v-odesskoj-oblasti-gorel-geriatricheskij-pansionat)
+- [Щоб зберегти підтримку Заходу: у США від Зеленського чекають зниження мобілізаційного віку](https://fakty.ua/450190-chtoby-sohranit-podderzhku-zapada-v-ssha-ot-zelenskogo-zhdut-snizheniya-mobilizacionnogo-vozrasta)
 - [Ціна допомоги США — 500 мільярдів доларів і що до неї увійде: Трамп заявив, що Україна «по суті», погодилася віддати рідкоземельні метали](https://fakty.ua/450171-cena-pomocshi-ssha-500-milliardov-dollarov-i-chto-v-nee-vojdet-tramp-zayavil-chto-ukraina-po-suti-soglasilas-otdat-redkozemelnye-metally)
 - [Потрібні «сильні кроки»: Зеленський відреагував на обстріл України балістикою і дронами](https://fakty.ua/450196-trebuyutsya-quot-silnye-shagi-quot-zelenskij-otreagiroval-na-obstrel-ukrainy-ballistikoj-i-dronami)
 - [Ворог вдарив по Києву балістикою: загинула людина, є постраждалі](https://fakty.ua/450191-vrag-udaril-po-kievu-ballistikoj-pogib-chelovek-est-postradavshie)
-- [«Я тебе попередив»: батько Дженніфер Еністон застерігав її щодо Бреда Пітта](https://fakty.ua/450170-quot-ya-tebya-predupredil-quot-otec-dzhennifer-eniston-predosteregal-ee-po-povodu-breda-pitta)
-- [Двоє діток залишилися без батька: у Донецькій області загинув воїн з Хмельниччини](https://fakty.ua/450154-dvoe-detej-ostalis-bez-otca-v-doneckoj-oblasti-pogib-voin-s-hmelnitchiny)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
