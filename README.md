@@ -147,11 +147,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Затримав особисто Малюк: СБУ викрила у своїх лавах топового «щура» росії](https://fakty.ua/450218-zaderzhal-lichno-malysh-sbu-razoblachila-v-svoih-ryadah-topovuyu-krysu-rossii)
+- [Заслухалась: мережа у захваті від пародії на Потапа](https://fakty.ua/450210-zaslushalas-set-v-vostorge-ot-parodii-na-potapa)
+- [У Печерському суді розглянуть скаргу дніпровської кіностудії, в якої правоохоронці вилучили майно на 84 млн грн](https://fakty.ua/450215-v-pecherskom-sude-rassmotryat-zhalobu-dneprovskoj-kinostudii-u-kotoroj-pravoohraniteli-izyali-imucshestvo-na-84-mln-grn)
+- [«Скоти!»: українські зірки відреагували на черговий обстріл столиці балістикою](https://fakty.ua/450212-skoty-ukrainskie-zvezdy-otreagirovali-na-ocherednoj-obstrel-stolicy-ballistikoj)
 - [«Обмежено придатним» встановили новий дедлайн: Рада підтримала продовження терміну проходження ВЛК](https://fakty.ua/450211-quot-ogranicheno-prigodnym-quot-ustanovili-novyj-dedlajn-rada-podderzhala-prodlenie-sroka-prohozhdeniya-vvk)
-- [Шпигував за оборонцями Покровська: СБУ затримала рецидивіста-«сплячого» агента росії](https://fakty.ua/450209-shpionil-za-zacshitnikami-pokrovska-sbu-zaderzhala-recidivista--spyacshego-agenta-rossii)
-- [Задихнулися в диму: на Одещині горів геріатричний пансіонат](https://fakty.ua/450205-zadyhalis-v-dymu-v-odesskoj-oblasti-gorel-geriatricheskij-pansionat)
-- [Щоб зберегти підтримку Заходу: у США від Зеленського чекають зниження мобілізаційного віку](https://fakty.ua/450190-chtoby-sohranit-podderzhku-zapada-v-ssha-ot-zelenskogo-zhdut-snizheniya-mobilizacionnogo-vozrasta)
-- [Ціна допомоги США — 500 мільярдів доларів і що до неї увійде: Трамп заявив, що Україна «по суті», погодилася віддати рідкоземельні метали](https://fakty.ua/450171-cena-pomocshi-ssha-500-milliardov-dollarov-i-chto-v-nee-vojdet-tramp-zayavil-chto-ukraina-po-suti-soglasilas-otdat-redkozemelnye-metally)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
