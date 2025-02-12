@@ -147,11 +147,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [«Обмежено придатним» встановили новий дедлайн: Рада підтримала продовження терміну проходження ВЛК](https://fakty.ua/450211-quot-ogranicheno-prigodnym-quot-ustanovili-novyj-dedlajn-rada-podderzhala-prodlenie-sroka-prohozhdeniya-vvk)
+- [Шпигував за оборонцями Покровська: СБУ затримала рецидивіста-«сплячого» агента росії](https://fakty.ua/450209-shpionil-za-zacshitnikami-pokrovska-sbu-zaderzhala-recidivista--spyacshego-agenta-rossii)
 - [Задихнулися в диму: на Одещині горів геріатричний пансіонат](https://fakty.ua/450205-zadyhalis-v-dymu-v-odesskoj-oblasti-gorel-geriatricheskij-pansionat)
 - [Щоб зберегти підтримку Заходу: у США від Зеленського чекають зниження мобілізаційного віку](https://fakty.ua/450190-chtoby-sohranit-podderzhku-zapada-v-ssha-ot-zelenskogo-zhdut-snizheniya-mobilizacionnogo-vozrasta)
 - [Ціна допомоги США — 500 мільярдів доларів і що до неї увійде: Трамп заявив, що Україна «по суті», погодилася віддати рідкоземельні метали](https://fakty.ua/450171-cena-pomocshi-ssha-500-milliardov-dollarov-i-chto-v-nee-vojdet-tramp-zayavil-chto-ukraina-po-suti-soglasilas-otdat-redkozemelnye-metally)
-- [Потрібні «сильні кроки»: Зеленський відреагував на обстріл України балістикою і дронами](https://fakty.ua/450196-trebuyutsya-quot-silnye-shagi-quot-zelenskij-otreagiroval-na-obstrel-ukrainy-ballistikoj-i-dronami)
-- [Ворог вдарив по Києву балістикою: загинула людина, є постраждалі](https://fakty.ua/450191-vrag-udaril-po-kievu-ballistikoj-pogib-chelovek-est-postradavshie)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
