@@ -147,11 +147,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [«Щасливий талісман» для Алли Пугачової: в рф «вирахували», який співак мав великий вплив на успіх Примадонни](https://fakty.ua/450241-schastlivyj-talisman-dlya-ally-pugachevoj-v-rossii-quot-vychislili-quot-kakoj-pevec-imel-bolshoe-vliyanie-na-uspeh-primadonny)
+- [«Будьте жорстокими, не жалійте їх»: влада рф в перші дні війни наказала катувати українських військовополонених](https://fakty.ua/450206-budte-zhestokimi-ne-zhalejte-ih-vlasti-rf-v-pervye-dni-vojny-prikazali-pytat-ukrainskih-voennoplennyh)
+- [Наш Майкл Джексон: мережа шокована новим кліпом Монатіка](https://fakty.ua/450217-nash-majkl-dzhekson-set-shokirovana-novym-klipom-monatika)
 - [Олег Винник анонсував два концерти у Празі і показав Таюне: мережа шокована](https://fakty.ua/450235-oleg-vinnik-anonsiroval-dva-koncerta-v-prage-i-pokazal-tayune-set-shokirovana)
 - [Внаслідок ракетної атаки рф в Києві зруйновані приміщення декількох відомих телеканалів &lpar;фото&rpar;](https://fakty.ua/450238-v-rezultate-raketnoj-ataki-rf-v-kieve-razrusheny-pomecsheniya-neskolkih-izvestnyh-telekanalov-foto)
-- [У Харкові на військового напали з ножем на території ТЦК](https://fakty.ua/450225-v-harkove-na-voennogo-napali-s-nozhom-na-territorii-tck)
-- [Порошенко просив росію ремонтувати її бойові кораблі на його заводі в Криму та лобіював розміщення ЧФ рф &lpar;відео&rpar;](https://fakty.ua/450227-poroshenko-prosil-rossiyu-remontirovat-ee-boevye-korabli-na-ego-zavode-v-krymu-i-lobbiroval-razmecshenie-chf-rf-video)
-- [Все тільки починається: популярна співачка зворушила мережу](https://fakty.ua/450213-vse-tolko-nachinaetsya-populyarnaya-pevica-rastrogala-set)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
