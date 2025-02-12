@@ -147,11 +147,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Осиротіло двоє синів: на Харківщині загинув снайпер-стрілець з Вінниччини](https://fakty.ua/450204-osiroteli-dvoe-synovej-na-harkovcshine-pogib-snajper-strelok-iz-vinnickoj-oblasti)
 - [«Щасливий талісман» для Алли Пугачової: в рф «вирахували», який співак мав великий вплив на успіх Примадонни](https://fakty.ua/450241-schastlivyj-talisman-dlya-ally-pugachevoj-v-rossii-quot-vychislili-quot-kakoj-pevec-imel-bolshoe-vliyanie-na-uspeh-primadonny)
 - [«Будьте жорстокими, не жалійте їх»: влада рф в перші дні війни наказала катувати українських військовополонених](https://fakty.ua/450206-budte-zhestokimi-ne-zhalejte-ih-vlasti-rf-v-pervye-dni-vojny-prikazali-pytat-ukrainskih-voennoplennyh)
 - [Наш Майкл Джексон: мережа шокована новим кліпом Монатіка](https://fakty.ua/450217-nash-majkl-dzhekson-set-shokirovana-novym-klipom-monatika)
 - [Олег Винник анонсував два концерти у Празі і показав Таюне: мережа шокована](https://fakty.ua/450235-oleg-vinnik-anonsiroval-dva-koncerta-v-prage-i-pokazal-tayune-set-shokirovana)
-- [Внаслідок ракетної атаки рф в Києві зруйновані приміщення декількох відомих телеканалів &lpar;фото&rpar;](https://fakty.ua/450238-v-rezultate-raketnoj-ataki-rf-v-kieve-razrusheny-pomecsheniya-neskolkih-izvestnyh-telekanalov-foto)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
