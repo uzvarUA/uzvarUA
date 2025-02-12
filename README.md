@@ -147,11 +147,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Порошенко просив росію ремонтувати її бойові кораблі на його заводі в Криму та лобіював розміщення ЧФ рф &lpar;відео&rpar;](https://fakty.ua/450227-poroshenko-prosil-rossiyu-remontirovat-ee-boevye-korabli-na-ego-zavode-v-krymu-i-lobbiroval-razmecshenie-chf-rf-video)
+- [Все тільки починається: популярна співачка зворушила мережу](https://fakty.ua/450213-vse-tolko-nachinaetsya-populyarnaya-pevica-rastrogala-set)
+- [Не тільки ракети SCALP, але й бомби Hammer: як французькі винищувачі допоможуть Україні підривати російські штаби](https://fakty.ua/450181-ne-tolko-rakety-scalp-no-i-bomby-hammer-kak-francuzskie-istrebiteli-pomogut-ukraine-vzryvat-rossijskie-shtaby)
 - [Алла Пугачова прийшла на допомогу: Примадонна проводить реконструкцію замку в селі Грязь](https://fakty.ua/450219-alla-pugacheva-prishla-na-pomocsh-primadonna-provodit-rekonstrukciyu-zamka-v-sele-gryaz)
 - [Затримав особисто Малюк: СБУ викрила у своїх лавах топового «щура» росії](https://fakty.ua/450218-zaderzhal-lichno-malysh-sbu-razoblachila-v-svoih-ryadah-topovuyu-krysu-rossii)
-- [Заслухалась: мережа у захваті від пародії на Потапа](https://fakty.ua/450210-zaslushalas-set-v-vostorge-ot-parodii-na-potapa)
-- [У Печерському суді розглянуть скаргу дніпровської кіностудії, в якої правоохоронці вилучили майно на 84 млн грн](https://fakty.ua/450215-v-pecherskom-sude-rassmotryat-zhalobu-dneprovskoj-kinostudii-u-kotoroj-pravoohraniteli-izyali-imucshestvo-na-84-mln-grn)
-- [«Скоти!»: українські зірки відреагували на черговий обстріл столиці балістикою](https://fakty.ua/450212-skoty-ukrainskie-zvezdy-otreagirovali-na-ocherednoj-obstrel-stolicy-ballistikoj)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
