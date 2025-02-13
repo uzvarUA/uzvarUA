@@ -147,11 +147,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [На Харківщині мати заради автомобіля продала дитину за 20 тисяч доларів &lpar;фото, відео&rpar;](https://fakty.ua/450288-na-harkovcshine-mat-radi-avtomobilya-prodala-rebenka-za-20-tysyach-dollarov-foto-video)
+- [Танки без башти окупанти переробляють у «суперзброю», що легко знищується ЗСУ](https://fakty.ua/450257-tanki-bez-bashni-okkupanty-peredelyvayut-v-superoruzhie-legko-unichtozhaemoe-vsu)
 - [Готовий до концертів у Суджі: популярний співак розпочав військову підготовку](https://fakty.ua/450274-gotov-k-koncertam-v-sudzhe-populyarnyj-pevec-nachal-voennuyu-podgotovku)
 - [Провину визнав: суд заарештував без права на заставу «щура» у верхівці СБУ, якого ФСБ завербувала в 2018 році](https://fakty.ua/450282-vinu-priznal-sud-arestoval-bez-prava-na-zalog-quot-krysu-quot-v-verhushke-sbu-kotoruyu-rossijskoe-fsb-zaverbovalo-v-2018-godu)
 - [Затриманий СБУ «щур» у 2016 році отримав державну нагороду від Порошенка — ЗМІ](https://fakty.ua/450278-zaderzhannaya-sbu-krysa-v-2016-godu-poluchila-gosudarstvennuyu-nagradu-ot-poroshenko---smi)
-- [Немовля просто підскочило на ліжечку від вибухів: відома шеф-кухарка вразила подробицями](https://fakty.ua/450270-mladenec-prosto-podskochil-na-krovatke-ot-vzryvov-izvestnaya-shef-povar-porazila-podrobnostyami)
-- [Зеленський згоден зняти санкції з Порошенка та інших олігархів, але за однієї умови](https://fakty.ua/450276-zelenskij-soglasen-snyat-sankcii-s-poroshenko-i-drugih-oligarhov-no-pri-odnom-uslovii)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
