@@ -147,11 +147,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Союзники України будуть змушені вжити хоч якихось кроків: експерт спрогнозував перший раунд перемовин з рф](https://fakty.ua/450234-soyuzniki-ukrainy-budut-vynuzhdeny-sdelat-hot-kakie-to-shagi-ekspert-sprognoziroval-pervyj-raund-peregovorov-s-rf)
 - [«Не залишив моїй дитині хоча б малюсінького шансу на життя»: мама Героя України Дмитра Масловського, якого вбив російський штурмовик](https://fakty.ua/450231-ne-ostavil-moemu-rebenku-hotya-by-kroshechnogo-shansa-na-zhizn-mama-geroya-ukrainy-dmitriya-maslovskogo-kotorogo-ubil-rossijskij-shturmovik)
 - [Висока зацікавленість: американський міністр в Україні обговорив доступу до корисних копалин](https://fakty.ua/450226-vysokaya-zainteresovannost-amerikanskij-ministr-priedet-v-ukrainu-dlya-obsuzhdeniya-dostupa-k-poleznym-iskopaemym)
 - [Не лише Порошенко: стали відомі імена ще чотирьох олігархів, які потрапили під санкції РНБО](https://fakty.ua/450258-ne-tolko-poroshenko-stali-izvestny-imena-ecshe-chetveryh-oligarhov-popavshih-pod-sankcii-snbo)
 - [Зеленський відмовляється від гарантій безпеки без США: що сказав президент](https://fakty.ua/450228-zelenskij-otkazyvaetsya-ot-garantij-bezopasnosti-bez-ssha-chto-skazal-prezident)
-- [Ворог ударив по порту Рені десятками безпілотників: частина дронів вибухнула в… Молдові &lpar;фото, відео&rpar;](https://fakty.ua/450248-vrag-udaril-po-portu-reni-desyatkami-bespilotnikov-chast-dronov-vzorvalas-v-moldove-foto)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
