@@ -147,11 +147,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [«Не залишив моїй дитині хоча б малюсінького шансу на життя»: мама Героя України Дмитра Масловського, якого вбив російський штурмовик](https://fakty.ua/450231-ne-ostavil-moemu-rebenku-hotya-by-kroshechnogo-shansa-na-zhizn-mama-geroya-ukrainy-dmitriya-maslovskogo-kotorogo-ubil-rossijskij-shturmovik)
+- [Висока зацікавленість: американський міністр в Україні обговорив доступу до корисних копалин](https://fakty.ua/450226-vysokaya-zainteresovannost-amerikanskij-ministr-priedet-v-ukrainu-dlya-obsuzhdeniya-dostupa-k-poleznym-iskopaemym)
+- [Не лише Порошенко: стали відомі імена ще чотирьох олігархів, які потрапили під санкції РНБО](https://fakty.ua/450258-ne-tolko-poroshenko-stali-izvestny-imena-ecshe-chetveryh-oligarhov-popavshih-pod-sankcii-snbo)
 - [Зеленський відмовляється від гарантій безпеки без США: що сказав президент](https://fakty.ua/450228-zelenskij-otkazyvaetsya-ot-garantij-bezopasnosti-bez-ssha-chto-skazal-prezident)
 - [Ворог ударив по порту Рені десятками безпілотників: частина дронів вибухнула в… Молдові &lpar;фото, відео&rpar;](https://fakty.ua/450248-vrag-udaril-po-portu-reni-desyatkami-bespilotnikov-chast-dronov-vzorvalas-v-moldove-foto)
-- [Трамп зателефонував Зеленському: що сказав президент США про свої перемовини з путіним](https://fakty.ua/450245-tramp-pozvonil-po-telefonu-zelenskomu-chto-skazal-prezident-ssha-o-svoih-peregovorah-s-putinym)
-- [РНБО запровадила санкції проти Петра Порошенка: реакція колишнього президента](https://fakty.ua/450243-snbo-vvel-sankcii-protiv-petra-poroshenko-reakciya-byvshego-prezidenta)
-- [«Щасливий талісман» для Алли Пугачової: в рф «вирахували», який співак мав великий вплив на успіх Примадонни](https://fakty.ua/450241-schastlivyj-talisman-dlya-ally-pugachevoj-v-rossii-quot-vychislili-quot-kakoj-pevec-imel-bolshoe-vliyanie-na-uspeh-primadonny)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
