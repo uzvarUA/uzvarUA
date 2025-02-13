@@ -147,11 +147,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [В Україну може почати надходити ленд-ліз від США: що відомо про зареєстрований у Конгресі законопроєкт](https://fakty.ua/450253-v-ukrainu-mozhet-nachat-postupat-lend-liz-ot-ssha-chto-izvestno-o-zaregistrirovannom-v-kongresse-zakonoproekte)
+- [Стартували зйомки популярного за радянських часів шоу](https://fakty.ua/450249-startovali-semki-populyarnogo-v-sovetskoe-vremya-shou)
 - [Союзники України будуть змушені вжити хоч якихось кроків: експерт спрогнозував перший раунд перемовин з рф](https://fakty.ua/450234-soyuzniki-ukrainy-budut-vynuzhdeny-sdelat-hot-kakie-to-shagi-ekspert-sprognoziroval-pervyj-raund-peregovorov-s-rf)
 - [«Не залишив моїй дитині хоча б малюсінького шансу на життя»: мама Героя України Дмитра Масловського, якого вбив російський штурмовик](https://fakty.ua/450231-ne-ostavil-moemu-rebenku-hotya-by-kroshechnogo-shansa-na-zhizn-mama-geroya-ukrainy-dmitriya-maslovskogo-kotorogo-ubil-rossijskij-shturmovik)
 - [Висока зацікавленість: американський міністр в Україні обговорив доступу до корисних копалин](https://fakty.ua/450226-vysokaya-zainteresovannost-amerikanskij-ministr-priedet-v-ukrainu-dlya-obsuzhdeniya-dostupa-k-poleznym-iskopaemym)
-- [Не лише Порошенко: стали відомі імена ще чотирьох олігархів, які потрапили під санкції РНБО](https://fakty.ua/450258-ne-tolko-poroshenko-stali-izvestny-imena-ecshe-chetveryh-oligarhov-popavshih-pod-sankcii-snbo)
-- [Зеленський відмовляється від гарантій безпеки без США: що сказав президент](https://fakty.ua/450228-zelenskij-otkazyvaetsya-ot-garantij-bezopasnosti-bez-ssha-chto-skazal-prezident)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
