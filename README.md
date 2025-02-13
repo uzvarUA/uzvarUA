@@ -147,11 +147,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Зеленський відмовляється від гарантій безпеки без США: що сказав президент](https://fakty.ua/450228-zelenskij-otkazyvaetsya-ot-garantij-bezopasnosti-bez-ssha-chto-skazal-prezident)
 - [Ворог ударив по порту Рені десятками безпілотників: частина дронів вибухнула в… Молдові &lpar;фото, відео&rpar;](https://fakty.ua/450248-vrag-udaril-po-portu-reni-desyatkami-bespilotnikov-chast-dronov-vzorvalas-v-moldove-foto)
 - [Трамп зателефонував Зеленському: що сказав президент США про свої перемовини з путіним](https://fakty.ua/450245-tramp-pozvonil-po-telefonu-zelenskomu-chto-skazal-prezident-ssha-o-svoih-peregovorah-s-putinym)
 - [РНБО запровадила санкції проти Петра Порошенка: реакція колишнього президента](https://fakty.ua/450243-snbo-vvel-sankcii-protiv-petra-poroshenko-reakciya-byvshego-prezidenta)
 - [«Щасливий талісман» для Алли Пугачової: в рф «вирахували», який співак мав великий вплив на успіх Примадонни](https://fakty.ua/450241-schastlivyj-talisman-dlya-ally-pugachevoj-v-rossii-quot-vychislili-quot-kakoj-pevec-imel-bolshoe-vliyanie-na-uspeh-primadonny)
-- [«Ніколи цього не відчувала»: Кемерон Діас відверто розповіла про безпеку жінок на знімальному майданчику](https://fakty.ua/450221-nikogda-etogo-ne-chuvstvovala-kemeron-dias-otkrovenno-rasskazala-o-bezopasnosti-zhencshin-na-semochnoj-plocshadke)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
