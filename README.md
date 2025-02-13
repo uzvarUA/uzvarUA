@@ -147,11 +147,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Затриманий СБУ «щур» у 2016 році отримав державну нагороду від Порошенка — ЗМІ](https://fakty.ua/450278-zaderzhannaya-sbu-krysa-v-2016-godu-poluchila-gosudarstvennuyu-nagradu-ot-poroshenko---smi)
+- [Немовля просто підскочило на ліжечку від вибухів: відома шеф-кухарка вразила подробицями](https://fakty.ua/450270-mladenec-prosto-podskochil-na-krovatke-ot-vzryvov-izvestnaya-shef-povar-porazila-podrobnostyami)
 - [Зеленський згоден зняти санкції з Порошенка та інших олігархів, але за однієї умови](https://fakty.ua/450276-zelenskij-soglasen-snyat-sankcii-s-poroshenko-i-drugih-oligarhov-no-pri-odnom-uslovii)
 - [В Україну може почати надходити ленд-ліз від США: що відомо про зареєстрований у Конгресі законопроєкт](https://fakty.ua/450253-v-ukrainu-mozhet-nachat-postupat-lend-liz-ot-ssha-chto-izvestno-o-zaregistrirovannom-v-kongresse-zakonoproekte)
 - [Стартували зйомки популярного за радянських часів шоу](https://fakty.ua/450249-startovali-semki-populyarnogo-v-sovetskoe-vremya-shou)
-- [Союзники України будуть змушені вжити хоч якихось кроків: експерт спрогнозував перший раунд перемовин з рф](https://fakty.ua/450234-soyuzniki-ukrainy-budut-vynuzhdeny-sdelat-hot-kakie-to-shagi-ekspert-sprognoziroval-pervyj-raund-peregovorov-s-rf)
-- [«Не залишив моїй дитині хоча б малюсінького шансу на життя»: мама Героя України Дмитра Масловського, якого вбив російський штурмовик](https://fakty.ua/450231-ne-ostavil-moemu-rebenku-hotya-by-kroshechnogo-shansa-na-zhizn-mama-geroya-ukrainy-dmitriya-maslovskogo-kotorogo-ubil-rossijskij-shturmovik)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
