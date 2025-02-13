@@ -147,11 +147,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Готовий до концертів у Суджі: популярний співак розпочав військову підготовку](https://fakty.ua/450274-gotov-k-koncertam-v-sudzhe-populyarnyj-pevec-nachal-voennuyu-podgotovku)
+- [Провину визнав: суд заарештував без права на заставу «щура» у верхівці СБУ, якого ФСБ завербувала в 2018 році](https://fakty.ua/450282-vinu-priznal-sud-arestoval-bez-prava-na-zalog-quot-krysu-quot-v-verhushke-sbu-kotoruyu-rossijskoe-fsb-zaverbovalo-v-2018-godu)
 - [Затриманий СБУ «щур» у 2016 році отримав державну нагороду від Порошенка — ЗМІ](https://fakty.ua/450278-zaderzhannaya-sbu-krysa-v-2016-godu-poluchila-gosudarstvennuyu-nagradu-ot-poroshenko---smi)
 - [Немовля просто підскочило на ліжечку від вибухів: відома шеф-кухарка вразила подробицями](https://fakty.ua/450270-mladenec-prosto-podskochil-na-krovatke-ot-vzryvov-izvestnaya-shef-povar-porazila-podrobnostyami)
 - [Зеленський згоден зняти санкції з Порошенка та інших олігархів, але за однієї умови](https://fakty.ua/450276-zelenskij-soglasen-snyat-sankcii-s-poroshenko-i-drugih-oligarhov-no-pri-odnom-uslovii)
-- [В Україну може почати надходити ленд-ліз від США: що відомо про зареєстрований у Конгресі законопроєкт](https://fakty.ua/450253-v-ukrainu-mozhet-nachat-postupat-lend-liz-ot-ssha-chto-izvestno-o-zaregistrirovannom-v-kongresse-zakonoproekte)
-- [Стартували зйомки популярного за радянських часів шоу](https://fakty.ua/450249-startovali-semki-populyarnogo-v-sovetskoe-vremya-shou)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
