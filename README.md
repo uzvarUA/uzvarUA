@@ -147,11 +147,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Закликала до «відокремлення» Львівщини: суд виніс вирок соратниці Медведчука](https://fakty.ua/450315-prizyvala-k-otdeleniyu-lvovcshiny-sud-vynes-prigovor-soratnice-medvedchuka)
+- [Запроваджені РНБО санкції до олігархів є інструментом захисту нацбезпеки — Держфінмоніторинг](https://fakty.ua/450314-vvedennye-snbo-sankcii-k-oligarham-yavlyayutsya-instrumentom-zacshity-nacbezopasnosti-gosfinmonitoring)
+- [«Мені здавалося, що я роблю мало, тому пішов у військо»: історія бійця, що втратив ноги на сході, але мріє про танець з коханою](https://fakty.ua/450279-mne-kazalos-chto-ya-delayu-malo-poetomu-poshel-v-armiyu-istoriya-bojca-kotoryj-poteryal-nogi-na-vostoke-no-mechtaet-o-tance-s-lyubimoj)
 - [«Шикарна жінка»: Христина Орбакайте викликала фурор у новому образі](https://fakty.ua/450307-quot-shikarnaya-zhencshina-quot-kristina-orbakajte-proizvela-furor-v-novom-obraze)
 - [Вікторія Бекхем вперше за кілька років змінила імідж: зрізала каре і пофарбувала кінчики волосся &lpar;фото&rpar;](https://fakty.ua/450306-viktoriya-bekhem-vpervye-za-neskolko-let-smenila-imidzh-srezala-kare-i-pokrasila-konchiki-volos-foto)
-- [Трагедія на Херсонщині: під час прогулянки діти провалилися під лід, двоє з них загинули](https://fakty.ua/450303-tragediya-v-hersonskoj-oblasti-vo-vremya-progulki-deti-provalilis-pod-led-dvoe-iz-nih-pogibli)
-- [«Після останньої атаки бригада ворога була повністю знищена ЗСУ»: Зеленський про втрати рф](https://fakty.ua/450272-posle-poslednej-ataki-brigada-vraga-byla-polnostyu-unichtozhena-vsu-zelenskij-o-poteryah-rf)
-- [Терористи вночі вдарили дроном по укриттю на ЧАЕС: Зеленський показав відео](https://fakty.ua/450299-terroristy-nochyu-udarili-dronom-po-ukrytiyu-na-chaes-zelenskij-pokazal-video)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
