@@ -182,3 +182,14 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 4. `Import file`.
 5. Готово.
 ***
+# Termux-x11 preferences (arm64-v8a):
+* `output`:
+  * `Display resolution mode` exact
+  * `Display resolution` 1280x720
+  * `Reseed Screen While Soft Keyboard is open` OFF
+  * `Fullscreen` ON
+  * `Screen orientation` auto
+  * `Hide display cutout` ON
+* `Keyboard`:
+  * `Show additional keyboard` OFF
+  * `Prefer scancodes when possible` ON
