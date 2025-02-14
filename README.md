@@ -200,3 +200,7 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 ```bash
 curl -s -o ~/x https://raw.githubusercontent.com/olegos2/mobox/main/install && . ~/x
 ```
+***
+| Пароль для `inputbridge.zip` |
+|---|
+| 1111 |
