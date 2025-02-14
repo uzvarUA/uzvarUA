@@ -147,11 +147,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Захід може поміняти костюми на військову форму: що сказав Зеленський в Мюнхені](https://fakty.ua/450323-zapad-mozhet-pomenyat-kostyumy-na-voennuyu-formu-chto-skazal-zelenskij-v-myunhene)
+- [Хіт Кузьми та антиутопія Тіни Кароль: українські зірки здивували новими піснями](https://fakty.ua/450319-hit-kuzmy-i-antiutopiya-tiny-karol-ukrainskie-zvezdy-udivili-novymi-pesnyami)
 - [Закликала до «відокремлення» Львівщини: суд виніс вирок соратниці Медведчука](https://fakty.ua/450315-prizyvala-k-otdeleniyu-lvovcshiny-sud-vynes-prigovor-soratnice-medvedchuka)
 - [Запроваджені РНБО санкції до олігархів є інструментом захисту нацбезпеки — Держфінмоніторинг](https://fakty.ua/450314-vvedennye-snbo-sankcii-k-oligarham-yavlyayutsya-instrumentom-zacshity-nacbezopasnosti-gosfinmonitoring)
 - [«Мені здавалося, що я роблю мало, тому пішов у військо»: історія бійця, що втратив ноги на сході, але мріє про танець з коханою](https://fakty.ua/450279-mne-kazalos-chto-ya-delayu-malo-poetomu-poshel-v-armiyu-istoriya-bojca-kotoryj-poteryal-nogi-na-vostoke-no-mechtaet-o-tance-s-lyubimoj)
-- [«Шикарна жінка»: Христина Орбакайте викликала фурор у новому образі](https://fakty.ua/450307-quot-shikarnaya-zhencshina-quot-kristina-orbakajte-proizvela-furor-v-novom-obraze)
-- [Вікторія Бекхем вперше за кілька років змінила імідж: зрізала каре і пофарбувала кінчики волосся &lpar;фото&rpar;](https://fakty.ua/450306-viktoriya-bekhem-vpervye-za-neskolko-let-smenila-imidzh-srezala-kare-i-pokrasila-konchiki-volos-foto)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
