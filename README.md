@@ -147,11 +147,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Вікторія Бекхем вперше за кілька років змінила імідж: зрізала каре і пофарбувала кінчики волосся &lpar;фото&rpar;](https://fakty.ua/450306-viktoriya-bekhem-vpervye-za-neskolko-let-smenila-imidzh-srezala-kare-i-pokrasila-konchiki-volos-foto)
+- [Трагедія на Херсонщині: під час прогулянки діти провалилися під лід, двоє з них загинули](https://fakty.ua/450303-tragediya-v-hersonskoj-oblasti-vo-vremya-progulki-deti-provalilis-pod-led-dvoe-iz-nih-pogibli)
+- [«Після останньої атаки бригада ворога була повністю знищена ЗСУ»: Зеленський про втрати рф](https://fakty.ua/450272-posle-poslednej-ataki-brigada-vraga-byla-polnostyu-unichtozhena-vsu-zelenskij-o-poteryah-rf)
 - [Терористи вночі вдарили дроном по укриттю на ЧАЕС: Зеленський показав відео](https://fakty.ua/450299-terroristy-nochyu-udarili-dronom-po-ukrytiyu-na-chaes-zelenskij-pokazal-video)
 - [Терористи з рф продовжують атаки на мирні міста: де вночі працювала ППО](https://fakty.ua/450293-terroristy-iz-rf-prodolzhayut-ataki-na-mirnye-goroda-gde-nochyu-rabotala-pvo)
-- [Раз на два-три місяці: Леся Нікітюк розкрила свій режим харчування](https://fakty.ua/450271-raz-v-dva-tri-mesyaca-lesya-nikityuk-raskryla-svoj-rezhim-pitaniya)
-- [Має право: колишній чоловік Брітні Спірс відреагував на її танці з ножем](https://fakty.ua/450266-imeet-pravo-byvshij-muzh-britni-spirs-otreagiroval-na-ee-tancy-s-nozhom)
-- [Молодий чоловік наклав на себе руки у Хмельницькому ТЦК: військові прояснили ситуацію](https://fakty.ua/450290-molodoj-muzhchina-pokonchil-s-soboj-v-hmelnickom-tck-voennye-proyasnili-situaciyu)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
