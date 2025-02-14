@@ -147,11 +147,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Вибух в центрі Миколаєва: загинули двоє людей, багато поранених](https://fakty.ua/450341-vzryv-v-centre-nikolaeva-pogibli-dva-cheloveka-mnogo-ranenyh)
+- [Мирна угода не може бути підписана в Мюнхені, — Зеленський](https://fakty.ua/450339-mirnoe-soglashenie-ne-mozhet-byt-podpisano-v-myunhene---zelenskij)
+- [«Люблю тебе!»: зірки поділилися особистими історіями та привітали коханих з Днем святого Валентина](https://fakty.ua/450317-lyublyu-tebya-zvezdy-podelilis-lichnymi-istoriyami-i-pozdravili-lyubimyh-s-dnem-svyatogo-valentina)
 - [Україна повернула тіла 757 загиблих воїнів](https://fakty.ua/450328-ukraina-vernula-tela-757-pogibshih-voinov)
 - [Проти Порошенка та ще чотирьох бізнесменів відкриті кримінальні справи](https://fakty.ua/450326-protiv-poroshenko-i-ecshe-chetyreh-biznesmenov-vozbuzhdeny-ugolovnye-dela)
-- [Захід може поміняти костюми на військову форму: що сказав Зеленський в Мюнхені](https://fakty.ua/450323-zapad-mozhet-pomenyat-kostyumy-na-voennuyu-formu-chto-skazal-zelenskij-v-myunhene)
-- [Хіт Кузьми та антиутопія Тіни Кароль: українські зірки здивували новими піснями](https://fakty.ua/450319-hit-kuzmy-i-antiutopiya-tiny-karol-ukrainskie-zvezdy-udivili-novymi-pesnyami)
-- [Закликала до «відокремлення» Львівщини: суд виніс вирок соратниці Медведчука](https://fakty.ua/450315-prizyvala-k-otdeleniyu-lvovcshiny-sud-vynes-prigovor-soratnice-medvedchuka)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
