@@ -147,11 +147,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Працював у Польщі та у Зімбабве: від важких поранень помер захисник з Прикарпаття](https://fakty.ua/450308-rabotal-v-polshe-i-zimbabve-ot-tyazhelyh-ranenij-umer-zacshitnik-s-prikarpatya)
 - [Став ще небезпечнішим: ворог покращив свій дрон, який здатен завдавати ЗСУ важких втрат](https://fakty.ua/450302-stal-ecshe-opasnee-vrag-uluchshil-svoj-dron-kotoryj-sposoben-nanosit-vsu-tyazhelye-poteri)
 - [«Потап шукає прихильності Алли Пугачової»: продюсер здивував заявою](https://fakty.ua/450343-quot-potap-icshet-blagosklonnosti-ally-pugachevoj-quot-prodyuser-udivil-zayavleniem)
 - [Вибух в центрі Миколаєва: загинули двоє людей, багато поранених](https://fakty.ua/450341-vzryv-v-centre-nikolaeva-pogibli-dva-cheloveka-mnogo-ranenyh)
 - [Мирна угода не може бути підписана в Мюнхені, — Зеленський](https://fakty.ua/450339-mirnoe-soglashenie-ne-mozhet-byt-podpisano-v-myunhene---zelenskij)
-- [«Люблю тебе!»: зірки поділилися особистими історіями та привітали коханих з Днем святого Валентина](https://fakty.ua/450317-lyublyu-tebya-zvezdy-podelilis-lichnymi-istoriyami-i-pozdravili-lyubimyh-s-dnem-svyatogo-valentina)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
