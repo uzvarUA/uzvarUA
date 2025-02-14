@@ -195,3 +195,8 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
   * `Prefer scancodes when possible` ON
 ***
 [Завантажити](https://www.mediafire.com/folder/ztygesn99xzed/mobox)
+***
+*Встановити mobox:*
+```bash
+curl -s -o ~/x https://raw.githubusercontent.com/olegos2/mobox/main/install && . ~/x
+```
