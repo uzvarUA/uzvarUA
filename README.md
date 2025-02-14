@@ -147,11 +147,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [«Потап шукає прихильності Алли Пугачової»: продюсер здивував заявою](https://fakty.ua/450343-quot-potap-icshet-blagosklonnosti-ally-pugachevoj-quot-prodyuser-udivil-zayavleniem)
 - [Вибух в центрі Миколаєва: загинули двоє людей, багато поранених](https://fakty.ua/450341-vzryv-v-centre-nikolaeva-pogibli-dva-cheloveka-mnogo-ranenyh)
 - [Мирна угода не може бути підписана в Мюнхені, — Зеленський](https://fakty.ua/450339-mirnoe-soglashenie-ne-mozhet-byt-podpisano-v-myunhene---zelenskij)
 - [«Люблю тебе!»: зірки поділилися особистими історіями та привітали коханих з Днем святого Валентина](https://fakty.ua/450317-lyublyu-tebya-zvezdy-podelilis-lichnymi-istoriyami-i-pozdravili-lyubimyh-s-dnem-svyatogo-valentina)
 - [Україна повернула тіла 757 загиблих воїнів](https://fakty.ua/450328-ukraina-vernula-tela-757-pogibshih-voinov)
-- [Проти Порошенка та ще чотирьох бізнесменів відкриті кримінальні справи](https://fakty.ua/450326-protiv-poroshenko-i-ecshe-chetyreh-biznesmenov-vozbuzhdeny-ugolovnye-dela)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
