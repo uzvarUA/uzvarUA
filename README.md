@@ -147,11 +147,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Україна повернула тіла 757 загиблих воїнів](https://fakty.ua/450328-ukraina-vernula-tela-757-pogibshih-voinov)
+- [Проти Порошенка та ще чотирьох бізнесменів відкриті кримінальні справи](https://fakty.ua/450326-protiv-poroshenko-i-ecshe-chetyreh-biznesmenov-vozbuzhdeny-ugolovnye-dela)
 - [Захід може поміняти костюми на військову форму: що сказав Зеленський в Мюнхені](https://fakty.ua/450323-zapad-mozhet-pomenyat-kostyumy-na-voennuyu-formu-chto-skazal-zelenskij-v-myunhene)
 - [Хіт Кузьми та антиутопія Тіни Кароль: українські зірки здивували новими піснями](https://fakty.ua/450319-hit-kuzmy-i-antiutopiya-tiny-karol-ukrainskie-zvezdy-udivili-novymi-pesnyami)
 - [Закликала до «відокремлення» Львівщини: суд виніс вирок соратниці Медведчука](https://fakty.ua/450315-prizyvala-k-otdeleniyu-lvovcshiny-sud-vynes-prigovor-soratnice-medvedchuka)
-- [Запроваджені РНБО санкції до олігархів є інструментом захисту нацбезпеки — Держфінмоніторинг](https://fakty.ua/450314-vvedennye-snbo-sankcii-k-oligarham-yavlyayutsya-instrumentom-zacshity-nacbezopasnosti-gosfinmonitoring)
-- [«Мені здавалося, що я роблю мало, тому пішов у військо»: історія бійця, що втратив ноги на сході, але мріє про танець з коханою](https://fakty.ua/450279-mne-kazalos-chto-ya-delayu-malo-poetomu-poshel-v-armiyu-istoriya-bojca-kotoryj-poteryal-nogi-na-vostoke-no-mechtaet-o-tance-s-lyubimoj)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
