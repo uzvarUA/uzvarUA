@@ -193,3 +193,5 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 * `Keyboard`:
   * `Show additional keyboard` OFF
   * `Prefer scancodes when possible` ON
+***
+[Завантажити](https://www.mediafire.com/folder/ztygesn99xzed/mobox)
