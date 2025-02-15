@@ -149,7 +149,7 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
-- [У окупантів з&amp;#39;явилася нова артилерійська система: чим вона небезпечна](https://fakty.ua/450342-u-okkupantov-poyavilas-novaya-artillerijskaya-sistema-chem-ona-opasna)
+- [В окупантів з&amp;#39;явилася нова артилерійська система: чим вона небезпечна](https://fakty.ua/450342-u-okkupantov-poyavilas-novaya-artillerijskaya-sistema-chem-ona-opasna)
 - [Олег Винник дав перший за роки війни концерт та не дотримав слова &lpar;відео&rpar;](https://fakty.ua/450371-oleg-vinnik-dal-pervyj-za-gody-vojny-koncert-i-ne-sderzhal-slovo-video)
 - [Дроном — по «саркофагу»: що відбувається на ЧАЕС після атаки російського безпілотника](https://fakty.ua/450367-dronom-po-sarkofagu-chto-proishodit-na-chaes-posle-ataki-rossijskogo-bespilotnika)
 - [Найсильнішим членом НАТО виглядає росія, бо має вирішальне слово, кому бути в НАТО, а кому ні, — Зеленський в Мюнхені](https://fakty.ua/450359-quot-samym-silnym-chlenom-nato-vyglyadit-rossiya-potomu-chto-quot-imeet-reshayucshee-slovo---komu-byt-v-nato-a-komu-net-quot---zelenskij-v-myunhene)
