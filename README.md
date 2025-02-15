@@ -147,11 +147,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [«Найсильнішим членом НАТО виглядає росія, бо «має вирішальне слово — кому бути в НАТО, а кому ні», — Зеленський в Мюнхені](https://fakty.ua/450359-quot-samym-silnym-chlenom-nato-vyglyadit-rossiya-potomu-chto-quot-imeet-reshayucshee-slovo---komu-byt-v-nato-a-komu-net-quot---zelenskij-v-myunhene)
 - [«Нам треба чітко сказати, що Україна не буде робити те, чого хочуть фюрер або Трамп», — Роман Безсмертний](https://fakty.ua/450334-nam-nuzhno-chetko-skazat-chto-ukraina-ne-budet-delat-to-chego-hotyat-fyurer-ili-tramp-roman-bezsmertnyj)
 - [Відома українська телеведуча зібралася під вінець &lpar;фото, відео&rpar;](https://fakty.ua/450353-izvestnaya-ukrainskaya-televeducshaya-sobralas-pod-venec-foto-video)
 - [Рейсовий автобус Київ — Кишинів розбився у Молдові: серед пасажирів багато постраждалих &lpar;фото&rpar;](https://fakty.ua/450351-rejsovyj-avtobus-kiev-kishinev-razbilsya-v-moldove-sredi-passazhirov-mnogo-postradavshih-foto)
 - [Зеленський у Мюнхені відмовився підписувати угоду про контроль США над українськими корисними копалинами, — ЗМІ](https://fakty.ua/450348-zelenskij-v-myunhene-otkazalsya-podpisyvat-soglashenie-o-kontrole-ssha-nad-ukrainskimi-poleznymi-iskopaemymi---smi)
-- [Працював у Польщі та у Зімбабве: від важких поранень помер захисник з Прикарпаття](https://fakty.ua/450308-rabotal-v-polshe-i-zimbabve-ot-tyazhelyh-ranenij-umer-zacshitnik-s-prikarpatya)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
