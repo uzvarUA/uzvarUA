@@ -147,11 +147,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Рейсовий автобус Київ — Кишинів розбився у Молдові: серед пасажирів багато постраждалих &lpar;фото&rpar;](https://fakty.ua/450351-rejsovyj-avtobus-kiev-kishinev-razbilsya-v-moldove-sredi-passazhirov-mnogo-postradavshih-foto)
 - [Зеленський у Мюнхені відмовився підписувати угоду про контроль США над українськими корисними копалинами, — ЗМІ](https://fakty.ua/450348-zelenskij-v-myunhene-otkazalsya-podpisyvat-soglashenie-o-kontrole-ssha-nad-ukrainskimi-poleznymi-iskopaemymi---smi)
 - [Працював у Польщі та у Зімбабве: від важких поранень помер захисник з Прикарпаття](https://fakty.ua/450308-rabotal-v-polshe-i-zimbabve-ot-tyazhelyh-ranenij-umer-zacshitnik-s-prikarpatya)
 - [Став ще небезпечнішим: ворог покращив свій дрон, який здатен завдавати ЗСУ важких втрат](https://fakty.ua/450302-stal-ecshe-opasnee-vrag-uluchshil-svoj-dron-kotoryj-sposoben-nanosit-vsu-tyazhelye-poteri)
 - [«Потап шукає прихильності Алли Пугачової»: продюсер здивував заявою](https://fakty.ua/450343-quot-potap-icshet-blagosklonnosti-ally-pugachevoj-quot-prodyuser-udivil-zayavleniem)
-- [Вибух в центрі Миколаєва: загинули двоє людей, багато поранених](https://fakty.ua/450341-vzryv-v-centre-nikolaeva-pogibli-dva-cheloveka-mnogo-ranenyh)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
