@@ -220,3 +220,5 @@ curl -s -o ~/x https://raw.githubusercontent.com/olegos2/mobox/main/install && .
 | -6078110404819717671 |  `-263 77 -272`
 # Експерименти
 - Включити всі ТВОРЦІ ДОПОВНЕНЬ.
+***
+[Завантажити Minecraft Bedrock Edition (PE)](https://www.mediafire.com/folder/u9mva00yzgnrk/Minecraft+Bedrock+Edition)
