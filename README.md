@@ -214,3 +214,7 @@ curl -s -o ~/x https://raw.githubusercontent.com/olegos2/mobox/main/install && .
 | Terrain_rework.mcaddon |
 ***
 [Завантажити збірку](https://www.mediafire.com/folder/9a9im4mhv0o8e/Minecraft+Movie)
+***
+| Сід | Координати |
+|---|---|
+| -6078110404819717671 |  `-263 77 -272`
