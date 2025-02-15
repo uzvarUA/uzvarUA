@@ -19,6 +19,7 @@
 - [Network ID](#network-id)
 - [Сід](#сід)
 - [Minecraft Movie](#minecraft-movie)
+- [Minecraft Movie 2](#minecraft-movie-2)
 ***
 # Як проголосувати за тему?
 *Ви допоможете вибрати тему*
