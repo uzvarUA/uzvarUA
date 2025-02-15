@@ -149,7 +149,7 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
 - [Дроном — по «саркофагу»: що відбувається на ЧАЕС після атаки російського безпілотника](https://fakty.ua/450367-dronom-po-sarkofagu-chto-proishodit-na-chaes-posle-ataki-rossijskogo-bespilotnika)
-- [«Найсильнішим членом НАТО виглядає росія, бо «має вирішальне слово — кому бути в НАТО, а кому ні», — Зеленський в Мюнхені](https://fakty.ua/450359-quot-samym-silnym-chlenom-nato-vyglyadit-rossiya-potomu-chto-quot-imeet-reshayucshee-slovo---komu-byt-v-nato-a-komu-net-quot---zelenskij-v-myunhene)
+- [Найсильнішим членом НАТО виглядає росія, бо має вирішальне слово, кому бути в НАТО, а кому ні, — Зеленський в Мюнхені](https://fakty.ua/450359-quot-samym-silnym-chlenom-nato-vyglyadit-rossiya-potomu-chto-quot-imeet-reshayucshee-slovo---komu-byt-v-nato-a-komu-net-quot---zelenskij-v-myunhene)
 - [«Нам треба чітко сказати, що Україна не буде робити те, чого хочуть фюрер або Трамп», — Роман Безсмертний](https://fakty.ua/450334-nam-nuzhno-chetko-skazat-chto-ukraina-ne-budet-delat-to-chego-hotyat-fyurer-ili-tramp-roman-bezsmertnyj)
 - [Відома українська телеведуча зібралася під вінець &lpar;фото, відео&rpar;](https://fakty.ua/450353-izvestnaya-ukrainskaya-televeducshaya-sobralas-pod-venec-foto-video)
 - [Рейсовий автобус Київ — Кишинів розбився у Молдові: серед пасажирів багато постраждалих &lpar;фото&rpar;](https://fakty.ua/450351-rejsovyj-avtobus-kiev-kishinev-razbilsya-v-moldove-sredi-passazhirov-mnogo-postradavshih-foto)
