@@ -212,3 +212,5 @@ curl -s -o ~/x https://raw.githubusercontent.com/olegos2/mobox/main/install && .
 |---|
 | Realistic Crafting.mcaddon |
 | Terrain_rework.mcaddon |
+***
+[Завантажити збірку](https://www.mediafire.com/folder/9a9im4mhv0o8e/Minecraft+Movie)
