@@ -149,11 +149,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Зроблено свідомо: терористи вдарили по ТЕС у Миколаєві, без тепла залишились десятки тисяч людей](https://fakty.ua/450399-soversheno-soznatelno-terroristy-udarili-po-tes-v-nikolaeve-bez-tepla-ostalis-desyatki-tysyach-chelovek)
 - [Самотнім не залишиться: Тома Круза помітили на побаченні з колишньою коханою іншого відомого актора](https://fakty.ua/450394-odinokim-ne-ostanetsya-toma-kruza-zametili-na-svidanii-s-byvshej-vozlyublennoj-drugogo-izvestnogo-aktera)
 - [Загарбники обстріляли місто у Покровському районі: є загиблі](https://fakty.ua/450392-zahvatchiki-obstrelyali-gorod-v-pokrovskom-rajone-est-pogibshie)
 - [Треба стати рушійною силою: генерал-розвідник заявив, коли можлива перемога України](https://fakty.ua/450386-nado-stat-dvizhucshej-siloj-general-razvedchik-zayavil-kogda-vozmozhna-pobeda-ukrainy)
 - [Виконала пісню у звичному стилі, але вразила новим образом: Klavdia Petrivna вдруге виступила у Львові &lpar;відео&rpar;](https://fakty.ua/450385-ispolnila-pesnyu-v-privychnom-stile-no-porazila-novym-obrazom-klavdia-petrivna-vo-vtoroj-raz-vystupila-vo-lvove-video)
-- [На Київщині під час пожежі загинула людина](https://fakty.ua/450387-v-kievskoj-oblasti-vo-vremya-pozhara-pogib-chelovek)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
