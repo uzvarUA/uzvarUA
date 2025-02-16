@@ -149,11 +149,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Загарбники обстріляли місто у Покровському районі: є загиблі](https://fakty.ua/450392-zahvatchiki-obstrelyali-gorod-v-pokrovskom-rajone-est-pogibshie)
+- [Треба стати рушійною силою: генерал-розвідник заявив, коли можлива перемога України](https://fakty.ua/450386-nado-stat-dvizhucshej-siloj-general-razvedchik-zayavil-kogda-vozmozhna-pobeda-ukrainy)
 - [Виконала пісню у звичному стилі, але вразила новим образом: Klavdia Petrivna вдруге виступила у Львові &lpar;відео&rpar;](https://fakty.ua/450385-ispolnila-pesnyu-v-privychnom-stile-no-porazila-novym-obrazom-klavdia-petrivna-vo-vtoroj-raz-vystupila-vo-lvove-video)
 - [На Київщині під час пожежі загинула людина](https://fakty.ua/450387-v-kievskoj-oblasti-vo-vremya-pozhara-pogib-chelovek)
 - [«Навкруги вибухи, діти плачуть, суцільний жах»: акторка та телеведуча Ірина Хоменко про виклики під час великої війни](https://fakty.ua/450382-vokrug-vzryvy-deti-plachut-sploshnoj-uzhas-aktrisa-i-televeducshaya-irina-homenko-o-vyzovah-vo-vremya-bolshoj-vojny)
-- [Вдруге від початку року: на території Полтавської області зафіксували землетрус](https://fakty.ua/450383-vtoroj-raz-s-nachala-goda-na-territorii-poltavskoj-oblasti-zafiksirovali-zemletryasenie)
-- [Артем Пивоваров зустрівся з Валерієм Залужним і «запалив» глядачів у Лондоні &lpar;відео&rpar;](https://fakty.ua/450377-artem-pivovarov-vstretilsya-s-valeriem-zaluzhnym-i-quot-zazheg-quot-zritelej-v-londone-video)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
