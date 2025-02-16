@@ -224,5 +224,12 @@ curl -s -o ~/x https://raw.githubusercontent.com/olegos2/mobox/main/install && .
 ***
 [Завантажити Minecraft Bedrock Edition (PE)](https://www.mediafire.com/folder/u9mva00yzgnrk/Minecraft+Bedrock+Edition)
 # Minecraft Movie 2
-> [!NOTE]
-> Збірка найближчим часом буде часом!
+| Збірка |
+|---|
+| Minecraft Patched |
+| shaders |
+| BetterRenderDragon-1.4.4.zip |
+| Realistic Crafting.mcaddon |
+| Terrain_rework.mcaddon |
+***
+[Завантажити](https://www.mediafire.com/file/z78mnynykdyi6dj/Minecraft_Movie_2.zip/file)
