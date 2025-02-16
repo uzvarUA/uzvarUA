@@ -149,11 +149,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Вдруге від початку року: на території Полтавської області зафіксували землетрус](https://fakty.ua/450383-vtoroj-raz-s-nachala-goda-na-territorii-poltavskoj-oblasti-zafiksirovali-zemletryasenie)
 - [Артем Пивоваров зустрівся з Валерієм Залужним і «запалив» глядачів у Лондоні &lpar;відео&rpar;](https://fakty.ua/450377-artem-pivovarov-vstretilsya-s-valeriem-zaluzhnym-i-quot-zazheg-quot-zritelej-v-londone-video)
 - [Ворог атакував Україну з повітря: є постраждалі, виникли пожежі](https://fakty.ua/450374-vrag-atakoval-ukrainu-s-vozduha-est-postradavshie-voznikli-pozhary)
 - [У близнюків Дженніфер Лопес день народження цього року буде сумним: що сталося](https://fakty.ua/450363-u-bliznecov-dzhennifer-lopes-den-rozhdeniya-v-etom-godu-budet-grustnym-chto-proizoshlo)
 - [В окупантів з&amp;#39;явилася нова артилерійська система: чим вона небезпечна](https://fakty.ua/450342-u-okkupantov-poyavilas-novaya-artillerijskaya-sistema-chem-ona-opasna)
-- [Олег Винник дав перший за роки війни концерт та не дотримав слова &lpar;відео&rpar;](https://fakty.ua/450371-oleg-vinnik-dal-pervyj-za-gody-vojny-koncert-i-ne-sderzhal-slovo-video)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
