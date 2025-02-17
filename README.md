@@ -149,11 +149,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Ніколи не кажи ніколи: Дженніфер Еністон налаштована на пошук кохання](https://fakty.ua/450445-nikogda-ne-govori-nikogda-dzhennifer-eniston-nastroena-na-poisk-lyubvi)
 - [Тотальне розчарування: мережа обурена спільним фото Тімура Мірошниченка та матері Ілона Маска](https://fakty.ua/450443-totalnoe-razocharovanie-set-vozmucshena-sovmestnym-foto-timura-miroshnichenko-i-materi-ilona-maska)
 - [ЗСУ знищили новітній ЗРК вартістю 135 млн дол.: про що це свідчить](https://fakty.ua/450438-vsu-unichtozhili-novejshij-zrk-stoimostyu-135-mln-dol-o-chem-eto-govorit)
 - [Звинувачення на адресу Олександра «Тихохода» спростовані, — завершено розслідування](https://fakty.ua/450460-obvineniya-v-adres-aleksandra-tihohoda-oprovergnuty---zaversheno-rassledovanie)
 - [Менше набряків, більше енергії: Злата Огнєвіч про свої звички у харчуванні](https://fakty.ua/450440-menshe-otekov-bolshe-energii-zlata-ognevich-o-svoih-privychkah-v-pitanii)
-- [Пожежі в зоні ЧАЕС та викид радіації: у ДСНС зробили важливу заяву](https://fakty.ua/450458-pozhary-v-zone-chaes-i-vybros-radiacii-v-gschs-sdelali-vazhnoe-zayavlenie)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
