@@ -149,11 +149,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Відстрілювався із газового пістолета: мешканця Хмельницького «посадили» за спробу допомогти товаришу відбитися від ТЦК](https://fakty.ua/450434-otstrelivalsya-iz-gazovogo-pistoleta-zhitelya-hmelnickogo-posadili-za-popytku-pomoch-tovaricshu-otbitsya-ot-tck)
+- [Розплатився гранатою: на Харківщині орендар влаштував розбірки з господаркою квартири](https://fakty.ua/450455-rasplatilsya-granatoj-na-harkovcshine-arendator-ustroil-razborki-s-hozyajkoj-kvartiry)
+- [«Поїду з ним»: Зеленський запросив спецпредставника президента США Келлога на фронт](https://fakty.ua/450425-poedu-s-nim-zelenskij-priglasil-specpredstavitelya-prezidenta-ssha-kelloga-na-front)
 - [Букмекери назвали переможця «Євробачення-2025»](https://fakty.ua/450433-bukmekery-nazvali-pobeditelya-evrovideniya-2025)
 - [Нова можливість для юних талантів: розпочався прийом заявок на конкурс Dity. Help Music](https://fakty.ua/450450-novaya-vozmozhnost-dlya-yunyh-talantov-nachalsya-priem-zayavok-na-konkurs-dity-help-music)
-- [Мирні переговори у Саудівській Аравії: хто буде присутній та чи запросили Україну](https://fakty.ua/450423-mirnye-peregovory-v-saudovskoj-aravii-kto-budet-prisutstvovat-i-priglasili-li-ukrainu)
-- [Школи в Україні масово переводять на «дистанційку»: із чим це пов&amp;#39;язано](https://fakty.ua/450442-shkoly-v-ukraine-massovo-perevodyat-na-distancionku-s-chem-eto-svyazano)
-- [«Він готував неймовірні хот-доги. Таких ніхто вже не зробить»: в бою на Курщині загинув боєць «Стальной» з Донеччини](https://fakty.ua/450327-on-gotovil-neveroyatnye-hot-dogi-takih-nikto-uzhe-ne-sdelaet-v-boyu-na-kurcshine-pogib-boec-stalnoj-iz-doneckoj-oblasti)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
