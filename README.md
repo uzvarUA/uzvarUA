@@ -149,11 +149,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [По всій Україні введено екстрені відключення електрики](https://fakty.ua/450419-po-vsej-ukraine-vvedeny-ekstrennye-otklyucheniya-elektrichestva)
 - [Вночі російські безпілотники атакували кілька регіонів України, а українці влаштували переляк у Краснодарському краї рф &lpar;відео&rpar;](https://fakty.ua/450416-nochyu-rossijskie-bespilotniki-atakovali-neskolko-regionov-ukrainy-a-ukrainskie-ustroili-perepoloh-v-krasnodarskom-krae-rf-video)
 - [Хоче залишатись поруч: Дженніфер Лопес все ще закохана в Бена Аффлека](https://fakty.ua/450404-hochet-ostavatsya-ryadom-dzhennifer-lopes-vse-ecshe-vlyublena-v-bena-affleka)
 - [У листопаді лише одружився: від важких поранень загинув боєць з Хмельниччини](https://fakty.ua/450406-v-noyabre-tolko-zhenilsya-ot-tyazhelyh-ranenij-pogib-boec-s-hmelnitchiny)
 - [Скільки українців не повернуться з-за кордону після війни: прогноз експерта шокує](https://fakty.ua/450401-skolko-ukraincev-ne-vernutsya-iz-za-granicy-posle-vojny-prognoz-eksperta-shokiruet)
-- [Воюють підло проти мирних людей: Зеленський про удар ворога по Миколаєву](https://fakty.ua/450405-voyuyut-podlo-protiv-mirnyh-lyudej-zelenskij-o-udare-vraga-po-nikolaevu)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
