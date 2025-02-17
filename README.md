@@ -149,11 +149,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Мирні переговори у Саудівській Аравії: хто буде присутній та чи запросили Україну](https://fakty.ua/450423-mirnye-peregovory-v-saudovskoj-aravii-kto-budet-prisutstvovat-i-priglasili-li-ukrainu)
+- [Школи в Україні масово переводять на «дистанційку»: із чим це пов&amp;#39;язано](https://fakty.ua/450442-shkoly-v-ukraine-massovo-perevodyat-na-distancionku-s-chem-eto-svyazano)
 - [«Він готував неймовірні хот-доги. Таких ніхто вже не зробить»: в бою на Курщині загинув боєць «Стальной» з Донеччини](https://fakty.ua/450327-on-gotovil-neveroyatnye-hot-dogi-takih-nikto-uzhe-ne-sdelaet-v-boyu-na-kurcshine-pogib-boec-stalnoj-iz-doneckoj-oblasti)
 - [Вибух біля ТЦК у Кам&amp;#39;янці-Подільському: затримано агентів росіян, які дистанційно підірвали кур&amp;#39;єра &lpar;фото&rpar;](https://fakty.ua/450427-vzryv-vozle-tck-v-kamyanec-podolskom-zaderzhany-agenty-rossiyan-distancionno-podorvavshie-kurera-foto)
 - [BAFTA-2025: серед лауреатів — короткометражка про війну в Україні &lpar;відео&rpar;](https://fakty.ua/450421-bafta-2025-sredi-laureatov-korotkometrazhka-o-vojne-v-ukraine-video)
-- [Поки в Мюнхені говорять про мир: окупанти знов посилили штурми на Покровському напрямку](https://fakty.ua/450417-poka-v-myunhene-govoryat-o-mire-okkupanty-snova-usilili-shturmy-na-pokrovskom-napravlenii)
-- [По всій Україні введено екстрені відключення електрики](https://fakty.ua/450419-po-vsej-ukraine-vvedeny-ekstrennye-otklyucheniya-elektrichestva)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
