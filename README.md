@@ -149,11 +149,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Звинувачення на адресу Олександра «Тихохода» спростовані, — завершено розслідування](https://fakty.ua/450460-obvineniya-v-adres-aleksandra-tihohoda-oprovergnuty---zaversheno-rassledovanie)
+- [Менше набряків, більше енергії: Злата Огнєвіч про свої звички у харчуванні](https://fakty.ua/450440-menshe-otekov-bolshe-energii-zlata-ognevich-o-svoih-privychkah-v-pitanii)
+- [Пожежі в зоні ЧАЕС та викид радіації: у ДСНС зробили важливу заяву](https://fakty.ua/450458-pozhary-v-zone-chaes-i-vybros-radiacii-v-gschs-sdelali-vazhnoe-zayavlenie)
+- [Невже у країні немає нових облич: мережа відреагувала на заміну ведучої популярного шоу](https://fakty.ua/450435-neuzheli-v-strane-net-novyh-lic-set-otreagirovala-na-zamenu-veducshej-populyarnogo-shou)
 - [Відстрілювався із газового пістолета: мешканця Хмельницького «посадили» за спробу допомогти товаришу відбитися від ТЦК](https://fakty.ua/450434-otstrelivalsya-iz-gazovogo-pistoleta-zhitelya-hmelnickogo-posadili-za-popytku-pomoch-tovaricshu-otbitsya-ot-tck)
-- [Розплатився гранатою: на Харківщині орендар влаштував розбірки з господаркою квартири](https://fakty.ua/450455-rasplatilsya-granatoj-na-harkovcshine-arendator-ustroil-razborki-s-hozyajkoj-kvartiry)
-- [«Поїду з ним»: Зеленський запросив спецпредставника президента США Келлога на фронт](https://fakty.ua/450425-poedu-s-nim-zelenskij-priglasil-specpredstavitelya-prezidenta-ssha-kelloga-na-front)
-- [Букмекери назвали переможця «Євробачення-2025»](https://fakty.ua/450433-bukmekery-nazvali-pobeditelya-evrovideniya-2025)
-- [Нова можливість для юних талантів: розпочався прийом заявок на конкурс Dity. Help Music](https://fakty.ua/450450-novaya-vozmozhnost-dlya-yunyh-talantov-nachalsya-priem-zayavok-na-konkurs-dity-help-music)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
