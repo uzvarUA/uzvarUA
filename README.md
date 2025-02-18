@@ -149,11 +149,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Вигадки про нестачу в Україні газу поширює ексглава Оператора ГТС Макогон, — Сазонов](https://fakty.ua/450506-vydumki-o-nehvatke-v-ukraine-gaza-rasprostranyaet-eks-glava-operatora-gts-makogon-sazonov)
+- [Неправильні настрої: Зеленський прокоментував зустріч США та росії у Саудівській Аравії](https://fakty.ua/450505-nepravilnye-nastroeniya-zelenskij-prokommentiroval-vstrechu-ssha-i-rossii-v-saudovskoj-aravii)
+- [Небезпечно як ніколи: експерт відзначив зростаючу небезпеку для ЗСУ на передовій](https://fakty.ua/450492-opasno-kak-nikogda-ekspert-otmetil-rastucshuyu-opasnost-dlya-vsu-na-peredovoj)
 - [Виконували замовлення рф: СБУ та Нацполіція затримали 7 підпалювачів у різних регіонах України](https://fakty.ua/450503-vypolnyali-zakazy-rf-sbu-i-nacpoliciya-zaderzhali-7-podzhigatelej-v-raznyh-regionah-ukrainy)
 - [Наступний Холостяк: у мережі назвали майбутнього героя романтичного реаліті](https://fakty.ua/450488-sleduyucshij-holostyak-v-seti-nazvali-buducshego-geroya-romanticheskogo-realiti)
-- [«Вундерваффе» не допомогло: ЗСУ знищили «суперзброю» окупантів](https://fakty.ua/450484-vundervaffe-ne-pomoglo-vsu-unichtozhili-superoruzhie-okkupantov)
-- [Військовий звинуватив Порошенка у брехні, коли той виправдовував своїх синів-ухилянтів](https://fakty.ua/450497-voennyj-obvinil-poroshenko-vo-lzhi-kogda-tot-opravdyval-svoih-synovej-uklonistov)
-- [«Суцільний вогонь!»: мережа у захваті від нової пісні YAKTAK &lpar;відео&rpar;](https://fakty.ua/450486-sploshnoj-ogon-set-v-vostorge-ot-novoj-pesni-yaktak-video)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
