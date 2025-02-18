@@ -149,11 +149,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [«Вундерваффе» не допомогло: ЗСУ знищили «суперзброю» окупантів](https://fakty.ua/450484-vundervaffe-ne-pomoglo-vsu-unichtozhili-superoruzhie-okkupantov)
 - [Військовий звинуватив Порошенка у брехні, коли той виправдовував своїх синів-ухилянтів](https://fakty.ua/450497-voennyj-obvinil-poroshenko-vo-lzhi-kogda-tot-opravdyval-svoih-synovej-uklonistov)
 - [«Суцільний вогонь!»: мережа у захваті від нової пісні YAKTAK &lpar;відео&rpar;](https://fakty.ua/450486-sploshnoj-ogon-set-v-vostorge-ot-novoj-pesni-yaktak-video)
 - [Зеленський назвав можливих гарантів безпеки України: США, Євросоюз і Туреччина](https://fakty.ua/450495-zelenskij-nazval-vozmozhnyh-garantov-bezopasnosti-ukrainy-ssha-evrosoyuz-i-turciya)
 - [З 1 березня на Україну чекає паливний колапс через припинення роботи АЗС? Що кажуть експерти](https://fakty.ua/450481-s-1-marta-ukrainu-zhdet-toplivnyj-kollaps-iz-za-prekracsheniya-raboty-azs-chto-govoryat-eksperty)
-- [Ціни в Україні продовжать зростати: фінансові аналітики оновили прогноз на рік](https://fakty.ua/450490-ceny-v-ukraine-prodolzhat-rasti-finansovye-analitiki-obnovili-prognoz-na-god)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
