@@ -149,11 +149,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Нічна атака ворога: на Кіровоградщині дрон росії влучив у багатоповерхівку, серед постраждалих є діти](https://fakty.ua/450464-nochnaya-ataka-vraga-v-kirovogradskoj-oblasti-dron-rossii-popal-v-mnogoetazhku-sredi-postradavshih-est-deti)
 - [Ніколи не кажи ніколи: Дженніфер Еністон налаштована на пошук кохання](https://fakty.ua/450445-nikogda-ne-govori-nikogda-dzhennifer-eniston-nastroena-na-poisk-lyubvi)
 - [Тотальне розчарування: мережа обурена спільним фото Тімура Мірошниченка та матері Ілона Маска](https://fakty.ua/450443-totalnoe-razocharovanie-set-vozmucshena-sovmestnym-foto-timura-miroshnichenko-i-materi-ilona-maska)
 - [ЗСУ знищили новітній ЗРК вартістю 135 млн дол.: про що це свідчить](https://fakty.ua/450438-vsu-unichtozhili-novejshij-zrk-stoimostyu-135-mln-dol-o-chem-eto-govorit)
 - [Звинувачення на адресу Олександра «Тихохода» спростовані, — завершено розслідування](https://fakty.ua/450460-obvineniya-v-adres-aleksandra-tihohoda-oprovergnuty---zaversheno-rassledovanie)
-- [Менше набряків, більше енергії: Злата Огнєвіч про свої звички у харчуванні](https://fakty.ua/450440-menshe-otekov-bolshe-energii-zlata-ognevich-o-svoih-privychkah-v-pitanii)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
