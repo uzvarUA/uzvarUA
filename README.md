@@ -149,11 +149,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [«У мене перше побачення»: переможниця «Холостяка» про нове кохання &lpar;фото&rpar;](https://fakty.ua/450483-u-menya-pervoe-svidanie-pobeditelnica-holostyaka-o-novoj-lyubvi-foto)
+- [«Зливав» ворогу дані про ексзасуджених, що погодились воювати за Україну: на Київщині затримано агента росії](https://fakty.ua/450485-quot-slival-quot-vragu-dannye-ob-eks-osuzhdennyh-kotorye-soglasilis-voevat-za-ukrainu-na-kievcshine-zaderzhan-agent-rossii)
+- [«До біса Трампа та його довбану нібито мирну угоду»: реакція американських добровольців, які воюють разом із ЗСУ](https://fakty.ua/450477-k-chertu-trampa-i-ego-dolbannoe-yakoby-mirnoe-soglashenie-reakciya-amerikanskih-dobrovolcev-voyuyucshih-vmeste-s-vsu)
 - [Падають… і знову встають: завершилися зйомки проєкту, який зазнав руйнувань від російської ракетної атаки](https://fakty.ua/450474-padayut-i-snova-vstayut-zavershilis-semki-proekta-kotoryj-podvergsya-razrusheniyam-ot-rossijskoj-raketnoj-ataki)
 - [Дніпровська кіностудія звернулася до Зеленського: попросили захисту від свавілля Нацполіції та суддів](https://fakty.ua/450480-dneprovskaya-kinostudiya-obratilas-k-zelenskomu-poprosili-zacshity-ot-proizvola-nacpolicii-i-sudej)
-- [Адвокати звинуватили НАБУ в тиску на підозрюваних для провокації хабарів, — ЗМІ](https://fakty.ua/450478-advokaty-obvinili-nabu-v-davlenii-na-podozrevaemyh-dlya-provokacii-vzyatok-smi)
-- [«На фронті не до політики, там іде рутинна робота зі знищення ворога», — військовий оглядач Богдан Мирошников](https://fakty.ua/450378-na-fronte-ne-do-politiki-tam-idet-rutinnaya-rabota-po-unichtozheniyu-vraga-voennyj-obozrevatel-bogdan-miroshnikov)
-- [Погода, але не тільки: чи варто очікувати зростання аварійних відключень та повернення погодинних графіків](https://fakty.ua/450459-pogoda-no-ne-tolko-stoit-li-ozhidat-rosta-avarijnyh-otklyuchenij-i-vozvracsheniya-pochasovyh-grafikov)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
