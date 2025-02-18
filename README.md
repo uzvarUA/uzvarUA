@@ -149,11 +149,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Осиротіли двоє дітей: під Авдіївкою загинув воїн з Вінниччини](https://fakty.ua/450453-osiroteli-dvoe-detej-pod-avdeevkoj-pogib-voin-iz-vinnickoj-oblasti)
 - [Позбавили «Оскара» та репутації: Джолі звинуватила Еністон та Пітта у змові](https://fakty.ua/450510-lishili-oskara-i-reputacii-andzhelina-dzholi-obvinila-eniston-i-pitta-v-sgovore)
 - [Вигадки про нестачу в Україні газу поширює ексглава Оператора ГТС Макогон, — Сазонов](https://fakty.ua/450506-vydumki-o-nehvatke-v-ukraine-gaza-rasprostranyaet-eks-glava-operatora-gts-makogon-sazonov)
 - [Неправильні настрої: Зеленський прокоментував зустріч США та росії у Саудівській Аравії](https://fakty.ua/450505-nepravilnye-nastroeniya-zelenskij-prokommentiroval-vstrechu-ssha-i-rossii-v-saudovskoj-aravii)
 - [Небезпечно як ніколи: експерт відзначив зростаючу небезпеку для ЗСУ на передовій](https://fakty.ua/450492-opasno-kak-nikogda-ekspert-otmetil-rastucshuyu-opasnost-dlya-vsu-na-peredovoj)
-- [Виконували замовлення рф: СБУ та Нацполіція затримали 7 підпалювачів у різних регіонах України](https://fakty.ua/450503-vypolnyali-zakazy-rf-sbu-i-nacpoliciya-zaderzhali-7-podzhigatelej-v-raznyh-regionah-ukrainy)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
