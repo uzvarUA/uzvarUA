@@ -149,11 +149,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Шабунін та Ніколов освоїли за рік 1,5 млн доларів але звернулись за грошима до українців, — експерт](https://fakty.ua/450523-shabunin-i-nikolov-osvoili-za-god-1-5-mln-dollarov-no-obratilis-za-dengami-k-ukraincam-ekspert)
+- [Терористами, які вбили трьох військових у Миколаєві, виявилися підлітки &lpar;фото&rpar;](https://fakty.ua/450521-terroristami-ubivshimi-troih-voennyh-v-nikolaeve-okazalis-podrostki-foto)
+- [Звʼязок з росією і виведені мільярди: ЗМІ про те, чому Микола Лагун має опинитися під санкціями](https://fakty.ua/450520-svyaz-s-rossiej-i-vyvedennye-milliardy-smi-o-tom-pochemu-nikolaj-lagun-dolzhen-okazatsya-pod-sankciyami)
+- [Вадим Попко: «Агенція національної єдності має приділити особливу увагу поверненню української молоді»](https://fakty.ua/450519-vadim-popko-quot-agentstvo-nacionalnogo-edinstva-dolzhno-udelit-osoboe-vnimanie-vozvracsheniyu-ukrainskoj-molodezhi-quot)
 - [Трамп — українцям: «Ви мали закінчити це за три роки»](https://fakty.ua/450515-tramp-ukraincam-vy-dolzhny-byli-zakonchit-eto-za-tri-goda)
-- [В Одесі після нальоту дронів без світла та тепла залишилися сотні житлових будинків, десятки шкіл та дитсадків &lpar;фото, відео&rpar;](https://fakty.ua/450512-v-odesse-posle-naleta-dronov-bez-sveta-i-tepla-ostalis-sotni-zhilyh-domov-desyatki-shkol-i-detsadov-foto-video)
-- [«Мене цінують і поважають»: Селена Гомес відверто розповіла, як ставиться до неї наречений](https://fakty.ua/450504-menya-cenyat-i-uvazhayut-selena-gomes-otkrovenno-rasskazala-kak-otnositsya-k-nej-zhenih)
-- [Осиротіли двоє дітей: під Авдіївкою загинув воїн з Вінниччини](https://fakty.ua/450453-osiroteli-dvoe-detej-pod-avdeevkoj-pogib-voin-iz-vinnickoj-oblasti)
-- [Позбавили «Оскара» та репутації: Джолі звинуватила Еністон та Пітта у змові](https://fakty.ua/450510-lishili-oskara-i-reputacii-andzhelina-dzholi-obvinila-eniston-i-pitta-v-sgovore)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
