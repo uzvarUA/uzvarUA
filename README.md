@@ -149,11 +149,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [У дніпровській кіностудії побоюються провокації: її директор пояснив чому](https://fakty.ua/450537-v-dneprovskoj-kinostudii-opasayutsya-provokacii-ee-direktor-obyasnil-pochemu)
+- [«Можу лише поспівчувати президенту Трампу»: Зеленський відреагував на випад глави США на його адресу](https://fakty.ua/450536-mogu-tolko-posochuvstvovat-prezidentu-trampu-zelenskij-otreagiroval-na-vypad-glavy-ssha-v-ego-adres)
 - [Грантові структури намагаються зберегти контроль над судовою системою України, — експерт](https://fakty.ua/450530-grantovye-struktury-pytayutsya-sohranit-kontrol-nad-sudebnoj-sistemoj-ukrainy---ekspert)
 - [Шабунін та Ніколов освоїли за рік 1,5 млн доларів але звернулись за грошима до українців, — експерт](https://fakty.ua/450523-shabunin-i-nikolov-osvoili-za-god-1-5-mln-dollarov-no-obratilis-za-dengami-k-ukraincam-ekspert)
 - [Терористами, які вбили трьох військових у Миколаєві, виявилися підлітки &lpar;фото&rpar;](https://fakty.ua/450521-terroristami-ubivshimi-troih-voennyh-v-nikolaeve-okazalis-podrostki-foto)
-- [Звʼязок з росією і виведені мільярди: ЗМІ про те, чому Микола Лагун має опинитися під санкціями](https://fakty.ua/450520-svyaz-s-rossiej-i-vyvedennye-milliardy-smi-o-tom-pochemu-nikolaj-lagun-dolzhen-okazatsya-pod-sankciyami)
-- [Вадим Попко: «Агенція національної єдності має приділити особливу увагу поверненню української молоді»](https://fakty.ua/450519-vadim-popko-quot-agentstvo-nacionalnogo-edinstva-dolzhno-udelit-osoboe-vnimanie-vozvracsheniyu-ukrainskoj-molodezhi-quot)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
