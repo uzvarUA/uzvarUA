@@ -149,11 +149,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Окупанти вдарили авіабомбами по Костянтинівці: пошкоджено десятки будинків, є жертви &lpar;фото, відео&rpar;](https://fakty.ua/450547-okkupanty-udarili-aviabombami-po-konstantinovke-povrezhdeny-desyatki-domov-est-zhertvy-foto-video)
 - [Помилка генерала: Залужний визнав свій прорахунок на початку війни з росією](https://fakty.ua/450531-oshibka-generala-zaluzhnyj-priznal-svoj-proschet-v-nachale-vojny-s-rossiej)
 - [Кінець епохи «Вірю в ЗСУ»: популярний співак та військовий звернувся до мережі](https://fakty.ua/450532-konec-epohi-veryu-v-vsu-populyarnyj-pevec-i-voennyj-obratilsya-k-seti)
 - [У дніпровській кіностудії побоюються провокації: її директор пояснив чому](https://fakty.ua/450537-v-dneprovskoj-kinostudii-opasayutsya-provokacii-ee-direktor-obyasnil-pochemu)
 - [«Можу лише поспівчувати президенту Трампу»: Зеленський відреагував на випад глави США на його адресу](https://fakty.ua/450536-mogu-tolko-posochuvstvovat-prezidentu-trampu-zelenskij-otreagiroval-na-vypad-glavy-ssha-v-ego-adres)
-- [Грантові структури намагаються зберегти контроль над судовою системою України, — експерт](https://fakty.ua/450530-grantovye-struktury-pytayutsya-sohranit-kontrol-nad-sudebnoj-sistemoj-ukrainy---ekspert)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
