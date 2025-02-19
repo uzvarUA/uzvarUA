@@ -149,11 +149,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [«Він завжди прагнув зробити світ кращим»: на війні загинув 33-річний боєць з Київщини](https://fakty.ua/450551-on-vsegda-stremilsya-sdelat-mir-luchshim-na-vojne-pogib-33-letnij-boec-s-kievcshiny)
+- [Кінопровали та розлучення: Дженніфер Лопес розчавлена](https://fakty.ua/450549-kinoprovaly-i-razvod-dzhennifer-lopes-razdavlena)
 - [Нова афера у месенджерах: українці масово отримують повідомлення про відкриття фінансових рахунків](https://fakty.ua/450561-novaya-afera-v-messendzherah-ukraincy-massovo-poluchayut-soobcsheniya-ob-otkrytii-finansovyh-schetov)
 - [Трамп назвав Зеленського диктатором і закликав поквапитися](https://fakty.ua/450560-tramp-nazval-zelenskogo-diktatorom-i-prizval-potoropitsya)
 - [Всі мають бути з цим згодні: у США прокоментували майбутні переговори між рф та Україною](https://fakty.ua/450546-vse-dolzhny-byt-s-etim-soglasny-v-ssha-prokommentirovali-predstoyacshie-peregovory-mezhdu-rf-i-ukrainoj)
-- [Мороз по шкірі: популярні артисти вразили потужними хітами](https://fakty.ua/450538-moroz-po-kozhe-populyarnye-artisty-porazili-mocshnymi-hitami)
-- [Окупанти вдарили авіабомбами по Костянтинівці: пошкоджено десятки будинків, є жертви &lpar;фото, відео&rpar;](https://fakty.ua/450547-okkupanty-udarili-aviabombami-po-konstantinovke-povrezhdeny-desyatki-domov-est-zhertvy-foto-video)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
