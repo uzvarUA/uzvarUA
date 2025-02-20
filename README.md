@@ -149,11 +149,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Жителі села Грязь вимагають висадити в повітря замок Алли Пугачової і Максима Галкіна](https://fakty.ua/450611-zhiteli-sela-gryaz-trebuyut-vzorvat-zamok-ally-pugachevoj-i-maksima-galkina)
+- [Тяжке поранення не залишило шансів: на Київщині попрощалися з бійцем, який у перші дні війни пішов добровольцем на фронт](https://fakty.ua/450548-tyazheloe-ranenie-ne-ostavilo-shansov-na-kievcshine-poprocshalis-s-bojcom-kotoryj-v-pervye-dni-vojny-poshel-dobrovolcem-na-front)
 - [Журналіст Бутусов займається «руйнівним патріотизмом», що «грає на руку путіну» — Корчинський](https://fakty.ua/450608-zhurnalist-butusov-zanimaetsya-razrushitelnym-patriotizmom-chto-igraet-na-ruku-putinu---korchinskij)
 - [Загарбники масовано обстріляли Костянтинівку: загинули двоє чоловіків і дві жінки](https://fakty.ua/450606-zahvatchiki-massovo-obstrelyali-konstantinovku-pogibli-dvoe-muzhchin-i-dve-zhencshiny)
 - [Тіна Кароль чи Дорофєєва: оголошено номінантів на музичну премію YUNA](https://fakty.ua/450590-tina-karol-ili-dorofeeva-obyavleny-nominanty-na-muzykalnuyu-premiyu-yuna)
-- [Залишила незабутні враження: стало відомо, як Меган Маркл стала зіркою серіалу «Костюми»](https://fakty.ua/450579-ostavila-nezabyvaemye-vpechatleniya-stalo-izvestno-kak-megan-markl-stala-zvezdoj-seriala-quot-kostyumy-quot)
-- [Неодноразово скоював воєнні злочини проти українців: в Бердянську ліквідували топ-окупанта](https://fakty.ua/450603-neodnokratno-sovershal-voennye-prestupleniya-protiv-ukraincev-v-berdyanske-likvidirovali-top-okkupanta)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
