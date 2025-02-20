@@ -149,11 +149,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
-- [Кохана Леонардо Ді Капріо Вітторія знялася топлес на відпочинку](https://fakty.ua/450582-vozlyublennaya-leonardo-di-kaprio-vittoriya-snyalas-topless-na-otdyhe)
-- [Нове регулювання фармринку може спричинити дефіцит ліків в Україні, — директор БФ «Крапля крові»](https://fakty.ua/450597-novoe-regulirovanie-farmrynka-mozhet-vyzvat-deficit-lekarstv-v-ukraine---direktor-bf-kaplya-krovi)
-- [Можна і дахом поїхати: Лілія Ребрик звернулася до шанувальників](https://fakty.ua/450587-mozhno-i-kryshej-poehat-liliya-rebrik-obratilas-k-poklonnikam)
-- [Змінила моє сприйняття: українська режисерка народила напередодні прем’єри у Берліні](https://fakty.ua/450584-izmenila-moe-vospriyatie-ukrainskij-rezhisser-rodila-nakanune-premery-v-berline)
-- [Зеленський назвав країни, які проти вступу України до НАТО](https://fakty.ua/450571-zelenskij-nazval-strany-kotorye-protiv-vstupleniya-ukrainy-v-nato)
+- [Неодноразово скоював воєнні злочини проти українців: в Бердянську ліквідували топ-окупанта](https://fakty.ua/450603-neodnokratno-sovershal-voennye-prestupleniya-protiv-ukraincev-v-berdyanske-likvidirovali-top-okkupanta)
+- [Намагаються вбити клин: Буданов розскрив суть політики росії щодо Польщі та України](https://fakty.ua/450596-pytayutsya-vbit-klin-budanov-raskryl-sut-politiki-rossii-v-otnoshenii-polshi-i-ukrainy)
+- [Зробив корекцію: відомий гуморист вступив до лав ЗСУ](https://fakty.ua/450588-sdelal-korrekciyu-izvestnyj-yumorist-vstupil-v-ryady-vsu)
+- [Темні часи для Зеленського — росія та США витісняють його зі сцени, — ЗМІ](https://fakty.ua/450576-temnye-vremena-dlya-zelenskogo---rossiya-i-ssha-vytesnyayut-ego-so-sceny---smi)
+- [Кохана Леонардо Ді Капріо Вітторія Черетті знялася топлес на відпочинку](https://fakty.ua/450582-vozlyublennaya-leonardo-di-kaprio-vittoriya-snyalas-topless-na-otdyhe)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
