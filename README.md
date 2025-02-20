@@ -149,11 +149,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Новий україномовний хіт «Інстинкт» від LOBODA розриває топ чартів в Україні](https://fakty.ua/450569-novyj-ukrainoyazychnyj-hit-instinkt-ot-loboda-razryvaet-top-chartov-v-ukraine)
+- [Трамп знову накинувся на Зеленського зі звинуваченнями: що стверджує 47-й президент США](https://fakty.ua/450564-tramp-snova-nabrosilsya-na-zelenskogo-s-obvineniyami-chto-utverzhdaet-47-j-prezident-ssha)
 - [Країна-терорист масовано атакувала Україну з повітря: є постраждалі та руйнування &lpar;фото та відео&rpar;](https://fakty.ua/450563-strana-terrorist-massirovanno-atakovala-ukrainu-s-vozduha-est-postradavshie-i-razrusheniya-foto-i-video)
 - [«Він завжди прагнув зробити світ кращим»: на війні загинув 33-річний боєць з Київщини](https://fakty.ua/450551-on-vsegda-stremilsya-sdelat-mir-luchshim-na-vojne-pogib-33-letnij-boec-s-kievcshiny)
 - [Кінопровали та розлучення: Дженніфер Лопес розчавлена](https://fakty.ua/450549-kinoprovaly-i-razvod-dzhennifer-lopes-razdavlena)
-- [Нова афера у месенджерах: українці масово отримують повідомлення про відкриття фінансових рахунків](https://fakty.ua/450561-novaya-afera-v-messendzherah-ukraincy-massovo-poluchayut-soobcsheniya-ob-otkrytii-finansovyh-schetov)
-- [Трамп назвав Зеленського диктатором і закликав поквапитися](https://fakty.ua/450560-tramp-nazval-zelenskogo-diktatorom-i-prizval-potoropitsya)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
