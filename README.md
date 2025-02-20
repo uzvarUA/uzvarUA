@@ -149,11 +149,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Кохана Леонардо Ді Капріо Вітторія знялася топлес на відпочинку](https://fakty.ua/450582-vozlyublennaya-leonardo-di-kaprio-vittoriya-snyalas-topless-na-otdyhe)
+- [Нове регулювання фармринку може спричинити дефіцит ліків в Україні, — директор БФ «Крапля крові»](https://fakty.ua/450597-novoe-regulirovanie-farmrynka-mozhet-vyzvat-deficit-lekarstv-v-ukraine---direktor-bf-kaplya-krovi)
+- [Можна і дахом поїхати: Лілія Ребрик звернулася до шанувальників](https://fakty.ua/450587-mozhno-i-kryshej-poehat-liliya-rebrik-obratilas-k-poklonnikam)
 - [Змінила моє сприйняття: українська режисерка народила напередодні прем’єри у Берліні](https://fakty.ua/450584-izmenila-moe-vospriyatie-ukrainskij-rezhisser-rodila-nakanune-premery-v-berline)
 - [Зеленський назвав країни, які проти вступу України до НАТО](https://fakty.ua/450571-zelenskij-nazval-strany-kotorye-protiv-vstupleniya-ukrainy-v-nato)
-- [В Україні вшановують пам’ять Небесної Сотні — перших героїв російсько-української війни](https://fakty.ua/450586-v-ukraine-chtyat-pamyat-nebesnoj-sotni-pervyh-geroev-rossijsko-ukrainskoj-vojny)
-- [Втрати Кім Чен Ина: знищено першу САУ з КНДР, яка допомагала окупантам на Лиманському напрямку](https://fakty.ua/450558-poteri-kim-chen-yna-unichtozhena-pervaya-sau-iz-kndr-pomogavshaya-okkupantam-na-limanskom-napravlenii)
-- [«Страх блокував звичайний глузд»: фіналіст Нацвідбору, співак Khayat про виклики під час великої війни](https://fakty.ua/450565-strah-blokiroval-razum-finalist-nacotbora-pevec-khayat-o-vyzovah-vo-vremya-bolshoj-vojny)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
