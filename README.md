@@ -149,11 +149,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Змінила моє сприйняття: українська режисерка народила напередодні прем’єри у Берліні](https://fakty.ua/450584-izmenila-moe-vospriyatie-ukrainskij-rezhisser-rodila-nakanune-premery-v-berline)
 - [Зеленський назвав країни, які проти вступу України до НАТО](https://fakty.ua/450571-zelenskij-nazval-strany-kotorye-protiv-vstupleniya-ukrainy-v-nato)
 - [В Україні вшановують пам’ять Небесної Сотні — перших героїв російсько-української війни](https://fakty.ua/450586-v-ukraine-chtyat-pamyat-nebesnoj-sotni-pervyh-geroev-rossijsko-ukrainskoj-vojny)
 - [Втрати Кім Чен Ина: знищено першу САУ з КНДР, яка допомагала окупантам на Лиманському напрямку](https://fakty.ua/450558-poteri-kim-chen-yna-unichtozhena-pervaya-sau-iz-kndr-pomogavshaya-okkupantam-na-limanskom-napravlenii)
 - [«Страх блокував звичайний глузд»: фіналіст Нацвідбору, співак Khayat про виклики під час великої війни](https://fakty.ua/450565-strah-blokiroval-razum-finalist-nacotbora-pevec-khayat-o-vyzovah-vo-vremya-bolshoj-vojny)
-- [Ворог випустив по Україні 14 ракет і більше 160 дронів: скільки цілей знищила ППО](https://fakty.ua/450573-vrag-vypustil-po-ukraine-14-raket-i-bolee-160-dronov-skolko-celej-unichtozhila-pvo)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
