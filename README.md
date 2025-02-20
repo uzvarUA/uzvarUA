@@ -149,11 +149,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Журналіст Бутусов займається «руйнівним патріотизмом», що «грає на руку путіну» — Корчинський](https://fakty.ua/450608-zhurnalist-butusov-zanimaetsya-razrushitelnym-patriotizmom-chto-igraet-na-ruku-putinu---korchinskij)
+- [Загарбники масовано обстріляли Костянтинівку: загинули двоє чоловіків і дві жінки](https://fakty.ua/450606-zahvatchiki-massovo-obstrelyali-konstantinovku-pogibli-dvoe-muzhchin-i-dve-zhencshiny)
 - [Тіна Кароль чи Дорофєєва: оголошено номінантів на музичну премію YUNA](https://fakty.ua/450590-tina-karol-ili-dorofeeva-obyavleny-nominanty-na-muzykalnuyu-premiyu-yuna)
 - [Залишила незабутні враження: стало відомо, як Меган Маркл стала зіркою серіалу «Костюми»](https://fakty.ua/450579-ostavila-nezabyvaemye-vpechatleniya-stalo-izvestno-kak-megan-markl-stala-zvezdoj-seriala-quot-kostyumy-quot)
 - [Неодноразово скоював воєнні злочини проти українців: в Бердянську ліквідували топ-окупанта](https://fakty.ua/450603-neodnokratno-sovershal-voennye-prestupleniya-protiv-ukraincev-v-berdyanske-likvidirovali-top-okkupanta)
-- [Намагаються вбити клин: Буданов розскрив суть політики росії щодо Польщі та України](https://fakty.ua/450596-pytayutsya-vbit-klin-budanov-raskryl-sut-politiki-rossii-v-otnoshenii-polshi-i-ukrainy)
-- [Зробив корекцію: відомий гуморист вступив до лав ЗСУ](https://fakty.ua/450588-sdelal-korrekciyu-izvestnyj-yumorist-vstupil-v-ryady-vsu)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
