@@ -151,11 +151,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Вночі Україну атакували 160 ворожих дронів: постраждали чотири області](https://fakty.ua/450613-nochyu-ukrainu-atakovali-160-vrazheskih-dronov-postradali-chetyre-oblasti)
 - [Мені дійсно довелося змінити своє мислення: Геллі Беррі відверто розповіла про минулі романи](https://fakty.ua/450592-mne-dejstvitelno-prishlos-izmenit-svoe-myshlenie-helli-berri-otkrovenno-rasskazala-o-proshlyh-romanah)
 - [Жителі села Грязь вимагають висадити в повітря замок Алли Пугачової і Максима Галкіна](https://fakty.ua/450611-zhiteli-sela-gryaz-trebuyut-vzorvat-zamok-ally-pugachevoj-i-maksima-galkina)
 - [Тяжке поранення не залишило шансів: на Київщині попрощалися з бійцем, який у перші дні війни пішов добровольцем на фронт](https://fakty.ua/450548-tyazheloe-ranenie-ne-ostavilo-shansov-na-kievcshine-poprocshalis-s-bojcom-kotoryj-v-pervye-dni-vojny-poshel-dobrovolcem-na-front)
 - [Журналіст Бутусов займається «руйнівним патріотизмом», що «грає на руку путіну» — Корчинський](https://fakty.ua/450608-zhurnalist-butusov-zanimaetsya-razrushitelnym-patriotizmom-chto-igraet-na-ruku-putinu---korchinskij)
-- [Загарбники масовано обстріляли Костянтинівку: загинули двоє чоловіків і дві жінки](https://fakty.ua/450606-zahvatchiki-massovo-obstrelyali-konstantinovku-pogibli-dvoe-muzhchin-i-dve-zhencshiny)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
