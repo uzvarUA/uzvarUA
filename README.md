@@ -152,11 +152,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Справжній кайф: популярна співачка вразила чуттєвою піснею &lpar;відео&rpar;](https://fakty.ua/450637-nastoyacshij-kajf-populyarnaya-pevica-porazila-trogatelnoj-pesnej-video)
+- [Розтрата коштів на ремонті доріг: прокуратура відкрила справу проти керівництва Опішнянської ОТГ](https://fakty.ua/450658-rastrata-sredstv-na-remont-dorog-prokuratura-otkryla-delo-protiv-rukovodstva-opishnyanskoj-otg)
+- [Без США Україна може не протриматися проти росії більше пів року, — ЗМІ](https://fakty.ua/450625-bez-ssha-ukraina-mozhet-ne-proderzhatsya-protiv-rossii-bolee-polugoda---smi)
 - [В Одесі зловили агента фсб, який підірвав автомобіль військового прокурора &lpar;фото&rpar;](https://fakty.ua/450657-v-odesse-pojmali-agenta-fsb-podorvavshego-avtomobil-voennogo-prokurora-foto)
 - [Костянтинівка знову під ворожим вогнем: росіяни завдали авіаудару по житловому сектору &lpar;фото&rpar;](https://fakty.ua/450656-konstantinovka-snova-pod-vrazheskim-ognem-rossiyane-nanesli-aviaudar-po-zhilomu-sektoru)
-- [Бійці ЗСУ знайшли слабке місце у дронів на оптоволокні окупантів: це може коштувати життя їхнім операторам](https://fakty.ua/450620-bojcy-vsu-nashli-slaboe-mesto-u-dronov-na-optovolokne-okkupantov-eto-mozhet-stoit-zhizni-ih-operatoram)
-- [Карткові шахрайства: топ-5 афер із картками, що з’явилися 2024-го року](https://fakty.ua/450616-kartochnye-moshennichestva-top-5-afer-s-kartami-poyavivshiesya-v-2024-m-godu)
-- [«Покиньте надію!»: Холостяк Олександр «Терен» вразив зверненням](https://fakty.ua/450628-quot-ostavte-nadezhdu-quot-holostyak-aleksandr-quot-teren-quot-porazil-obracsheniem)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
