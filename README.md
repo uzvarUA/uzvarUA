@@ -152,11 +152,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [В Одесі зловили агента фсб, який підірвав автомобіль військового прокурора &lpar;фото&rpar;](https://fakty.ua/450657-v-odesse-pojmali-agenta-fsb-podorvavshego-avtomobil-voennogo-prokurora-foto)
+- [Костянтинівка знову під ворожим вогнем: росіяни завдали авіаудару по житловому сектору &lpar;фото&rpar;](https://fakty.ua/450656-konstantinovka-snova-pod-vrazheskim-ognem-rossiyane-nanesli-aviaudar-po-zhilomu-sektoru)
+- [Бійці ЗСУ знайшли слабке місце у дронів на оптоволокні окупантів: це може коштувати життя їхнім операторам](https://fakty.ua/450620-bojcy-vsu-nashli-slaboe-mesto-u-dronov-na-optovolokne-okkupantov-eto-mozhet-stoit-zhizni-ih-operatoram)
 - [Карткові шахрайства: топ-5 афер із картками, що з’явилися 2024-го року](https://fakty.ua/450616-kartochnye-moshennichestva-top-5-afer-s-kartami-poyavivshiesya-v-2024-m-godu)
 - [«Покиньте надію!»: Холостяк Олександр «Терен» вразив зверненням](https://fakty.ua/450628-quot-ostavte-nadezhdu-quot-holostyak-aleksandr-quot-teren-quot-porazil-obracsheniem)
-- [Через дії правоохоронців кіностудія з Дніпра звернулась до директора ДБР](https://fakty.ua/450640-iz-za-dejstvij-pravoohranitelej-kinostudiya-iz-dnepra-obratilas-k-direktoru-gbr)
-- [Впродовж десятиліть росія для Порошенка була другом і партнером, — експерт](https://fakty.ua/450630-na-protyazhenii-desyatiletij-rossiya-dlya-poroshenko-byla-drugom-i-partnerom---ekspert)
-- [Востаннє таке було в 6 класі: Наталя Могилевська тяжко захворіла](https://fakty.ua/450624-v-poslednij-raz-takoe-bylo-v-6-klasse-natalya-mogilevskaya-tyazhelo-zabolela)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
