@@ -21,6 +21,7 @@
 - [Minecraft Movie](#minecraft-movie)
 - [Minecraft Movie 2](#minecraft-movie-2)
 - [Minecraft Bedrock Edition](#minecraft-bedrock-edition)
+- [Key Mapper](#key-mapper)
 ***
 # Як проголосувати за тему?
 *Ви допоможете вибрати тему*
@@ -239,3 +240,7 @@ curl -s -o ~/x https://raw.githubusercontent.com/olegos2/mobox/main/install && .
 |---|---|
 | Forestry NPC number 42 | [Minecraft Bedrock Edition (PE) v1.20.60](https://bit.ly/41mYfmu)
 ***
+# Key Mapper
+| Завантажити |
+|---|
+| [Key Mapper.zip](https://www.mediafire.com/file/gov4yi9uhx7ob1q/Key_Mapper_.zip/file)
