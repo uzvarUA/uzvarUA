@@ -151,11 +151,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Впродовж десятиліть росія для Порошенка була другом і партнером, — експерт](https://fakty.ua/450630-na-protyazhenii-desyatiletij-rossiya-dlya-poroshenko-byla-drugom-i-partnerom---ekspert)
 - [Востаннє таке було в 6 класі: Наталя Могилевська тяжко захворіла](https://fakty.ua/450624-v-poslednij-raz-takoe-bylo-v-6-klasse-natalya-mogilevskaya-tyazhelo-zabolela)
 - [«Це сигнал, що для кремля взагалі немає червоних ліній»: експертка з ядерної безпеки Ольга Кошарна про влучання в ЧАЕС](https://fakty.ua/450508-eto-signal-chto-dlya-kremlya-voobcshe-net-krasnyh-linij---ekspert-po-yadernoj-bezopasnosti-olga-kosharnaya-o-popadanii-v-chaes)
 - [Агенти фсб готували теракти на Київщині: в СБУ розповіли подробиці затримання диверсантів &lpar;фото&rpar;](https://fakty.ua/450621-agenty-fsb-gotovili-terakty-v-kievskoj-oblasti-v-sbu-rasskazali-podrobnosti-poimki-diversantov-foto)
 - [До річниці вторгнення росія готується оголосити про перемогу над Україною та… НАТО, — ГУР](https://fakty.ua/450617-k-godovcshine-vtorzheniya-rossiya-gotovitsya-obyavit-o-pobede-nad-ukrainoj-i-nato---gur)
-- [Вночі Україну атакували 160 ворожих дронів: постраждали чотири області](https://fakty.ua/450613-nochyu-ukrainu-atakovali-160-vrazheskih-dronov-postradali-chetyre-oblasti)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
