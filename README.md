@@ -152,11 +152,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [На війні із 2018 року: у бою на Харківщині загинув оператор БпЛА із Кіровоградщини](https://fakty.ua/450627-na-vojne-s-2018-goda-v-boyu-na-harkovcshine-pogib-operator-bpla-s-kirovogradcshiny)
 - [Справжній кайф: популярна співачка вразила чуттєвою піснею &lpar;відео&rpar;](https://fakty.ua/450637-nastoyacshij-kajf-populyarnaya-pevica-porazila-trogatelnoj-pesnej-video)
 - [Розтрата коштів на ремонті доріг: прокуратура відкрила справу проти керівництва Опішнянської ОТГ](https://fakty.ua/450658-rastrata-sredstv-na-remont-dorog-prokuratura-otkryla-delo-protiv-rukovodstva-opishnyanskoj-otg)
 - [Без США Україна може не протриматися проти росії більше пів року, — ЗМІ](https://fakty.ua/450625-bez-ssha-ukraina-mozhet-ne-proderzhatsya-protiv-rossii-bolee-polugoda---smi)
 - [В Одесі зловили агента фсб, який підірвав автомобіль військового прокурора &lpar;фото&rpar;](https://fakty.ua/450657-v-odesse-pojmali-agenta-fsb-podorvavshego-avtomobil-voennogo-prokurora-foto)
-- [Костянтинівка знову під ворожим вогнем: росіяни завдали авіаудару по житловому сектору &lpar;фото&rpar;](https://fakty.ua/450656-konstantinovka-snova-pod-vrazheskim-ognem-rossiyane-nanesli-aviaudar-po-zhilomu-sektoru)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
