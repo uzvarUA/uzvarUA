@@ -20,6 +20,7 @@
 - [Сід](#сід)
 - [Minecraft Movie](#minecraft-movie)
 - [Minecraft Movie 2](#minecraft-movie-2)
+- [Minecraft Bedrock Edition](#minecraft-bedrock-edition)
 ***
 # Як проголосувати за тему?
 *Ви допоможете вибрати тему*
@@ -233,3 +234,8 @@ curl -s -o ~/x https://raw.githubusercontent.com/olegos2/mobox/main/install && .
 | Terrain_rework.mcaddon |
 ***
 [Завантажити](https://www.mediafire.com/file/z78mnynykdyi6dj/Minecraft_Movie_2.zip/file)
+# Minecraft Bedrock Edition 
+| Збірка | Завантажити |
+|---|---|
+| Forestry NPC number 42 | [Minecraft Bedrock Edition (PE) v1.20.60](https://bit.ly/41mYfmu)
+***
