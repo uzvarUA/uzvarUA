@@ -22,6 +22,7 @@
 - [Minecraft Movie 2](#minecraft-movie-2)
 - [Minecraft Bedrock Edition](#minecraft-bedrock-edition)
 - [Key Mapper](#key-mapper)
+- [Ексклюзивний Крафт](#ексклюзивний-крафт)
 ***
 # Як проголосувати за тему?
 *Ви допоможете вибрати тему*
@@ -244,3 +245,10 @@ curl -s -o ~/x https://raw.githubusercontent.com/olegos2/mobox/main/install && .
 | Завантажити |
 |---|
 | [Key Mapper.zip](https://www.mediafire.com/file/gov4yi9uhx7ob1q/Key_Mapper_.zip/file)
+# Ексклюзивний Крафт
+**Читати тут**:
+[Minecraft Bedrock Edition](https://github.com/uzvarUA/Minecraft-bedrock-edition)
+***
+| Завантажити |
+|---|
+| [Forestry NPC number 42 for Minecraft Bedrock Edition (PE)](https://github.com/uzvarUA/Minecraft-bedrock-edition/releases)
