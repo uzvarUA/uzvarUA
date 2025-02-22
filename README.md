@@ -152,11 +152,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [У 16 разів менше, ніж сказав Трамп: Мінфін показав, скільки Україна отримала фінансової допомоги до держбюджету від США](https://fakty.ua/450686-v-16-raz-menshe-chem-skazal-tramp-minfin-pokazal-skolko-ukraina-poluchila-finansovoj-pomocshi-v-gosbyudzhet-ot-ssha)
 - [Угода про копалини буде більш жорсткою для України: ЗМІ дізнались подробиці](https://fakty.ua/450689-soglashenie-ob-iskopaemyh-budet-bolee-zhestkim-dlya-ukrainy-smi-uznali-podrobnosti)
 - [В Одесі чоловік стріляв у бійців із ТЦК та СП: перші подробиці &lpar;фото&rpar;](https://fakty.ua/450685-v-odesse-muzhchina-strelyal-v-bojcov-iz-tck-i-sp-pervye-podrobnosti-foto)
 - [Підірвати замок Пугачової не вийде: хейтери Примадонни розчаровані новинами з села Грязь](https://fakty.ua/450679-vzorvat-zamok-pugachevoj-ne-poluchitsya-hejtery-primadonny-razocharovany-novostyami-iz-sela-gryaz)
 - [Ворог вдарив по Костянтинівці авіабомбами: є загиблі, під завалами шукають людей &lpar;фото, відео&rpar;](https://fakty.ua/450681-vrag-udaril-po-konstantinovke-aviabombami-est-pogibshie-pod-zavalami-icshut-lyudej-foto-video)
-- [Є й «альтернативні речі»: в ЦПД відреагували на погрози США відключити Starlink в Україні](https://fakty.ua/450678-nadeemsya-na-quot-alternativnye-vecshi-quot-v-cpd-otreagirovali-na-ugrozy-ssha-otklyuchit-starlink-v-ukraine)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
