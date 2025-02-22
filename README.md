@@ -152,11 +152,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Є й «альтернативні речі»: в ЦПД відреагували на погрози США відключити Starlink в Україні](https://fakty.ua/450678-nadeemsya-na-quot-alternativnye-vecshi-quot-v-cpd-otreagirovali-na-ugrozy-ssha-otklyuchit-starlink-v-ukraine)
+- [росія може передати заморожені активи на відбудову України, але є умова — ЗМІ](https://fakty.ua/450668-rossiya-mozhet-peredat-zamorozhennye-aktivy-na-vosstanovlenie-ukrainy-no-est-uslovie---smi)
 - [В ТОПі — ні Потапа, ні Полякової: названо найбільш популярних виконавців України](https://fakty.ua/450673-v-top-ni-potapa-ni-polyakovoj-nazvany-samye-populyarnye-ispolniteli-ukrainy)
 - [«Війна забрала в мене дім, але не силу»: українська співачка про втрати та виклики під час війни](https://fakty.ua/450655-vojna-zabrala-u-menya-dom-no-ne-silu-ukrainskaya-pevica-o-poteryah-i-vyzovah-vo-vremya-vojny)
 - [Українські дрони знеструмили та зупинили роботу нафтоперекачувальної станції у Краснодарському краї](https://fakty.ua/450669-ukrainskie-drony-obestochili-i-ostanovili-rabotu-nefteperekachivayucshej-stancii-v-krasnodarskom-krae)
-- [Ненадійний союзник: США почали погрожувати Україні відключенням Starlink без угоди про рідкоземельні метали](https://fakty.ua/450666-nenadezhnyj-soyuznik-ssha-nachali-ugrozhat-ukraine-otklyucheniem-starlink-bez-soglasheniya-o-redkozemelnyh-metallah)
-- [Двоє людей загинули внаслідок російських обстрілів Донецької області &lpar;фото&rpar;](https://fakty.ua/450664-dva-cheloveka-pogibli-v-rezultate-rossijskih-obstrelov-doneckoj-oblasti-foto)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
