@@ -152,11 +152,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [«Війна забрала в мене дім, але не силу»: українська співачка про втрати та виклики під час війни](https://fakty.ua/450655-vojna-zabrala-u-menya-dom-no-ne-silu-ukrainskaya-pevica-o-poteryah-i-vyzovah-vo-vremya-vojny)
 - [Українські дрони знеструмили та зупинили роботу нафтоперекачувальної станції у Краснодарському краї](https://fakty.ua/450669-ukrainskie-drony-obestochili-i-ostanovili-rabotu-nefteperekachivayucshej-stancii-v-krasnodarskom-krae)
 - [Ненадійний союзник: США почали погрожувати Україні відключенням Starlink без угоди про рідкоземельні метали](https://fakty.ua/450666-nenadezhnyj-soyuznik-ssha-nachali-ugrozhat-ukraine-otklyucheniem-starlink-bez-soglasheniya-o-redkozemelnyh-metallah)
 - [Двоє людей загинули внаслідок російських обстрілів Донецької області &lpar;фото&rpar;](https://fakty.ua/450664-dva-cheloveka-pogibli-v-rezultate-rossijskih-obstrelov-doneckoj-oblasti-foto)
 - [Ворог вчергове атакував Україну з повітря: на Київщині загинула людина, зафіксовано пошкодження та пожежі](https://fakty.ua/450659-vrag-v-ocherednoj-raz-atakoval-ukrainu-s-vozduha-v-kievskoj-oblasti-pogib-chelovek-zafiksirovany-povrezhdeniya-i-pozhary)
-- [Кіно не дивлюся: Роберт Де Ніро розповів про виховання 22-місячної доньки у 81 рік](https://fakty.ua/450642-kino-ne-smotryu-robert-de-niro-rasskazal-o-vospitanii-22-mesyachnoj-docheri-v-81-god)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
