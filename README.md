@@ -152,11 +152,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Розчулив навіть Аллу Пугачову: Максим Галкін розповів, що робить у хвилини депресії](https://fakty.ua/450695-uslyhal-dazhe-allu-pugachevu-maksim-galkin-rasskazal-chto-delaet-v-minuty-depressii)
+- [За зразкову службу неодноразово отримував подяки: на війні поліг механізатор з Черкащини](https://fakty.ua/450682-za-obrazcovuyu-sluzhbu-neodnokratno-poluchal-blagodarnosti-na-vojne-pogib-mehanizator-s-cherkaschiny)
 - [У 16 разів менше, ніж сказав Трамп: Мінфін показав, скільки Україна отримала фінансової допомоги до держбюджету від США](https://fakty.ua/450686-v-16-raz-menshe-chem-skazal-tramp-minfin-pokazal-skolko-ukraina-poluchila-finansovoj-pomocshi-v-gosbyudzhet-ot-ssha)
 - [Угода про копалини буде більш жорсткою для України: ЗМІ дізнались подробиці](https://fakty.ua/450689-soglashenie-ob-iskopaemyh-budet-bolee-zhestkim-dlya-ukrainy-smi-uznali-podrobnosti)
 - [В Одесі чоловік стріляв у бійців із ТЦК та СП: перші подробиці &lpar;фото&rpar;](https://fakty.ua/450685-v-odesse-muzhchina-strelyal-v-bojcov-iz-tck-i-sp-pervye-podrobnosti-foto)
-- [Підірвати замок Пугачової не вийде: хейтери Примадонни розчаровані новинами з села Грязь](https://fakty.ua/450679-vzorvat-zamok-pugachevoj-ne-poluchitsya-hejtery-primadonny-razocharovany-novostyami-iz-sela-gryaz)
-- [Ворог вдарив по Костянтинівці авіабомбами: є загиблі, під завалами шукають людей &lpar;фото, відео&rpar;](https://fakty.ua/450681-vrag-udaril-po-konstantinovke-aviabombami-est-pogibshie-pod-zavalami-icshut-lyudej-foto-video)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
