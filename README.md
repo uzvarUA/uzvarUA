@@ -152,11 +152,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Угода про копалини буде більш жорсткою для України: ЗМІ дізнались подробиці](https://fakty.ua/450689-soglashenie-ob-iskopaemyh-budet-bolee-zhestkim-dlya-ukrainy-smi-uznali-podrobnosti)
 - [В Одесі чоловік стріляв у бійців із ТЦК та СП: перші подробиці &lpar;фото&rpar;](https://fakty.ua/450685-v-odesse-muzhchina-strelyal-v-bojcov-iz-tck-i-sp-pervye-podrobnosti-foto)
 - [Підірвати замок Пугачової не вийде: хейтери Примадонни розчаровані новинами з села Грязь](https://fakty.ua/450679-vzorvat-zamok-pugachevoj-ne-poluchitsya-hejtery-primadonny-razocharovany-novostyami-iz-sela-gryaz)
 - [Ворог вдарив по Костянтинівці авіабомбами: є загиблі, під завалами шукають людей &lpar;фото, відео&rpar;](https://fakty.ua/450681-vrag-udaril-po-konstantinovke-aviabombami-est-pogibshie-pod-zavalami-icshut-lyudej-foto-video)
 - [Є й «альтернативні речі»: в ЦПД відреагували на погрози США відключити Starlink в Україні](https://fakty.ua/450678-nadeemsya-na-quot-alternativnye-vecshi-quot-v-cpd-otreagirovali-na-ugrozy-ssha-otklyuchit-starlink-v-ukraine)
-- [росія може передати заморожені активи на відбудову України, але є умова — ЗМІ](https://fakty.ua/450668-rossiya-mozhet-peredat-zamorozhennye-aktivy-na-vosstanovlenie-ukrainy-no-est-uslovie---smi)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
