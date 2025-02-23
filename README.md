@@ -152,11 +152,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Сильно тішився онуками: на війні загинув воїн з Вінниччини, який рік вважався безвісти зниклим](https://fakty.ua/450717-ochen-radovalsya-vnukam-na-vojne-pogib-voin-iz-vinnickoj-oblasti-kotoryj-god-schitalsya-bez-vesti-propavshim)
 - [«Я не розумію цієї логіки»: Зеленський пояснив, чому не підписав угоду про рідкісноземи зі США](https://fakty.ua/450729-ya-ne-ponimayu-etoj-logiki-zelenskij-obyasnil-pochemu-ne-podpisal-soglashenie-o-redkozemah-s-ssha)
 - [росія відправляє у бій солдатів на милицях: CNN навело докази](https://fakty.ua/450720-rossiya-otpravlyaet-v-boj-soldat-na-kostylyah-cnn-privelo-dokazatelstva)
 - [Готовий «поміняти» президентську посаду на НАТО, — Зеленський](https://fakty.ua/450727-gotov-pomenyat-prezidentskij-post-na-nato---zelenskij)
 - [Трамп хоче заробляти на звільнених від окупації територіях — ЗМІ](https://fakty.ua/450718-tramp-hochet-zarabatyvat-na-osvobozhdennyh-ot-okkupacii-territoriyah---smi)
-- [Буданова планували вбити до інавгурації путіна у 2024 році, — Малюк &lpar;відео&rpar;](https://fakty.ua/450721-budanova-planirovali-ubit-k-inauguracii-putina-v-2024-godu---malyuk-video)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
