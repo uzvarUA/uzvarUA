@@ -152,11 +152,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Десятки багатоповерхівок та автомобілів пошкоджено у Кривому Розі та Запоріжжі після нічної атаки росіян &lpar;фото, відео&rpar;](https://fakty.ua/450697-desyatki-mnogoetazhek-i-avtomobilej-povrezhdeny-v-krivom-roge-i-zaporozhe-posle-nochnoj-ataki-rossiyan-foto-video)
 - [Відчувала себе пішаком: донька Бена Аффлека припинила контакти із Дженніфер Лопес](https://fakty.ua/450680-chuvstvovala-sebya-peshkoj-doch-bena-affleka-prekratila-kontakty-s-dzhennifer-lopes)
 - [Розчулив навіть Аллу Пугачову: Максим Галкін розповів, що робить у хвилини депресії](https://fakty.ua/450695-uslyhal-dazhe-allu-pugachevu-maksim-galkin-rasskazal-chto-delaet-v-minuty-depressii)
 - [За зразкову службу неодноразово отримував подяки: на війні поліг механізатор з Черкащини](https://fakty.ua/450682-za-obrazcovuyu-sluzhbu-neodnokratno-poluchal-blagodarnosti-na-vojne-pogib-mehanizator-s-cherkaschiny)
 - [У 16 разів менше, ніж сказав Трамп: Мінфін показав, скільки Україна отримала фінансової допомоги до держбюджету від США](https://fakty.ua/450686-v-16-raz-menshe-chem-skazal-tramp-minfin-pokazal-skolko-ukraina-poluchila-finansovoj-pomocshi-v-gosbyudzhet-ot-ssha)
-- [Угода про копалини буде більш жорсткою для України: ЗМІ дізнались подробиці](https://fakty.ua/450689-soglashenie-ob-iskopaemyh-budet-bolee-zhestkim-dlya-ukrainy-smi-uznali-podrobnosti)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
