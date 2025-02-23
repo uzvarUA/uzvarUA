@@ -152,11 +152,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Готовий «поміняти» президентську посаду на НАТО, — Зеленський](https://fakty.ua/450727-gotov-pomenyat-prezidentskij-post-na-nato---zelenskij)
+- [Трамп хоче заробляти на звільнених від окупації територіях — ЗМІ](https://fakty.ua/450718-tramp-hochet-zarabatyvat-na-osvobozhdennyh-ot-okkupacii-territoriyah---smi)
 - [Буданова планували вбити до інавгурації путіна у 2024 році, — Малюк &lpar;відео&rpar;](https://fakty.ua/450721-budanova-planirovali-ubit-k-inauguracii-putina-v-2024-godu---malyuk-video)
 - [Чорний день календаря — 24 лютого: у Києві вводять обмеження на рух транспорту та роботу метро](https://fakty.ua/450719-chernyj-den-kalendarya-24-fevralya-v-kieve-vvodyat-ogranicheniya-na-dvizhenie-transporta-i-rabotu-metro)
 - [Спецпредставник Трампа пояснив, яким має бути мир і на чиєму боці США](https://fakty.ua/450712-specpredstavitel-trampa-obyasnil-kakim-dolzhen-byt-mir-i-na-chej-storone-ssha)
-- [Уздовж лінії фронту миротворців не буде: ЗМІ розкрили деталі плану щодо введення в Україну іноземних контингентів](https://fakty.ua/450709-vdol-linii-fronta-mirotvorcev-ne-budet-smi-raskryli-detali-plana-po-vvedeniyu-v-ukrainu-inostrannyh-kontingentov)
-- [«Я не соромлюся, що родом з села»: український співак розповів про мрію, яка здивувала б багатьох](https://fakty.ua/450706-ya-ne-stesnyayus-chto-rodom-iz-sela-ukrainskij-pevec-rasskazal-o-samoj-zavetnoj-mechte-kotoraya-udivila-by-mnogih)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
