@@ -152,11 +152,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Спецпредставник Трампа пояснив, яким має бути мир і на чиєму боці США](https://fakty.ua/450712-specpredstavitel-trampa-obyasnil-kakim-dolzhen-byt-mir-i-na-chej-storone-ssha)
+- [Уздовж лінії фронту миротворців не буде: ЗМІ розкрили деталі плану щодо введення в Україну іноземних контингентів](https://fakty.ua/450709-vdol-linii-fronta-mirotvorcev-ne-budet-smi-raskryli-detali-plana-po-vvedeniyu-v-ukrainu-inostrannyh-kontingentov)
 - [«Я не соромлюся, що родом з села»: український співак розповів про мрію, яка здивувала б багатьох](https://fakty.ua/450706-ya-ne-stesnyayus-chto-rodom-iz-sela-ukrainskij-pevec-rasskazal-o-samoj-zavetnoj-mechte-kotoraya-udivila-by-mnogih)
 - [Гітарист легендарного рок-гурту Kiss загинув у ДТП з вини 90-річної матері](https://fakty.ua/450707-gitarist-legendarnoj-rok-gruppy-kiss-pogib-v-dtp-po-vine-90-letnej-materi)
 - [Десятки багатоповерхівок та автомобілів пошкоджено у Кривому Розі та Запоріжжі після нічної атаки росіян &lpar;фото, відео&rpar;](https://fakty.ua/450697-desyatki-mnogoetazhek-i-avtomobilej-povrezhdeny-v-krivom-roge-i-zaporozhe-posle-nochnoj-ataki-rossiyan-foto-video)
-- [Відчувала себе пішаком: донька Бена Аффлека припинила контакти із Дженніфер Лопес](https://fakty.ua/450680-chuvstvovala-sebya-peshkoj-doch-bena-affleka-prekratila-kontakty-s-dzhennifer-lopes)
-- [Розчулив навіть Аллу Пугачову: Максим Галкін розповів, що робить у хвилини депресії](https://fakty.ua/450695-uslyhal-dazhe-allu-pugachevu-maksim-galkin-rasskazal-chto-delaet-v-minuty-depressii)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
