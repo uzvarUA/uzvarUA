@@ -152,11 +152,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Завершити швидко війну з гарантіями для України неможливо: про що говорив Зеленський напередодні третьої річниці вторгнення рф](https://fakty.ua/450737-zavershit-bystro-vojnu-s-garantiyami-dlya-ukrainy-nevozmozhno-o-chem-govoril-zelenskij-nakanune-tretej-godovcshiny-vtorzheniya-rf)
+- [Терористи вночі вдарили по Київщині: уламки дрона влучили в багатоповерхівку у Броварах](https://fakty.ua/450738-terroristy-nochyu-atakovali-kievcshinu-oblomki-drona-popali-v-mnogoetazhku-v-brovarah)
 - [Ворог атакував Україну ударними дронами, а на Харків скинув КАБ: що відомо про нічні обстріли](https://fakty.ua/450736-vrag-atakoval-ukrainu-udarnymi-dronami-a-na-harkov-sbrosil-kab-chto-izvestno-o-nochnyh-obstrelah)
 - [Надто багато: Джессіка Сімпсон зізналась, як алкоголь вплинув на її музичну кар’єру](https://fakty.ua/450723-slishkom-mnogo-dzhessika-simpson-priznalas-kak-alkogol-povliyal-na-ee-muzykalnuyu-kareru)
 - [Сильно тішився онуками: на війні загинув воїн з Вінниччини, який рік вважався безвісти зниклим](https://fakty.ua/450717-ochen-radovalsya-vnukam-na-vojne-pogib-voin-iz-vinnickoj-oblasti-kotoryj-god-schitalsya-bez-vesti-propavshim)
-- [«Я не розумію цієї логіки»: Зеленський пояснив, чому не підписав угоду про рідкісноземи зі США](https://fakty.ua/450729-ya-ne-ponimayu-etoj-logiki-zelenskij-obyasnil-pochemu-ne-podpisal-soglashenie-o-redkozemah-s-ssha)
-- [росія відправляє у бій солдатів на милицях: CNN навело докази](https://fakty.ua/450720-rossiya-otpravlyaet-v-boj-soldat-na-kostylyah-cnn-privelo-dokazatelstva)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
