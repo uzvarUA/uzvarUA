@@ -152,11 +152,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Ворог атакував Україну ударними дронами, а на Харків скинув КАБ: що відомо про нічні обстріли](https://fakty.ua/450736-vrag-atakoval-ukrainu-udarnymi-dronami-a-na-harkov-sbrosil-kab-chto-izvestno-o-nochnyh-obstrelah)
 - [Надто багато: Джессіка Сімпсон зізналась, як алкоголь вплинув на її музичну кар’єру](https://fakty.ua/450723-slishkom-mnogo-dzhessika-simpson-priznalas-kak-alkogol-povliyal-na-ee-muzykalnuyu-kareru)
 - [Сильно тішився онуками: на війні загинув воїн з Вінниччини, який рік вважався безвісти зниклим](https://fakty.ua/450717-ochen-radovalsya-vnukam-na-vojne-pogib-voin-iz-vinnickoj-oblasti-kotoryj-god-schitalsya-bez-vesti-propavshim)
 - [«Я не розумію цієї логіки»: Зеленський пояснив, чому не підписав угоду про рідкісноземи зі США](https://fakty.ua/450729-ya-ne-ponimayu-etoj-logiki-zelenskij-obyasnil-pochemu-ne-podpisal-soglashenie-o-redkozemah-s-ssha)
 - [росія відправляє у бій солдатів на милицях: CNN навело докази](https://fakty.ua/450720-rossiya-otpravlyaet-v-boj-soldat-na-kostylyah-cnn-privelo-dokazatelstva)
-- [Готовий «поміняти» президентську посаду на НАТО, — Зеленський](https://fakty.ua/450727-gotov-pomenyat-prezidentskij-post-na-nato---zelenskij)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
