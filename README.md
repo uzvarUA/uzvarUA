@@ -152,11 +152,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Немає місця страху: українські зірки потужно звернулися до співвітчизників](https://fakty.ua/450758-net-mesta-strahu-ukrainskie-zvezdy-mocshno-obratilis-k-sootechestvennikam)
 - [У Києві без опалення залишились понад 170 будинків, дві поліклініки та заклади освіти: що стало причиною](https://fakty.ua/450757-v-kieve-bez-otopleniya-ostalis-bolee-170-domov-dve-polikliniki-i-uchebnye-zavedeniya-chto-stalo-prichinoj)
 - [Не злякалися «гніву» путіна: хто з лідерів ЄС та країн-партнерів прибув до Києва на третю річницю війни](https://fakty.ua/450754-ne-ispugalis-quot-gneva-quot-putina-kto-iz-liderov-es-i-stran-partnerov-pribyl-v-kiev-na-tretyu-godovcshinu-vojny)
 - [Дуже велика образа: стало відомо, чому посварилися онуки Алли Пугачової](https://fakty.ua/450748-ochen-bolshoe-oskorblenie-stalo-izvestno-pochemu-possorilis-vnuki-ally-pugachevoj)
 - [Майже два роки вважався зниклим безвісти: в Києві поховають військового і журналіста Ярослава Шапочку](https://fakty.ua/450743-pochti-dva-goda-schitalsya-propavshim-bez-vesti-v-kieve-pohoronyat-voennogo-i-zhurnalista-yaroslava-shapochku)
-- [Завершити швидко війну з гарантіями для України неможливо: про що говорив Зеленський напередодні третьої річниці вторгнення рф](https://fakty.ua/450737-zavershit-bystro-vojnu-s-garantiyami-dlya-ukrainy-nevozmozhno-o-chem-govoril-zelenskij-nakanune-tretej-godovcshiny-vtorzheniya-rf)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
