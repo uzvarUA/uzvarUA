@@ -152,11 +152,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Росіяни ще не воюють на гіроскутерах, але вже використовують віслюків](https://fakty.ua/450752-rossiyane-ecshe-ne-voyuyut-na-giroskuterah-no-uzhe-ispolzuyut-oslov)
+- [Безсовісна: мережа обурена поведінкою популярної реперки](https://fakty.ua/450761-bessovestnaya-set-vozmucshena-povedeniem-populyarnoj-repershi)
 - [Співачці Аллі Пугачовій росіяни хотіли «залити рот смолою» та «відірвати язика»: в чому справа](https://fakty.ua/450779-pevice-alle-pugachevoj-rossiyane-hoteli-quot-zalit-rot-smoloj-quot-i-quot-otorvat-yazyk-quot-v-chem-delo)
 - [Україна може отримати від МВФ 2,7 млрд дол.: що для цього потрібно](https://fakty.ua/450755-ukraina-mozhet-poluchit-ot-mvf-2-7-mlrd-dol-chto-dlya-etogo-nuzhno)
 - [Сказала «так»: учасниця «Холостяка» виходить заміж та чекає дитину](https://fakty.ua/450756-skazala-da-uchastnica-holostyaka-vyhodit-zamuzh-i-zhdet-rebenka)
-- [Насичене життя артистки: Каменських показала, як відвідала двох лікарів і пройшла стажування шеф-кухарем у ресторані](https://fakty.ua/450773-nasycshennaya-zhizn-artistki-kamenskih-pokazala-kak-posetila-dvuh-vrachej-i-proshla-stazhirovku-shef-povarom-v-restorane)
-- [Російська авіація завдала удару по Харківщині: є постраждалі](https://fakty.ua/450769-rossijskaya-aviaciya-nanesla-udar-po-harkovskoj-oblasti-est-postradavshie)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
