@@ -152,11 +152,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Сказала «так»: учасниця «Холостяка» виходить заміж та чекає дитину](https://fakty.ua/450756-skazala-da-uchastnica-holostyaka-vyhodit-zamuzh-i-zhdet-rebenka)
 - [Насичене життя артистки: Каменських показала, як відвідала двох лікарів і пройшла стажування шеф-кухарем у ресторані](https://fakty.ua/450773-nasycshennaya-zhizn-artistki-kamenskih-pokazala-kak-posetila-dvuh-vrachej-i-proshla-stazhirovku-shef-povarom-v-restorane)
 - [Російська авіація завдала удару по Харківщині: є постраждалі](https://fakty.ua/450769-rossijskaya-aviaciya-nanesla-udar-po-harkovskoj-oblasti-est-postradavshie)
 - [США тиснуть на Україну, щоб вона скасувала резолюцію ООН з вимогою виведення російських військ](https://fakty.ua/450768-ssha-davyat-na-ukrainu-chtoby-ona-otmenila-rezolyuciyu-oon-s-trebovaniem-vyvoda-rossijskih-vojsk)
 - [Немає місця страху: українські зірки потужно звернулися до співвітчизників](https://fakty.ua/450758-net-mesta-strahu-ukrainskie-zvezdy-mocshno-obratilis-k-sootechestvennikam)
-- [У Києві без опалення залишились понад 170 будинків, дві поліклініки та заклади освіти: що стало причиною](https://fakty.ua/450757-v-kieve-bez-otopleniya-ostalis-bolee-170-domov-dve-polikliniki-i-uchebnye-zavedeniya-chto-stalo-prichinoj)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
