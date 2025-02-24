@@ -152,11 +152,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Осиротіли троє синів: у Рівному поховали бійця, який не зміг пережити важке поранення](https://fakty.ua/450767-osiroteli-troe-synovej-v-rovno-pohoronili-bojca-kotoryj-ne-smog-perezhit-tyazheloe-ranenie)
 - [Росіяни ще не воюють на гіроскутерах, але вже використовують віслюків](https://fakty.ua/450752-rossiyane-ecshe-ne-voyuyut-na-giroskuterah-no-uzhe-ispolzuyut-oslov)
 - [Безсовісна: мережа обурена поведінкою популярної реперки](https://fakty.ua/450761-bessovestnaya-set-vozmucshena-povedeniem-populyarnoj-repershi)
 - [Співачці Аллі Пугачовій росіяни хотіли «залити рот смолою» та «відірвати язика»: в чому справа](https://fakty.ua/450779-pevice-alle-pugachevoj-rossiyane-hoteli-quot-zalit-rot-smoloj-quot-i-quot-otorvat-yazyk-quot-v-chem-delo)
 - [Україна може отримати від МВФ 2,7 млрд дол.: що для цього потрібно](https://fakty.ua/450755-ukraina-mozhet-poluchit-ot-mvf-2-7-mlrd-dol-chto-dlya-etogo-nuzhno)
-- [Сказала «так»: учасниця «Холостяка» виходить заміж та чекає дитину](https://fakty.ua/450756-skazala-da-uchastnica-holostyaka-vyhodit-zamuzh-i-zhdet-rebenka)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
