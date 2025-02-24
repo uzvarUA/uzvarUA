@@ -152,11 +152,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Співачці Аллі Пугачовій росіяни хотіли «залити рот смолою» та «відірвати язика»: в чому справа](https://fakty.ua/450779-pevice-alle-pugachevoj-rossiyane-hoteli-quot-zalit-rot-smoloj-quot-i-quot-otorvat-yazyk-quot-v-chem-delo)
+- [Україна може отримати від МВФ 2,7 млрд дол.: що для цього потрібно](https://fakty.ua/450755-ukraina-mozhet-poluchit-ot-mvf-2-7-mlrd-dol-chto-dlya-etogo-nuzhno)
 - [Сказала «так»: учасниця «Холостяка» виходить заміж та чекає дитину](https://fakty.ua/450756-skazala-da-uchastnica-holostyaka-vyhodit-zamuzh-i-zhdet-rebenka)
 - [Насичене життя артистки: Каменських показала, як відвідала двох лікарів і пройшла стажування шеф-кухарем у ресторані](https://fakty.ua/450773-nasycshennaya-zhizn-artistki-kamenskih-pokazala-kak-posetila-dvuh-vrachej-i-proshla-stazhirovku-shef-povarom-v-restorane)
 - [Російська авіація завдала удару по Харківщині: є постраждалі](https://fakty.ua/450769-rossijskaya-aviaciya-nanesla-udar-po-harkovskoj-oblasti-est-postradavshie)
-- [США тиснуть на Україну, щоб вона скасувала резолюцію ООН з вимогою виведення російських військ](https://fakty.ua/450768-ssha-davyat-na-ukrainu-chtoby-ona-otmenila-rezolyuciyu-oon-s-trebovaniem-vyvoda-rossijskih-vojsk)
-- [Немає місця страху: українські зірки потужно звернулися до співвітчизників](https://fakty.ua/450758-net-mesta-strahu-ukrainskie-zvezdy-mocshno-obratilis-k-sootechestvennikam)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
