@@ -152,11 +152,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [У Києві без опалення залишились понад 170 будинків, дві поліклініки та заклади освіти: що стало причиною](https://fakty.ua/450757-v-kieve-bez-otopleniya-ostalis-bolee-170-domov-dve-polikliniki-i-uchebnye-zavedeniya-chto-stalo-prichinoj)
+- [Не злякалися «гніву» путіна: хто з лідерів ЄС та країн-партнерів прибув до Києва на третю річницю війни](https://fakty.ua/450754-ne-ispugalis-quot-gneva-quot-putina-kto-iz-liderov-es-i-stran-partnerov-pribyl-v-kiev-na-tretyu-godovcshinu-vojny)
 - [Дуже велика образа: стало відомо, чому посварилися онуки Алли Пугачової](https://fakty.ua/450748-ochen-bolshoe-oskorblenie-stalo-izvestno-pochemu-possorilis-vnuki-ally-pugachevoj)
 - [Майже два роки вважався зниклим безвісти: в Києві поховають військового і журналіста Ярослава Шапочку](https://fakty.ua/450743-pochti-dva-goda-schitalsya-propavshim-bez-vesti-v-kieve-pohoronyat-voennogo-i-zhurnalista-yaroslava-shapochku)
 - [Завершити швидко війну з гарантіями для України неможливо: про що говорив Зеленський напередодні третьої річниці вторгнення рф](https://fakty.ua/450737-zavershit-bystro-vojnu-s-garantiyami-dlya-ukrainy-nevozmozhno-o-chem-govoril-zelenskij-nakanune-tretej-godovcshiny-vtorzheniya-rf)
-- [Терористи вночі вдарили по Київщині: уламки дрона влучили в багатоповерхівку у Броварах](https://fakty.ua/450738-terroristy-nochyu-atakovali-kievcshinu-oblomki-drona-popali-v-mnogoetazhku-v-brovarah)
-- [Ворог атакував Україну ударними дронами, а на Харків скинув КАБ: що відомо про нічні обстріли](https://fakty.ua/450736-vrag-atakoval-ukrainu-udarnymi-dronami-a-na-harkov-sbrosil-kab-chto-izvestno-o-nochnyh-obstrelah)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
