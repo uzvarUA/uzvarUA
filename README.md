@@ -152,11 +152,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Ресторан у Маріїнському парку: журналіст розповів про те, яке відношення до будівництва може мати голова КМВА](https://fakty.ua/450830-restoran-v-mariinskom-parke-zhurnalist-rasskazal-o-tom-kakoe-otnoshenie-k-postrojke-mozhet-imet-glava-kgva)
 - [«Зростай, наше пташенятко»: популярний співак розчулив своїх шанувальників](https://fakty.ua/450804-rasti-nash-ptenchik-populyarnyj-pevec-rastrogal-svoih-poklonnikov)
 - [Нацкомісія готується ліквідувати у банку Порошенка «схему» із заробітку сотень мільйонів на донатах українців, — Олещук](https://fakty.ua/450826-nackomissiya-gotovitsya-likvidirovat-v-banke-poroshenko-shemu-po-zarabatyvaniyu-soten-millionov-na-donatah-ukraincev---olecshuk)
 - [Не вірю власним очам: мережа у шоці від новини про повернення популярного шоу](https://fakty.ua/450807-ne-veryu-sobstvennym-glazam-set-v-shoke-ot-novosti-o-vozvracshenii-populyarnogo-shou)
 - [На Полтавщині поховали дворічну дівчинку: підозрюваний у вбивсті дитини провину визнав, але мотивів пояснити не зміг](https://fakty.ua/450816-na-poltavcshine-pohoronili-dvuhletnyuyu-devochku-podozrevaemyj-v-ubijstve-rebenka-vinu-priznal-no-motivov-obyasnit-ne-smog)
-- [Справжній герой: популярна акторка зворушливо звернулася до чоловіка](https://fakty.ua/450805-nastoyacshij-geroj-populyarnaya-aktrisa-trogatelno-obratilas-k-muzhu)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
