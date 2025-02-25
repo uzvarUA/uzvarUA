@@ -152,11 +152,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Не вірю власним очам: мережа у шоці від новини про повернення популярного шоу](https://fakty.ua/450807-ne-veryu-sobstvennym-glazam-set-v-shoke-ot-novosti-o-vozvracshenii-populyarnogo-shou)
+- [На Полтавщині поховали дворічну дівчинку: підозрюваний у вбивсті дитини провину визнав, але мотивів пояснити не зміг](https://fakty.ua/450816-na-poltavcshine-pohoronili-dvuhletnyuyu-devochku-podozrevaemyj-v-ubijstve-rebenka-vinu-priznal-no-motivov-obyasnit-ne-smog)
 - [Справжній герой: популярна акторка зворушливо звернулася до чоловіка](https://fakty.ua/450805-nastoyacshij-geroj-populyarnaya-aktrisa-trogatelno-obratilas-k-muzhu)
 - [Має спільні риси з путіним: експертка про те, чому Трамп назвав Зеленського диктатором](https://fakty.ua/450792-imeet-obcshie-cherty-s-putinym-ekspert-o-tom-pochemu-tramp-nazval-zelenskogo-diktatorom)
 - [Під підозрою: СБУ зайнялася Шаманом](https://fakty.ua/450806-pod-podozreniem-sbu-zanyalas-shamanom)
-- [Потенційна партія Притули: чи може стати донором проєкту «Аврора»?](https://fakty.ua/450801-potencialnaya-partiya-prituly-mozhet-li-stat-donorom-proekta-avrora)
-- [Знов понад 200 дронів над Україною: окупанти продовжують нічний терор мирних жителів](https://fakty.ua/450799-snova-bolshe-200-dronov-nad-ukrainoj-okkupanty-prodolzhayut-nochnoj-terror-mirnyh-zhitelej)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
