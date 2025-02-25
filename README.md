@@ -152,11 +152,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Жорстке регулювання фармринку загрожує доступності ліків, — Олег Мусій](https://fakty.ua/450782-zhestkoe-regulirovanie-farmrynka-ugrozhaet-dostupnosti-lekarstv---oleg-musij)
+- [Зниклу на Полтавщині дворічну дівчинку знайшли жорстоко вбитою &lpar;фото&rpar;](https://fakty.ua/450785-propavshuyu-na-poltavcshine-dvuhletnyuyu-devochku-nashli-zhestoko-ubitoj-foto)
 - [Вночі росіяни атакували дронами Суми: пошкоджено багатоповерхівку, є поранені &lpar;фото, відео&rpar;](https://fakty.ua/450781-nochyu-rossiyane-atakovali-dronami-sumy-povrezhdeny-mnogoetazhki-est-ranenye-foto-video)
 - [Пацієнти з хронічними хворобами серця більше не можуть отримувати ліки зі знижками за програмою «ТерапіяПЛЮС»](https://fakty.ua/450783-pacienty-s-hronicheskimi-boleznyami-serdca-bolshe-ne-mogut-poluchat-lekarstva-so-skidkami-po-programme-terapiyaplyus)
 - [Співачці Аллі Пугачовій росіяни хотіли «залити рот смолою» та «відірвати язика»: в чому справа](https://fakty.ua/450779-pevice-alle-pugachevoj-rossiyane-hoteli-quot-zalit-rot-smoloj-quot-i-quot-otorvat-yazyk-quot-v-chem-delo)
-- [Дженніфер Лопес та Бен Аффлек ніяк не можуть продати свій будинок](https://fakty.ua/450771-dzhennifer-lopes-i-ben-afflek-nikak-ne-mogut-prodat-svoj-dom)
-- [Осиротіли троє синів: у Рівному поховали бійця, який не зміг пережити важке поранення](https://fakty.ua/450767-osiroteli-troe-synovej-v-rovno-pohoronili-bojca-kotoryj-ne-smog-perezhit-tyazheloe-ranenie)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
