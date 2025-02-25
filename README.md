@@ -152,11 +152,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Рада позбавила мандата нардепа Кормишкіну, яка потрапила у скандал](https://fakty.ua/450798-rada-lishila-mandata-oskandalivshuyusya-nardepa-kormyshkinu)
+- [«Втратив зір, частину трахеї. Благав Таню покинути мене — навіщо їй такий тягар»: історія кохання ветерана та медсестри, які врятували один одному життя](https://fakty.ua/450787-poteryal-zrenie-chast-trahei-umolyal-tanyu-pokinut-menya---ej-takoj-gruz-istoriya-lyubvi-veterana-i-medsestry-kotorye-spasli-drug-drugu-zhizn)
+- [У Запоріжжі правоохоронець налагодив сімейний бізнес на небіжчиках](https://fakty.ua/450791-v-zaporozhe-pravoohranitel-naladil-semejnyj-biznes-na-pokojnikah)
 - [Спідниця та макіяж не допомогли: ухилянт намагався перетнути кордон на Закарпатті під виглядом німої жінки &lpar;фото, відео&rpar;](https://fakty.ua/450788-yubka-i-makiyazh-ne-pomogli-uklonist-pytalsya-peresech-granicu-v-zakarpate-pod-vidom-nemoj-zhencshiny-foto-video)
 - [Україна не має рідкоземельних металів? Американські ЗМІ заявили, що це ілюзія](https://fakty.ua/450775-u-ukrainy-net-redkozemelnyh-metallov-amerikanskie-smi-zayavili-chto-eto-illyuziya)
-- [Жорстке регулювання фармринку загрожує доступності ліків, — Олег Мусій](https://fakty.ua/450782-zhestkoe-regulirovanie-farmrynka-ugrozhaet-dostupnosti-lekarstv---oleg-musij)
-- [Зниклу на Полтавщині дворічну дівчинку знайшли жорстоко вбитою &lpar;фото&rpar;](https://fakty.ua/450785-propavshuyu-na-poltavcshine-dvuhletnyuyu-devochku-nashli-zhestoko-ubitoj-foto)
-- [Вночі росіяни атакували дронами Суми: пошкоджено багатоповерхівку, є поранені &lpar;фото, відео&rpar;](https://fakty.ua/450781-nochyu-rossiyane-atakovali-dronami-sumy-povrezhdeny-mnogoetazhki-est-ranenye-foto-video)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
