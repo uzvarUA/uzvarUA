@@ -152,11 +152,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Має спільні риси з путіним: експертка про те, чому Трамп назвав Зеленського диктатором](https://fakty.ua/450792-imeet-obcshie-cherty-s-putinym-ekspert-o-tom-pochemu-tramp-nazval-zelenskogo-diktatorom)
+- [Під підозрою: СБУ зайнялася Шаманом](https://fakty.ua/450806-pod-podozreniem-sbu-zanyalas-shamanom)
+- [Потенційна партія Притули: чи може стати донором проєкту «Аврора»?](https://fakty.ua/450801-potencialnaya-partiya-prituly-mozhet-li-stat-donorom-proekta-avrora)
 - [Знов понад 200 дронів над Україною: окупанти продовжують нічний терор мирних жителів](https://fakty.ua/450799-snova-bolshe-200-dronov-nad-ukrainoj-okkupanty-prodolzhayut-nochnoj-terror-mirnyh-zhitelej)
 - [«Її власник продовжує фінансувати російську церкву»: військовий закликав бойкотувати відому мережу АЗС](https://fakty.ua/450800-ee-vladelec-prodolzhaet-finansirovat-rossijskuyu-cerkov-voennyj-prizval-bojkotirovat-izvestnuyu-set-azs)
-- [Рада позбавила мандата нардепа Кормишкіну, яка потрапила у скандал](https://fakty.ua/450798-rada-lishila-mandata-oskandalivshuyusya-nardepa-kormyshkinu)
-- [«Втратив зір, частину трахеї. Благав Таню покинути мене — навіщо їй такий тягар»: історія кохання ветерана та медсестри, які врятували один одному життя](https://fakty.ua/450787-poteryal-zrenie-chast-trahei-umolyal-tanyu-pokinut-menya---ej-takoj-gruz-istoriya-lyubvi-veterana-i-medsestry-kotorye-spasli-drug-drugu-zhizn)
-- [У Запоріжжі правоохоронець налагодив сімейний бізнес на небіжчиках](https://fakty.ua/450791-v-zaporozhe-pravoohranitel-naladil-semejnyj-biznes-na-pokojnikah)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
