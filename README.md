@@ -261,3 +261,13 @@ curl -s -o ~/x https://raw.githubusercontent.com/olegos2/mobox/main/install && .
 |---|
 | [My_backups.zip](https://github.com/uzvarUA/my-backups-minecraft-pe/releases/download/v1.21.60-minecraft.1/My_backups.zip)|
 # Top 10 Mods
+| Топ 10 Модів, яких я користуюсь|
+|---|
+| Bonsai Addon |
+| DecoDrop |
+| LAND CLAIM |
+| More Camera Perspectives |
+| Paint |
+| SafeStorage |
+| tablist_mobile__pc |
+***
