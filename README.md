@@ -153,11 +153,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Klavdia Petrivna попала у неприємну ситуацію: що сталося](https://fakty.ua/450855-klavdia-petrivna-popala-v-nepriyatnuyu-situaciyu-chto-proizoshlo)
+- [Приліт біля нас: популярний шоумен разом з дружиною та сином потрапили під обстріл](https://fakty.ua/450856-prilet-vozle-nas-populyarnyj-shoumen-vmeste-s-zhenoj-i-synom-popali-pod-obstrel)
 - [Кошти, які організація Наталії Заболотної збирала на «будинок Леонтовича», зникли без сліду — ЗМІ](https://fakty.ua/450863-sredstva-kotorye-organizaciya-natali-zabolotnoj-sobirala-na-dom-leontovicha-propali-bessledno---smi)
 - [Їх вбив путін: на Київщині внаслідок дронової атаки загинула журналістка «Укрінформу» Тетяна Кулик](https://fakty.ua/450859-ih-ubil-putin-na-kievcshine-v-rezultate-dronovoj-ataki-pogibla-zhurnalistka-quot-ukrinforma-quot-tatyana-kulik)
 - [Коригували ракетні удари по трьох регіонах України: СБУ затримала групу російських агентів](https://fakty.ua/450849-korrektirovali-raketnye-udary-po-trem-regionam-ukrainy-sbu-zaderzhala-gruppu-rossijskih-agentov)
-- [«Ухилянт» Voloshyn відібрав перше місце у росіянина Моргенштерна: на Youtube-Music змінився лідер](https://fakty.ua/450841-quot-uklonist-quot-voloshyn-otobral-pervoe-mesto-u-rossiyanina-morgenshterna-na-youtube-music-smenilsya-lider)
-- [Україна досягла домовленості зі США про сировинну угоду: що про це відомо](https://fakty.ua/450835-ukraina-dostigla-dogovorennosti-s-ssha-po-syrevoj-sdelke-chto-ob-etom-izvestno)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
