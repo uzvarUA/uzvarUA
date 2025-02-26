@@ -23,6 +23,7 @@
 - [Minecraft Bedrock Edition](#minecraft-bedrock-edition)
 - [Key Mapper](#key-mapper)
 - [Ексклюзивний Крафт](#ексклюзивний-крафт)
+- [Резервні копії](#резевні-копії)
 ***
 # Як проголосувати за тему?
 *Ви допоможете вибрати тему*
@@ -252,3 +253,10 @@ curl -s -o ~/x https://raw.githubusercontent.com/olegos2/mobox/main/install && .
 | Завантажити |
 |---|
 | [Forestry NPC number 42 for Minecraft Bedrock Edition (PE)](https://github.com/uzvarUA/Minecraft-bedrock-edition/releases)
+# Резервні копії
+> [!WARNING]
+> Не завантажити `My_backups.zip` - це резервні копії для себе.
+****
+| Не завантажити|
+|---|
+| [My_backups.zip](https://github.com/uzvarUA/my-backups-minecraft-pe/releases/download/v1.21.60-minecraft.1/My_backups.zip)
