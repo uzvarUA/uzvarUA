@@ -153,11 +153,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Огидно слухати: популярна співачка звинуватила росіян у крадіжці її хіта](https://fakty.ua/450857-otvratitelno-slushat-populyarnaya-pevica-obvinila-rossiyan-v-krazhe-ee-hita)
 - [Прогнози песимістичні: військовий експерт про припинення вогню в Україні](https://fakty.ua/450847-prognozy-pessimistichnye-voennyj-ekspert-o-prekracshenii-ognya-v-ukraine)
 - [Мінʼюст планує блокувати активи підсанкційного олігарха Жеваго, а Полтавський ГЗК націоналізують, — ЗМІ](https://fakty.ua/450872-minyust-planiruet-blokirovat-aktivy-podsankcionnogo-oligarha-zhevago-a-poltavskij-gok-nacionaliziruyut---smi)
 - [Klavdia Petrivna попала у неприємну ситуацію: що сталося](https://fakty.ua/450855-klavdia-petrivna-popala-v-nepriyatnuyu-situaciyu-chto-proizoshlo)
 - [Приліт біля нас: популярний шоумен разом з дружиною та сином потрапили під обстріл](https://fakty.ua/450856-prilet-vozle-nas-populyarnyj-shoumen-vmeste-s-zhenoj-i-synom-popali-pod-obstrel)
-- [Кошти, які організація Наталії Заболотної збирала на «будинок Леонтовича», зникли без сліду — ЗМІ](https://fakty.ua/450863-sredstva-kotorye-organizaciya-natali-zabolotnoj-sobirala-na-dom-leontovicha-propali-bessledno---smi)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
