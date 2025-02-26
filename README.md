@@ -23,6 +23,7 @@
 - [Minecraft Bedrock Edition](#minecraft-bedrock-edition)
 - [Key Mapper](#key-mapper)
 - [Ексклюзивний Крафт](#ексклюзивний-крафт)
+- [Топ 10 Модів](#top-10-mods)
 ***
 # Як проголосувати за тему?
 *Ви допоможете вибрати тему*
@@ -259,3 +260,4 @@ curl -s -o ~/x https://raw.githubusercontent.com/olegos2/mobox/main/install && .
 | Не завантажити|
 |---|
 | [My_backups.zip](https://github.com/uzvarUA/my-backups-minecraft-pe/releases/download/v1.21.60-minecraft.1/My_backups.zip)|
+# Top 10 Mods
