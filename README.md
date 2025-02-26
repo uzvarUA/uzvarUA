@@ -152,11 +152,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Країна-агресор атакувала Україну дронами та ракетами, а до краснодарського краю рф «завітали з візитом» БПЛА-камікадзе](https://fakty.ua/450834-strana-agressor-atakovala-ukrainu-dronami-i-raketami-a-v-krasnodarskij-kraj-rossii-quot-posetili-vizit-quot-bpla-kamikadze)
 - [Це було добре: Дженніфер Еністон запропонувала Деніз Річардс маску із спермою лосося](https://fakty.ua/450819-eto-bylo-horosho-dzhennifer-eniston-predlozhila-deniz-richards-masku-so-spermoj-lososya)
 - [Осиротіла маленька донька: на Курщині загинув снайпер-розвідник із Київщини](https://fakty.ua/450817-osirotela-malenkaya-doch-na-kurcshine-pogib-snajper-razvedchik-s-kievcshiny)
 - [Україна отримає новітнього «вбивцю дронів» Tridon Mk2, якого немає поки що ні в кого](https://fakty.ua/450812-ukraina-poluchit-novejshego-ubijcu-dronov-tridon-mk2-kotorogo-net-poka-ni-u-kogo)
 - [Шахраї підміняють QR-коди у громадських місцях: у кіберполіції пояснили навіщо](https://fakty.ua/450832-moshenniki-podmenyayut-qr-kody-v-obcshestvennyh-mestah-v-kiberpolicii-obyasnili-zachem)
-- [«Немає слів»: відомий репер відреагував на останні новини](https://fakty.ua/450809-net-slov-izvestnyj-reper-otreagiroval-na-poslednie-novosti)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
