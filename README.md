@@ -153,11 +153,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [«Соромно»: Ріанна шокувала розповіддю про свої успішні альбоми](https://fakty.ua/450870-quot-stydno-quot-rianna-shokirovala-rasskazom-o-svoih-uspeshnyh-albomah)
 - [Любив рибалити, був веселим та доброзичливим: в бою на Курщині загинув вогнеметник з Вінниччини](https://fakty.ua/450864-lyubil-rybachit-byl-veselym-i-druzhelyubnym-v-boyu-na-kurcshine-pogib-ognemetchik-iz-vinnickoj-oblasti)
 - [Як наводити і у що влучати: російські пропагандисти в шоці від нового засобу ППО Криму](https://fakty.ua/450853-kak-navodit-i-vo-chto-popadat-rossijskie-propagandisty-v-shoke-ot-novogo-sredstva-pvo-kryma)
 - [«Красуня моя кохана»: Алла Пугачова прокоментувала відео Христини Орбакайте і показала фото «майже дорослого» сина](https://fakty.ua/450877-quot-krasavica-moya-lyubimaya-quot-alla-pugacheva-prokommentirovala-video-kristiny-orbakajte-i-pokazala-foto-quot-pochti-vzroslogo-quot-syna)
 - [«Більше мені не потрібен»: популярна співачка вразила відвертістю](https://fakty.ua/450858-bolshe-mne-ne-nuzhen-populyarnaya-pevica-porazila-otkrovennostyu)
-- [Ми не віримо росіянам: Зеленський розповів, що може гарантувати безпеку України](https://fakty.ua/450883-my-ne-verim-rossiyanam-zelenskij-rasskazal-chto-mozhet-obespechit-bezopasnost-ukrainy)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
