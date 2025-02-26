@@ -275,4 +275,5 @@ curl -s -o ~/x https://raw.githubusercontent.com/olegos2/mobox/main/install && .
 ***
 > [!WARNING]
 > [Завантажити Minecraft Bedrock Edition Patcher версії 1.21.60](https://github.com/uzvarUA/uzvarUA/releases/download/v1.21.60/84b40c60-9131-4266-a436-fa2320f630e3.apk)
+> <br>
 > [Завантажити мапу](https://github.com/uzvarUA/uzvarUA/releases/download/v1.21.60/Forestry_NPC_number_42_v3.1-world.zip)
