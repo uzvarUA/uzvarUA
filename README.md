@@ -153,11 +153,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Коригували ракетні удари по трьох регіонах України: СБУ затримала групу російських агентів](https://fakty.ua/450849-korrektirovali-raketnye-udary-po-trem-regionam-ukrainy-sbu-zaderzhala-gruppu-rossijskih-agentov)
 - [«Ухилянт» Voloshyn відібрав перше місце у росіянина Моргенштерна: на Youtube-Music змінився лідер](https://fakty.ua/450841-quot-uklonist-quot-voloshyn-otobral-pervoe-mesto-u-rossiyanina-morgenshterna-na-youtube-music-smenilsya-lider)
 - [Україна досягла домовленості зі США про сировинну угоду: що про це відомо](https://fakty.ua/450835-ukraina-dostigla-dogovorennosti-s-ssha-po-syrevoj-sdelke-chto-ob-etom-izvestno)
 - [Нічна атака росії: ворог задіяв 177 ударних БпЛА, збито 110 з них](https://fakty.ua/450838-nochnaya-ataka-rossii-vrag-zadejstvoval-177-udarnyh-bpla-sbity-110-iz-nih)
 - [Країна-агресор атакувала Україну дронами та ракетами, а до краснодарського краю рф «завітали з візитом» БПЛА-камікадзе](https://fakty.ua/450834-strana-agressor-atakovala-ukrainu-dronami-i-raketami-a-v-krasnodarskij-kraj-rossii-quot-posetili-vizit-quot-bpla-kamikadze)
-- [Це було добре: Дженніфер Еністон запропонувала Деніз Річардс маску із спермою лосося](https://fakty.ua/450819-eto-bylo-horosho-dzhennifer-eniston-predlozhila-deniz-richards-masku-so-spermoj-lososya)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
