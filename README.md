@@ -153,11 +153,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Кошти, які організація Наталії Заболотної збирала на «будинок Леонтовича», зникли без сліду — ЗМІ](https://fakty.ua/450863-sredstva-kotorye-organizaciya-natali-zabolotnoj-sobirala-na-dom-leontovicha-propali-bessledno---smi)
+- [Їх вбив путін: на Київщині внаслідок дронової атаки загинула журналістка «Укрінформу» Тетяна Кулик](https://fakty.ua/450859-ih-ubil-putin-na-kievcshine-v-rezultate-dronovoj-ataki-pogibla-zhurnalistka-quot-ukrinforma-quot-tatyana-kulik)
 - [Коригували ракетні удари по трьох регіонах України: СБУ затримала групу російських агентів](https://fakty.ua/450849-korrektirovali-raketnye-udary-po-trem-regionam-ukrainy-sbu-zaderzhala-gruppu-rossijskih-agentov)
 - [«Ухилянт» Voloshyn відібрав перше місце у росіянина Моргенштерна: на Youtube-Music змінився лідер](https://fakty.ua/450841-quot-uklonist-quot-voloshyn-otobral-pervoe-mesto-u-rossiyanina-morgenshterna-na-youtube-music-smenilsya-lider)
 - [Україна досягла домовленості зі США про сировинну угоду: що про це відомо](https://fakty.ua/450835-ukraina-dostigla-dogovorennosti-s-ssha-po-syrevoj-sdelke-chto-ob-etom-izvestno)
-- [Нічна атака росії: ворог задіяв 177 ударних БпЛА, збито 110 з них](https://fakty.ua/450838-nochnaya-ataka-rossii-vrag-zadejstvoval-177-udarnyh-bpla-sbity-110-iz-nih)
-- [Країна-агресор атакувала Україну дронами та ракетами, а до краснодарського краю рф «завітали з візитом» БПЛА-камікадзе](https://fakty.ua/450834-strana-agressor-atakovala-ukrainu-dronami-i-raketami-a-v-krasnodarskij-kraj-rossii-quot-posetili-vizit-quot-bpla-kamikadze)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
