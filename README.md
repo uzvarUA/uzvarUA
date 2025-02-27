@@ -153,11 +153,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Індексація пенсій та нові ціни на ліки: що зміниться для українців з 1 березня](https://fakty.ua/450886-indeksaciya-pensij-i-novye-ceny-na-lekarstva-chto-izmenitsya-dlya-ukraincev-s-1-marta)
+- [Трамп порадив Україні «забути про НАТО» і не гарантував миру з росією](https://fakty.ua/450885-tramp-posovetoval-ukraine-zabyt-o-nato-i-ne-garantiroval-mir-s-rossiej)
 - [«Соромно»: Ріанна шокувала розповіддю про свої успішні альбоми](https://fakty.ua/450870-quot-stydno-quot-rianna-shokirovala-rasskazom-o-svoih-uspeshnyh-albomah)
 - [Любив рибалити, був веселим та доброзичливим: в бою на Курщині загинув вогнеметник з Вінниччини](https://fakty.ua/450864-lyubil-rybachit-byl-veselym-i-druzhelyubnym-v-boyu-na-kurcshine-pogib-ognemetchik-iz-vinnickoj-oblasti)
 - [Як наводити і у що влучати: російські пропагандисти в шоці від нового засобу ППО Криму](https://fakty.ua/450853-kak-navodit-i-vo-chto-popadat-rossijskie-propagandisty-v-shoke-ot-novogo-sredstva-pvo-kryma)
-- [«Красуня моя кохана»: Алла Пугачова прокоментувала відео Христини Орбакайте і показала фото «майже дорослого» сина](https://fakty.ua/450877-quot-krasavica-moya-lyubimaya-quot-alla-pugacheva-prokommentirovala-video-kristiny-orbakajte-i-pokazala-foto-quot-pochti-vzroslogo-quot-syna)
-- [«Більше мені не потрібен»: популярна співачка вразила відвертістю](https://fakty.ua/450858-bolshe-mne-ne-nuzhen-populyarnaya-pevica-porazila-otkrovennostyu)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
