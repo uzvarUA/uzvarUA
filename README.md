@@ -155,11 +155,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Іран нарощує постачання БпЛА росії? Яке місто могло бути вперше атаковане новими дронами Meraj-521](https://fakty.ua/450900-iran-naracshivaet-postavki-bpla-rossii-kakoj-gorod-mog-byt-vpervye-atakovan-novymi-dronami-meraj-521)
 - [У Польщі українця затримали за підозрою у серії вбивств пенсіонерок &lpar;фото&rpar;](https://fakty.ua/450926-v-polshe-ukrainca-zaderzhali-po-podozreniyu-v-serii-ubijstv-pensionerok-foto)
 - [Україна у вогні: рятувальники ДСНС б&amp;#39;ють на сполох через пожежі, що охопили країну &lpar;фото&rpar;](https://fakty.ua/450919-ukraina-v-ogne-spasateli-gschs-byut-trevogu-iz-za-pozharov-ohvativshih-stranu-foto)
 - [Вогонь: мережа відреагувала на несподіваний дует популярної співачки](https://fakty.ua/450907-ogon-set-otreagirovala-na-neozhidannyj-duet-populyarnoj-pevicy)
 - [Вкрай жахливо: переможниця «Холостяка» потрапила під хейт у мережі](https://fakty.ua/450906-krajne-uzhasno-pobeditelnica-holostyaka-popala-pod-hejt-v-seti)
-- [Із сокирою — на поліцію: у центрі Рівного натовп намагався відбити порушників закону у військових із ТЦК &lpar;відео&rpar;](https://fakty.ua/450904-s-toporom---na-policiyu-v-centre-rovno-tolpa-pytalas-otbit-narushitelej-zakona-u-voennyh-iz-tck-video)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
