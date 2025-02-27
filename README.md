@@ -154,11 +154,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Із сокирою — на поліцію: у центрі Рівного натовп намагався відбити порушників закону у військових із ТЦК &lpar;відео&rpar;](https://fakty.ua/450904-s-toporom---na-policiyu-v-centre-rovno-tolpa-pytalas-otbit-narushitelej-zakona-u-voennyh-iz-tck-video)
 - [Відомий правник показав, як ВАКС спотворює практику ЄСПЛ, ігноруючи наявність 100% алібі](https://fakty.ua/450913-izvestnyj-yurist-pokazal-kak-vaks-iskazhaet-praktiku-espch-ignoriruya-nalichie-100-alibi)
 - [Я реву: популярний співак вразив емоційним зверненням](https://fakty.ua/450903-ya-revu-populyarnyj-pevec-porazil-emocionalnym-poslaniem)
 - [«Оскароносний» Джин Хекмен знайдено мертвим](https://fakty.ua/450908-oskaronosnyj-dzhin-hekmen-najden-mertvym)
 - [Кім Чен Ин ще «підкинув» своїх солдатів путіну](https://fakty.ua/450892-kim-chen-yn-ecshe-podkinul-svoih-soldat-putinu)
-- [За ніч захисники України «відмінусували» понад 160 дронів ворога](https://fakty.ua/450891-za-noch-zacshitniki-ukrainy-otminusovali-bolee-160-dronov-vraga)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
