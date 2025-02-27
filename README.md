@@ -281,3 +281,10 @@ curl -s -o ~/x https://raw.githubusercontent.com/olegos2/mobox/main/install && .
 > [Завантажити мапу](https://github.com/uzvarUA/uzvarUA/releases/download/v1.21.60/Forestry_NPC_number_42_v3.1-world.zip)
 <br>
 <br>
+# Key Mapper 2
+> [!WARNING]
+> Тільки для Android 11+
+> <br>
+<br>
+<br>
+[Завантажити](https://github.com/uzvarUA/uzvarUA/releases/download/v1.21.60/Key-mapper.zip)
