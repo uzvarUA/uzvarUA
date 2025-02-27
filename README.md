@@ -154,11 +154,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [«Оскароносний» Джин Хекмен знайдено мертвим](https://fakty.ua/450908-oskaronosnyj-dzhin-hekmen-najden-mertvym)
 - [Кім Чен Ин ще «підкинув» своїх солдатів путіну](https://fakty.ua/450892-kim-chen-yn-ecshe-podkinul-svoih-soldat-putinu)
 - [За ніч захисники України «відмінусували» понад 160 дронів ворога](https://fakty.ua/450891-za-noch-zacshitniki-ukrainy-otminusovali-bolee-160-dronov-vraga)
 - [Індексація пенсій та нові ціни на ліки: що зміниться для українців з 1 березня](https://fakty.ua/450886-indeksaciya-pensij-i-novye-ceny-na-lekarstva-chto-izmenitsya-dlya-ukraincev-s-1-marta)
 - [Трамп порадив Україні «забути про НАТО» і не гарантував миру з росією](https://fakty.ua/450885-tramp-posovetoval-ukraine-zabyt-o-nato-i-ne-garantiroval-mir-s-rossiej)
-- [«Соромно»: Ріанна шокувала розповіддю про свої успішні альбоми](https://fakty.ua/450870-quot-stydno-quot-rianna-shokirovala-rasskazom-o-svoih-uspeshnyh-albomah)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
