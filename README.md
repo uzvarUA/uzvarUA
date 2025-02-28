@@ -155,11 +155,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Відсутність контрактів на боєприпаси: в чому причина](https://fakty.ua/450958-otsutstvie-kontraktov-na-boepripasy-v-chem-prichina)
 - [Візит Зеленського до США: коли відбудеться зустріч з Трампом](https://fakty.ua/450952-vizit-zelenskogo-v-ssha-kogda-sostoitsya-vstrecha-s-trampom)
 - [Катували, аж поки вбили: співробітники виправної колонії опинились на лаві підсудних](https://fakty.ua/450924-pytali-poka-ne-ubili-sotrudniki-ispravitelnoj-kolonii-okazalis-na-skame-podsudimyh)
 - [Миру чекати залишилось недовго: відома співачка назвала дату завершення війни](https://fakty.ua/450938-mira-zhdat-ostalos-nedolgo-izvestnaya-pevica-nazvala-datu-zaversheniya-vojny)
 - [Софія Ротару народилась зовсім в іншій державі: відомий кліпмейкер пояснив, чому артистка мовчить про війну](https://fakty.ua/450933-sofiya-rotaru-rodilas-sovsem-v-drugom-gosudarstve-izvestnyj-klipmejker-obyasnil-pochemu-artistka-molchit-o-vojne)
-- [Ворог знову вночі атакував мирні міста України: є влучання та постраждалі](https://fakty.ua/450931-vrag-snova-nochyu-atakoval-mirnye-goroda-ukrainy-est-popadaniya-i-postradavshie)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
