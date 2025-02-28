@@ -155,11 +155,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Непристойно: мережа в шоці від провокаційних світлин популярного актора](https://fakty.ua/450951-neprilichno-set-v-shoke-ot-provokacionnyh-fotografij-populyarnogo-aktera)
 - [Безславна смерть на чужій землі: у Маріуполі партизани підірвали автомобіль з ФСБшником росії](https://fakty.ua/450972-besslavnaya-smert-na-chuzhoj-zemle-v-mariupole-partizany-vzorvali-avtomobil-s-fsbshnikom-rf)
 - [Магія: українські музиканти записали альбом пісень для емоційної рівноваги](https://fakty.ua/450957-magiya-ukrainskie-muzykanty-zapisali-albom-pesen-dlya-emocionalnogo-ravnovesiya)
 - [Горіло дуже потужно: Сили оборони знищили склад термобаричних боєприпасів окупантів &lpar;відео&rpar;](https://fakty.ua/450966-gorelo-ochen-mocshno-sily-oborony-unichtozhili-sostav-termobaricheskih-boepripasov-okupantov-video)
 - [Наводили ракети на аеродроми та ППО: затримано двох агентів росії](https://fakty.ua/450961-navodili-rakety-na-aerodromy-i-pvo-zaderzhany-dva-agenta-rossii)
-- [Відсутність контрактів на боєприпаси: в чому причина](https://fakty.ua/450958-otsutstvie-kontraktov-na-boepripasy-v-chem-prichina)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
