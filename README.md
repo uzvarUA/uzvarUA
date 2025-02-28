@@ -155,11 +155,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Ворог знову вночі атакував мирні міста України: є влучання та постраждалі](https://fakty.ua/450931-vrag-snova-nochyu-atakoval-mirnye-goroda-ukrainy-est-popadaniya-i-postradavshie)
 - [Несподівано, як для колишніх: Бред Пітт і Дженніфер Еністон знімають романтичну комедію](https://fakty.ua/450909-neozhidanno-kak-dlya-byvshih-bred-pitt-i-dzhennifer-eniston-snimayut-romanticheskuyu-komediyu)
 - [Заради країни повернувся з-за кордону: на війні поліг воїн з Полтавщини](https://fakty.ua/450902-radi-strany-vernulsya-iz-za-granicy-na-vojne-pogib-voin-s-poltavcshiny)
 - [Іран нарощує постачання БпЛА росії? Яке місто могло бути вперше атаковане новими дронами Meraj-521](https://fakty.ua/450900-iran-naracshivaet-postavki-bpla-rossii-kakoj-gorod-mog-byt-vpervye-atakovan-novymi-dronami-meraj-521)
 - [У Польщі українця затримали за підозрою у серії вбивств пенсіонерок &lpar;фото&rpar;](https://fakty.ua/450926-v-polshe-ukrainca-zaderzhali-po-podozreniyu-v-serii-ubijstv-pensionerok-foto)
-- [Україна у вогні: рятувальники ДСНС б&amp;#39;ють на сполох через пожежі, що охопили країну &lpar;фото&rpar;](https://fakty.ua/450919-ukraina-v-ogne-spasateli-gschs-byut-trevogu-iz-za-pozharov-ohvativshih-stranu-foto)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
