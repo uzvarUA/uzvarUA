@@ -155,11 +155,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Люблю їх довіку: Дженніфер Лопес зворушливо привітала своїх близнюків з 17-річчям](https://fakty.ua/450954-lyublyu-ih-vechno-dzhennifer-lopes-trogatelno-pozdravila-svoih-bliznecov-s-17-letiem)
 - [Зеленський достроково залишив Білий дім: що відбувається](https://fakty.ua/450983-zelenskij-dosrochno-pokinul-belyj-dom-chto-proishodit)
 - [Переніс кілька операцій: обірвалося життя воїна з Кіровоградщини, який отримав важке поранення](https://fakty.ua/450949-perenes-neskolko-operacij-oborvalas-zhizn-voina-s-kirovogradcshiny-poluchivshego-tyazheloe-ranenie)
 - [Зеленський зустрівся з Трампом: які прозвучали заяви](https://fakty.ua/450981-zelenskij-vstretilsya-s-trampom-prozvuchavshie-zayavleniya)
 - [«Набридли щоденні брехливі звинувачення»: Пишна подає до суду позов проти Заболотної](https://fakty.ua/450980-nadoeli-ezhednevnye-lzhivye-obvineniya-pyshnaya-podaet-v-sud-isk-protiv-zabolotnoj)
-- [Потап спрогнозував, хто виграє «Євробачення» і пояснив, чому більше не виступає з Каменських](https://fakty.ua/450979-potap-sprognoziroval-kto-vyigraet-quot-evrovidenie-quot-i-obyasnil-pochemu-bolshe-ne-vystupaet-iz-kamenskih)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
