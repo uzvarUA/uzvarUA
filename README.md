@@ -155,11 +155,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Зеленський достроково залишив Білий дім: що відбувається](https://fakty.ua/450983-zelenskij-dosrochno-pokinul-belyj-dom-chto-proishodit)
+- [Переніс кілька операцій: обірвалося життя воїна з Кіровоградщини, який отримав важке поранення](https://fakty.ua/450949-perenes-neskolko-operacij-oborvalas-zhizn-voina-s-kirovogradcshiny-poluchivshego-tyazheloe-ranenie)
 - [Зеленський зустрівся з Трампом: які прозвучали заяви](https://fakty.ua/450981-zelenskij-vstretilsya-s-trampom-prozvuchavshie-zayavleniya)
 - [«Набридли щоденні брехливі звинувачення»: Пишна подає до суду позов проти Заболотної](https://fakty.ua/450980-nadoeli-ezhednevnye-lzhivye-obvineniya-pyshnaya-podaet-v-sud-isk-protiv-zabolotnoj)
 - [Потап спрогнозував, хто виграє «Євробачення» і пояснив, чому більше не виступає з Каменських](https://fakty.ua/450979-potap-sprognoziroval-kto-vyigraet-quot-evrovidenie-quot-i-obyasnil-pochemu-bolshe-ne-vystupaet-iz-kamenskih)
-- [Непристойно: мережа в шоці від провокаційних світлин популярного актора](https://fakty.ua/450951-neprilichno-set-v-shoke-ot-provokacionnyh-fotografij-populyarnogo-aktera)
-- [Безславна смерть на чужій землі: у Маріуполі партизани підірвали автомобіль з ФСБшником росії](https://fakty.ua/450972-besslavnaya-smert-na-chuzhoj-zemle-v-mariupole-partizany-vzorvali-avtomobil-s-fsbshnikom-rf)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
