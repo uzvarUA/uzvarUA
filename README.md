@@ -155,11 +155,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Софія Ротару народилась зовсім в іншій державі: відомий кліпмейкер пояснив, чому артистка мовчить про війну](https://fakty.ua/450933-sofiya-rotaru-rodilas-sovsem-v-drugom-gosudarstve-izvestnyj-klipmejker-obyasnil-pochemu-artistka-molchit-o-vojne)
 - [Ворог знову вночі атакував мирні міста України: є влучання та постраждалі](https://fakty.ua/450931-vrag-snova-nochyu-atakoval-mirnye-goroda-ukrainy-est-popadaniya-i-postradavshie)
 - [Несподівано, як для колишніх: Бред Пітт і Дженніфер Еністон знімають романтичну комедію](https://fakty.ua/450909-neozhidanno-kak-dlya-byvshih-bred-pitt-i-dzhennifer-eniston-snimayut-romanticheskuyu-komediyu)
 - [Заради країни повернувся з-за кордону: на війні поліг воїн з Полтавщини](https://fakty.ua/450902-radi-strany-vernulsya-iz-za-granicy-na-vojne-pogib-voin-s-poltavcshiny)
 - [Іран нарощує постачання БпЛА росії? Яке місто могло бути вперше атаковане новими дронами Meraj-521](https://fakty.ua/450900-iran-naracshivaet-postavki-bpla-rossii-kakoj-gorod-mog-byt-vpervye-atakovan-novymi-dronami-meraj-521)
-- [У Польщі українця затримали за підозрою у серії вбивств пенсіонерок &lpar;фото&rpar;](https://fakty.ua/450926-v-polshe-ukrainca-zaderzhali-po-podozreniyu-v-serii-ubijstv-pensionerok-foto)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
