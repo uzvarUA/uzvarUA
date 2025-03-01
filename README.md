@@ -155,11 +155,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [В обороні України з’являється небезпечна діра — ЗМІ](https://fakty.ua/450976-v-oborone-ukrainy-poyavlyaetsya-opasnaya-dyra---smi)
+- [Іноземне судно пошкоджено внаслідок удару росіян балістикою по Одесі](https://fakty.ua/451015-inostrannoe-sudno-povrezhdeno-v-rezultate-udara-rossiyan-ballistikoj-po-odesse)
 - [Київська податкова попередила про шахраїв, які від її імені збирають із підприємців гроші «на ЗСУ»](https://fakty.ua/451014-kievskaya-nalogovaya-predupredila-o-moshennikah-kotorye-ot-ee-imeni-sobirayut-s-predprinimatelej-dengi-na-vsu)
 - [Не смішно: слідом за «Оскаром» Хоакін Фенікс отримав «Золоту малину» за свого Джокера](https://fakty.ua/450999-ne-smeshno-vsled-za-oskarom-hoakin-feniks-poluchil-zolotuyu-malinu-za-svoego-dzhokera)
 - [«Ми маємо бути дуже чесними, щоб зрозуміти один одного»: Зеленський прокоментував скандальну суперечку з Трампом &lpar;відео&rpar;](https://fakty.ua/450985-my-dolzhny-byt-ochen-chestnymi-chtoby-ponyat-drug-druga-zelenskij-prokommentiroval-skandalnuyu-perepalku-s-trampom-video)
-- [Дроном — по лікарні: вночі ворожі безпілотники масовано атакували центр Харкова &lpar;фото, відео&rpar;](https://fakty.ua/450984-dronom-po-bolnice-nochyu-vrazheskie-bespilotniki-massirovanno-atakovali-centr-harkova-foto-video)
-- [Люблю їх довіку: Дженніфер Лопес зворушливо привітала своїх близнюків з 17-річчям](https://fakty.ua/450954-lyublyu-ih-vechno-dzhennifer-lopes-trogatelno-pozdravila-svoih-bliznecov-s-17-letiem)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
