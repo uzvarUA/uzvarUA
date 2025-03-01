@@ -155,7 +155,7 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
-- [«Ми маємо бути дуже чесними, щоб зрозуміти один одного»: Зеленський прокоментував скандальну суперечку з Трампом](https://fakty.ua/450985-my-dolzhny-byt-ochen-chestnymi-chtoby-ponyat-drug-druga-zelenskij-prokommentiroval-skandalnuyu-perepalku-s-trampom-video)
+- [«Ми маємо бути дуже чесними, щоб зрозуміти один одного»: Зеленський прокоментував скандальну суперечку з Трампом &lpar;відео&rpar;](https://fakty.ua/450985-my-dolzhny-byt-ochen-chestnymi-chtoby-ponyat-drug-druga-zelenskij-prokommentiroval-skandalnuyu-perepalku-s-trampom-video)
 - [Дроном — по лікарні: вночі ворожі безпілотники масовано атакували центр Харкова &lpar;фото, відео&rpar;](https://fakty.ua/450984-dronom-po-bolnice-nochyu-vrazheskie-bespilotniki-massirovanno-atakovali-centr-harkova-foto-video)
 - [Люблю їх довіку: Дженніфер Лопес зворушливо привітала своїх близнюків з 17-річчям](https://fakty.ua/450954-lyublyu-ih-vechno-dzhennifer-lopes-trogatelno-pozdravila-svoih-bliznecov-s-17-letiem)
 - [Зеленський достроково залишив Білий дім: що відбувається](https://fakty.ua/450983-zelenskij-dosrochno-pokinul-belyj-dom-chto-proishodit)
