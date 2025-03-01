@@ -26,6 +26,7 @@
 - [Топ 10 Модів](#top-10-mods)
 - [Key Mapper 2](#key-mapper-2)
 - [Новини Із Лісництва NPC номер 42](#новини-із-лісництва-npc-номер-42)
+- [8 Секретів Лісництва NPC Номер 42](#8-секретів-npc-номер-42)
 ***
 # Як проголосувати за тему?
 *Ви допоможете вибрати тему*
@@ -291,4 +292,8 @@ curl -s -o ~/x https://raw.githubusercontent.com/olegos2/mobox/main/install && .
 # Новини Із Лісництва NPC номер 42
 > [!NOTE]
 > [Читайте новин із Лісництва NPC номер 42](https://github.com/uzvarUA/News-from-Forestry-NPC-number-42)
+***
+# 8 Секретів Лісництва NPC Номер 42
+> [!NOTE]
+> [Читайте 8 Секретів Лісництва NPC Номер 42](https://github.com/uzvarUA/8-secrets-in-forestry-NPC-number-42)
 ***
