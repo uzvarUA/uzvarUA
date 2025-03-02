@@ -155,11 +155,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Зате не соромиться знятися напівоголеним: тренер Девіда Бекхема розповів про його екстремальний режим занять](https://fakty.ua/451023-zato-ne-stesnyaetsya-snyatsya-poluobnazhennym-trener-devida-bekhema-rasskazal-o-ego-ekstremalnom-rezhime-zanyatij)
 - [Маленька копія Алли Борисівни: Максим Галкін здивував незвичним образом доньки Лізи](https://fakty.ua/451021-malenkaya-kopiya-ally-borisovny-maksim-galkin-udivil-neobychnym-obrazom-dochki-lizy)
 - [Ворог атакував Україну з повітря: де оголошувалась тривога та працювала ППО](https://fakty.ua/451019-vrag-atakoval-ukrainu-s-vozduha-gde-obyavlyalas-trevoga-i-rabotala-pvo)
 - [За зачиненими дверима: стали відомі пікантні подробиці особистого життя Дженніфер Еністон](https://fakty.ua/451008-za-zakrytymi-dveryami-stali-izvestny-pikantnye-podrobnosti-lichnoj-zhizni-dzhennifer-eniston)
 - [Чотири місяці рідні сподівались на диво: в бою на Донеччині загинув воїн з Вінниччини](https://fakty.ua/451005-chetyre-mesyaca-rodnye-nadeyalis-na-chudo-v-boyu-na-donetchine-pogib-voin-iz-vinnickoj-oblasti)
-- [В обороні України з’являється небезпечна діра — ЗМІ](https://fakty.ua/450976-v-oborone-ukrainy-poyavlyaetsya-opasnaya-dyra---smi)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
