@@ -155,11 +155,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Дрон терористів вдарив по автобусу у Херсоні: одна людина загинула, багато поранених](https://fakty.ua/451042-dron-terroristov-udaril-po-avtobusu-v-hersone-odin-chelovek-pogib-mnogo-ranenyh)
+- [Не потрібно підігравати Трампу: експерт про те, як Україні діяти після скандалу у Білому домі](https://fakty.ua/451036-ne-nuzhno-podygryvat-trampu-ekspert-o-tom-kak-ukraine-dejstvovat-posle-skandala-v-belom-dome)
 - [І вашим, і нашим: Потапа відправили на пенсію, а він знайшов «заміну» Каменських &lpar;відео&rpar;](https://fakty.ua/451033-i-vashim-i-nashim-potapa-otpravili-na-pensiyu-a-on-nashel-quot-zamenu-quot-kamenskih-video)
 - [Потік американської зброї в Україну може повністю припинитися — ЗМІ](https://fakty.ua/451032-potok-amerikanskogo-oruzhiya-v-ukrainu-mozhet-polnostyu-prekratitsya---smi)
 - [«Більшість європейців взагалі не думають про Україну», — письменник Станіслав Асєєв](https://fakty.ua/451000-bolshinstvo-evropejcev-voobcshe-ne-dumayut-ob-ukraine---pisatel-stanislav-aseev)
-- [Окупанти атакували дронами Хмельниччину: є постраждалі та руйнування](https://fakty.ua/451029-okkupanty-atakovali-dronami-hmelnitchinu-est-postradavshie-i-razrusheniya)
-- [Що, крім членства в НАТО, допоможе захистити Україну від нової війни: думка експертів](https://fakty.ua/451027-chto-krome-chlenstva-v-nato-pomozhet-zacshitit-ukrainu-ot-novoj-vojny-mnenie-ekspertov)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
