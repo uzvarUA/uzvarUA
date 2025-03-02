@@ -155,11 +155,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Галкін показав свіже фото Алли Пугачової: «Моя кохана»](https://fakty.ua/451056-galkin-pokazal-svezhee-foto-ally-pugachevoj-quot-moya-lyubimaya-quot)
 - [Такий же красунчик, як і тато: Ромео Бекхем вийшов на подіум у рамках Тижня моди в Мілані](https://fakty.ua/451046-takoj-zhe-krasavchik-kak-i-papa-romeo-bekhem-vyshel-na-podium-v-ramkah-nedeli-mody-v-milane)
 - [Дрон терористів вдарив по автобусу у Херсоні: одна людина загинула, багато поранених](https://fakty.ua/451042-dron-terroristov-udaril-po-avtobusu-v-hersone-odin-chelovek-pogib-mnogo-ranenyh)
 - [Не потрібно підігравати Трампу: експерт про те, як Україні діяти після скандалу у Білому домі](https://fakty.ua/451036-ne-nuzhno-podygryvat-trampu-ekspert-o-tom-kak-ukraine-dejstvovat-posle-skandala-v-belom-dome)
 - [І вашим, і нашим: Потапа відправили на пенсію, а він знайшов «заміну» Каменських &lpar;відео&rpar;](https://fakty.ua/451033-i-vashim-i-nashim-potapa-otpravili-na-pensiyu-a-on-nashel-quot-zamenu-quot-kamenskih-video)
-- [Потік американської зброї в Україну може повністю припинитися — ЗМІ](https://fakty.ua/451032-potok-amerikanskogo-oruzhiya-v-ukrainu-mozhet-polnostyu-prekratitsya---smi)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
