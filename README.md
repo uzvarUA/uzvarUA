@@ -155,11 +155,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [«Більшість європейців взагалі не думають про Україну», — письменник Станіслав Асєєв](https://fakty.ua/451000-bolshinstvo-evropejcev-voobcshe-ne-dumayut-ob-ukraine---pisatel-stanislav-aseev)
 - [Окупанти атакували дронами Хмельниччину: є постраждалі та руйнування](https://fakty.ua/451029-okkupanty-atakovali-dronami-hmelnitchinu-est-postradavshie-i-razrusheniya)
 - [Що, крім членства в НАТО, допоможе захистити Україну від нової війни: думка експертів](https://fakty.ua/451027-chto-krome-chlenstva-v-nato-pomozhet-zacshitit-ukrainu-ot-novoj-vojny-mnenie-ekspertov)
 - [Зате не соромиться знятися напівоголеним: тренер Девіда Бекхема розповів про його екстремальний режим занять](https://fakty.ua/451023-zato-ne-stesnyaetsya-snyatsya-poluobnazhennym-trener-devida-bekhema-rasskazal-o-ego-ekstremalnom-rezhime-zanyatij)
 - [Маленька копія Алли Борисівни: Максим Галкін здивував незвичним образом доньки Лізи](https://fakty.ua/451021-malenkaya-kopiya-ally-borisovny-maksim-galkin-udivil-neobychnym-obrazom-dochki-lizy)
-- [Ворог атакував Україну з повітря: де оголошувалась тривога та працювала ППО](https://fakty.ua/451019-vrag-atakoval-ukrainu-s-vozduha-gde-obyavlyalas-trevoga-i-rabotala-pvo)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
