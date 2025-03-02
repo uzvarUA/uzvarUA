@@ -155,11 +155,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Тут усе криштально ясно: стало відомо, чому Бред Пітт із недовірою ставиться до жінок](https://fakty.ua/451051-tut-vse-kristalno-yasno-stalo-izvestno-pochemu-bred-pitt-s-nedoveriem-otnositsya-k-zhencshinam)
 - [Ледь устиг вивезти родину з Бучі: на Київщині поховали офіцера, який поліг на Луганщині](https://fakty.ua/451047-edva-uspel-vyvezti-semyu-iz-buchi-na-kievcshine-pohoronili-oficera-pogibshego-na-lugancshine)
 - [Галкін показав свіже фото Алли Пугачової: «Моя кохана»](https://fakty.ua/451056-galkin-pokazal-svezhee-foto-ally-pugachevoj-quot-moya-lyubimaya-quot)
 - [Такий же красунчик, як і тато: Ромео Бекхем вийшов на подіум у рамках Тижня моди в Мілані](https://fakty.ua/451046-takoj-zhe-krasavchik-kak-i-papa-romeo-bekhem-vyshel-na-podium-v-ramkah-nedeli-mody-v-milane)
 - [Дрон терористів вдарив по автобусу у Херсоні: одна людина загинула, багато поранених](https://fakty.ua/451042-dron-terroristov-udaril-po-avtobusu-v-hersone-odin-chelovek-pogib-mnogo-ranenyh)
-- [Не потрібно підігравати Трампу: експерт про те, як Україні діяти після скандалу у Білому домі](https://fakty.ua/451036-ne-nuzhno-podygryvat-trampu-ekspert-o-tom-kak-ukraine-dejstvovat-posle-skandala-v-belom-dome)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
