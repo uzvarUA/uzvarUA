@@ -155,11 +155,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [СБУ та поліція запобігли серії терактів під Києвом, у Львові, Чернігові та Вінниці &lpar;фото&rpar;](https://fakty.ua/451081-sbu-i-policiya-predotvratili-seriyu-teraktov-pod-kievom-vo-lvove-chernigove-i-vinnice-foto)
+- [Вперше злітала з розуму: Оля Полякова вразила зізнанням](https://fakty.ua/451079-vpervye-sletala-s-katushek-olya-polyakova-porazila-priznaniem)
 - [«Тетяна часто запитувала: «Що ми робимо для перемоги?»: журналістка Тетяна Кулик та її чоловік згоріли живцем унаслідок атаки росії](https://fakty.ua/451065-tatyana-chasto-sprashivala-chto-my-delaem-dlya-pobedy-zhurnalistka-tatyana-kulik-i-eyo-muzh-sgoreli-zazhivo-v-rezultate-ataki-rossii)
 - [Тварини загинули в екопарку під Харковом внаслідок удару «Шахеда» &lpar;фото&rpar;](https://fakty.ua/451072-zhivotnye-pogibli-v-ekoparke-pod-harkovom-v-rezultate-udara-shaheda-foto)
 - [Зовсім скоро: у якій кількості та як швидко Україна зможе отримати ракети Taurus](https://fakty.ua/451061-sovsem-skoro-v-kakom-kolichestve-i-kak-bystro-ukraina-smozhet-poluchit-rakety-taurus)
-- [«Ми є свідками несвоєчасно ухвалених рішень і незасвоєних уроків»: командувач Сухопутними військами — про трагедію на Дніпропетровщині](https://fakty.ua/451069-my-yavlyaemsya-svidetelyami-nesvoevremenno-prinyatyh-reshenij-i-neusvoennyh-urokov-komanduyucshij-suhoputnymi-vojskami-o-tragedii-na-dnepropetrovcshine)
-- [Без журналістів та закрите засідання: ЗМІ про несподівану реакцію судді ВАКС по факту спроби НАБУ спровокувати екснардепа дати хабар Кличку](https://fakty.ua/451068-bez-zhurnalistov-i-zakrytoe-zasedanie-smi-o-neozhidannoj-reakcii-sudi-vaks-po-faktu-popytki-nabu-sprovocirovat-eks-nardepa-dat-vzyatku-klichko)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
