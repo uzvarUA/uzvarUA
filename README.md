@@ -155,11 +155,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Вперше за 10 років: популярна телеведуча розповіла про важливу подію у житті &lpar;фото&rpar;](https://fakty.ua/451084-vpervye-za-10-let-populyarnaya-televeducshaya-rasskazala-o-vazhnom-sobytii-v-zhizni-foto)
 - [СБУ та поліція запобігли серії терактів під Києвом, у Львові, Чернігові та Вінниці &lpar;фото&rpar;](https://fakty.ua/451081-sbu-i-policiya-predotvratili-seriyu-teraktov-pod-kievom-vo-lvove-chernigove-i-vinnice-foto)
 - [Вперше злітала з розуму: Оля Полякова вразила зізнанням](https://fakty.ua/451079-vpervye-sletala-s-katushek-olya-polyakova-porazila-priznaniem)
 - [«Тетяна часто запитувала: «Що ми робимо для перемоги?»: журналістка Тетяна Кулик та її чоловік згоріли живцем унаслідок атаки росії](https://fakty.ua/451065-tatyana-chasto-sprashivala-chto-my-delaem-dlya-pobedy-zhurnalistka-tatyana-kulik-i-eyo-muzh-sgoreli-zazhivo-v-rezultate-ataki-rossii)
 - [Тварини загинули в екопарку під Харковом внаслідок удару «Шахеда» &lpar;фото&rpar;](https://fakty.ua/451072-zhivotnye-pogibli-v-ekoparke-pod-harkovom-v-rezultate-udara-shaheda-foto)
-- [Зовсім скоро: у якій кількості та як швидко Україна зможе отримати ракети Taurus](https://fakty.ua/451061-sovsem-skoro-v-kakom-kolichestve-i-kak-bystro-ukraina-smozhet-poluchit-rakety-taurus)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
