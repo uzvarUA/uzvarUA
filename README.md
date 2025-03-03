@@ -155,11 +155,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [«Тетяна часто запитувала: «Що ми робимо для перемоги?»: журналістка Тетяна Кулик та її чоловік згоріли живцем унаслідок атаки росії](https://fakty.ua/451065-tatyana-chasto-sprashivala-chto-my-delaem-dlya-pobedy-zhurnalistka-tatyana-kulik-i-eyo-muzh-sgoreli-zazhivo-v-rezultate-ataki-rossii)
+- [Тварини загинули в екопарку під Харковом внаслідок удару «Шахеда» &lpar;фото&rpar;](https://fakty.ua/451072-zhivotnye-pogibli-v-ekoparke-pod-harkovom-v-rezultate-udara-shaheda-foto)
+- [Зовсім скоро: у якій кількості та як швидко Україна зможе отримати ракети Taurus](https://fakty.ua/451061-sovsem-skoro-v-kakom-kolichestve-i-kak-bystro-ukraina-smozhet-poluchit-rakety-taurus)
 - [«Ми є свідками несвоєчасно ухвалених рішень і незасвоєних уроків»: командувач Сухопутними військами — про трагедію на Дніпропетровщині](https://fakty.ua/451069-my-yavlyaemsya-svidetelyami-nesvoevremenno-prinyatyh-reshenij-i-neusvoennyh-urokov-komanduyucshij-suhoputnymi-vojskami-o-tragedii-na-dnepropetrovcshine)
 - [Без журналістів та закрите засідання: ЗМІ про несподівану реакцію судді ВАКС по факту спроби НАБУ спровокувати екснардепа дати хабар Кличку](https://fakty.ua/451068-bez-zhurnalistov-i-zakrytoe-zasedanie-smi-o-neozhidannoj-reakcii-sudi-vaks-po-faktu-popytki-nabu-sprovocirovat-eks-nardepa-dat-vzyatku-klichko)
-- [«Слава Україні!» прозвучала на церемонії вручення «Оскара»](https://fakty.ua/451064-slava-ukraine-prozvuchala-na-ceremonii-vrucheniya-oskara)
-- [Ворожі дрони вночі прилетіли по житлових будинках у Харкові та Кривому Розі &lpar;фото, відео&rpar;](https://fakty.ua/451059-vrazheskie-drony-nochyu-prileteli-v-zhilye-doma-v-harkove-i-krivom-roge-foto-video)
-- [Тут усе криштально ясно: стало відомо, чому Бред Пітт із недовірою ставиться до жінок](https://fakty.ua/451051-tut-vse-kristalno-yasno-stalo-izvestno-pochemu-bred-pitt-s-nedoveriem-otnositsya-k-zhencshinam)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
