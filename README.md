@@ -155,11 +155,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [ЗСУ контратакують на лінії фронту: ЗМІ спростували скандальні заяви Трампа](https://fakty.ua/451075-vsu-kontratakuyut-na-linii-fronta-smi-oprovergli-skandalnye-zayavleniya-trampa)
+- [«Маю на цей світ великі плани»: популярна телеведуча про унікальне захоплення](https://fakty.ua/451088-u-menya-na-etot-mir-bolshie-plany-populyarnaya-televeducshaya-ob-unikalnom-uvlechenii)
 - [Схожий на маму: Іраклі Макацарія вперше показав сина](https://fakty.ua/451085-pohozh-na-mamu-irakli-makacariya-vpervye-pokazal-syna)
 - [Чи виживе Україна без американської зброї: аналітики ISW дали прогноз](https://fakty.ua/451076-vyzhivet-li-ukraina-bez-amerikanskogo-oruzhiya-analitiki-isw-dali-prognoz)
 - [Вперше за 10 років: популярна телеведуча розповіла про важливу подію у житті &lpar;фото&rpar;](https://fakty.ua/451084-vpervye-za-10-let-populyarnaya-televeducshaya-rasskazala-o-vazhnom-sobytii-v-zhizni-foto)
-- [СБУ та поліція запобігли серії терактів під Києвом, у Львові, Чернігові та Вінниці &lpar;фото&rpar;](https://fakty.ua/451081-sbu-i-policiya-predotvratili-seriyu-teraktov-pod-kievom-vo-lvove-chernigove-i-vinnice-foto)
-- [Вперше злітала з розуму: Оля Полякова вразила зізнанням](https://fakty.ua/451079-vpervye-sletala-s-katushek-olya-polyakova-porazila-priznaniem)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
