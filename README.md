@@ -155,11 +155,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [На Шакіру накинулися з критикою за те, що вона зробила зі своєю танцівницею в Колумбії](https://fakty.ua/451091-na-shakiru-nabrosilis-s-kritikoj-za-to-chto-ona-sdelala-so-svoej-tancovcshicej-v-kolumbii)
 - [За період служби отримав ряд медалей та відзнак: в бою на Харківщині загинув боєць з Кіровоградщини](https://fakty.ua/451087-za-period-sluzhby-poluchil-ryad-medalej-i-nagrad-v-boyu-na-harkovcshine-pogib-boec-s-kirovogradcshiny)
 - [«Америка довго цього терпіти не буде!»: Трамп відреагував на заяву Зеленського в Лондоні](https://fakty.ua/451101-quot-amerika-dolgo-etogo-terpet-ne-budet-quot-tramp-otreagiroval-na-zayavlenie-zelenskogo-v-londone)
 - [ЗСУ контратакують на лінії фронту: ЗМІ спростували скандальні заяви Трампа](https://fakty.ua/451075-vsu-kontratakuyut-na-linii-fronta-smi-oprovergli-skandalnye-zayavleniya-trampa)
 - [«Маю на цей світ великі плани»: популярна телеведуча про унікальне захоплення](https://fakty.ua/451088-u-menya-na-etot-mir-bolshie-plany-populyarnaya-televeducshaya-ob-unikalnom-uvlechenii)
-- [Схожий на маму: Іраклі Макацарія вперше показав сина](https://fakty.ua/451085-pohozh-na-mamu-irakli-makacariya-vpervye-pokazal-syna)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
