@@ -155,11 +155,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [«Ми є свідками несвоєчасно ухвалених рішень і незасвоєних уроків»: командувач Сухопутними військами — про трагедію на Дніпропетровщині](https://fakty.ua/451069-my-yavlyaemsya-svidetelyami-nesvoevremenno-prinyatyh-reshenij-i-neusvoennyh-urokov-komanduyucshij-suhoputnymi-vojskami-o-tragedii-na-dnepropetrovcshine)
+- [Без журналістів та закрите засідання: ЗМІ про несподівану реакцію судді ВАКС по факту спроби НАБУ спровокувати екснардепа дати хабар Кличку](https://fakty.ua/451068-bez-zhurnalistov-i-zakrytoe-zasedanie-smi-o-neozhidannoj-reakcii-sudi-vaks-po-faktu-popytki-nabu-sprovocirovat-eks-nardepa-dat-vzyatku-klichko)
 - [«Слава Україні!» прозвучала на церемонії вручення «Оскара»](https://fakty.ua/451064-slava-ukraine-prozvuchala-na-ceremonii-vrucheniya-oskara)
 - [Ворожі дрони вночі прилетіли по житлових будинках у Харкові та Кривому Розі &lpar;фото, відео&rpar;](https://fakty.ua/451059-vrazheskie-drony-nochyu-prileteli-v-zhilye-doma-v-harkove-i-krivom-roge-foto-video)
 - [Тут усе криштально ясно: стало відомо, чому Бред Пітт із недовірою ставиться до жінок](https://fakty.ua/451051-tut-vse-kristalno-yasno-stalo-izvestno-pochemu-bred-pitt-s-nedoveriem-otnositsya-k-zhencshinam)
-- [І вашим, і нашим: Потапа відправили на пенсію, а він знайшов «заміну» Каменських &lpar;відео&rpar;](https://fakty.ua/451033-i-vashim-i-nashim-potapa-otpravili-na-pensiyu-a-on-nashel-quot-zamenu-quot-kamenskih-video)
-- [Ледь устиг вивезти родину з Бучі: на Київщині поховали офіцера, який поліг на Луганщині](https://fakty.ua/451047-edva-uspel-vyvezti-semyu-iz-buchi-na-kievcshine-pohoronili-oficera-pogibshego-na-lugancshine)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
