@@ -26,6 +26,7 @@
 - [Топ 10 Модів](#top-10-mods)
 - [Key Mapper 2](#key-mapper-2)
 - [Новини Із Лісництва NPC номер 42](#новини-із-лісництва-npc-номер-42)
+- [Backups](#backups)
 ***
 # Як проголосувати за тему?
 *Ви допоможете вибрати тему*
@@ -295,4 +296,16 @@ curl -s -o ~/x https://raw.githubusercontent.com/olegos2/mobox/main/install && .
 # 8 Секретів Лісництва NPC Номер 42
 > [!NOTE]
 > [Читайте 8 Секретів Лісництва NPC Номер 42](https://github.com/uzvarUA/8-secrets-in-forestry-NPC-number-42)
+***
+![](https://uzvarua.github.io/uzvarUA/Forestry_NPC_number_42.jpg)
+***
+# Backups
+> [!WARNING]
+> Не завантажити резервних копій <br>
+> Резервні копії для себе
+> <br>
+> Версія Minecraft Bedrock Edition 1.21.60
+> <br>
+> [Не завантажити](https://github.com/uzvarUA/Forestry-NPC-number-backups/tree/main)
+> <br>
 ***
