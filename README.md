@@ -156,11 +156,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Чоловіки Примадонни здивували: Кіркоров не зміг «відкрити весну», а Галкін «посміявся» над Трампом](https://fakty.ua/451151-muzhya-primadonny-udivili-kirkorov-ne-smog-quot-otkryt-vesnu-quot-a-galkin-quot-pohlopotal-quot-nad-trampom)
 - [«Наша зустріч у Вашингтоні, у Білому домі, пройшла не так, як передбачалося», — Зеленський](https://fakty.ua/451150-quot-nasha-vstrecha-v-vashingtone-v-belom-dome-proshla-ne-tak-kak-predpolagalos-quot---zelenskij)
 - [Коли сил уже майже немає: слова Наді Дорофєєвої вразили українців](https://fakty.ua/451129-kogda-sil-uzhe-pochti-net-slova-nadi-dorofeevoj-porazili-ukraincev)
 - [Трагедія на полігоні «Новомосковський»: чому командування Сухопутних військ мовчало про те, що там сталося](https://fakty.ua/451148-tragediya-na-poligone-quot-novomoskovskij-quot-pochemu-komandovanie-suhoputnyh-vojsk-molchalo-o-tom-chto-tam-proizoshlo)
 - [Країна-агресорка завдала авіаудару по Запорізькій області: є жертва та поранена, зруйновано будинки &lpar;фото&rpar;](https://fakty.ua/451146-strana-agressor-nanesla-aviaudar-po-zaporozhskoj-oblasti-est-zhertva-i-ranenaya-razrusheny-doma-foto)
-- [Неочікувано: лідер гурту ТІК зіграв роль у кіно](https://fakty.ua/451124-neozhidanno-lider-gruppy-tik-sygral-rol-v-kino)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
