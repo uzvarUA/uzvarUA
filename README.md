@@ -156,11 +156,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [«Наша зустріч у Вашингтоні, у Білому домі, пройшла не так, як передбачалося», — Зеленський](https://fakty.ua/451150-quot-nasha-vstrecha-v-vashingtone-v-belom-dome-proshla-ne-tak-kak-predpolagalos-quot---zelenskij)
+- [Коли сил уже майже немає: слова Наді Дорофєєвої вразили українців](https://fakty.ua/451129-kogda-sil-uzhe-pochti-net-slova-nadi-dorofeevoj-porazili-ukraincev)
+- [Трагедія на полігоні «Новомосковський»: чому командування Сухопутних військ мовчало про те, що там сталося](https://fakty.ua/451148-tragediya-na-poligone-quot-novomoskovskij-quot-pochemu-komandovanie-suhoputnyh-vojsk-molchalo-o-tom-chto-tam-proizoshlo)
 - [Країна-агресорка завдала авіаудару по Запорізькій області: є жертва та поранена, зруйновано будинки &lpar;фото&rpar;](https://fakty.ua/451146-strana-agressor-nanesla-aviaudar-po-zaporozhskoj-oblasti-est-zhertva-i-ranenaya-razrusheny-doma-foto)
 - [Неочікувано: лідер гурту ТІК зіграв роль у кіно](https://fakty.ua/451124-neozhidanno-lider-gruppy-tik-sygral-rol-v-kino)
-- [Наш кумир: Дмитро Дикусар відреагував на останні новини](https://fakty.ua/451128-nash-kumir-dmitrij-dikusar-otreagiroval-na-poslednie-novosti)
-- [НАБУ потрібно перезавантажити, бо компрометує боротьбу з корупцією: експерт про затримання представника Бюро на збуті амфетаміну](https://fakty.ua/451133-nabu-nuzhno-perezagruzit-potomu-chto-komprometiruet-borbu-s-korrupciej-ekspert-o-zaderzhanii-predstavitelya-byuro-na-sbyte-amfetamina)
-- [Стаєш із ним одним цілим: популярний телеведучий подав на розлучення](https://fakty.ua/451130-stanovishsya-s-nim-odnim-celym-populyarnyj-televeducshij-podal-na-razvod)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
