@@ -156,11 +156,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Неочікувано: лідер гурту ТІК зіграв роль у кіно](https://fakty.ua/451124-neozhidanno-lider-gruppy-tik-sygral-rol-v-kino)
 - [Наш кумир: Дмитро Дикусар відреагував на останні новини](https://fakty.ua/451128-nash-kumir-dmitrij-dikusar-otreagiroval-na-poslednie-novosti)
 - [НАБУ потрібно перезавантажити, бо компрометує боротьбу з корупцією: експерт про затримання представника Бюро на збуті амфетаміну](https://fakty.ua/451133-nabu-nuzhno-perezagruzit-potomu-chto-komprometiruet-borbu-s-korrupciej-ekspert-o-zaderzhanii-predstavitelya-byuro-na-sbyte-amfetamina)
 - [Стаєш із ним одним цілим: популярний телеведучий подав на розлучення](https://fakty.ua/451130-stanovishsya-s-nim-odnim-celym-populyarnyj-televeducshij-podal-na-razvod)
 - [Алла Пугачова звернулася до шанувальників: «Душою з вами»](https://fakty.ua/451122-alla-pugacheva-obratilas-k-poklonnikam-dushej-s-vami)
-- [«Коли сина знайшли, він лежав коло товариша»: у бою на Харківщині загинув відомий волонтер, який пішов на війну добровольцем](https://fakty.ua/451103-kogda-syna-nashli-on-lezhal-ryadom-s-tovaricshem-v-boyu-na-harkovcshine-pogib-izvestnyj-volonter-kotoryj-poshel-na-vojnu-dobrovolcem)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
