@@ -157,11 +157,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Порошенко встиг вивести 2 млрд грн. Переказати більше завадили санкції, — експерт](https://fakty.ua/451192-poroshenko-uspel-vyvesti-2-mlrd-grn-perevesti-bolshe-pomeshali-sankcii---ekspert)
+- [Тільки не з такими: переможниця «Холостяка» про побачення з медійними персонами](https://fakty.ua/451179-tolko-ne-s-takimi-pobeditelnica-holostyaka-o-svidaniyah-s-medijnymi-personami)
 - [Буде важко виправити: Пелюховський про помилку Зеленського](https://fakty.ua/451183-budet-trudno-ispravit-pelyuhovskij-ob-oshibke-zelenskogo)
 - [«Шахед» вдарив у відділення «Нової пошти» під Одесою: згоріли сотні посилок &lpar;фото&rpar;](https://fakty.ua/451182-shahed-udaril-po-otdeleniyu-novoj-pochty-pod-odessoj-sgoreli-sotni-posylok-foto)
 - [Гаряча та зваблива: популярна акторка вразила відвертими світлинами](https://fakty.ua/451175-goryachaya-i-obolstitelnaya-populyarnaya-aktrisa-porazila-otkrovennymi-fotografiyami)
-- [Пригрозили, що змусять бігти через мінне поле: у 63-річному співробітнику Запорізької АЕС окупанти «розгледіли» шпигуна](https://fakty.ua/451144-prigrozili-chto-zastavyat-bezhat-cherez-minnoe-pole-v-63-letnem-sotrudnike-zaporozhskoj-aes-okkupanty-rassmotreli-shpiona)
-- [Нічний наліт дронів: Київській області теж «дісталося» &lpar;фото&rpar;](https://fakty.ua/451163-nochnoj-nalet-dronov-kievskoj-oblasti-tozhe-dostalos-foto)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
