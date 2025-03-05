@@ -157,11 +157,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Зовсім забув про Джей Ло: Бен Аффлек посміхається поруч з Дженніфер Гарнер](https://fakty.ua/451173-sovsem-zabyl-o-dzhej-lo-ben-afflek-ulybaetsya-ryadom-s-dzhennifer-garner)
 - [До рідного дому привезли рідний брат та швагро: від ракетного удару на Запоріжжі загинув воїн з Рівненщини](https://fakty.ua/451169-v-rodnoj-dom-privezli-rodnoj-brat-i-shurin-ot-raketnogo-udara-v-zaporozhskoj-oblasti-pogib-voin-s-rovencshiny)
 - [Мурат Налчаджіоглу показав свою 13-річну доньку від зрадниці Лорак](https://fakty.ua/451180-murat-nalchadzhioglu-pokazal-svoyu-13-letnyuyu-doch-ot-predatelnicy-lorak)
 - [В інформпросторі шантажують голову суду у Львові, який розглядає справи Медведчука і керівників АТ «Айбокс Банк»](https://fakty.ua/451197-v-informprostranstve-shantazhiruyut-predsedatelya-suda-vo-lvove-rassmatrivayucshem-dela-medvedchuka-i-rukovoditelej-ao-ajboks-bank)
 - [Порошенко встиг вивести 2 млрд грн. Переказати більше завадили санкції, — експерт](https://fakty.ua/451192-poroshenko-uspel-vyvesti-2-mlrd-grn-perevesti-bolshe-pomeshali-sankcii---ekspert)
-- [Тільки не з такими: переможниця «Холостяка» про побачення з медійними персонами](https://fakty.ua/451179-tolko-ne-s-takimi-pobeditelnica-holostyaka-o-svidaniyah-s-medijnymi-personami)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
