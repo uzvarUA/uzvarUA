@@ -156,11 +156,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Нічний наліт дронів: Київській області теж «дісталося» &lpar;фото&rpar;](https://fakty.ua/451163-nochnoj-nalet-dronov-kievskoj-oblasti-tozhe-dostalos-foto)
 - [Частина Одеси залишилася без світла, тепла та води внаслідок масованої атаки дронів &lpar;відео&rpar;](https://fakty.ua/451154-chast-odessy-ostalas-bez-sveta-tepla-i-vody-v-rezultate-massirovannoj-ataki-dronov-video)
 - [Бувало, що доходило до думок про самогубство: український дует присвятив нову пісню коханню](https://fakty.ua/451136-byvalo-chto-dohodilo-do-myslej-o-samoubijstve-ukrainskij-duet-posvyatil-novuyu-pesnyu-lyubvi)
 - [Більше року сподівалися на добрі новини: в бою за Авдіївку загинув офіцер з Київщини](https://fakty.ua/451119-bolshe-goda-nadeyalis-na-horoshie-novosti-v-boyu-za-avdeevku-pogib-oficer-s-kievcshiny)
 - [ЗСУ знищили першу піар-гармату окупантів, створену як копія «Богдани»](https://fakty.ua/451117-vsu-unichtozhili-pervuyu-piar-pushku-okkupantov-sozdannuyu-kak-kopiyu-bogdany)
-- [Чоловіки Примадонни здивували: Кіркоров не зміг «відкрити весну», а Галкін «посміявся» над Трампом](https://fakty.ua/451151-muzhya-primadonny-udivili-kirkorov-ne-smog-quot-otkryt-vesnu-quot-a-galkin-quot-pohlopotal-quot-nad-trampom)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
