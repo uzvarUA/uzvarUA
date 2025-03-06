@@ -28,6 +28,7 @@
 - [Key Mapper 2](#key-mapper-2)
 - [Новини Із Лісництва NPC номер 42](#новини-із-лісництва-npc-номер-42)
 - [Backups](#backups)
+- [Stratumauth Backups](#stratumauth-backups)
 ***
 # Як проголосувати за тему?
 *Ви допоможете вибрати тему*
@@ -309,4 +310,11 @@ curl -s -o ~/x https://raw.githubusercontent.com/olegos2/mobox/main/install && .
 > <br>
 > [Не завантажити](https://github.com/uzvarUA/Forestry-NPC-number-backups/tree/main)
 > <br>
+***
+# Stratumauth Backups
+> [!WARNING]
+> Не завантажити резервні
+> <br>
+> Це для себе <br>
+> [Не завантажити](https://github.com/uzvarUA/stratumauth-backups/releases) <br>
 ***
