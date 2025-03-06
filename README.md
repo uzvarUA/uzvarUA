@@ -157,11 +157,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Нереальна: мережа вражена новою роботою Наді Дорофєєвої](https://fakty.ua/451231-nerealnaya-set-porazhena-novoj-rabotoj-nadi-dorofeevoj)
 - [«Мимозний настрій»: Алла Пугачова розсмішила шанувальників незвичним відео](https://fakty.ua/451224-quot-mimoznoe-nastroenie-quot-alla-pugacheva-rassmeshila-poklonnikov-neobychnym-video)
 - [Фармвиробники підтримали доступність ліків: що відомо](https://fakty.ua/451227-farmproizvoditeli-podderzhali-dostupnost-lekarstv-chto-izvestno)
 - [Один загиблий та 16 травмованих: на Львівщині зіткнулися автобус та вантажівка](https://fakty.ua/451226-odin-pogibshij-i-16-travmirovannyh-na-lvovcshine-stolknulis-avtobus-i-gruzovik)
 - [«Ти влип в халепу, Трамп»: Klavdia Petrivna здивувала «пророцтвом» про зустріч Зеленського з президентом США](https://fakty.ua/451211-quot-ty-vlip-v-bedu-tramp-quot-klavdia-petrivna-udivila-quot-prorochestvom-quot-o-vstreche-zelenskogo-s-prezidentom-ssha)
-- [Під удар потрапили волонтери: Зеленський прокоментував атаку ворога на готель у Кривому Розі](https://fakty.ua/451214-pod-udar-popali-volontery-zelenskij-prokommentiroval-ataku-vraga-na-gostinicu-v-krivom-roge)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
