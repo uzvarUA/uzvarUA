@@ -157,11 +157,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Почувається зрадженою: стало відомо, як Дженніфер Лопес відреагувала на свіжі фото Бена Аффлека і Дженніфер Гарнер](https://fakty.ua/451230-chuvstvuet-sebya-predannoj-stalo-izvestno-kak-dzhennifer-lopes-otreagirovala-na-svezhie-foto-bena-affleka-i-dzhennifer-garner)
+- [Єдність українців — першочергова. Локомотивом обʼєднання мають стати військові і бізнес, — Ігор Кривецький](https://fakty.ua/451238-edinstvo-ukraincev---pervoocherednaya-zadacha-lokomotivom-obedineniya-dolzhny-stat-voennye-i-biznes---igor-kriveckij)
+- [За суддю Жовніра заступилися проросійські прихильники Медведчука, — Береза](https://fakty.ua/451237-za-sudyu-zhovnira-vstupilis-prorossijskie-storonniki-medvedchuka---bereza)
 - [Нереальна: мережа вражена новою роботою Наді Дорофєєвої](https://fakty.ua/451231-nerealnaya-set-porazhena-novoj-rabotoj-nadi-dorofeevoj)
 - [«Мимозний настрій»: Алла Пугачова розсмішила шанувальників незвичним відео](https://fakty.ua/451224-quot-mimoznoe-nastroenie-quot-alla-pugacheva-rassmeshila-poklonnikov-neobychnym-video)
-- [Фармвиробники підтримали доступність ліків: що відомо](https://fakty.ua/451227-farmproizvoditeli-podderzhali-dostupnost-lekarstv-chto-izvestno)
-- [Один загиблий та 16 травмованих: на Львівщині зіткнулися автобус та вантажівка](https://fakty.ua/451226-odin-pogibshij-i-16-travmirovannyh-na-lvovcshine-stolknulis-avtobus-i-gruzovik)
-- [«Ти влип в халепу, Трамп»: Klavdia Petrivna здивувала «пророцтвом» про зустріч Зеленського з президентом США](https://fakty.ua/451211-quot-ty-vlip-v-bedu-tramp-quot-klavdia-petrivna-udivila-quot-prorochestvom-quot-o-vstreche-zelenskogo-s-prezidentom-ssha)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
