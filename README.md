@@ -157,11 +157,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [США пошкодують, що залишили Україну: генерал Годжес зробив заяву](https://fakty.ua/451195-ssha-pozhaleyut-chto-brosili-ukrainu-general-hodzhes-sdelal-zayavlenie)
 - [Ворог скинув на Краматорськ три КАБи: є поранені](https://fakty.ua/451244-vrag-sbrosil-na-kramatorsk-tri-kaba-est-ranenye)
 - [Хоча б мою старість зустрінемо разом: Володимир Остапчук звернувся до дружини](https://fakty.ua/451234-hotya-by-moyu-starost-vstretim-vmeste-vladimir-ostapchuk-obratilsya-k-zhene)
 - [Комарницький, якого звинувачують у «кришуванні» схем у столиці, посварився зі «слугами», але Ткаченко також «в темі» — ЗМІ](https://fakty.ua/451241-komarnickij-obvinyaemyj-v-kryshevanii-shem-v-stolice-possorilsya-so-quot-slugami-quot-no-tkachenko-takzhe-quot-v-teme-quot---smi)
 - [Почувається зрадженою: стало відомо, як Дженніфер Лопес відреагувала на свіжі фото Бена Аффлека і Дженніфер Гарнер](https://fakty.ua/451230-chuvstvuet-sebya-predannoj-stalo-izvestno-kak-dzhennifer-lopes-otreagirovala-na-svezhie-foto-bena-affleka-i-dzhennifer-garner)
-- [Єдність українців — першочергова. Локомотивом обʼєднання мають стати військові і бізнес, — Ігор Кривецький](https://fakty.ua/451238-edinstvo-ukraincev---pervoocherednaya-zadacha-lokomotivom-obedineniya-dolzhny-stat-voennye-i-biznes---igor-kriveckij)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
