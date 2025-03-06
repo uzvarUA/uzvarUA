@@ -157,11 +157,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [«Ти влип в халепу, Трамп»: Klavdia Petrivna здивувала «пророцтвом» про зустріч Зеленського з президентом США](https://fakty.ua/451211-quot-ty-vlip-v-bedu-tramp-quot-klavdia-petrivna-udivila-quot-prorochestvom-quot-o-vstreche-zelenskogo-s-prezidentom-ssha)
+- [Під удар потрапили волонтери: Зеленський прокоментував атаку ворога на готель у Кривому Розі](https://fakty.ua/451214-pod-udar-popali-volontery-zelenskij-prokommentiroval-ataku-vraga-na-gostinicu-v-krivom-roge)
 - [Ворог вночі масовано атакував Одеську область, є ураження енергооб’єкта](https://fakty.ua/451210-vrag-nochyu-massirovanno-atakoval-odesskuyu-oblast-est-porazhenie-energoobekta)
 - [Окупанти нанесли удари по мирним містам: є жертви та поранені](https://fakty.ua/451204-okkupanty-nanesli-udary-po-mirnym-gorodam-est-zhertvy-i-ranenye)
 - [США призупинили військову допомогу Україні: літаки зі зброєю розвернулися назад до Штатів](https://fakty.ua/451203-ssha-priostanovili-voennuyu-pomocsh-ukraine-samolety-s-oruzhiem-razvernulis-obratno-v-shtaty)
-- [Зовсім забув про Джей Ло: Бен Аффлек посміхається поруч з Дженніфер Гарнер](https://fakty.ua/451173-sovsem-zabyl-o-dzhej-lo-ben-afflek-ulybaetsya-ryadom-s-dzhennifer-garner)
-- [До рідного дому привезли рідний брат та швагро: від ракетного удару на Запоріжжі загинув воїн з Рівненщини](https://fakty.ua/451169-v-rodnoj-dom-privezli-rodnoj-brat-i-shurin-ot-raketnogo-udara-v-zaporozhskoj-oblasti-pogib-voin-s-rovencshiny)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
