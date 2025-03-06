@@ -157,11 +157,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Один загиблий та 16 травмованих: на Львівщині зіткнулися автобус та вантажівка](https://fakty.ua/451226-odin-pogibshij-i-16-travmirovannyh-na-lvovcshine-stolknulis-avtobus-i-gruzovik)
 - [«Ти влип в халепу, Трамп»: Klavdia Petrivna здивувала «пророцтвом» про зустріч Зеленського з президентом США](https://fakty.ua/451211-quot-ty-vlip-v-bedu-tramp-quot-klavdia-petrivna-udivila-quot-prorochestvom-quot-o-vstreche-zelenskogo-s-prezidentom-ssha)
 - [Під удар потрапили волонтери: Зеленський прокоментував атаку ворога на готель у Кривому Розі](https://fakty.ua/451214-pod-udar-popali-volontery-zelenskij-prokommentiroval-ataku-vraga-na-gostinicu-v-krivom-roge)
 - [Ворог вночі масовано атакував Одеську область, є ураження енергооб’єкта](https://fakty.ua/451210-vrag-nochyu-massirovanno-atakoval-odesskuyu-oblast-est-porazhenie-energoobekta)
 - [Окупанти нанесли удари по мирним містам: є жертви та поранені](https://fakty.ua/451204-okkupanty-nanesli-udary-po-mirnym-gorodam-est-zhertvy-i-ranenye)
-- [США призупинили військову допомогу Україні: літаки зі зброєю розвернулися назад до Штатів](https://fakty.ua/451203-ssha-priostanovili-voennuyu-pomocsh-ukraine-samolety-s-oruzhiem-razvernulis-obratno-v-shtaty)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
