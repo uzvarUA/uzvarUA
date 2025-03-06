@@ -157,11 +157,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Ворог вночі масовано атакував Одеську область, є ураження енергооб’єкта](https://fakty.ua/451210-vrag-nochyu-massirovanno-atakoval-odesskuyu-oblast-est-porazhenie-energoobekta)
 - [Окупанти нанесли удари по мирним містам: є жертви та поранені](https://fakty.ua/451204-okkupanty-nanesli-udary-po-mirnym-gorodam-est-zhertvy-i-ranenye)
 - [США призупинили військову допомогу Україні: літаки зі зброєю розвернулися назад до Штатів](https://fakty.ua/451203-ssha-priostanovili-voennuyu-pomocsh-ukraine-samolety-s-oruzhiem-razvernulis-obratno-v-shtaty)
 - [Зовсім забув про Джей Ло: Бен Аффлек посміхається поруч з Дженніфер Гарнер](https://fakty.ua/451173-sovsem-zabyl-o-dzhej-lo-ben-afflek-ulybaetsya-ryadom-s-dzhennifer-garner)
 - [До рідного дому привезли рідний брат та швагро: від ракетного удару на Запоріжжі загинув воїн з Рівненщини](https://fakty.ua/451169-v-rodnoj-dom-privezli-rodnoj-brat-i-shurin-ot-raketnogo-udara-v-zaporozhskoj-oblasti-pogib-voin-s-rovencshiny)
-- [Мурат Налчаджіоглу показав свою 13-річну доньку від зрадниці Лорак](https://fakty.ua/451180-murat-nalchadzhioglu-pokazal-svoyu-13-letnyuyu-doch-ot-predatelnicy-lorak)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
