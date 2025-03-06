@@ -158,11 +158,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Джастін Тімберлейк відсвяткував особливий день після скасування свого концерту](https://fakty.ua/451222-dzhastin-timberlejk-otmetil-osobyj-den-posle-otmeny-svoego-koncerta)
 - [У США розповіли, як Зеленський налагодив стосунки з Трампом](https://fakty.ua/451215-v-ssha-rasskazali-kak-zelenskij-naladil-otnosheniya-s-trampom)
 - [Роботу між Україною й США відновлено: Зеленський зробив заяву](https://fakty.ua/451250-rabota-mezhdu-ukrainoj-i-ssha-vozobnovlena-zelenskij-sdelal-zayavlenie)
 - [Завжди в наших серцях: популярний співак переспівав хіт Скрябіна](https://fakty.ua/451235-vsegda-v-nashih-serdcah-populyarnyj-pevec-perepel-hit-skryabina)
 - [Був пов’язаний з «ЮКОСом»: стало відомо, який «таємничий багатій» допомагає Пугачовій і Галкіну в Ізраїлі](https://fakty.ua/451248-byl-svyazan-s-quot-yukosom-quot-stalo-izvestno-kto-pomogaet-alle-pugachevoj-i-maksimu-galkinu-v-izraile)
-- [США пошкодують, що залишили Україну: генерал Годжес зробив заяву](https://fakty.ua/451195-ssha-pozhaleyut-chto-brosili-ukrainu-general-hodzhes-sdelal-zayavlenie)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
