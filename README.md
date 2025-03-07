@@ -29,6 +29,7 @@
 - [Новини Із Лісництва NPC номер 42](#новини-із-лісництва-npc-номер-42)
 - [Backups](#backups)
 - [Stratumauth Backups](#stratumauth-backups)
+- [Shizuku](#shizuku)
 ***
 # Як проголосувати за тему?
 *Ви допоможете вибрати тему*
@@ -318,3 +319,5 @@ curl -s -o ~/x https://raw.githubusercontent.com/olegos2/mobox/main/install && .
 > Це для себе <br>
 > [Не завантажити](https://github.com/uzvarUA/stratumauth-backups/releases) <br>
 ***
+# Shizuku
+**Shizuku - це універсальна програма для Android, яка дозволяє користувачам отримати доступ до системних API без необхідності отримання кореневих прав.** Він призначений для тих, хто хоче розширити можливості свого пристрою без компрометації безпеки. Shizuku працює як посередник між системою та програмами, надаючи їм підвищені привілеї через інтерфейс ADB (Android Debug Bridge).
