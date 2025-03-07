@@ -30,6 +30,7 @@
 - [Backups](#backups)
 - [Stratumauth Backups](#stratumauth-backups)
 - [Shizuku](#shizuku)
+- [Forestry NPC number 42](#forestry-npc-number-42)
 ***
 # Як проголосувати за тему?
 *Ви допоможете вибрати тему*
@@ -300,6 +301,7 @@ curl -s -o ~/x https://raw.githubusercontent.com/olegos2/mobox/main/install && .
 > [!NOTE]
 > [Читайте 8 Секретів Лісництва NPC Номер 42](https://github.com/uzvarUA/8-secrets-in-forestry-NPC-number-42)
 ***
+# Forestry NPC number 42
 ![](https://uzvarua.github.io/uzvarUA/Forestry_NPC_number_42.jpg)
 ***
 # Backups
