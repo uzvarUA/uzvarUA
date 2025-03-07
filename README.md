@@ -160,11 +160,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Дали жару: Артем Пивоваров зіграв індійське весілля](https://fakty.ua/451272-dali-zharu-artem-pivovarov-sygral-indijskuyu-svadbu)
 - [Нарешті: мережа у захваті від нового дуету Дмитра Монатіка](https://fakty.ua/451275-nakonec-to-set-v-vostorge-ot-novogo-dueta-dmitriya-monatika)
 - [Ганьба: названа причина скасування концертів Андрія Данилко](https://fakty.ua/451267-pozor-nazvana-prichina-otmeny-koncertov-andreya-danilko)
 - [Кількість українських біженців може масово зростати: експерт назвав умови, за яких це відбудеться](https://fakty.ua/451242-kolichestvo-ukrainskih-bezhencev-mozhet-massovo-rasti-ekspert-nazval-usloviya-pri-kotoryh-eto-proizojdet)
 - [На Житомирщині порушили справу проти вчителя, який побив ліцеїстів &lpar;фото&rpar;](https://fakty.ua/451277-na-zhitomircshine-zaveli-delo-na-uchitelya-izbivshego-liceistov-foto)
-- [СБУ запобігла теракту біля рівненського ТЦК &lpar;фото&rpar;](https://fakty.ua/451278-sbu-predotvratila-terakt-vozle-rovenskogo-tck-foto)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
