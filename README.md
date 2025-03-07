@@ -160,11 +160,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Штани були мокрими: Роберт Паттінсон розповів про «психічний зрив» під час зйомок](https://fakty.ua/451262-bryuki-byli-mokrymi-robert-pattinson-rasskazal-o-psihicheskom-sryve-vo-vremya-semok)
 - [На передову окупанти направили танки, які оснастили новим захистом: чому він не допоможе](https://fakty.ua/451258-na-peredovuyu-okkupanty-napravili-tanki-kotorye-osnastili-novoj-zacshitoj-pochemu-ona-ne-pomozhet)
 - [Дали жару: Артем Пивоваров зіграв індійське весілля](https://fakty.ua/451272-dali-zharu-artem-pivovarov-sygral-indijskuyu-svadbu)
 - [Нарешті: мережа у захваті від нового дуету Дмитра Монатіка](https://fakty.ua/451275-nakonec-to-set-v-vostorge-ot-novogo-dueta-dmitriya-monatika)
 - [Ганьба: названа причина скасування концертів Андрія Данилко](https://fakty.ua/451267-pozor-nazvana-prichina-otmeny-koncertov-andreya-danilko)
-- [Кількість українських біженців може масово зростати: експерт назвав умови, за яких це відбудеться](https://fakty.ua/451242-kolichestvo-ukrainskih-bezhencev-mozhet-massovo-rasti-ekspert-nazval-usloviya-pri-kotoryh-eto-proizojdet)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
