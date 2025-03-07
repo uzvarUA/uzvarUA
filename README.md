@@ -160,11 +160,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
-- [Не проґавте момент: чим підживити яблуні на початку березня, щоб отримати гарний урожай](https://fakty.ua/451279-ne-upustite-moment-chem-podkormit-yabloni-v-nachale-marta-chtob-poluchit-horoshij-urozhaj)
-- [На Житомирщині порушили справу на вчителя, який побив ліцеїстів &lpar;фото&rpar;](https://fakty.ua/451277-na-zhitomircshine-zaveli-delo-na-uchitelya-izbivshego-liceistov-foto)
+- [Ганьба: названа причина скасування концертів Андрія Данилко](https://fakty.ua/451267-pozor-nazvana-prichina-otmeny-koncertov-andreya-danilko)
+- [Кількість українських біженців може масово зростати: експерт назвав умови, за яких це відбудеться](https://fakty.ua/451242-kolichestvo-ukrainskih-bezhencev-mozhet-massovo-rasti-ekspert-nazval-usloviya-pri-kotoryh-eto-proizojdet)
+- [На Житомирщині порушили справу проти вчителя, який побив ліцеїстів &lpar;фото&rpar;](https://fakty.ua/451277-na-zhitomircshine-zaveli-delo-na-uchitelya-izbivshego-liceistov-foto)
 - [СБУ запобігла теракту біля рівненського ТЦК &lpar;фото&rpar;](https://fakty.ua/451278-sbu-predotvratila-terakt-vozle-rovenskogo-tck-foto)
 - [Дві третини українців підтримують санкції проти Порошенка, Медведчука і Коломойського — соцопитування](https://fakty.ua/451273-dve-treti-ukraincev-podderzhivayut-sankcii-protiv-poroshenko-medvedchuka-i-kolomojskogo-socopros)
-- [росіяни зайшли в Сумську область: на Курщині ЗСУ потрапили в надскладну ситуацію](https://fakty.ua/451271-rossiyane-zashli-v-sumskuyu-oblast-na-kurcshine-vsu-popali-v-sverhslozhnuyu-situaciyu)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
