@@ -159,11 +159,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Генерал-лейтенант Сергій Наєв побував із робочим візитом у танкістів &lpar;фото&rpar;](https://fakty.ua/451270-general-lejtenant-sergej-naev-pobyval-s-rabochim-vizitom-u-tankistov-foto)
+- [На Полтавщині припинили роботу зруйновані росіянами об’єкти газовидобування — ДТЕК](https://fakty.ua/451268-v-poltavskoj-oblasti-prekratili-rabotu-razrushennye-rossiyanami-obekty-gazodobychi-dtek)
 - [Близько 70 ракет та майже 200 безпілотників: у Повітряних Силах розповіли деталі нічної атаки ворога](https://fakty.ua/451265-okolo-70-raket-i-pochti-200-bespilotnikov-v-vozdushnyh-silah-rasskazali-detali-nochnoj-ataki-vraga)
 - [Руйнівний крок Трампа: стало відомо, коли в України закінчаться ракети для Patriot](https://fakty.ua/451225-razrushitelnyj-shag-trampa-stalo-izvestno-kogda-u-ukrainy-zakonchatsya-rakety-dlya-patriot)
 - [«Енергетичний терор»: вночі росіяни атакували ракетами та дронами об&amp;#39;єкти енергетичної інфраструктури України &lpar;фото, відео&rpar;](https://fakty.ua/451252-energeticheskij-terror-nochyu-rossiyane-atakovali-raketami-i-dronami-obekty-energeticheskoj-infrastruktury-ukrainy-foto-video)
-- [Джастін Тімберлейк відсвяткував особливий день після скасування свого концерту](https://fakty.ua/451222-dzhastin-timberlejk-otmetil-osobyj-den-posle-otmeny-svoego-koncerta)
-- [У США розповіли, як Зеленський налагодив стосунки з Трампом](https://fakty.ua/451215-v-ssha-rasskazali-kak-zelenskij-naladil-otnosheniya-s-trampom)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
