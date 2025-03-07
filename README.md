@@ -158,11 +158,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [«Енергетичний терор»: вночі росіяни атакували ракетами та дронами об&amp;#39;єкти енергетичної інфраструктури України &lpar;фото, відео&rpar;](https://fakty.ua/451252-energeticheskij-terror-nochyu-rossiyane-atakovali-raketami-i-dronami-obekty-energeticheskoj-infrastruktury-ukrainy-foto-video)
 - [Джастін Тімберлейк відсвяткував особливий день після скасування свого концерту](https://fakty.ua/451222-dzhastin-timberlejk-otmetil-osobyj-den-posle-otmeny-svoego-koncerta)
 - [У США розповіли, як Зеленський налагодив стосунки з Трампом](https://fakty.ua/451215-v-ssha-rasskazali-kak-zelenskij-naladil-otnosheniya-s-trampom)
 - [Роботу між Україною й США відновлено: Зеленський зробив заяву](https://fakty.ua/451250-rabota-mezhdu-ukrainoj-i-ssha-vozobnovlena-zelenskij-sdelal-zayavlenie)
 - [Завжди в наших серцях: популярний співак переспівав хіт Скрябіна](https://fakty.ua/451235-vsegda-v-nashih-serdcah-populyarnyj-pevec-perepel-hit-skryabina)
-- [Був пов’язаний з «ЮКОСом»: стало відомо, який «таємничий багатій» допомагає Пугачовій і Галкіну в Ізраїлі](https://fakty.ua/451248-byl-svyazan-s-quot-yukosom-quot-stalo-izvestno-kto-pomogaet-alle-pugachevoj-i-maksimu-galkinu-v-izraile)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
