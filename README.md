@@ -161,11 +161,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Не такі, як Пугачова: відомий продюсер висловився про те, чому мовчать про війну Ротару та Меладзе](https://fakty.ua/451330-ne-takie-kak-pugacheva-izvestnyj-prodyuser-vyskazalsya-o-tom-pochemu-molchat-o-vojne-rotaru-i-meladze)
+- [Кохайте і будьте коханими: Максим Галкін показав свіже фото Алли Пугачової та їхніх дітей](https://fakty.ua/451334-lyubite-i-budte-lyubimy-maksim-galkin-pokazal-svezhee-foto-ally-pugachevoj-i-ih-detej)
 - [Донька Демі Мур повторила культовий образ матері-акторки з фільму «Стриптиз»](https://fakty.ua/451327-doch-demi-mur-povtorila-kultovyj-obraz-materi-aktrisy-iz-filma-quot-striptiz-quot)
 - [Прориву не відбулося: ЗСУ знищили поблизу Суджі велику групу російських диверсантів](https://fakty.ua/451325-proryva-ne-proizoshlo-vsu-unichtozhili-vblizi-sudzhi-bolshuyu-gruppu-rossijskih-diversantov)
 - [Нова ініціатива Данила Гетманцева: кому з українців варто цього побоюватися](https://fakty.ua/451286-novaya-iniciativa-daniila-getmanceva-komu-iz-ukraincev-stoit-etogo-opasatsya)
-- [Маскувалися під екіпаж швидкої допомоги: на Закарпатті викрили схему для ухилянтів](https://fakty.ua/451319-maskirovalis-pod-ekipazh-skoroj-pomocshi-v-zakarpate-razoblachili-shemu-dlya-uhilyancev)
-- [У Києві на Печерську під асфальт провалилися три автомобілі &lpar;фото&rpar;](https://fakty.ua/451316-v-kieve-na-pecherske-pod-asfalt-provalilis-tri-avtomobilya-foto)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
