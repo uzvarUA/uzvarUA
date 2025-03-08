@@ -162,11 +162,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Боронив Бахмут та Кліщіївку: на Чернігівщині поховали воїна, який пішов на війну з перших днів вторгнення](https://fakty.ua/451315-zacshicshal-bahmut-i-klecshievku-na-chernigovcshine-pohoronili-voina-kotoryj-poshel-na-vojnu-s-pervyh-dnej-vtorzheniya)
 - [Не такі, як Пугачова: відомий продюсер висловився про те, чому мовчать про війну Ротару та Меладзе](https://fakty.ua/451330-ne-takie-kak-pugacheva-izvestnyj-prodyuser-vyskazalsya-o-tom-pochemu-molchat-o-vojne-rotaru-i-meladze)
 - [Кохайте і будьте коханими: Максим Галкін показав свіже фото Алли Пугачової та їхніх дітей](https://fakty.ua/451334-lyubite-i-budte-lyubimy-maksim-galkin-pokazal-svezhee-foto-ally-pugachevoj-i-ih-detej)
 - [Донька Демі Мур повторила культовий образ матері-акторки з фільму «Стриптиз»](https://fakty.ua/451327-doch-demi-mur-povtorila-kultovyj-obraz-materi-aktrisy-iz-filma-quot-striptiz-quot)
 - [Прориву не відбулося: ЗСУ знищили поблизу Суджі велику групу російських диверсантів](https://fakty.ua/451325-proryva-ne-proizoshlo-vsu-unichtozhili-vblizi-sudzhi-bolshuyu-gruppu-rossijskih-diversantov)
-- [Нова ініціатива Данила Гетманцева: кому з українців варто цього побоюватися](https://fakty.ua/451286-novaya-iniciativa-daniila-getmanceva-komu-iz-ukraincev-stoit-etogo-opasatsya)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
