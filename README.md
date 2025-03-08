@@ -160,11 +160,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Росіяни вдарили по Добропіллю: більше десяти людей загинуло, багато поранених &lpar;фото, відео&rpar;](https://fakty.ua/451299-rossiyane-udarili-po-dobropolyu-bolee-desyati-chelovek-pogibli-mnogo-ranenyh-foto-video)
 - [Штани були мокрими: Роберт Паттінсон розповів про «психічний зрив» під час зйомок](https://fakty.ua/451262-bryuki-byli-mokrymi-robert-pattinson-rasskazal-o-psihicheskom-sryve-vo-vremya-semok)
 - [На передову окупанти направили танки, які оснастили новим захистом: чому він не допоможе](https://fakty.ua/451258-na-peredovuyu-okkupanty-napravili-tanki-kotorye-osnastili-novoj-zacshitoj-pochemu-ona-ne-pomozhet)
 - [Дали жару: Артем Пивоваров зіграв індійське весілля](https://fakty.ua/451272-dali-zharu-artem-pivovarov-sygral-indijskuyu-svadbu)
 - [Нарешті: мережа у захваті від нового дуету Дмитра Монатіка](https://fakty.ua/451275-nakonec-to-set-v-vostorge-ot-novogo-dueta-dmitriya-monatika)
-- [Ганьба: названа причина скасування концертів Андрія Данилко](https://fakty.ua/451267-pozor-nazvana-prichina-otmeny-koncertov-andreya-danilko)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
