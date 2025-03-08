@@ -160,11 +160,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Нова ініціатива Данила Гетманцева: кому з українців варто цього побоюватися](https://fakty.ua/451286-novaya-iniciativa-daniila-getmanceva-komu-iz-ukraincev-stoit-etogo-opasatsya)
 - [Маскувалися під екіпаж швидкої допомоги: на Закарпатті викрили схему для ухилянтів](https://fakty.ua/451319-maskirovalis-pod-ekipazh-skoroj-pomocshi-v-zakarpate-razoblachili-shemu-dlya-uhilyancev)
 - [У Києві на Печерську під асфальт провалилися три автомобілі &lpar;фото&rpar;](https://fakty.ua/451316-v-kieve-na-pecherske-pod-asfalt-provalilis-tri-avtomobilya-foto)
 - [Росіяни скинули на Костянтинівку п’ять авіабомб &lpar;фото, відео&rpar;](https://fakty.ua/451317-rossiyane-sbrosili-na-konstantinovku-pyat-aviabomb-foto-video)
 - [У Києві значно погіршилася якість повітря: що говорять в КМДА](https://fakty.ua/451314-v-kieve-znachitelno-uhudshilos-kachestvo-vozduha-chto-govoryat-v-kgga)
-- [«Крот» фсб з Державного космічного агентства зливав секретну інформацію росіянам &lpar;фото&rpar;](https://fakty.ua/451312-quot-krot-quot-fsb-iz-gosudarstvennogo-kosmicheskogo-agentstva-slival-sekretnuyu-informaciyu-rossiyanam-foto)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
