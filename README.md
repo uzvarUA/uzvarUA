@@ -160,11 +160,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Били умисно по рятувальниках: Зеленський відгукнувся на масований обстріл Добропілля](https://fakty.ua/451307-bili-umyshlenno-po-spasatelyam-zelenskij-otreagiroval-na-massirovannyj-obstrel-dobropolya)
 - [Алла Пугачова обізвала росіян «тупими» і «нахабними», і дала гідну відсіч пропагандистці з рф](https://fakty.ua/451301-alla-pugacheva-obozvala-rossiyan-quot-tupymi-quot-i-quot-naglymi-quot-i-dala-dostojnyj-otpor-propagandistke-iz-rf)
 - [Росіяни били балістикою, крилатими ракетами та «шахедами»: як відпрацювала українська ППО](https://fakty.ua/451302-rossiyane-bili-ballistikoj-krylatymi-raketami-i-quot-shahedami-quot-kak-otrabotala-ukrainskaya-pvo)
 - [Росіяни вдарили по Добропіллю: більше десяти людей загинуло, багато поранених &lpar;фото, відео&rpar;](https://fakty.ua/451299-rossiyane-udarili-po-dobropolyu-bolee-desyati-chelovek-pogibli-mnogo-ranenyh-foto-video)
 - [Штани були мокрими: Роберт Паттінсон розповів про «психічний зрив» під час зйомок](https://fakty.ua/451262-bryuki-byli-mokrymi-robert-pattinson-rasskazal-o-psihicheskom-sryve-vo-vremya-semok)
-- [На передову окупанти направили танки, які оснастили новим захистом: чому він не допоможе](https://fakty.ua/451258-na-peredovuyu-okkupanty-napravili-tanki-kotorye-osnastili-novoj-zacshitoj-pochemu-ona-ne-pomozhet)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
