@@ -33,6 +33,7 @@
 - [Forestry NPC number 42](#forestry-npc-number-42)
 - [File management](#file-management)
 - [Games](#games)
+- [Forestry NPC number 42 mods](#forestry-number-42)
 ***
 # Як проголосувати за тему?
 *Ви допоможете вибрати тему*
@@ -356,3 +357,5 @@ Shizuku працює як посередник між системою та пр
 * [PGT: GFX, Launcher & Optimizer](https://play.google.com/store/apps/details?id=inc.trilokia.pubgfxtool.free) `Ads` - Additional settings for PUBG `Proprietary`
   * [PGT+: Pro GFX, Launcher & Optimizer](https://play.google.com/store/apps/details?id=inc.trilokia.pubgfxtool) `Paid` 💰 - Additional settings for PUBG `Proprietary`
 * [translatefgo](https://github.com/rayshift/translatefgo) - Fate/Grand Order game translation project `CC BY-NC-SA 4.0`
+***
+# Forestry NPC number 42 mods
