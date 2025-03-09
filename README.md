@@ -162,11 +162,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [«Знищують усе, до чого можуть дістатись»: росіяни вдарили по критичній інфраструктурі Запоріжжя та багатоповерхівкам у Дружківці &lpar;фото, відео&rpar;](https://fakty.ua/451337-unichtozhayut-vse-do-chego-mogut-dotyanutsya-rossiyane-udarili-po-kriticheskoj-infrastrukture-zaporozhya-i-mnogoetazhkam-v-druzhkovke-foto-video)
 - [Кейт Гадсон пояснила, чому не одружується з нареченим: бере приклад зі знаменитих батьків](https://fakty.ua/451318-kejt-hadson-obyasnila-pochemu-ne-vyhodit-zamuzh-za-zheniha-beret-primer-so-znamenityh-roditelej)
 - [Боронив Бахмут та Кліщіївку: на Чернігівщині поховали воїна, який пішов на війну з перших днів вторгнення](https://fakty.ua/451315-zacshicshal-bahmut-i-klecshievku-na-chernigovcshine-pohoronili-voina-kotoryj-poshel-na-vojnu-s-pervyh-dnej-vtorzheniya)
 - [Не такі, як Пугачова: відомий продюсер висловився про те, чому мовчать про війну Ротару та Меладзе](https://fakty.ua/451330-ne-takie-kak-pugacheva-izvestnyj-prodyuser-vyskazalsya-o-tom-pochemu-molchat-o-vojne-rotaru-i-meladze)
 - [Кохайте і будьте коханими: Максим Галкін показав свіже фото Алли Пугачової та їхніх дітей](https://fakty.ua/451334-lyubite-i-budte-lyubimy-maksim-galkin-pokazal-svezhee-foto-ally-pugachevoj-i-ih-detej)
-- [Донька Демі Мур повторила культовий образ матері-акторки з фільму «Стриптиз»](https://fakty.ua/451327-doch-demi-mur-povtorila-kultovyj-obraz-materi-aktrisy-iz-filma-quot-striptiz-quot)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
