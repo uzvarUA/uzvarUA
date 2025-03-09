@@ -33,7 +33,7 @@
 - [Forestry NPC number 42](#forestry-npc-number-42)
 - [File management](#file-management)
 - [Games](#games)
-- [Forestry NPC number 42 mods](#forestry-number-42)
+- [Forestry NPC number 42 mods](#forestry-number-42-mods)
 ***
 # Як проголосувати за тему?
 *Ви допоможете вибрати тему*
