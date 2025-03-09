@@ -163,11 +163,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [«Потап, він і в Африці Потап… Всім дідам дулю з маком»: Wellboy відреагував на «забудькуватість» скандального репера-втікача](https://fakty.ua/451368-potap-on-i-v-afrike-potap-vsem-dedam-dulyu-s-makom-wellboy-otreagiroval-na-zabyvchivost-skandalnogo-repera-begleca)
 - [«Я розриваюся навпіл, і здається, що зійду з глузду»: зірка «Лікарки Ковальчук» Анастасія Карпенко про випробування під час великої війни](https://fakty.ua/451324-ya-razryvayus-popolam-i-kazhetsya-chto-sojdu-s-uma-zvezda-likarki-kovalchuk-anastasiya-karpenko-ob-ispytaniyah-vo-vremya-bolshoj-vojny)
 - [«Діяв в межах своїх повноважень»: Оленич прокоментував справу проти нього](https://fakty.ua/451347-dejstvoval-v-ramkah-svoih-polnomochij-olenich-prokommentiroval-delo-protiv-nego)
 - [США змінили підхід до передавання розвідданих Україні — ЗМІ](https://fakty.ua/451342-ssha-izmenili-podhod-k-peredache-razveddannyh-ukraine---smi)
 - [«Знищують усе, до чого можуть дістатись»: росіяни вдарили по критичній інфраструктурі Запоріжжя та багатоповерхівкам у Дружківці &lpar;фото, відео&rpar;](https://fakty.ua/451337-unichtozhayut-vse-do-chego-mogut-dotyanutsya-rossiyane-udarili-po-kriticheskoj-infrastrukture-zaporozhya-i-mnogoetazhkam-v-druzhkovke-foto-video)
-- [Кейт Гадсон пояснила, чому не одружується з нареченим: бере приклад зі знаменитих батьків](https://fakty.ua/451318-kejt-hadson-obyasnila-pochemu-ne-vyhodit-zamuzh-za-zheniha-beret-primer-so-znamenityh-roditelej)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
