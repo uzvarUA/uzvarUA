@@ -163,11 +163,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Нагороджений за зразкову службу: в бою на Запоріжжі поліг воїн з Черкащини](https://fakty.ua/451358-nagrazhden-za-obrazcovuyu-sluzhbu-v-boyu-v-zaporozhskoj-oblasti-pogib-voin-s-cherkaschiny)
 - [Зручний хаб: офіцер пояснив, чому росіяни понад усе хочуть взяти Покровськ](https://fakty.ua/451355-udobnyj-hab-oficer-obyasnil-pochemu-rossiyane-bolshe-vsego-hotyat-vzyat-pokrovsk)
 - [«Потап, він і в Африці Потап… Всім дідам дулю з маком»: Wellboy відреагував на «забудькуватість» скандального репера-втікача](https://fakty.ua/451368-potap-on-i-v-afrike-potap-vsem-dedam-dulyu-s-makom-wellboy-otreagiroval-na-zabyvchivost-skandalnogo-repera-begleca)
 - [«Я розриваюся навпіл, і здається, що зійду з глузду»: зірка «Лікарки Ковальчук» Анастасія Карпенко про випробування під час великої війни](https://fakty.ua/451324-ya-razryvayus-popolam-i-kazhetsya-chto-sojdu-s-uma-zvezda-likarki-kovalchuk-anastasiya-karpenko-ob-ispytaniyah-vo-vremya-bolshoj-vojny)
 - [«Діяв в межах своїх повноважень»: Оленич прокоментував справу проти нього](https://fakty.ua/451347-dejstvoval-v-ramkah-svoih-polnomochij-olenich-prokommentiroval-delo-protiv-nego)
-- [США змінили підхід до передавання розвідданих Україні — ЗМІ](https://fakty.ua/451342-ssha-izmenili-podhod-k-peredache-razveddannyh-ukraine---smi)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
