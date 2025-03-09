@@ -359,3 +359,5 @@ Shizuku працює як посередник між системою та пр
 * [translatefgo](https://github.com/rayshift/translatefgo) - Fate/Grand Order game translation project `CC BY-NC-SA 4.0`
 ***
 # Forestry NPC number 42 mods
+* [Читайте у Forestry NPC number 42 mods](https://github.com/uzvarUA/Forestry-NPC-number-42-mods-)<br>
+***
