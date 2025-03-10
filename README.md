@@ -163,11 +163,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [«Ліза перетворюється на неймовірну дівчину»: фото доньки Пугачової та Галкіна викликало фурор у Мережі](https://fakty.ua/451391-quot-liza-prevracshaetsya-v-neveroyatnuyu-devushku-quot-foto-docheri-pugachevoj-i-galkina-proizvelo-furor-v-seti)
+- [За контрактами АОЗ 2024 року на фронт не надійшло зброї на понад 100 млрд грн — ЗМІ](https://fakty.ua/451389-po-kontraktam-aoz-2024-goda-na-front-ne-postupilo-oruzhiya-bolee-chem-na-100-mlrd-grn---smi)
+- [«Ми робимо все, щоб повернути його тіло додому, але це дуже складно»: історія Юрія Пелеха, який з перших днів війни пішов боронити країну](https://fakty.ua/451376-my-delaem-vse-chtoby-vernut-ego-telo-domoj-no-eto-ochen-slozhno-istoriya-yuriya-peleha-kotoryj-s-pervyh-dnej-vojny-poshel-zacshicshat-stranu)
 - [Україна розглядає можливість відходу з Курщини, щоб уникнути подальших втрат — ЗМІ](https://fakty.ua/451366-ukraina-rassmatrivaet-vozmozhnost-uhoda-s-kurcshiny-vo-izbezhanie-dalnejshih-poter---smi)
 - [Ворог атакував Україну з повітря: є поранені та руйнування](https://fakty.ua/451373-vrag-atakoval-ukrainu-s-vozduha-est-ranenye-i-razrusheniya)
-- [Хлопці чітко про це заявили: стало відомо, чому діти Брітні Спірс так довго її уникали](https://fakty.ua/451359-rebyata-chetko-ob-etom-zayavili-stalo-izvestno-pochemu-deti-britni-spirs-tak-dolgo-ee-izbegali)
-- [Нагороджений за зразкову службу: в бою на Запоріжжі поліг воїн з Черкащини](https://fakty.ua/451358-nagrazhden-za-obrazcovuyu-sluzhbu-v-boyu-v-zaporozhskoj-oblasti-pogib-voin-s-cherkaschiny)
-- [Зручний хаб: офіцер пояснив, чому росіяни понад усе хочуть взяти Покровськ](https://fakty.ua/451355-udobnyj-hab-oficer-obyasnil-pochemu-rossiyane-bolshe-vsego-hotyat-vzyat-pokrovsk)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
