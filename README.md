@@ -34,6 +34,7 @@
 - [File management](#file-management)
 - [Games](#games)
 - [Forestry NPC number 42 mods](#forestry-npc-number-42-mods)
+- [Android](#android)
 ***
 # Як проголосувати за тему?
 *Ви допоможете вибрати тему*
@@ -360,4 +361,7 @@ Shizuku працює як посередник між системою та пр
 ***
 # Forestry NPC number 42 mods
 * [Читайте у Forestry NPC number 42 mods](https://github.com/uzvarUA/Forestry-NPC-number-42-mods-)<br>
+***
+# Android
+![](img/Screenshot_20250310_103258_Iceraven.jpg)<br><br>
 ***
