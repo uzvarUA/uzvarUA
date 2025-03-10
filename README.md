@@ -163,11 +163,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Обожнюю: Вєрка Сердючка відсвяткувала день народження](https://fakty.ua/451393-obozhayu-verka-serdyuchka-otprazdnovala-den-rozhdeniya)
+- [Агентка фсб отруїла бійця ЗСУ та готувала теракт у Харкові &lpar;фото&rpar;](https://fakty.ua/451405-agent-fsb-otravila-bojca-vsu-i-gotovila-terakt-v-harkove-foto)
+- [Як рф скористається призупиненням допомоги США Україні: прогноз аналітиків ISW](https://fakty.ua/451383-kak-rf-vospolzuetsya-priostanovkoj-pomocshi-ssha-ukraine-prognoz-analitikov-isw)
 - [Все почало змінюватися: популярний комік та ведучий про розлучення з дружиною](https://fakty.ua/451390-vse-nachalo-menyatsya-populyarnyj-komik-i-veducshij-o-razvode-s-zhenoj)
 - [«Ліза перетворюється на неймовірну дівчину»: фото доньки Пугачової та Галкіна викликало фурор у Мережі](https://fakty.ua/451391-quot-liza-prevracshaetsya-v-neveroyatnuyu-devushku-quot-foto-docheri-pugachevoj-i-galkina-proizvelo-furor-v-seti)
-- [За контрактами АОЗ 2024 року на фронт не надійшло зброї на понад 100 млрд грн — ЗМІ](https://fakty.ua/451389-po-kontraktam-aoz-2024-goda-na-front-ne-postupilo-oruzhiya-bolee-chem-na-100-mlrd-grn---smi)
-- [«Ми робимо все, щоб повернути його тіло додому, але це дуже складно»: історія Юрія Пелеха, який з перших днів війни пішов боронити країну](https://fakty.ua/451376-my-delaem-vse-chtoby-vernut-ego-telo-domoj-no-eto-ochen-slozhno-istoriya-yuriya-peleha-kotoryj-s-pervyh-dnej-vojny-poshel-zacshicshat-stranu)
-- [Україна розглядає можливість відходу з Курщини, щоб уникнути подальших втрат — ЗМІ](https://fakty.ua/451366-ukraina-rassmatrivaet-vozmozhnost-uhoda-s-kurcshiny-vo-izbezhanie-dalnejshih-poter---smi)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
