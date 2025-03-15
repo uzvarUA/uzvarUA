@@ -418,4 +418,6 @@ Shizuku працює як посередник між системою та пр
 	]
 }
 ```
-5. Для активації треба написати таку команду: `/dialogue change @e[type=npc] open @s`
+5. Для активації треба написати таку команду: `/dialogue change @e[type=npc] open @s`<br>
+***
+Для зйомок я користуюсь [Release мод](https://github.com/uzvarUA/ForestryNPCnumber42)
