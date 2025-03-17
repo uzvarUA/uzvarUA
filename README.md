@@ -166,11 +166,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
-- [Обожнюю: Вєрка Сердючка відсвяткувала день народження](https://fakty.ua/451393-obozhayu-verka-serdyuchka-otprazdnovala-den-rozhdeniya)
-- [Агентка фсб отруїла бійця ЗСУ та готувала теракт у Харкові &lpar;фото&rpar;](https://fakty.ua/451405-agent-fsb-otravila-bojca-vsu-i-gotovila-terakt-v-harkove-foto)
-- [Як рф скористається призупиненням допомоги США Україні: прогноз аналітиків ISW](https://fakty.ua/451383-kak-rf-vospolzuetsya-priostanovkoj-pomocshi-ssha-ukraine-prognoz-analitikov-isw)
-- [Все почало змінюватися: популярний комік та ведучий про розлучення з дружиною](https://fakty.ua/451390-vse-nachalo-menyatsya-populyarnyj-komik-i-veducshij-o-razvode-s-zhenoj)
-- [«Ліза перетворюється на неймовірну дівчину»: фото доньки Пугачової та Галкіна викликало фурор у Мережі](https://fakty.ua/451391-quot-liza-prevracshaetsya-v-neveroyatnuyu-devushku-quot-foto-docheri-pugachevoj-i-galkina-proizvelo-furor-v-seti)
+- [Двоє спортсменів загинули та троє травмовано у великій ДТП на трасі Дніпро — Кривий Ріг &lpar;фото&rpar;](https://fakty.ua/451693-dvoe-sportsmenov-pogibli-i-troe-travmirovany-v-krupnom-dtp-na-trasse-dnepr-krivoj-rog-foto)
+- [Дніпропетровщина та Полтавщина частково знеструмлені внаслідок нічних ударів ворога &lpar;фото, відео&rpar;](https://fakty.ua/451691-dnepropetrovcshina-i-poltavcshina-chastichno-obestocheny-v-rezultate-nochnyh-udarov-vraga-foto)
+- [Бен Аффлек хоче другого шансу з колишньою дружиною, — ЗМІ](https://fakty.ua/451626-ben-afflek-hochet-vtorogo-shansa-s-byvshej-zhenoj---smi)
+- [Побратими знали його під позивним «Сармат»: на Луганщині загинув батько трьох дітей з Рівненщини](https://fakty.ua/451643-pobratimy-znali-ego-pod-pozyvnym-sarmat-na-lugancshine-pogib-otec-troih-detej-s-rovencshiny)
+- [В України практично закінчилися запаси ракет для ЗРК Samp-T: чому союзники зволікають з постачанням](https://fakty.ua/451666-u-ukrainy-prakticheski-zakonchilis-zapasy-raket-dlya-zrk-samp-t-pochemu-soyuzniki-zatyagivayut-s-postavkami)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
