@@ -424,4 +424,14 @@ Shizuku працює як посередник між системою та пр
 Для зйомок я користуюсь [Release мод](https://github.com/uzvarUA/ForestryNPCnumber42)
 ***
 # Google Play
-### Як видалити Google Play?
+### Як видалити Google Play для android 11 і вище?
+1. Встановити `Shizuku`
+![](img/Screenshot_20250317_123438_Shizuku.jpg)
+2. Встановити `Canta`
+![](img/Screenshot_20250317_123158_Canta.jpg)
+3. У пошуку треба написати `Google Play`
+![](img/Screenshot_20250317_123318_Canta.jpg)
+4. У мене видалено Google Play
+![](img/Screenshot_20250317_123703_Canta.jpg)
+5. Не буде встановити ніяких застосунків у фоному режимі.
+6. ⚠️ Не видалити `Сервіси Google Play (com.google.android.gms)`
