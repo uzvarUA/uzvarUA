@@ -36,6 +36,7 @@
 - [Forestry NPC number 42 mods](#forestry-npc-number-42-mods)
 - [Android](#android)
 - [NPC](#npc)
+- [Google Play](#google-play)
 ***
 # Як проголосувати за тему?
 *Ви допоможете вибрати тему*
@@ -421,3 +422,6 @@ Shizuku працює як посередник між системою та пр
 5. Для активації треба написати таку команду: `/dialogue change @e[type=npc] open @s`<br>
 ***
 Для зйомок я користуюсь [Release мод](https://github.com/uzvarUA/ForestryNPCnumber42)
+***
+# Google Play
+### Як видалити Google Play?
