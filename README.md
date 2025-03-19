@@ -37,6 +37,7 @@
 - [Android](#android)
 - [NPC](#npc)
 - [Google Play](#google-play)
+- [Jami](#jami)
 ***
 # Як проголосувати за тему?
 *Ви допоможете вибрати тему*
@@ -434,4 +435,10 @@ Shizuku працює як посередник між системою та пр
 4. У мене видалено Google Play
 ![](img/Screenshot_20250317_123703_Canta.jpg)
 5. Не буде встановити ніяких застосунків у фоному режимі.
-6. ⚠️ Не видалити `Сервіси Google Play (com.google.android.gms)`
+6. ⚠️ Не видалити `Сервіси Google Play (com.google.android.gms)`<br>
+***
+# Jami
+> [!WARNING]
+> Не завантажити Jami - це резервна копія <br>
+> [не завантажити](https://github.com/uzvarUA/jami/releases) <br>
+***
