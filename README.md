@@ -39,6 +39,7 @@
 - [Google Play](#google-play)
 - [Jami](#jami)
 - [Zeqa](#zeqa)
+  - [Allowed and denied client modifications](#allowed-and-denied-client-modifications)
 ***
 # Як проголосувати за тему?
 *Ви допоможете вибрати тему*
