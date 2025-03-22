@@ -447,3 +447,34 @@ Shizuku працює як посередник між системою та пр
 ```
 /rules "Allowed and denied client modifications"
 ```
+### Allowed and denied client modifications
+- [x] Allowed Modifications
+
+*The following modifications can be used on Zeqa*:
+
+- [x] Resource packs that modify Minecraft's interface or animations
+- [x] Toggle Sprint
+- [x] Toggle Sneak
+- [x] Full Bright (and other modifications that change your brightness/gamma)
+- [x] FOV Changers (modifications that allow you to zoom in or out)
+- [x] Hitbox Viewers (only those that don't allow you to see players/entities through blocks)
+- [x] Capes or other cosmetics
+- [x] CPS Counters
+- [x] Armor HUD (modifications that display your armor and/or inventory without opening your inventory)
+- [x] Auto GG (modifications that automatically send 'gg' in chat at the end of a game) <br>
+***
+- [ ]Categorically Denied Modifications
+
+Any modification or client that has any of the following features is automatically banned from Zeqa without exception:
+
+- [ ] Any form of hacked client
+- [ ] Modifications or proxies that allow you to join Bedrock servers from the Minecraft: Java Edition client
+- [ ] Auto-clickers (our full rules on input devices & mouse modifications can be found here)
+- [ ] Entity radars / minimaps
+- [ ] Any macros that affect gameplay - Increasing click speed / jump speed, etc.
+- [ ] World or Asset Downloaders
+- [ ] X-Ray (and any modification that allows you to see through blocks)
+- [ ] Freelook / 360 Perspective
+- [ ] No Hurt Cam
+- [ ]All / Auto Sprint (modifications that allow you to sprint in all directions)
+- [ ]Chat on kill (modifications that automatically send chat messages upon killing a player)
