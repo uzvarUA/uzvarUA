@@ -476,5 +476,5 @@ Shizuku працює як посередник між системою та пр
 - [ ] X-Ray (and any modification that allows you to see through blocks)
 - [ ] Freelook / 360 Perspective
 - [ ] No Hurt Cam
-- [ ]All / Auto Sprint (modifications that allow you to sprint in all directions)
-- [ ]Chat on kill (modifications that automatically send chat messages upon killing a player)
+- [ ] All / Auto Sprint (modifications that allow you to sprint in all directions)
+- [ ] Chat on kill (modifications that automatically send chat messages upon killing a player)
