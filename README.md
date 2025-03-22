@@ -465,7 +465,7 @@ Shizuku працює як посередник між системою та пр
 ***
 - [ ]Categorically Denied Modifications
 
-Any modification or client that has any of the following features is automatically banned from Zeqa without exception:
+*Any modification or client that has any of the following features is automatically banned from Zeqa without exception*:
 
 - [ ] Any form of hacked client
 - [ ] Modifications or proxies that allow you to join Bedrock servers from the Minecraft: Java Edition client
