@@ -38,6 +38,7 @@
 - [NPC](#npc)
 - [Google Play](#google-play)
 - [Jami](#jami)
+- [Zeqa](#zeqa)
 ***
 # Як проголосувати за тему?
 *Ви допоможете вибрати тему*
@@ -442,3 +443,7 @@ Shizuku працює як посередник між системою та пр
 > Не завантажити Jami - це резервна копія <br>
 > [не завантажити](https://github.com/uzvarUA/jami/releases) <br>
 ***
+# Zeqa
+```
+/rules "Allowed and denied client modifications"
+```
