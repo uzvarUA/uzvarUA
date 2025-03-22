@@ -168,11 +168,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
-- [Двоє спортсменів загинули та троє травмовано у великій ДТП на трасі Дніпро — Кривий Ріг &lpar;фото&rpar;](https://fakty.ua/451693-dvoe-sportsmenov-pogibli-i-troe-travmirovany-v-krupnom-dtp-na-trasse-dnepr-krivoj-rog-foto)
-- [Дніпропетровщина та Полтавщина частково знеструмлені внаслідок нічних ударів ворога &lpar;фото, відео&rpar;](https://fakty.ua/451691-dnepropetrovcshina-i-poltavcshina-chastichno-obestocheny-v-rezultate-nochnyh-udarov-vraga-foto)
-- [Бен Аффлек хоче другого шансу з колишньою дружиною, — ЗМІ](https://fakty.ua/451626-ben-afflek-hochet-vtorogo-shansa-s-byvshej-zhenoj---smi)
-- [Побратими знали його під позивним «Сармат»: на Луганщині загинув батько трьох дітей з Рівненщини](https://fakty.ua/451643-pobratimy-znali-ego-pod-pozyvnym-sarmat-na-lugancshine-pogib-otec-troih-detej-s-rovencshiny)
-- [В України практично закінчилися запаси ракет для ЗРК Samp-T: чому союзники зволікають з постачанням](https://fakty.ua/451666-u-ukrainy-prakticheski-zakonchilis-zapasy-raket-dlya-zrk-samp-t-pochemu-soyuzniki-zatyagivayut-s-postavkami)
+- [Ми втратили судноплавство, але можемо відродити вівчарство: наслідки підриву Каховської дамби](https://fakty.ua/451912-my-poteryali-sudohodstvo-no-mozhem-vozrodit-ovcevodstvo-posledstviya-podryva-kahovskoj-damby)
+- [США хочуть контролювати українські АЕС: аналітики про те, чому Трамп впіймає облизня](https://fakty.ua/451893-ssha-hotyat-kontrolirovat-ukrainskie-aes-analitiki-o-tom-pochemu-tramp-ostanetsya-ni-s-chem)
+- [Загарбники вночі обстріляли мирні міста України, неспокійно було і на території країни-агресорки &lpar;фото, відео&rpar;](https://fakty.ua/451924-zahvatchiki-nochyu-obstrelyali-mirnye-goroda-ukrainy-nespokojno-bylo-i-na-territorii-strany-agressora-foto-video)
+- [Там бурхлива хімія: Дженніфер Лопес після розлучення з Беном Аффлеком зніметься у фільмі з актором-красенем](https://fakty.ua/451889-tam-burnaya-himiya-dzhennifer-lopes-posle-razvoda-s-benom-afflekom-snimetsya-v-filme-s-akterom-krasavcem)
+- [Три роки рятував життя на передовій: на Донеччині загинув бойовий медик із Хмельниччини](https://fakty.ua/451845-tri-goda-spasal-zhizni-na-peredovoj-na-donetchine-pogib-boevoj-medik-iz-hmelnickoj-oblasti)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
