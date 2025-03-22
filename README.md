@@ -463,7 +463,7 @@ Shizuku працює як посередник між системою та пр
 - [x] Armor HUD (modifications that display your armor and/or inventory without opening your inventory)
 - [x] Auto GG (modifications that automatically send 'gg' in chat at the end of a game) <br>
 ***
-- [ ]Categorically Denied Modifications
+- [ ] Categorically Denied Modifications
 
 *Any modification or client that has any of the following features is automatically banned from Zeqa without exception*:
 
