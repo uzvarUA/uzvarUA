@@ -8,6 +8,7 @@
 Я записую відео про майнкрафту БЕ, як - німе кіно. <br>
 Відео виходить що вихідних о 20:00 <br><br>
 Я живу у лісництві NPC номер 42.
+***
 [![](https://img.shields.io/youtube/channel/subscribers/UCdoTLdbFIsVhHO9hqb6kPTA?logo=youtube&logoColor=red&style=for-the-badge)](https://youtube.com/@uzvar_ua)
 ***
 ## Зміст 
