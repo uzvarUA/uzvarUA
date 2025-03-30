@@ -42,6 +42,7 @@
 - [Jami](#jami)
 - [Zeqa](#zeqa)
   - [Allowed and denied client modifications](#allowed-and-denied-client-modifications)
+- [Мої скіни](#my-skins)
 ***
 # Як проголосувати за тему?
 *Ви допоможете вибрати тему*
@@ -481,3 +482,6 @@ Shizuku працює як посередник між системою та пр
 - [ ] No Hurt Cam
 - [ ] All / Auto Sprint (modifications that allow you to sprint in all directions)
 - [ ] Chat on kill (modifications that automatically send chat messages upon killing a player)
+***
+# My skins
+* [мої скіни](https://open.skinpackmaker.com/user/@user_ooq02)
