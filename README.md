@@ -172,11 +172,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Росіяни атакували Харків «шахедами»: в місті двоє загиблих та багато постраждалих](https://fakty.ua/452262-rossiyane-atakovali-harkov-quot-shahedami-quot-v-gorode-dvoe-pogibshih-i-mnogo-postradavshih)
 - [«Час, знову вперед!»: Україна перейшла на літній час — котра зараз година?](https://fakty.ua/452236-vremya-snova-vpered-segodnya-nochyu-ukraina-perejdet-na-letnee-vremya)
 - [Пробувала програми для знайомств: відома фітнес-блогерка про пошуки кохання](https://fakty.ua/452252-probovala-programmy-dlya-znakomstv-izvestnaya-fitnes-bloger-o-poiskah-lyubvi)
 - [«Кажуть, що ангелів на землі не буває… Бувають»: на війні загинув 19-річний солдат з Вінниччини](https://fakty.ua/452245-govoryat-chto-angelov-na-zemle-ne-byvaet-byvayut-na-vojne-pogib-19-letnij-soldat-iz-vinnickoj-oblasti)
 - [«Жодного сорому та совісті»: аферисти «приписали» Іво Бобулу смертельну хворобу &lpar;відео&rpar;](https://fakty.ua/452260-ni-styda-ni-sovesti-aferisty-pripisali-ivo-bobulu-smertelnuyu-bolezn-video)
-- [Окупанти вдарили балістикою по житловій забудові Кривого Рога: є поранені &lpar;фото, відео&rpar;](https://fakty.ua/452246-okkupanty-udarili-ballistikoj-po-zhiloj-zastrojke-krivogo-roga-est-ranenye-video)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
