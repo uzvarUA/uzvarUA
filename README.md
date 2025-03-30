@@ -172,11 +172,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
-- [Ми втратили судноплавство, але можемо відродити вівчарство: наслідки підриву Каховської дамби](https://fakty.ua/451912-my-poteryali-sudohodstvo-no-mozhem-vozrodit-ovcevodstvo-posledstviya-podryva-kahovskoj-damby)
-- [США хочуть контролювати українські АЕС: аналітики про те, чому Трамп впіймає облизня](https://fakty.ua/451893-ssha-hotyat-kontrolirovat-ukrainskie-aes-analitiki-o-tom-pochemu-tramp-ostanetsya-ni-s-chem)
-- [Загарбники вночі обстріляли мирні міста України, неспокійно було і на території країни-агресорки &lpar;фото, відео&rpar;](https://fakty.ua/451924-zahvatchiki-nochyu-obstrelyali-mirnye-goroda-ukrainy-nespokojno-bylo-i-na-territorii-strany-agressora-foto-video)
-- [Там бурхлива хімія: Дженніфер Лопес після розлучення з Беном Аффлеком зніметься у фільмі з актором-красенем](https://fakty.ua/451889-tam-burnaya-himiya-dzhennifer-lopes-posle-razvoda-s-benom-afflekom-snimetsya-v-filme-s-akterom-krasavcem)
-- [Три роки рятував життя на передовій: на Донеччині загинув бойовий медик із Хмельниччини](https://fakty.ua/451845-tri-goda-spasal-zhizni-na-peredovoj-na-donetchine-pogib-boevoj-medik-iz-hmelnickoj-oblasti)
+- [«Час, знову вперед!»: Україна перейшла на літній час — котра зараз година?](https://fakty.ua/452236-vremya-snova-vpered-segodnya-nochyu-ukraina-perejdet-na-letnee-vremya)
+- [Пробувала програми для знайомств: відома фітнес-блогерка про пошуки кохання](https://fakty.ua/452252-probovala-programmy-dlya-znakomstv-izvestnaya-fitnes-bloger-o-poiskah-lyubvi)
+- [«Кажуть, що ангелів на землі не буває… Бувають»: на війні загинув 19-річний солдат з Вінниччини](https://fakty.ua/452245-govoryat-chto-angelov-na-zemle-ne-byvaet-byvayut-na-vojne-pogib-19-letnij-soldat-iz-vinnickoj-oblasti)
+- [«Жодного сорому та совісті»: аферисти «приписали» Іво Бобулу смертельну хворобу &lpar;відео&rpar;](https://fakty.ua/452260-ni-styda-ni-sovesti-aferisty-pripisali-ivo-bobulu-smertelnuyu-bolezn-video)
+- [Окупанти вдарили балістикою по житловій забудові Кривого Рога: є поранені &lpar;фото, відео&rpar;](https://fakty.ua/452246-okkupanty-udarili-ballistikoj-po-zhiloj-zastrojke-krivogo-roga-est-ranenye-video)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
