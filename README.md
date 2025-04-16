@@ -44,6 +44,7 @@
   - [Allowed and denied client modifications](#allowed-and-denied-client-modifications)
 - [Мої скіни](#my-skins)
 - [Взлом Minecraft Bedrock Edition](#hacking-minecraft-bedrock-edition)
+- [Зберегти](#save)
 ***
 # Як проголосувати за тему?
 *Ви допоможете вибрати тему*
@@ -494,3 +495,5 @@ Shizuku працює як посередник між системою та пр
 3. [Завантажити](https://github.com/uzvarUA/MCBE-patched/releases)
 4. Все готово! <br>
 ***
+# Save
+Детанільше: https://github.com/uzvarUA/mcbe-backups/releases
