@@ -497,3 +497,5 @@ Shizuku працює як посередник між системою та пр
 ***
 # Save
 Детанільше: https://github.com/uzvarUA/mcbe-backups/releases
+***
+**ЦЕ НЕ ОФІЦІЙНИЙ ПРОДУКТ MINECRAFT. ВІН НЕ СХВАЛЕНО ТА НЕ ПОВ'ЯЗАНИЙ З MOJANG АБО MICROSOFT.**
