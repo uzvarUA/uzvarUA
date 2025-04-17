@@ -174,11 +174,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
-- [Мріяла продавати морозиво, а стала невісткою Софії Ротару: легендарна співачка привітала дружину сина](https://fakty.ua/452272-mechtala-prodavat-morozhenoe-a-stala-nevestkoj-sofii-rotaru-legendarnaya-pevica-pozdravila-zhenu-syna)
-- [Алла Пугачова розповіла, кухні яких народів любить та як насправді відноситься до Софії Ротару](https://fakty.ua/452264-alla-pugacheva-rasskazala-kuhni-kakih-narodov-lyubit-i-kak-na-samom-dele-otnositsya-k-sofii-rotaru)
-- [Росіяни атакували Харків «шахедами»: в місті двоє загиблих та багато постраждалих](https://fakty.ua/452262-rossiyane-atakovali-harkov-quot-shahedami-quot-v-gorode-dvoe-pogibshih-i-mnogo-postradavshih)
-- [«Час, знову вперед!»: Україна перейшла на літній час — котра зараз година?](https://fakty.ua/452236-vremya-snova-vpered-segodnya-nochyu-ukraina-perejdet-na-letnee-vremya)
-- [Пробувала програми для знайомств: відома фітнес-блогерка про пошуки кохання](https://fakty.ua/452252-probovala-programmy-dlya-znakomstv-izvestnaya-fitnes-bloger-o-poiskah-lyubvi)
+- [До 10 річниці створення НАБУ експерт назвав топ 10 антидосягнень Бюро](https://fakty.ua/453117-nabu-tak-borolos-s-korrupciej-chto-ne-zametilo-kak-stalo-ee-chastyu-ekspert-podvel-itogi-10-let-raboty-byuro)
+- [Дмитро Волканов вперше показав свою дівчину, з якою три роки перебуває у стосунках](https://fakty.ua/453118-dmitrij-volkanov-vpervye-pokazal-svoyu-devushku-s-kotoroj-tri-goda-nahoditsya-v-otnosheniyah)
+- [Поставили перед фактом: у сімʼї Катерини Кухар несподіване поповнення](https://fakty.ua/453097-postavili-pered-faktom-v-seme-ekateriny-kuhar-neozhidannoe-popolnenie)
+- [В Києві скоєно замах на життя відомого журналіста Юрія Макарова: що відомо](https://fakty.ua/453110-v-kieve-soversheno-pokushenie-na-zhizn-izvestnogo-zhurnalista-yuriya-makarova-chto-izvestno)
+- [Алла Пугачова звернулась до друзів та ворогів: «Що більше років, то більше привітань»](https://fakty.ua/453106-alla-pugacheva-obratilas-k-druzyam-i-vragam-quot-chem-bolshe-let-tem-bolshe-pozdravlenij-quot)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
