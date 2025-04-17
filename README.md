@@ -45,6 +45,7 @@
 - [Мої скіни](#my-skins)
 - [Взлом Minecraft Bedrock Edition](#hacking-minecraft-bedrock-edition)
 - [Зберегти](#save)
+- [Шейдери](#shaders)
 ***
 # Як проголосувати за тему?
 *Ви допоможете вибрати тему*
@@ -494,6 +495,9 @@ Shizuku працює як посередник між системою та пр
 2. Встановити LSPatch
 3. [Завантажити](https://github.com/uzvarUA/MCBE-patched/releases)
 4. Все готово! <br>
+***
+# Shaders
+* Читатайте про [шейдерів](https://github.com/uzvarUA/shaders).
 ***
 # Save
 Детанільше: https://github.com/uzvarUA/mcbe-backups/releases
