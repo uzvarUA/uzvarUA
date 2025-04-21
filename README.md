@@ -4,7 +4,8 @@
 ***
 [Дашборд](https://drive.google.com/drive/folders/1BtZU9cjbG-mlqe91FylDV72fjzH_Q0SO?usp=drive_link)
 ***
-
+![](Technoblade/Untitled6_20250421192033.jpg)
+***
 Я записую відео про майнкрафту БЕ, як - німе кіно. <br>
 Відео виходить що вихідних о 20:00 <br><br>
 Я живу у лісництві NPC номер 42.
