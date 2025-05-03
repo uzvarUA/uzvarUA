@@ -47,6 +47,7 @@
 - [Взлом Minecraft Bedrock Edition](#hacking-minecraft-bedrock-edition)
 - [Зберегти](#save)
 - [Шейдери](#shaders)
+- [Мапа з CS 1.6](#мапа-з-cs-16)
 ***
 # Як проголосувати за тему?
 *Ви допоможете вибрати тему*
@@ -502,5 +503,8 @@ Shizuku працює як посередник між системою та пр
 ***
 # Save
 Детанільше: https://github.com/uzvarUA/mcbe-backups/releases
+***
+# Мапа з CS 1.6
+Детальніше: https://github.com/uzvarua/Counter-Strike
 ***
 **ЦЕ НЕ ОФІЦІЙНИЙ ПРОДУКТ MINECRAFT. ВІН НЕ СХВАЛЕНО ТА НЕ ПОВ'ЯЗАНИЙ З MOJANG АБО MICROSOFT.**
