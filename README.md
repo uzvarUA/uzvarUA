@@ -523,5 +523,7 @@ Shizuku працює як посередник між системою та пр
 > Чому я не оновлюваю Atlas Client до крайніх версій Minecraft Bedrock Edition 1.21.82? <br>
 > Тому що не оновлюваю до крайніх версій Minecraft Bedrock Edition 1.21.82. Atlas Client підтримує крайню версію Minecraft Bedrock Edition 1.21.72 <br>
 ***
+[Завантажити](https://github.com/uzvarUA/uzvarUA/releases/download/MCBE%2Batlas-client/Minecraft_Bedrock_Edition+atlas-client.zip)
+***
 
 **ЦЕ НЕ ОФІЦІЙНИЙ ПРОДУКТ MINECRAFT. ВІН НЕ СХВАЛЕНО ТА НЕ ПОВ'ЯЗАНИЙ З MOJANG АБО MICROSOFT.**
