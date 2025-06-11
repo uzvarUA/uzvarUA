@@ -578,5 +578,8 @@ effect @p nausea 999999 1 true
 title @p title §bЗакінчується
 ```
 ***
-
+| Завантажити |
+|---|
+|[Tardis](https://github.com/uzvarUA/tardis/releases) |
+***
 **ЦЕ НЕ ОФІЦІЙНИЙ ПРОДУКТ MINECRAFT. ВІН НЕ СХВАЛЕНО ТА НЕ ПОВ'ЯЗАНИЙ З MOJANG АБО MICROSOFT.**
