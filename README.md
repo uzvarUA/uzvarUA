@@ -575,6 +575,8 @@ Tardis/
 **tardis.mcfunction**
 ```
 effect @p nausea 999999 1 true
+effect @p blindness 999999 1 true
+effect @p night_vision 999999 1 true
 title @p title §bЗакінчується
 ```
 ***
