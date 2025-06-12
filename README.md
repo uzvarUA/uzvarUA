@@ -179,11 +179,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
-- [До 10 річниці створення НАБУ експерт назвав топ 10 антидосягнень Бюро](https://fakty.ua/453117-nabu-tak-borolos-s-korrupciej-chto-ne-zametilo-kak-stalo-ee-chastyu-ekspert-podvel-itogi-10-let-raboty-byuro)
-- [Дмитро Волканов вперше показав свою дівчину, з якою три роки перебуває у стосунках](https://fakty.ua/453118-dmitrij-volkanov-vpervye-pokazal-svoyu-devushku-s-kotoroj-tri-goda-nahoditsya-v-otnosheniyah)
-- [Поставили перед фактом: у сімʼї Катерини Кухар несподіване поповнення](https://fakty.ua/453097-postavili-pered-faktom-v-seme-ekateriny-kuhar-neozhidannoe-popolnenie)
-- [В Києві скоєно замах на життя відомого журналіста Юрія Макарова: що відомо](https://fakty.ua/453110-v-kieve-soversheno-pokushenie-na-zhizn-izvestnogo-zhurnalista-yuriya-makarova-chto-izvestno)
-- [Алла Пугачова звернулась до друзів та ворогів: «Що більше років, то більше привітань»](https://fakty.ua/453106-alla-pugacheva-obratilas-k-druzyam-i-vragam-quot-chem-bolshe-let-tem-bolshe-pozdravlenij-quot)
+- [«Я була б роботом, якби сказала, що не відчуваю моментів гніву»: як Дженніфер Еністон пережила важке розлучення з Піттом](https://fakty.ua/455572-ya-byla-by-robotom-esli-by-skazala-chto-ne-ocshucshayu-momentov-gneva-kak-dzhennifer-eniston-perezhila-tyazhelyj-razvod-s-pittom)
+- [Не вдалося попрощатися, тіла немає: відома співачка про особисту втрату](https://fakty.ua/455590-ne-udalos-poprocshatsya-tela-net-izvestnaya-pevica-o-lichnoj-potere)
+- [Перший удар «Грому» стався? Стало відомо про можливе перше застосування української балістичної ракети](https://fakty.ua/455566-pervyj-udar-groma-sluchilsya-stalo-izvestno-o-vozmozhnom-pervom-primenenii-ukrainskoj-ballisticheskoj-rakety)
+- [Власна унікальність: стартували зйомки популярного інтелектуального шоу](https://fakty.ua/455586-sobstvennaya-unikalnost-startovali-semki-populyarnogo-intellektualnogo-shou)
+- [До полювання на «Шахеди» залучать добровольців: в Україні стартує незвичайний експеримент](https://fakty.ua/455593-k-ohote-na-shahedy-privlekut-dobrovolcev-v-ukraine-startuet-neobychnyj-eksperiment)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
