@@ -12,6 +12,46 @@
 ***
 [![](https://img.shields.io/youtube/channel/subscribers/UCdoTLdbFIsVhHO9hqb6kPTA?logo=youtube&logoColor=red&style=for-the-badge)](https://youtube.com/@uzvar_ua)
 ***
+На Android 11 і вище Google посилив політику доступу до файлової системи (Scoped Storage), тому отримати повний доступ до папки /data складно. Однак є кілька способів спробувати:
+
+### 1. Використання `shizuku` + `MT Manager` або `Mixplorer`
+- Shizuku дозволяє отримати API-доступ до системних функцій без повного root.
+- MT Manager або Mixplorer (з підтримкою Shizuku) можуть переглядати системні папки.
+- Кроки:
+  1. Встановіть Shizuku (через ADB або root).
+  2. Запустіть його і дайте дозвіл.
+  3. В MT Manager або Mixplorer активуйте Shizuku-режим.
+  4. Спробуйте зайти в /data.
+
+### 2. ADB (якщо увімкнено налагодження по USB)
+- Якщо у вас є доступ до ADB, можна спробувати:
+  ```
+  adb shell
+  su
+  ls /data
+  ```
+- Але на більшості пристроїв без root це не спрацює.
+
+### 3. Root-доступ (Magisk)
+- Найнадійніший спосіб — отримати root через Magisk.
+- Після рутування:
+  - Використовуйте Root Explorer, FX File Explorer або Termux з sudo.
+  - Дайте застосунку root-права і відкрийте /data.
+
+### 4. Тимчасове відключення Scoped Storage (тільки для розробників)
+- В Android 10-12 можна тимчасово відключити Scoped Storage через ADB:
+  ```
+  adb shell sm set-isolated-storage off
+  ```
+- Але на Android 13+ це вже не працює.
+
+### Висновок:
+- Без root доступ до /data майже неможливий.
+- З root — легко через будь-який файловий менеджер.
+- ADB + Shizuku — частковий доступ, але не для всіх папок.
+
+Якщо вам потрібно щось конкретне з /data (наприклад, backup застосунків), спробуйте Swift Backup або Neo Backup (потребують root).
+***
 ## Зміст 
 - [Файловий менеджер](#файлловий-менеджер)
 - [Моя збірка](#моя-збірка)
