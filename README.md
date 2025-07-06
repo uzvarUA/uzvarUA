@@ -224,11 +224,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
-- [«Я була б роботом, якби сказала, що не відчуваю моментів гніву»: як Дженніфер Еністон пережила важке розлучення з Піттом](https://fakty.ua/455572-ya-byla-by-robotom-esli-by-skazala-chto-ne-ocshucshayu-momentov-gneva-kak-dzhennifer-eniston-perezhila-tyazhelyj-razvod-s-pittom)
-- [Не вдалося попрощатися, тіла немає: відома співачка про особисту втрату](https://fakty.ua/455590-ne-udalos-poprocshatsya-tela-net-izvestnaya-pevica-o-lichnoj-potere)
-- [Перший удар «Грому» стався? Стало відомо про можливе перше застосування української балістичної ракети](https://fakty.ua/455566-pervyj-udar-groma-sluchilsya-stalo-izvestno-o-vozmozhnom-pervom-primenenii-ukrainskoj-ballisticheskoj-rakety)
-- [Власна унікальність: стартували зйомки популярного інтелектуального шоу](https://fakty.ua/455586-sobstvennaya-unikalnost-startovali-semki-populyarnogo-intellektualnogo-shou)
-- [До полювання на «Шахеди» залучать добровольців: в Україні стартує незвичайний експеримент](https://fakty.ua/455593-k-ohote-na-shahedy-privlekut-dobrovolcev-v-ukraine-startuet-neobychnyj-eksperiment)
+- [Замовляли бургери та картоплю фрі: Шакіра у своєму світовому турне влаштувала відпустку із синами](https://fakty.ua/456638-zakazyvali-burgery-i-kartoshku-fri-shakira-v-svoem-mirovom-turne-ustroila-otpusk-s-synovyami)
+- [«Всі думали, що об&amp;#39;їлася»: відома українська телеведуча заінтригувала фото «з животиком»](https://fakty.ua/456675-vse-dumali-chto-obelas-izvestnaya-ukrainskaya-televeducshaya-zaintrigovala-foto-s-zhivotikom)
+- [Україна має бути в змозі знову перейти в наступ, — військові експерти](https://fakty.ua/456621-ukraina-dolzhna-imet-vozmozhnost-snova-perejti-v-nastuplenie-voennye-eksperty)
+- [Корейців мало: росія намагається втягнути Лаос у війну з Україною, — ГУР](https://fakty.ua/456662-korejcev-malo-rossiya-pytaetsya-vtyanut-laos-v-vojnu-s-ukrainoj---gur)
+- [«Живемо в стані „нога на педалі“. Валізи зібрані. Весь час в очікуванні нового наступу», — волонтерка Діана Макарова](https://fakty.ua/456616-zhivem-v-sostoyanii-noga-na-pedali-chemodany-sobrany-vse-vremya-v-ozhidanii-novogo-nastupleniya---volonter-diana-makarova)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
