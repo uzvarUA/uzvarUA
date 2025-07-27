@@ -12,6 +12,13 @@
 ***
 [![](https://img.shields.io/youtube/channel/subscribers/UCdoTLdbFIsVhHO9hqb6kPTA?logo=youtube&logoColor=red&style=for-the-badge)](https://youtube.com/@uzvar_ua)
 ***
+| Мої облікові записи|
+|---|
+| [Моя збірка](https://github.com/uzvarUA/ForestryNPCnumber42/releases/download/forestryNPCnumber42/forestryNPCnumber42_beta.1.zip) |
+| [Uzvar Live](https://t.me/uzvar_ua_live) |
+| [Узвар - Майнкрафт ПЕ (Бедрок)](https://t.me/uzvarua) |
+| [YouTube](https://youtube.com/@uzvar_ua) |
+***
 На Android 11 і вище Google посилив політику доступу до файлової системи (Scoped Storage), тому отримати повний доступ до папки /data складно. Однак є кілька способів спробувати:
 # Безпека
 * [URL2PNG](https://www.url2png.com/) — *дозволяє в один клік зробити знімки екрана будь-якого веб-вебсайту. Дуже зручно для перевірки сумнівних посилань, хоча від можливих редіректів (перенаправлень на інші ресурси) він не врятує, але щоб отримати загальну інформацію про те, куди веде посилання, в більшості випадків дозволить.*
