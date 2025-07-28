@@ -18,6 +18,7 @@
 | [Uzvar Live](https://t.me/uzvar_ua_live) |
 | [Узвар - Майнкрафт ПЕ (Бедрок)](https://t.me/uzvarua) |
 | [YouTube](https://youtube.com/@uzvar_ua) |
+| [Біблія - OSINT](https://t.me/bible_osint_ua) |
 ***
 На Android 11 і вище Google посилив політику доступу до файлової системи (Scoped Storage), тому отримати повний доступ до папки /data складно. Однак є кілька способів спробувати:
 # Безпека
