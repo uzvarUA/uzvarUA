@@ -24,11 +24,11 @@
 # Termux
 Оновлення пакетів
 ```
-pkg update -y && pkg install upgrade -y
+pkg update -y && pkg upgrade -y
 ```
 Встановити tor:
 ```
-pig install tor
+pkg install tor
 ```
 Запускаємо tor:
 ```
