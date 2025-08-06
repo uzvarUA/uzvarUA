@@ -1,6 +1,10 @@
 ![logo](https://uzvarua.github.io/uzvarUA/logo_my.png)
 [04.08.2025](https://github.com/uzvarUA/04.08.2025/releases)
 ***
+```
+termux-change-repo
+```
+***
 # Привіт!
 ***
 [Дашборд](https://drive.google.com/drive/folders/1BtZU9cjbG-mlqe91FylDV72fjzH_Q0SO?usp=drive_link)
