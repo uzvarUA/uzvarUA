@@ -5,6 +5,14 @@
 termux-change-repo
 ```
 ***
+```bash
+pkg install proot git -y
+git clone https://github.com/Lucksi/Mr.Holmes
+cd Mr.Holmes
+proot -0 chmod +x install_Termux.sh
+./install_Termux.sh
+```
+***
 # Привіт!
 ***
 [Дашборд](https://drive.google.com/drive/folders/1BtZU9cjbG-mlqe91FylDV72fjzH_Q0SO?usp=drive_link)
