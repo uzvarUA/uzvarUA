@@ -12,6 +12,10 @@ cd Mr.Holmes
 proot -0 chmod +x install_Termux.sh
 ./install_Termux.sh
 ```
+# Где зберігається:
+```bash
+cd $HOME/Mr.Holmes/GUI/Reports/Usernames
+```
 ***
 # Привіт!
 ***
