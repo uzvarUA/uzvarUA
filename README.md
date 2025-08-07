@@ -376,11 +376,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
-- [Замовляли бургери та картоплю фрі: Шакіра у своєму світовому турне влаштувала відпустку із синами](https://fakty.ua/456638-zakazyvali-burgery-i-kartoshku-fri-shakira-v-svoem-mirovom-turne-ustroila-otpusk-s-synovyami)
-- [«Всі думали, що об&amp;#39;їлася»: відома українська телеведуча заінтригувала фото «з животиком»](https://fakty.ua/456675-vse-dumali-chto-obelas-izvestnaya-ukrainskaya-televeducshaya-zaintrigovala-foto-s-zhivotikom)
-- [Україна має бути в змозі знову перейти в наступ, — військові експерти](https://fakty.ua/456621-ukraina-dolzhna-imet-vozmozhnost-snova-perejti-v-nastuplenie-voennye-eksperty)
-- [Корейців мало: росія намагається втягнути Лаос у війну з Україною, — ГУР](https://fakty.ua/456662-korejcev-malo-rossiya-pytaetsya-vtyanut-laos-v-vojnu-s-ukrainoj---gur)
-- [«Живемо в стані „нога на педалі“. Валізи зібрані. Весь час в очікуванні нового наступу», — волонтерка Діана Макарова](https://fakty.ua/456616-zhivem-v-sostoyanii-noga-na-pedali-chemodany-sobrany-vse-vremya-v-ozhidanii-novogo-nastupleniya---volonter-diana-makarova)
+- [Україна має бути в серці, а не у вишиванці: заслужений артист заступився за Софію Ротару](https://fakty.ua/458083-ukraina-dolzhna-byt-v-serdce-a-ne-v-vyshivanke-zasluzhennyj-artist-vstupilsya-za-sofiyu-rotaru)
+- [Це було дійсно страшно: Ліндсі Лохан поділилась сумним досвідом спілкування з папараці](https://fakty.ua/458053-eto-bylo-dejstvitelno-strashno-lindsi-lohan-podelilas-pechalnym-opytom-obcsheniya-s-paparacci)
+- [Думав — це жах: відомий шеф-кухар заінтригував новим статусом](https://fakty.ua/458068-dumal-eto-uzhas-izvestnyj-shef-povar-zaintrigoval-novym-statusom)
+- [Дронових атак буде менше? ЗСУ знайшли спосіб знизити небезпеку](https://fakty.ua/458046-dronovyh-atak-budet-menshe-vsu-nashli-sposob-snizit-opasnost)
+- [Нездатні адаптуватися: як у рф готуються до українських ударів дронами та ракетами](https://fakty.ua/458044-nesposobnye-adaptirovatsya-kak-v-rf-gotovyatsya-k-ukrainskim-udaram-dronami-i-raketami)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
