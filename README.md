@@ -3,13 +3,13 @@
 ***
 # Як встановити hydra у Termux?
 1. `termux-change-repo`
-2. ```
+2. ```bash
    pkg update && pkg upgrade -y
    ```
-3. ```
+3. ```bash
    pkg install tur-repo make git python -y
    ```
-4. ```
+4. ```bash
    pkg install proot thc-hydra -y
    ```
 ***
