@@ -1,6 +1,18 @@
 ![logo](https://uzvarua.github.io/uzvarUA/logo_my.png)
 [04.08.2025](https://github.com/uzvarUA/04.08.2025/releases)
 ***
+# Як встановити hydra у Termux?
+1. `termux-change-repo`
+2. ```
+   pkg update && pkg upgrade -y
+   ```
+3. ```
+       pkg install tur-repo make git python -y
+   ```
+4. ```
+   pkg install proot thc-hydra -y
+   ```
+***
 Holehe - це інструмент з відкритим вихідним кодом для OSINT (Open Source Intelligence), який дозволяє перевіряти, чи зареєстрована електронна адреса на різних онлайн-платформах і сервісах.
 
 Основні можливості holehe:
