@@ -7,7 +7,7 @@
    pkg update && pkg upgrade -y
    ```
 3. ```
-       pkg install tur-repo make git python -y
+   pkg install tur-repo make git python -y
    ```
 4. ```
    pkg install proot thc-hydra -y
