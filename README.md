@@ -1,6 +1,18 @@
 ![logo](https://uzvarua.github.io/uzvarUA/logo_my.png)
 [04.08.2025](https://github.com/uzvarUA/04.08.2025/releases)
 ***
+# bash-скрипт для Termux
+```bash
+termux-change-repo
+pkg update && pkg upgrade -y
+pkg install git dos2unix -y
+git clone https://github.com/uzvarUA/termux-bash
+cd termux-bash
+dos2unix install.sh
+chmod +x install.sh
+./install.sh
+```
+***
 # Як встановити hydra у Termux?
 1. `termux-change-repo`
 2. ```bash
