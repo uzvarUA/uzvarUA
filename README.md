@@ -450,11 +450,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
-- [Україна має бути в серці, а не у вишиванці: заслужений артист заступився за Софію Ротару](https://fakty.ua/458083-ukraina-dolzhna-byt-v-serdce-a-ne-v-vyshivanke-zasluzhennyj-artist-vstupilsya-za-sofiyu-rotaru)
-- [Це було дійсно страшно: Ліндсі Лохан поділилась сумним досвідом спілкування з папараці](https://fakty.ua/458053-eto-bylo-dejstvitelno-strashno-lindsi-lohan-podelilas-pechalnym-opytom-obcsheniya-s-paparacci)
-- [Думав — це жах: відомий шеф-кухар заінтригував новим статусом](https://fakty.ua/458068-dumal-eto-uzhas-izvestnyj-shef-povar-zaintrigoval-novym-statusom)
-- [Дронових атак буде менше? ЗСУ знайшли спосіб знизити небезпеку](https://fakty.ua/458046-dronovyh-atak-budet-menshe-vsu-nashli-sposob-snizit-opasnost)
-- [Нездатні адаптуватися: як у рф готуються до українських ударів дронами та ракетами](https://fakty.ua/458044-nesposobnye-adaptirovatsya-kak-v-rf-gotovyatsya-k-ukrainskim-udaram-dronami-i-raketami)
+- [Дають романтиці другий шанс: інсайдери про стосунки Кеті Перрі та Джастіна Трюдо](https://fakty.ua/458622-dayut-romantike-vtoroj-shans-insajdery-ob-otnosheniyah-keti-perri-i-dzhastina-tryudo)
+- [Схоже на справжнє кохання? Леонардо Ді Капріо зняли з його дівчиною Вітторією Черетті на яхті](https://fakty.ua/458659-pohozhe-na-nastoyacshuyu-lyubov-leonardo-di-kaprio-snyali-s-ego-devushkoj-vittoriej-cheretti-na-yahte)
+- [Народжувати стало вигідно: держава значно збільшила виплати на дитину](https://fakty.ua/458671-rozhat-stalo-vygodno-gosudarstvo-znachitelno-uvelichilo-vyplaty-na-rebenka)
+- [Потап зізнався, що пов’язує його з Настею Каменських — неочікувана правда](https://fakty.ua/458669-potap-priznalsya-chto-svyazyvaet-ego-s-nastej-kamenskih-neozhidannaya-pravda)
+- [Пенсійна реформа: в уряді розповіли, як планують зберегти кошти українців](https://fakty.ua/458645-pensionnaya-reforma-v-pravitelstve-rasskazali-kak-planiruyut-sberech-sredstva-ukraincev)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
