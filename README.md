@@ -13,11 +13,11 @@ pkg install thc-hydra make mandoc -y
 pkg install libjpeg-turbo libpng zlib -y
 pkg install openssl rust -y
 ```
-<br>
+***
 ```bash
 pkg install ffmpeg -y
 ```
-<br>
+***
 ```bash
 ffmpeg -f concat -safe 0 -i list.txt \
 -metadata artist="My Little Pony: Love" -acodec copy my_little_pony_love.mp3
