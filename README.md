@@ -1,6 +1,28 @@
 ![logo](https://uzvarua.github.io/uzvarUA/logo_my.png)
 [04.08.2025](https://github.com/uzvarUA/04.08.2025/releases)
 ***
+# Роблю аудіокнигу про My Little Pony: Love за допомогою ffmpeg і ttsfree.com
+1. [ttsfree.com](https://ttsfree.com/)
+2. **FFmpeg у Termux:** <br><br>
+```bash
+pkg update && pkg upgrade -y
+pkg install git -y
+pkg install proot python tur-repo -y
+pkg update
+pkg install thc-hydra make mandoc -y
+pkg install libjpeg-turbo libpng zlib -y
+pkg install openssl rust -y
+```
+<br>
+```bash
+pkg install ffmpeg -y
+```
+<br>
+```bash
+ffmpeg -f concat -safe 0 -i list.txt \
+-metadata artist="My Little Pony: Love" -acodec copy my_little_pony_love.mp3
+```
+***
 # bash-скрипт для Termux
 ```bash
 termux-change-repo
