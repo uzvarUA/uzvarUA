@@ -23,6 +23,8 @@ ffmpeg -f concat -safe 0 -i list.txt \
 -metadata artist="My Little Pony: Love" -acodec copy my_little_pony_love.mp3
 ```
 ***
+*Заходьте на telegram канал: ["My Little Pony: Love"](https://t.me/mylittleponylove_ua)*
+***
 # bash-скрипт для Termux
 ```bash
 termux-change-repo
