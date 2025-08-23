@@ -19,6 +19,10 @@ pkg install ffmpeg -y
 ```
 ***
 ```bash
+pip3 install yt-dlp
+```
+***
+```bash
 ffmpeg -f concat -safe 0 -i list.txt \
 -metadata artist="My Little Pony: Love" -acodec copy my_little_pony_love.mp3
 ```
