@@ -66,7 +66,7 @@ chmod +x install.sh
 🔍 Розбір по частинах
 
 ```bash
-ffmpeg -re -i $(yt-dlp -f best --get-url https://www.youtube.com/live/RysC5f0CzkU?si=2USGEi4NsOmCoHiT ) -f flv rtmp://b.rtmp.youtube.com/live2/Ключ
+ffmpeg -re -i "$(yt-dlp -f best --get-url https://www.youtube.com/live/RysC5f0CzkU?si=2USGEi4NsOmCoHiT)" -c copy -f flv rtmp://b.rtmp.youtube.com/live2/Ключ
 ```
 
 🛠 yt-dlp
