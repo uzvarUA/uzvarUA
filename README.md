@@ -70,6 +70,10 @@ ffmpeg -re -i "$(yt-dlp -f best --get-url https://www.youtube.com/watch?v=VIDEOI
 - Ця команда не створює справжній live, а лише ретранслює записане відео як live.
 
 ---
+```bash
+yt-dlp -f best -o - https://www.youtube.com/watch?v=VIDEO_ID | \
+ffmpeg -i pipe:0 -c:v copy -c:a copy -f flv rtmp://yourserver/app/streamkey
+```
 ***
 Це потужна команда для стрімінгу відео з YouTube у реальному часі через RTMP. Ось покрокове пояснення:
 
