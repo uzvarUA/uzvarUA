@@ -7,7 +7,7 @@
 # Мої канали
 | Odysee | YouTube |
 |---|---|
-| Це мій новий канал:[https://odysee.com/@uzvarua_minecraft:1](https://odysee.com/@uzvarua_minecraft:1) | Це мій старий канал:[https://www.youtube.com/@uzvar_ua](https://www.youtube.com/@uzvar_ua) |
+| Це мій новий канал:https://odysee.com/@uzvarua_minecraft:1 | Це мій старий канал: https://www.youtube.com/@uzvar_ua |
 ***
 # Роблю аудіокнигу про My Little Pony: Love за допомогою ffmpeg і ttsfree.com
 1. [ttsfree.com](https://ttsfree.com/)
