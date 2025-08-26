@@ -1,6 +1,12 @@
 ![logo](https://uzvarua.github.io/uzvarUA/logo_my.png)
 [04.08.2025](https://github.com/uzvarUA/04.08.2025/releases)
 ***
+```bash
+yt-dlp -f bestvideo+bestaudio --merge-output-format mp4 -o temp.mp4 "URL" &&
+ffmpeg -i temp.mp4 -c:v libx264 -preset fast -crf 23 -c:a aac -b:a 128k output.mp4 &&
+rm temp.mp4
+```
+***
 # Зміст по каналу
 - [Мої канали](#мої-канали)
 ***
