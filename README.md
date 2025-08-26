@@ -1,7 +1,10 @@
 ![logo](https://uzvarua.github.io/uzvarUA/logo_my.png)
 [04.08.2025](https://github.com/uzvarUA/04.08.2025/releases)
 ***
-Не забудьте встановити `dos2unix`, `python` і `ffmpeg` та `yt-dlp`
+1. Не забудьте встановити `dos2unix`, `python` і `ffmpeg` та `yt-dlp`
+2. написати `nano install.sh` і вставити цей скрипт та зберегти натисніть на клавішу `Ctrl + o` і вийти `Ctrl + x` 👇
+3. `chmod +x install.sh`
+4. `./install.sh`
 ```bash
 #!/data/data/com.termux/files/usr/bin/bash
 
