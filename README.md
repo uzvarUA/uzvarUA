@@ -1,6 +1,54 @@
 ![logo](https://uzvarua.github.io/uzvarUA/logo_my.png)
 [04.08.2025](https://github.com/uzvarUA/04.08.2025/releases)
 ***
+Не забудьте встановити `dos2unix`, `python` і `ffmpeg` та `yt-dlp`
+```bash
+#!/data/data/com.termux/files/usr/bin/bash
+
+clear
+echo -e "\e[35m╔══════════════════════════════╗"
+echo -e "\e[35m║     🦄 PonyStream Launcher     ║"
+echo -e "\e[35m╚══════════════════════════════╝\e[0m"
+echo -e "\e[36m1. Стрім з YouTube URL"
+echo "2. Зациклити стрім"
+echo "3. Встановити таймер запуску"
+echo "4. Вийти\e[0m"
+read -p "👉 Вибери опцію: " opt
+
+case $opt in
+  1)
+    read -p "🔗 Встав URL відео: " url
+    read -p "📡 Введи RTMP адресу: " rtmp
+    yt-dlp -f bestvideo+bestaudio --merge-output-format mp4 -o temp.mp4 "$url" &&
+    ffmpeg -re -i temp.mp4 -c:v libx264 -preset fast -crf 23 -c:a aac -b:a 128k -f flv "$rtmp" &&
+    rm temp.mp4
+    ;;
+  2)
+    read -p "🔗 Встав URL відео: " url
+    read -p "📡 Введи RTMP адресу: " rtmp
+    yt-dlp -f bestvideo+bestaudio --merge-output-format mp4 -o temp.mp4 "$url" &&
+    ffmpeg -stream_loop -1 -re -i temp.mp4 -c:v libx264 -preset fast -crf 23 -c:a aac -b:a 128k -f flv "$rtmp"
+    ;;
+  3)
+    read -p "⏱ Затримка перед запуском (у секундах): " delay
+    read -p "🔗 Встав URL відео: " url
+    read -p "📡 Введи RTMP адресу: " rtmp
+    echo "🕒 Очікування $delay секунд..."
+    sleep "$delay"
+    yt-dlp -f bestvideo+bestaudio --merge-output-format mp4 -o temp.mp4 "$url" &&
+    ffmpeg -re -i temp.mp4 -c:v libx264 -preset fast -crf 23 -c:a aac -b:a 128k -f flv "$rtmp" &&
+    rm temp.mp4
+    ;;
+  4)
+    echo "👋 До зустрічі, стрімере!"
+    exit
+    ;;
+  *)
+    echo "❌ Невірна опція"
+    ;;
+esac
+```
+***
 ```bash
 yt-dlp -f bestvideo+bestaudio --merge-output-format mp4 -o temp.mp4 "URL" &&
 ffmpeg -i temp.mp4 -c:v libx264 -preset fast -crf 23 -c:a aac -b:a 128k output.mp4 &&
