@@ -1,6 +1,8 @@
 ![logo](https://uzvarua.github.io/uzvarUA/logo_my.png)
 [04.08.2025](https://github.com/uzvarUA/04.08.2025/releases)
 ***
+[Для Telegram](#для-telegram)
+***
 0. [Встановлення ffmpeg та yt-dlp](#ffmpeg-та-yt-dlp)
 1. Не забудьте встановити `dos2unix`, `python` і `ffmpeg` та `yt-dlp`
 2. написати `nano install.sh` і вставити цей [скрипт](#скрипт) та зберегти натисніть на клавішу `Ctrl + o` і вийти `Ctrl + x` 👇
@@ -90,6 +92,7 @@ pkg install ffmpeg -y
 pip3 install yt-dlp
 ```
 ***
+# Для Telegram
 ```bash
 ffmpeg -f concat -safe 0 -i list.txt \
 -metadata artist="My Little Pony: Love" -acodec copy my_little_pony_love.mp3
