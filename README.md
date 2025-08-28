@@ -62,6 +62,17 @@ case $choice in
     ;;
 esac
 ```
+# Як запустити
+
+1. Збережи скрипт у `airmassesua.sh`
+2. Додай права на виконання:
+   ```bash
+   chmod +x airmassesua.sh
+   ```
+3. Запусти:
+   ```bash
+   ./airmassesua.sh
+   ```
 ***
 [Для Telegram](#для-telegram)
 ***
