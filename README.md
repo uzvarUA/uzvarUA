@@ -1,5 +1,6 @@
 ***
 > ⚠️ **НЕ ОФІЦІЙНИЙ ПРОДУКТ MINECRAFT. НЕ СХВАЛЕНО ТА НЕ ПОВ'ЯЗАНО З MOJANG АБО MICROSOFT.**
+> ⚠️ **NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.**
 ***
 ![logo](https://uzvarua.github.io/uzvarUA/logo_my.png)
 ***
