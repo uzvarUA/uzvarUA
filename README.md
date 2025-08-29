@@ -7,7 +7,7 @@
 [04.08.2025](https://github.com/uzvarUA/04.08.2025/releases)
 ***
 **Потрібен безкоштовний API-ключ від https://openweathermap.org/api** <br>
-*Залежності:* <br><br>
+*Залежності:* <br>
 ```bash
 pkg install curl jq bc -y
 ```
