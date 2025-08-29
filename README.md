@@ -2,6 +2,10 @@
 ***
 [04.08.2025](https://github.com/uzvarUA/04.08.2025/releases)
 ***
+| `Windy.com`: точний прогноз з мапами вітру, дощу. Приєднуйтесь: |
+|---|
+| https://t.me/weatheruawindy |
+***
 ![](img/49b9ea489250369eaf2b3075fdaa8fe1.jpg)
 ***
 ```bash
