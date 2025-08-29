@@ -792,11 +792,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
-- [Шпигунка на підвіконні: встановила камеру біля ТЦК і коригувала атаки на Київщину і Чернігів](https://fakty.ua/458929-shpionka-na-podokonnike-ustanovila-kameru-vozle-tck-i-korrektirovala-ataki-na-kievcshinu-i-chernigov)
-- [«Азов» зірвав наступ російської армії на Донбасі](https://fakty.ua/458905-azov-sorval-nastuplenie-rossijskoj-armii-na-donbasse)
-- [«Вибух пішов на мого Андрія — він прикрив собою хлопців»: історія бійця саперного полку «Хижак», який загинув у Лимані](https://fakty.ua/458812-vzryv-poshel-na-moego-andreya---on-prikryl-soboj-rebyat-istoriya-bojca-sapernogo-polka-hizhak-pogibshego-v-limane)
-- [Ніяких сумнівів: Потап зізнався, чи є у нього дитина з Настею Каменських &lpar;відео&rpar;](https://fakty.ua/458901-nikakih-somnenij-potap-priznalsya-est-li-u-nego-rebenok-s-nastej-kamenskih-video)
-- [Ситуація на сході загострюється: рф проривається до Покровська та Мирнограда — звіт ISW](https://fakty.ua/458906-situaciya-na-vostoke-obostryaetsya-rf-proryvaetsya-v-pokrovsk-i-mirnograd---otchet-isw)
+- [Частина стратегії та зміцнення незалежності від виробників: Autostrada здобула перемогу в аукціоні на право розробки родовища вапняку](https://fakty.ua/459161-chast-strategii-i-ukrepleniya-nezavisimosti-ot-proizvoditelej-autostrada-pobedila-v-aukcione-na-pravo-razrabotki-mestorozhdeniya-izvestnyaka)
+- [«Ніколи не смійте!»: зірки вшановують загиблих та скасовують концерти](https://fakty.ua/459142-quot-nikogda-ne-smejte-quot-zvezdy-chtyat-pogibshih-i-otmenyayut-koncerty)
+- [Кричати про те, що відбувається: названа стрічка, яка представить Україну на «Оскарі»](https://fakty.ua/459141-krichat-o-tom-chto-proishodit-nazvana-lenta-kotoraya-predstavit-ukrainu-na-oskare)
+- [«Відступати нікуди»: Зеленський різко відповів на пропозиції про буферну зону](https://fakty.ua/459151-quot-otstupat-nekuda-quot-zelenskij-rezko-otvetil-na-predlozheniya-o-bufernoj-zone)
+- [Держстат повідомив про шокуючу заборгованість населення за комуналку](https://fakty.ua/459147-gosstat-soobcshil-o-shokiruyucshej-zadolzhennosti-naseleniya-za-kommunalku)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
