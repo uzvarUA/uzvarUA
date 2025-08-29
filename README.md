@@ -1,3 +1,6 @@
+***
+> ⚠️ **НЕ ОФІЦІЙНИЙ ПРОДУКТ MINECRAFT. НЕ СХВАЛЕНО ТА НЕ ПОВ'ЯЗАНО З MOJANG АБО MICROSOFT.**
+***
 ![logo](https://uzvarua.github.io/uzvarUA/logo_my.png)
 ***
 [04.08.2025](https://github.com/uzvarUA/04.08.2025/releases)
@@ -1163,4 +1166,3 @@ title @p title §bЗакінчується
 |---|
 |[Tardis](https://github.com/uzvarUA/tardis/releases) |
 ***
-**ЦЕ НЕ ОФІЦІЙНИЙ ПРОДУКТ MINECRAFT. ВІН НЕ СХВАЛЕНО ТА НЕ ПОВ'ЯЗАНИЙ З MOJANG АБО MICROSOFT.**
