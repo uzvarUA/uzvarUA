@@ -15,6 +15,7 @@ pkg install curl jq bc -y
 ```bash
 #!/data/data/com.termux/files/usr/bin/bash
 
+clear
 # 🔧 Введіть свій API-ключ
 API_KEY="your_openweathermap_api_key"
 
