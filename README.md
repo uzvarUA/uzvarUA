@@ -6,6 +6,41 @@
 ***
 [04.08.2025](https://github.com/uzvarUA/04.08.2025/releases)
 ***
+```bash
+#!/data/data/com.termux/files/usr/bin/bash
+
+# 🔧 Введіть свій API-ключ
+API_KEY="your_openweathermap_api_key"
+
+# 🌍 Отримати координати за IP
+read -p "Використати геолокацію за IP? (y/n): " use_ip
+if [[ "$use_ip" == "y" ]]; then
+  coords=$(curl -s https://ipinfo.io/loc)
+  LAT=$(echo $coords | cut -d',' -f1)
+  LON=$(echo $coords | cut -d',' -f2)
+else
+  read -p "Введіть широту: " LAT
+  read -p "Введіть довготу: " LON
+fi
+
+# 🌡️ Отримати погодні дані
+response=$(curl -s "https://api.openweathermap.org/data/2.5/weather?lat=$LAT&lon=$LON&appid=$API_KEY&units=metric")
+pressure=$(echo "$response" | jq '.main.pressure')
+location=$(echo "$response" | jq -r '.name')
+
+# 📊 Аналіз тиску
+echo -e "\n📍 Локація: $location"
+echo "🔎 Атмосферний тиск: $pressure hPa"
+
+if (( $(echo "$pressure > 1020" | bc -l) )); then
+  echo "🟦 Ви в зоні високого тиску (антициклон) — ймовірно, ясна погода ☀️"
+elif (( $(echo "$pressure < 1000" | bc -l) )); then
+  echo "🟥 Ви в зоні низького тиску (циклон) — можливі опади або бурі 🌧️"
+else
+  echo "🟨 Тиск у межах норми — перехідна зона або фронт 🌤️"
+fi
+```
+***
 | `Windy.com`: точний прогноз з мапами вітру, дощу. Приєднуйтесь: |
 |---|
 | https://t.me/weatheruawindy |
