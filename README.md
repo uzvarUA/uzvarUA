@@ -852,11 +852,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
-- [Частина стратегії та зміцнення незалежності від виробників: Autostrada здобула перемогу в аукціоні на право розробки родовища вапняку](https://fakty.ua/459161-chast-strategii-i-ukrepleniya-nezavisimosti-ot-proizvoditelej-autostrada-pobedila-v-aukcione-na-pravo-razrabotki-mestorozhdeniya-izvestnyaka)
-- [«Ніколи не смійте!»: зірки вшановують загиблих та скасовують концерти](https://fakty.ua/459142-quot-nikogda-ne-smejte-quot-zvezdy-chtyat-pogibshih-i-otmenyayut-koncerty)
-- [Кричати про те, що відбувається: названа стрічка, яка представить Україну на «Оскарі»](https://fakty.ua/459141-krichat-o-tom-chto-proishodit-nazvana-lenta-kotoraya-predstavit-ukrainu-na-oskare)
-- [«Відступати нікуди»: Зеленський різко відповів на пропозиції про буферну зону](https://fakty.ua/459151-quot-otstupat-nekuda-quot-zelenskij-rezko-otvetil-na-predlozheniya-o-bufernoj-zone)
-- [Держстат повідомив про шокуючу заборгованість населення за комуналку](https://fakty.ua/459147-gosstat-soobcshil-o-shokiruyucshej-zadolzhennosti-naseleniya-za-kommunalku)
+- [З катетером у руці: зірка «Спіймати Кайдаша» налякав шанувальників своїм фото із лікарні](https://fakty.ua/459189-s-kateterom-v-ruke-zvezda-spijmati-kajdasha-napugal-poklonnikov-svoim-foto-iz-bolnicy)
+- [Ця техніка особливо цінна для військових, які працюють на складних ділянках фронту: Autostrada передала ЗСУ мотоцикли](https://fakty.ua/459186-eta-tehnika-osobenno-cenna-dlya-voennyh-rabotayucshih-na-slozhnyh-uchastkah-fronta-autostrada-peredala-vsu-motocikly)
+- [Постраждав за «Паляницю»: військовий розповів, як після інтерв’ю його підрозділ опинився в «чорному списку»](https://fakty.ua/459146-postradal-za-palyanicyu-voennyj-rasskazal-kak-posle-intervyu-ego-podrazdelenie-okazalos-v-chernom-spiske)
+- [«Москва разом з Китаєм намагаються вивести США в статус ізольованої держави»: Роман Безсмертний про те, що ситуація в Україні і світі буде загострюватись](https://fakty.ua/459168-quot-moskva-vmeste-s-kitaem-pytayutsya-vyvesti-ssha-v-status-izolirovannogo-gosudarstva-quot-roman-bezsmertnyj-o-tom-chto-situaciya-v-ukraine-i-mire-budet-obostryatsya)
+- [Мова має значення: Каменських залишилася без золота після скандального концерту у США](https://fakty.ua/459176-yazyk-imeet-znachenie-kamenskih-ostalas-bez-zolota-posle-skandalnogo-koncerta-v-ssha)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
