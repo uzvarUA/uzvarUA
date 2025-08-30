@@ -1,6 +1,9 @@
 ***
 [🌤️ Метео-щодденик](https://github.com/uzvarUA/windy-weather-diary)
 ***
+# Localhost (для себе)
+[localhost](http://localhost:6419/)
+***
 ```bash
 termux-setup-storage
 ```
