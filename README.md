@@ -1,4 +1,8 @@
 ***
+```bash
+cd $HOME/storage/shared/Documents
+```
+***
 [🌤️ Метео-щодденик](https://github.com/uzvarUA/windy-weather-diary)
 ***
 # Localhost (для себе)
