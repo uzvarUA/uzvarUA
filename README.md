@@ -1,11 +1,6 @@
 ***
 [🌤️ Метео-щодденик](https://github.com/uzvarUA/windy-weather-diary)
 ***
-# Мої канали
-[odysee][1] | [YouTube][2]
-[1]: https://odysee.com/@uzvarua_minecraft:1
-[2]: https://youtube.com/@uzvar_ua?si=TEc86VT5NC6NCR6P
-***
 # Localhost (для себе)
 [localhost](http://localhost:6419/)
 ***
