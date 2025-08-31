@@ -870,11 +870,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
-- [З катетером у руці: зірка «Спіймати Кайдаша» налякав шанувальників своїм фото із лікарні](https://fakty.ua/459189-s-kateterom-v-ruke-zvezda-spijmati-kajdasha-napugal-poklonnikov-svoim-foto-iz-bolnicy)
-- [Ця техніка особливо цінна для військових, які працюють на складних ділянках фронту: Autostrada передала ЗСУ мотоцикли](https://fakty.ua/459186-eta-tehnika-osobenno-cenna-dlya-voennyh-rabotayucshih-na-slozhnyh-uchastkah-fronta-autostrada-peredala-vsu-motocikly)
-- [Постраждав за «Паляницю»: військовий розповів, як після інтерв’ю його підрозділ опинився в «чорному списку»](https://fakty.ua/459146-postradal-za-palyanicyu-voennyj-rasskazal-kak-posle-intervyu-ego-podrazdelenie-okazalos-v-chernom-spiske)
-- [«Москва разом з Китаєм намагаються вивести США в статус ізольованої держави»: Роман Безсмертний про те, що ситуація в Україні і світі буде загострюватись](https://fakty.ua/459168-quot-moskva-vmeste-s-kitaem-pytayutsya-vyvesti-ssha-v-status-izolirovannogo-gosudarstva-quot-roman-bezsmertnyj-o-tom-chto-situaciya-v-ukraine-i-mire-budet-obostryatsya)
-- [Мова має значення: Каменських залишилася без золота після скандального концерту у США](https://fakty.ua/459176-yazyk-imeet-znachenie-kamenskih-ostalas-bez-zolota-posle-skandalnogo-koncerta-v-ssha)
+- [Переживши п’ять жахливих років полону, відкрив разом з дружиною унікальний ресторан: в чому родзинка закладу](https://fakty.ua/459159-perezhiv-pyat-uzhasnyh-let-plena-otkryl-vmeste-s-zhenoj-unikalnyj-restoran-v-chem-izyuminka-zavedeniya)
+- [Кремль розгорнув кампанію дезінформації, щоб переконати Захід у своїй перемозі — звіт ISW](https://fakty.ua/459215-kreml-razvernul-kampaniyu-dezinformacii-chtoby-ubedit-zapad-v-svoej-pobede-otchet-isw)
+- [«Погляд ніколи не бреше»: український співак заінтригував новим хітом](https://fakty.ua/459212-vzglyad-nikogda-ne-lzhet-ukrainskij-pevec-zaintrigoval-novym-hitom)
+- [Росіяни просунулися поблизу Торецька на Донеччині: нові геолокаційні докази — ISW](https://fakty.ua/459210-okkupanty-prodvigayutsya-na-toreckom-napravlenii-novye-geolokacionnye-dokazatelstva-isw)
+- [Спроба прориву провалилась: війська рф опинились в оточенні під Добропіллям](https://fakty.ua/459207-popytka-proryva-provalilas-vojska-rf-okazalis-v-okruzhenii-pod-dobropolem)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
