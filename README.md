@@ -1,5 +1,13 @@
 ***
 ```bash
+termux-change-repo
+```
+***
+```bash
+termux-setup-storage
+```
+***
+```bash
 #!/data/data/com.termux/files/usr/bin/bash
 
 echo "🌥️ Обери тип хмар:"
