@@ -1,4 +1,34 @@
 ***
+# Встановлення пакетів
+```bash
+#!/data/data/com.termux/files/usr/bin/bash
+
+clear
+echo "Встановлення пакетів"
+echo "1) Вибрати встановлення пакетів"
+echo "2) Вийти"
+read -p "Вибрати опцію: 	" uzvar
+case $uzvar in
+	1)
+		termux-change-repo
+		pkg update && pkg upgrade -y
+		pkg install git -y
+		pkg install proot python tur-repo -y
+		pkg update
+		termux-setup-storage
+		pkg install thc-hydra make mandoc -y
+		pkg install libjpeg-turbo libpng zlib -y
+		pkg install openssl rust -y
+		pkg install ffmpeg -y
+		pip3 install yt-dlp
+	;;
+	2)
+		echo " Дякую за увагу"
+		exit
+	;;
+esac
+```
+***
 # Eurovision UA
 ```bash
 #!/data/data/com.termux/files/usr/bin/bash
