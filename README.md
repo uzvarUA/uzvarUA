@@ -36,8 +36,9 @@ rm -rf blur *.mp4 file_list.txt
 ```
 ***
 - [Моя збірка для Termux](#моя-збірка-для-termux)
-- ```bash
-  git clone https://github.com/uzvarUA/termux-ffmpeg && cd termux-ffmpeg && \
+***
+```bash
+git clone https://github.com/uzvarUA/termux-ffmpeg && cd termux-ffmpeg && \
 chmod +x uzvar_ua.sh && ./uzvar_ua.sh
 ```
 ***
