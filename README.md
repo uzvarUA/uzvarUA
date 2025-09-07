@@ -5,7 +5,7 @@
 
 # Значення яскравості: 0.7 означає темніше на 30%
 
-read -p "Ставте URL" opt
+read -p "Ставте URL:	" opt
 
 yt-dlp -f bestvideo+bestaudio --merge-output-format mp4 "$opt"
 BRIGHTNESS=0.7
