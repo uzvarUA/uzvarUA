@@ -1,6 +1,6 @@
 # Унікалізація відео для Termux
 ```bash
-!/data/data/com.termux/files/usr/bin/bash
+#!/data/data/com.termux/files/usr/bin/bash
 
 read -p "Ставте URL: " opt
 [[ -z "$opt" ]] && echo "❌ URL не вказано. Вихід." && exit 1
