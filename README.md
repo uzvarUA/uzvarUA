@@ -1,3 +1,22 @@
+```bash
+#!/data/data/com.termux/files/usr/bin/bash
+
+read -p "Вставте URL: " opt
+[[ -z "$opt" ]] && echo "❌ URL не вказано. Вихід." && exit 1
+
+if [[ ! "$opt" =~ ^https?://.+ ]]; then
+  echo "❌ Невалідний формат URL."
+  exit 1
+fi
+
+if ! git ls-remote "$opt" &> /dev/null; then
+  echo "❌ Недоступний або не git-репозиторій."
+  exit 1
+fi
+
+git clone "$opt"
+```
+___
 # Унікалізація відео для Termux
 ```bash
 #!/data/data/com.termux/files/usr/bin/bash
