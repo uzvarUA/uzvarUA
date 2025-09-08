@@ -1,3 +1,4 @@
+# Унікалізація відео для Termux
 ```bash
 !/data/data/com.termux/files/usr/bin/bash
 
