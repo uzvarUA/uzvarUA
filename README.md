@@ -53,8 +53,12 @@ eval "$cmd"
 
 echo -e "\n✅ Готово! Збережено як: $output"
 ```
+***
 1. `nano video.sh` вставити це код ⬆️ і натиснути `ctrl + o`
 2. Вийти `ctrl + x`
+3. `chmod +x video.sh`
+4. Запускаємо `./video.sh` <br>
+***
 [Локалізація відео](https://github.com/uzvarUA/video-localization)
 ***
 ```bash
