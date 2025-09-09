@@ -1,4 +1,6 @@
 # Відео монтаж
+`check-tools.sh`:
+<br>
 ```bash
 #!/data/data/com.termux/files/usr/bin/bash
 
@@ -76,6 +78,9 @@ eval "$cmd" 2>&1 | tee "${base}_log.txt"
 echo -e "\n✅ Готово! Збережено як: $output"
 termux-open "$output"
 ```
+1. Зберегти як `check-tools.sh`
+2. `chmod +x check-tools.sh`
+3. Запускаємо `./check-tools.sh`
 ***
 # Відео Трансформатор
 ```bash
