@@ -305,6 +305,11 @@ done
 termux-change-repo && pkg update -y && pkg upgrade -y && pkg install git -y && git clone https://github.com/uzvarUA/termux-uzvarua && \
 cd $HOME/termux-uzvarua && chmod +x install.sh && ./install.sh
 ```
+***Файли***
+***
+```bash
+cd $HOME/termux-uzvarua && ./install.sh
+```
 ***
 # Встановлення пакетів
 ```bash
