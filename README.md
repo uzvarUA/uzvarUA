@@ -1,3 +1,34 @@
+1. Встановити `Iceraven Browser`
+2. Встановити [EditThisCookie](https://www.editthiscookie.com/)
+```bash
+#!/data/data/com.termux/files/usr/bin/bash
+
+json_file="$HOME/instagram_cookies.json"
+output_file="$HOME/cookies.txt"
+
+# 🔍 Перевірка наявності JSON-файлу
+if [ ! -f "$json_file" ]; then
+    echo "❌ Файл не знайдено: $json_file"
+    echo "📛 Переконайся, що cookies збережено у JSON-форматі за цим шляхом"
+    exit 1
+fi
+
+# 🛠️ Конвертація у Netscape-формат
+echo "# Netscape HTTP Cookie File" > "$output_file"
+
+jq -r '.[] | [
+  .domain,
+  (if .hostOnly then "FALSE" else "TRUE" end),
+  .path,
+  (if .secure then "TRUE" else "FALSE" end),
+  (if .session then 0 else (.expirationDate | floor) end),
+  .name,
+  .value
+] | @tsv' "$json_file" >> "$output_file"
+
+echo "✅ Конвертовано у Netscape-формат: $output_file"
+```
+***
 # Унікалізація TikTok
 ```bash
 #!/data/data/com.termux/files/usr/bin/bash
