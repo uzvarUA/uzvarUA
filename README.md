@@ -347,7 +347,7 @@ done
 ***
 # Моя збірка для Termux
 ```bash
-termux-change-repo && pkg update -y && pkg upgrade -y && pkg install git -y && git clone https://github.com/uzvarUA/termux-uzvarua && \
+termux-change-repo && apt update -y && apt upgrade -y && pkg install git -y && git clone https://github.com/uzvarUA/termux-uzvarua && \
 cd $HOME/termux-uzvarua && chmod +x install.sh && ./install.sh
 ```
 ***Файли***
