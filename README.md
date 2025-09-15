@@ -1,3 +1,5 @@
+[![asciicast](https://asciinema.org/a/740744.svg)](https://asciinema.org/a/740744)
+***
 1. Встановити `Iceraven Browser`
 2. Встановити [EditThisCookie](https://www.editthiscookie.com/)
 ```bash
