@@ -1355,11 +1355,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
-- [Переживши п’ять жахливих років полону, відкрив разом з дружиною унікальний ресторан: в чому родзинка закладу](https://fakty.ua/459159-perezhiv-pyat-uzhasnyh-let-plena-otkryl-vmeste-s-zhenoj-unikalnyj-restoran-v-chem-izyuminka-zavedeniya)
-- [Кремль розгорнув кампанію дезінформації, щоб переконати Захід у своїй перемозі — звіт ISW](https://fakty.ua/459215-kreml-razvernul-kampaniyu-dezinformacii-chtoby-ubedit-zapad-v-svoej-pobede-otchet-isw)
-- [«Погляд ніколи не бреше»: український співак заінтригував новим хітом](https://fakty.ua/459212-vzglyad-nikogda-ne-lzhet-ukrainskij-pevec-zaintrigoval-novym-hitom)
-- [Росіяни просунулися поблизу Торецька на Донеччині: нові геолокаційні докази — ISW](https://fakty.ua/459210-okkupanty-prodvigayutsya-na-toreckom-napravlenii-novye-geolokacionnye-dokazatelstva-isw)
-- [Спроба прориву провалилась: війська рф опинились в оточенні під Добропіллям](https://fakty.ua/459207-popytka-proryva-provalilas-vojska-rf-okazalis-v-okruzhenii-pod-dobropolem)
+- [Джастін Бібер та його дружина Гейлі розкрили правду про свій шлюб](https://fakty.ua/459984-dzhastin-biber-i-ego-zhena-hejli-raskryli-pravdu-o-svoem-brake)
+- [Наш антистрес: Лілія Ребрик зізналася, що рятує її родину](https://fakty.ua/459971-nash-antistress-liliya-rebrik-priznalas-chto-spasaet-ee-semyu)
+- [«Нафтові санкції» від СБУ вийшли на новий рівень: експерт про удари дронів по російським портам](https://fakty.ua/459995-neftyanye-sankcii-ot-sbu-vyshli-na-novyj-uroven-ekspert-ob-udarah-dronov-po-rossijskim-portam)
+- [Підпал: популярна актриса вразила відвертим відео](https://fakty.ua/459968-podzhog-populyarnaya-aktrisa-vpechatlila-otkrovennym-video)
+- [Кінцева зупинка: популярний актор непридатний до військової служби](https://fakty.ua/459977-konechnaya-ostanovka-populyarnyj-akter-neprigoden-k-voennoj-sluzhbe)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
