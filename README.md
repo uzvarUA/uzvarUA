@@ -1,5 +1,7 @@
 * [Зберегти](#зберегти)
 ***
+[![asciicast](https://asciinema.org/a/740776.svg)](https://asciinema.org/a/740776)
+***
 [![asciicast](https://asciinema.org/a/740755.svg)](https://asciinema.org/a/740755)
 ***
 [![asciicast](https://asciinema.org/a/740744.svg)](https://asciinema.org/a/740744)
