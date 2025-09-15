@@ -1,4 +1,7 @@
 * [Зберегти](#зберегти)
+***
+[![asciicast](https://asciinema.org/a/740755.svg)](https://asciinema.org/a/740755)
+***
 [![asciicast](https://asciinema.org/a/740744.svg)](https://asciinema.org/a/740744)
 ***
 1. Встановити `Iceraven Browser`
@@ -1767,5 +1770,6 @@ title @p title §bЗакінчується
 |[Tardis](https://github.com/uzvarUA/tardis/releases) |
 ***
 # Зберегти
-https://asciinema.org/a/qVqKjoSXTOKG8ZRwBpxb5LLPc
+* https://asciinema.org/a/qVqKjoSXTOKG8ZRwBpxb5LLPc
+* https://asciinema.org/a/740755
 ***
