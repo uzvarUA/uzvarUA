@@ -1,5 +1,6 @@
 * [Зберегти](#зберегти)
 * [Asciinema](#asciinema)
+* [Моя збірка для Termux](#моя-збірка-для-termux)
 ***
 [![asciicast](https://asciinema.org/a/740776.svg)](https://asciinema.org/a/740776)
 ***
