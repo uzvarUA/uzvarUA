@@ -1355,11 +1355,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [З десяти піхотинців ворога доходить лише три: офіцер про ситуацію у Куп’янську](https://fakty.ua/460008-iz-desyati-pehotincev-vraga-dohodyat-tolko-tri-oficer-o-situacii-v-kupyanske)
 - [«Прилетіло» в тил: ЗСУ знищили ключовий завод пального для армії рф](https://fakty.ua/460017-quot-priletelo-quot-v-tyl-vsu-unichtozhili-klyuchevoj-zavod-goryuchego-dlya-armii-rf)
 - [Битва за Покровськ: ЗСУ розповіли, як довго місто зможе тримати оборону](https://fakty.ua/460016-bitva-za-pokrovsk-vsu-rasskazali-kak-dolgo-gorod-smozhet-derzhat-oboronu)
 - [Сирський звільнив командувачів двох корпусів після втрат на фронті — ЗМІ](https://fakty.ua/460009-syrskij-uvolil-komanduyucshih-dvuh-korpusov-posle-poter-na-fronte---smi)
 - [«Хочу мати документ до кінця війни. путін має боятись»: Зеленський закликав Трампа дати чіткі гарантії](https://fakty.ua/460007-quot-hochu-imet-dokument-do-konca-vojny-putin-dolzhen-boyatsya-quot-zelenskij-prizval-trampa-dat-chetkie-garantii)
-- [Не вмію їсти в міру: Марго Роббі розповіла, як їй вдається підтримувати ідеальну фігуру після пологів](https://fakty.ua/460002-ne-umeyu-est-v-meru-margo-robbi-rasskazala-kak-ej-udaetsya-podderzhivat-idealnuyu-figuru-posle-rodov)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
