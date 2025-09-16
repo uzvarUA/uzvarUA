@@ -1,4 +1,5 @@
 * [Зберегти](#зберегти)
+* [Asciinema](#asciinema)
 ***
 [![asciicast](https://asciinema.org/a/740776.svg)](https://asciinema.org/a/740776)
 ***
@@ -1782,4 +1783,17 @@ d742149f-9195-438f-8f42-5eca4d577ba9
 b7d93f69-b66b-444f-ae30-4c45606c824c
 ```
 * Зберегти в `$HOME/.config/asciinema/install-id`
+***
+# Asciinema
+```bash
+asciinema auth
+```
+***
+```bash
+asciinema rec -t "OSINT" robby.cast
+```
+***
+```bash
+asciinema stream -r
+```
 ***
