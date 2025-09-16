@@ -1355,11 +1355,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
-- [«Хочу мати документ до кінця війни. Путін має боятись»: Зеленський закликав Трампа дати чіткі гарантії](https://fakty.ua/460007-quot-hochu-imet-dokument-do-konca-vojny-putin-dolzhen-boyatsya-quot-zelenskij-prizval-trampa-dat-chetkie-garantii)
-- [Російські військові увійшли до Ямполя, переодягнувшись у цивільних](https://fakty.ua/460004-rossijskie-voennye-voshli-v-yampol-pereodevshis-v-grazhdanskih)
-- [Пекельна ніч в Україні: вибухи, жертви, удари по дітях та рятувальниках](https://fakty.ua/460003-adskaya-noch-v-ukraine-vzryvy-zhertvy-udary-po-detyam-i-spasatelyam)
+- [Сирський звільнив командувачів двох корпусів після втрат на фронті — ЗМІ](https://fakty.ua/460009-syrskij-uvolil-komanduyucshih-dvuh-korpusov-posle-poter-na-fronte---smi)
+- [«Хочу мати документ до кінця війни. путін має боятись»: Зеленський закликав Трампа дати чіткі гарантії](https://fakty.ua/460007-quot-hochu-imet-dokument-do-konca-vojny-putin-dolzhen-boyatsya-quot-zelenskij-prizval-trampa-dat-chetkie-garantii)
 - [Не вмію їсти в міру: Марго Роббі розповіла, як їй вдається підтримувати ідеальну фігуру після пологів](https://fakty.ua/460002-ne-umeyu-est-v-meru-margo-robbi-rasskazala-kak-ej-udaetsya-podderzhivat-idealnuyu-figuru-posle-rodov)
 - [Буде новою зіркою кулінарії: тесть-мільярдер дав Брукліну Бекхему гроші на відкриття ресторану](https://fakty.ua/460001-budet-novoj-zvezdoj-kulinarii-test-milliarder-dal-bruklinu-bekhemu-dengi-na-otkrytie-restorana)
+- [Джастін Бібер та його дружина Гейлі розкрили правду про свій шлюб](https://fakty.ua/459984-dzhastin-biber-i-ego-zhena-hejli-raskryli-pravdu-o-svoem-brake)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
