@@ -2,6 +2,8 @@
 * [Asciinema](#asciinema)
 * [Моя збірка для Termux](#моя-збірка-для-termux)
 ***
+[![asciicast](https://asciinema.org/a/741021.svg)](https://asciinema.org/a/741021)
+***
 [![asciicast](https://asciinema.org/a/740776.svg)](https://asciinema.org/a/740776)
 ***
 [![asciicast](https://asciinema.org/a/740755.svg)](https://asciinema.org/a/740755)
