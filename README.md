@@ -1797,3 +1797,7 @@ asciinema rec -t "OSINT" robby.cast
 asciinema stream -r
 ```
 ***
+```bash
+asciinema upload demo.cast
+```
+***
