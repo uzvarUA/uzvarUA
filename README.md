@@ -1355,11 +1355,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Буде новою зіркою кулінарії: тесть-мільярдер дав Брукліну Бекхему гроші на відкриття ресторану](https://fakty.ua/460001-budet-novoj-zvezdoj-kulinarii-test-milliarder-dal-bruklinu-bekhemu-dengi-na-otkrytie-restorana)
 - [Джастін Бібер та його дружина Гейлі розкрили правду про свій шлюб](https://fakty.ua/459984-dzhastin-biber-i-ego-zhena-hejli-raskryli-pravdu-o-svoem-brake)
 - [Наш антистрес: Лілія Ребрик зізналася, що рятує її родину](https://fakty.ua/459971-nash-antistress-liliya-rebrik-priznalas-chto-spasaet-ee-semyu)
 - [«Нафтові санкції» від СБУ вийшли на новий рівень: експерт про удари дронів по російським портам](https://fakty.ua/459995-neftyanye-sankcii-ot-sbu-vyshli-na-novyj-uroven-ekspert-ob-udarah-dronov-po-rossijskim-portam)
 - [Підпал: популярна актриса вразила відвертим відео](https://fakty.ua/459968-podzhog-populyarnaya-aktrisa-vpechatlila-otkrovennym-video)
-- [Кінцева зупинка: популярний актор непридатний до військової служби](https://fakty.ua/459977-konechnaya-ostanovka-populyarnyj-akter-neprigoden-k-voennoj-sluzhbe)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
