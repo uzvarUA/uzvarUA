@@ -1,7 +1,13 @@
+***
+# Мій профіль asciinema
+[💼 Заходьте на asciinema і дивись OSINT в termux](https://asciinema.org/~uzvarua)
+***
+# Мій зміст 
 * [Зберегти](#зберегти)
 * [Asciinema](#asciinema)
 * [Моя збірка для Termux](#моя-збірка-для-termux)
 ***
+# Asciinema (OSINT)
 [![asciicast](https://asciinema.org/a/741021.svg)](https://asciinema.org/a/741021)
 ***
 [![asciicast](https://asciinema.org/a/740776.svg)](https://asciinema.org/a/740776)
