@@ -1355,11 +1355,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Гібридний монстр: ГУР показало начинку турбореактивної «Герані-3»](https://fakty.ua/460032-gibridnyj-monstr-gur-pokazalo-nachinku-turboreaktivnoj-quot-gerani-3-quot)
 - [Могилевська шокувала зізнанням: як схудла на 25 кг без жорстких обмежень](https://fakty.ua/460021-mogilevskaya-shokirovala-priznaniem-kak-pohudela-na-25-kg-bez-zhestkih-ogranichenij)
 - [«Дізнавшись, що у громаді роблять „кікімори“, заявила, що треба наплести їх так багато, щоб закінчили цю війну»: як живе 105-річна волонтерка з Житомирщини](https://fakty.ua/460018-uznav-chto-v-gromade-delayut-kikimory-zayavila-chto-nuzhno-naplesti-ih-tak-mnogo-chtoby-zakonchili-etu-vojnu-kak-zhivet-105-letnyaya-volonter-s-zhitomircshiny)
 - [З десяти піхотинців ворога доходить лише три: офіцер про ситуацію у Куп’янську](https://fakty.ua/460008-iz-desyati-pehotincev-vraga-dohodyat-tolko-tri-oficer-o-situacii-v-kupyanske)
 - [«Прилетіло» в тил: ЗСУ знищили ключовий завод пального для армії рф](https://fakty.ua/460017-quot-priletelo-quot-v-tyl-vsu-unichtozhili-klyuchevoj-zavod-goryuchego-dlya-armii-rf)
-- [Битва за Покровськ: ЗСУ розповіли, як довго місто зможе тримати оборону](https://fakty.ua/460016-bitva-za-pokrovsk-vsu-rasskazali-kak-dolgo-gorod-smozhet-derzhat-oboronu)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
