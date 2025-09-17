@@ -1,4 +1,5 @@
 ***
+* [Досьє Дональда Трампа](#досьє-дональда-трампа)
 # Мій профіль asciinema
 [💼 Заходьте на asciinema і дивись OSINT в termux](https://asciinema.org/~uzvarua)
 ***
@@ -1810,3 +1811,293 @@ asciinema stream -r
 asciinema upload demo.cast
 ```
 ***
+# Досьє Дональда Трампа
+```
+SCANNING EXECUTED ON:
+Date: 16/09/2025 17:40:11
+IP: 104.18.167.240
+NATION: Canada
+NATION-CODE: CA
+REGION-CODE: ON
+REGION-NAME: Ontario
+CITY: Toronto
+TIMEZONE: America/Toronto
+ISP: Cloudflare, Inc.
+ORG: Cloudflare, Inc.
+AS: AS13335 Cloudflare, Inc.
+LAT: 43.6532
+LONG: -79.3832
+ZIP/POSTAL-CODE: M5A
+--------------------------------
+SHOWING TWITTER RESULTS FOR: donaldjtrump.com
+--------------------------------
+SHOWING TWITTER RESULTS FOR: donaldjtrump
+--------------------------------
+SHOWING TIKTOK RESULTS FOR: donaldjtrump.com
+
+USER FOUND: @donaldtrump.com
+FOLLOWERS: 12 followers
+
+LINK: https://tiktok.com/@donaldtrump.com
+
+USER FOUND: @donald.trump.com
+FOLLOWERS: 12 followers
+
+LINK: https://tiktok.com/@donald.trump.com
+
+USER FOUND: @donaldtrump.co
+FOLLOWERS: 1 followers
+
+LINK: https://tiktok.com/@donaldtrump.co
+
+USER FOUND: @donald.trump.compt.fan
+FOLLOWERS: 3 followers
+
+LINK: https://tiktok.com/@donald.trump.compt.fan
+
+USER FOUND: @donaldtrump_cop
+FOLLOWERS: 3 followers
+
+LINK: https://tiktok.com/@donaldtrump_cop
+--------------------------------
+SHOWING TIKTOK RESULTS FOR: donaldjtrump
+
+USER FOUND: @realdonaldtrump
+FOLLOWERS: 15.2M followers
+
+LINK: https://tiktok.com/@realdonaldtrump
+--------------------------------
+SHOWING GITHUB RESULTS FOR: donaldjtrump.com
+--------------------------------
+SHOWING GITHUB RESULTS FOR: donaldjtrump
+
+USER FOUND: donaldjtrump
+PROFILE-PIC: https://avatars.githubusercontent.com/u/8404111?v=4
+LINK: https://github.com/donaldjtrump
+
+USER FOUND: Janoskovacsjohn1994
+PROFILE-PIC: https://avatars.githubusercontent.com/u/198749651?v=4
+LINK: https://github.com/Janoskovacsjohn1994
+
+USER FOUND: DonaldJTrump2016
+PROFILE-PIC: https://avatars.githubusercontent.com/u/84189659?v=4
+LINK: https://github.com/DonaldJTrump2016
+
+USER FOUND: HTTPS-GitHub-n
+PROFILE-PIC: https://avatars.githubusercontent.com/u/131279170?v=4
+LINK: https://github.com/HTTPS-GitHub-n
+
+USER FOUND: donaldjtrumplive
+PROFILE-PIC: https://avatars.githubusercontent.com/u/122757563?v=4
+LINK: https://github.com/donaldjtrumplive
+
+USER FOUND: DONALDJTRUMP779
+PROFILE-PIC: https://avatars.githubusercontent.com/u/189879937?v=4
+LINK: https://github.com/DONALDJTRUMP779
+
+USER FOUND: DonaldJTrump420
+PROFILE-PIC: https://avatars.githubusercontent.com/u/47987672?v=4
+LINK: https://github.com/DonaldJTrump420
+
+USER FOUND: DonaldJTrump2024
+PROFILE-PIC: https://avatars.githubusercontent.com/u/88908988?v=4
+LINK: https://github.com/DonaldJTrump2024
+
+USER FOUND: DonaldJTrump2020
+PROFILE-PIC: https://avatars.githubusercontent.com/u/67773134?v=4
+LINK: https://github.com/DonaldJTrump2020
+
+USER FOUND: DonaldJTrump9
+PROFILE-PIC: https://avatars.githubusercontent.com/u/31213495?v=4
+LINK: https://github.com/DonaldJTrump9
+
+USER FOUND: DONALDJTRUMP666
+PROFILE-PIC: https://avatars.githubusercontent.com/u/125806183?v=4
+LINK: https://github.com/DONALDJTRUMP666
+
+USER FOUND: DonaldJTrumpOfficial
+PROFILE-PIC: https://avatars.githubusercontent.com/u/188909410?v=4
+LINK: https://github.com/DonaldJTrumpOfficial
+
+USER FOUND: Donaldjtrump32
+PROFILE-PIC: https://avatars.githubusercontent.com/u/35814650?v=4
+LINK: https://github.com/Donaldjtrump32
+
+USER FOUND: DonaldJTrump2017
+PROFILE-PIC: https://avatars.githubusercontent.com/u/33147210?v=4
+LINK: https://github.com/DonaldJTrump2017
+
+USER FOUND: donaldjtrumpfartypants
+PROFILE-PIC: https://avatars.githubusercontent.com/u/23411025?v=4
+LINK: https://github.com/donaldjtrumpfartypants
+
+USER FOUND: DonaldJTrump47
+PROFILE-PIC: https://avatars.githubusercontent.com/u/128853869?v=4
+LINK: https://github.com/DonaldJTrump47
+
+USER FOUND: DonaldJTrump1
+PROFILE-PIC: https://avatars.githubusercontent.com/u/131284456?v=4
+LINK: https://github.com/DonaldJTrump1
+
+USER FOUND: DonaldJTrumpisgooder
+PROFILE-PIC: https://avatars.githubusercontent.com/u/187436631?v=4
+LINK: https://github.com/DonaldJTrumpisgooder
+
+USER FOUND: donaldjtrumpbot
+PROFILE-PIC: https://avatars.githubusercontent.com/u/20583761?v=4
+LINK: https://github.com/donaldjtrumpbot
+
+SCANNING EXECUTED WITH Mr.Holmes
+```
+***
+```
+SCANNING EXECUTED ON:
+
+Date: 10/08/2025 08:08:53
+
+
+
+USERNAME FOUND ON:
+
+https://instagram.com/realDonaldTrump
+
+https://threads.net/@realDonaldTrump
+
+https://github.com/realDonaldTrump
+
+https://facebook.com/realDonaldTrump
+
+https://disqus.com/realDonaldTrump
+
+https://pinterest.com/realDonaldTrump
+
+https://passes.com/realDonaldTrump
+
+https://imgur.com/user/realDonaldTrump
+
+https://myspace.com/realDonaldTrump
+
+https://twitch.tv/realDonaldTrump
+
+https://www.wattpad.com/user/realDonaldTrump
+
+https://myanimelist.net/profile/realDonaldTrump
+
+https://vimeo.com/realDonaldTrump
+
+https://www.deviantart.com/realDonaldTrump
+
+https://9gag.com/u/realDonaldTrump
+
+https://www.dailymotion.com/realDonaldTrump
+
+https://realDonaldTrump.tumblr.com/
+
+https://pypi.org/user/realDonaldTrump
+
+https://about.me/realDonaldTrump
+
+https://pokemonshowdown.com/users/realDonaldTrump
+
+https://lolprofile.net/search/world/realDonaldTrump
+
+https://mobile.twitter.com/realDonaldTrump
+
+https://psnprofiles.com/realDonaldTrump
+
+https://www.7cups.com/@realDonaldTrump
+
+https://twitchtracker.com/realDonaldTrump
+
+https://linktr.ee/realDonaldTrump
+
+https://patreon.com/realDonaldTrump
+
+https://www.buymeacoffee.com/realDonaldTrump
+
+https://www.interpals.net/realDonaldTrump
+
+https://tryhackme.com/p/realDonaldTrump
+
+https://steamcommunity.com/id/realDonaldTrump
+
+https://www.bandcamp.com/realDonaldTrump
+
+https://www.chess.com/member/realDonaldTrump
+
+https://freesound.org/people/realDonaldTrump
+
+https://euw.op.gg/summoner/userName=realDonaldTrump
+
+https://www.quora.com/profile/realDonaldTrump
+
+https://wikipedia.org/wiki/User:realDonaldTrump
+
+https://medium.com/@realDonaldTrump
+
+https://pr0gramm.com/user/realDonaldTrump
+
+https://mixcloud.com/realDonaldTrump/
+
+https://archive.org/details/@realDonaldTrump
+
+https://audiojungle.net/user/realDonaldTrump
+
+https://aminoapps.com/u/realDonaldTrump
+
+https://gitlab.com/realDonaldTrump
+
+https://ello.co/realDonaldTrump
+
+https://keybase.io/realDonaldTrump
+
+https://realDonaldTrump.slack.com
+
+https://younow.com/realDonaldTrump
+
+https://www.smule.com/realDonaldTrump
+
+https://www.native-instruments.com/profile/realDonaldTrump
+
+https://buzzfeed.com/realDonaldTrump
+
+https://osu.ppy.sh/users/realDonaldTrump
+
+https://www.tiktok.com/@realDonaldTrump
+
+https://www.codecademy.com/profiles/realDonaldTrump
+
+https://themeforest.net/user/realDonaldTrump
+
+https://www.pscp.tv/realDonaldTrump
+
+https://api.mojang.com/users/profiles/minecraft/realDonaldTrump
+
+https://ko-fi.com/realDonaldTrump
+
+https://vsco.co/realDonaldTrump/gallery
+
+https://realDonaldTrump.mymonat.com/
+
+https://gitee.com/realDonaldTrump
+
+https://realDonaldTrump.newgrounds.com
+
+https://hackerone.com/realDonaldTrump
+
+https://www.quotev.com/realDonaldTrump
+
+https://www.bitchute.com/channel/realDonaldTrump/
+
+https://opensea.io/realDonaldTrump
+
+https://quizsilo.com/profile/realDonaldTrump
+
+https://www.colourlovers.com/lover/realDonaldTrump
+
+https://www.21buttons.com/buttoner/realDonaldTrump
+
+
+
+SCANNING EXECUTED WITH Mr.Holmes
+```
