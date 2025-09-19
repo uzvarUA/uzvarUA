@@ -1,4 +1,11 @@
 ***
+```
+SEED INFO
+► Seed: 7904846446833094596
+► Coordinates: X=119.173 Y=65 Z=-6271.884
+► Version: Java Snapshot 25w34a or Bedrock Preview 1.21.110.25
+```
+***
 # Мій профіль asciinema
 [💼 Заходьте на asciinema і дивись OSINT в termux](https://asciinema.org/~uzvarua)
 ***
