@@ -1373,11 +1373,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [У пресу просочилися подробиці: фанати Селени Гомес та Бенні Бланко схвильовані весіллям, що наближається](https://fakty.ua/460187-v-pressu-prosochilis-podrobnosti-fanaty-seleny-gomes-i-benni-blanko-vzvolnovany-priblizhayucshejsya-svadboj)
 - [Завжди мріяла: популярна шеф-кухарка вразила світлинами](https://fakty.ua/460200-vsegda-mechtala-populyarnaya-shef-povar-porazila-fotografiyami)
 - [Реактивний, але не всесильний: експерт розповів, у чому слабкість реактивних «Шахедів»](https://fakty.ua/460177-reaktivnyj-no-ne-vsesilnyj-ekspert-rasskazal-v-chem-slabost-reaktivnyh-shahedov)
 - [Бомба: популярні музиканти вразили несподіваними дуетами &lpar;відео&rpar;](https://fakty.ua/460201-bomba-populyarnye-muzykanty-porazili-neozhidannymi-duetami-video)
 - [Більше не разом: Моніка Белуччі та Тім Бертон розлучилися після двох років шлюбу](https://fakty.ua/460208-bolshe-ne-vmeste-monika-beluchchi-i-tim-berton-rasstalis-posle-dvuh-let-braka)
-- [У мережі з’явилися нові фото дітей Алли Пугачової та Максима Галкіна](https://fakty.ua/460178-v-seti-poyavilis-novye-foto-detej-ally-pugachevoj-i-maksima-galkina)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
