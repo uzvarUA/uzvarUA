@@ -1373,11 +1373,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
-- [«Завжди вечеряти не одному»: Євген Клопотенко розповів про важливе правило, якому його навчила матір](https://fakty.ua/460013-quot-vsegda-uzhinat-ne-odnomu-quot-evgenij-klopotenko-rasskazal-o-vazhnom-pravile-kotoromu-ego-nauchila-mat)
-- [Гібридний монстр: ГУР показало начинку турбореактивної «Герані-3»](https://fakty.ua/460032-gibridnyj-monstr-gur-pokazalo-nachinku-turboreaktivnoj-quot-gerani-3-quot)
-- [Могилевська шокувала зізнанням: як схудла на 25 кг без жорстких обмежень](https://fakty.ua/460021-mogilevskaya-shokirovala-priznaniem-kak-pohudela-na-25-kg-bez-zhestkih-ogranichenij)
-- [«Дізнавшись, що у громаді роблять „кікімори“, заявила, що треба наплести їх так багато, щоб закінчили цю війну»: як живе 105-річна волонтерка з Житомирщини](https://fakty.ua/460018-uznav-chto-v-gromade-delayut-kikimory-zayavila-chto-nuzhno-naplesti-ih-tak-mnogo-chtoby-zakonchili-etu-vojnu-kak-zhivet-105-letnyaya-volonter-s-zhitomircshiny)
-- [З десяти піхотинців ворога доходить лише три: офіцер про ситуацію у Куп’янську](https://fakty.ua/460008-iz-desyati-pehotincev-vraga-dohodyat-tolko-tri-oficer-o-situacii-v-kupyanske)
+- [Бомба: популярні музиканти вразили несподіваними дуетами &lpar;відео&rpar;](https://fakty.ua/460201-bomba-populyarnye-muzykanty-porazili-neozhidannymi-duetami-video)
+- [Більше не разом: Моніка Белуччі та Тім Бертон розлучилися після двох років шлюбу](https://fakty.ua/460208-bolshe-ne-vmeste-monika-beluchchi-i-tim-berton-rasstalis-posle-dvuh-let-braka)
+- [У мережі з’явилися нові фото дітей Алли Пугачової та Максима Галкіна](https://fakty.ua/460178-v-seti-poyavilis-novye-foto-detej-ally-pugachevoj-i-maksima-galkina)
+- [Віра Брежнєва показала фігуру у бікіні](https://fakty.ua/460171-vera-brezhneva-pokazala-figuru-v-bikini)
+- [Вночі дрони знову атакували Україну: вибухи пролунали у Києві, Павлограді та Нікополі](https://fakty.ua/460159-nochyu-drony-snova-atakovali-ukrainu-vzryvy-progremeli-v-kieve-pavlograde-i-nikopole)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
