@@ -1,4 +1,6 @@
 ***
+[Завантажити Minecraft тут](https://github.com/uzvarUA/minecraftbe/releases)
+***
 ```
 SEED INFO
 ► Seed: 7904846446833094596
