@@ -1,4 +1,11 @@
 ***
+```
+SEED INFO
+► Seed: 7904846446833094596
+► Coordinates: X=119 Y=65 Z=-6272
+► Version: Atlas Client 1.6.2 for Minecraft Bedrock Edition 1.21.72 or Bedrock Preview 1.110.25
+```
+***
 [Завантажити Minecraft тут](https://github.com/uzvarUA/minecraftbe/releases)
 ***
 ```
