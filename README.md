@@ -1,5 +1,5 @@
 ***
-```
+```bash
 #!/data/data/com.termux/files/usr/bin/bash
 
 # 🧪 Перевірка Python
