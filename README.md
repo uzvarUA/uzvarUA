@@ -1,4 +1,133 @@
 ***
+# Custom Panorama
+***Arch Linux****
+```bash
+#!/usr/bin/env bash
+
+# 🧪 Перевірка Python
+if ! command -v python &> /dev/null; then
+  echo "⚠️ Python не знайдено! Встановлюю через pacman..."
+  sudo pacman -Sy --noconfirm python
+fi
+
+# 🧪 Перевірка pip
+if ! command -v pip &> /dev/null; then
+  echo "⚠️ pip не знайдено! Встановлюю через pacman..."
+  sudo pacman -Sy --noconfirm python-pip
+fi
+
+# 🌿 Введення даних
+read -p "📦 Назва паку: " packname
+read -p "📝 Опис: " description
+read -p "🎮 Мінімальна версія Minecraft (1,21,0 або 1 21 0): " version_raw
+
+# 🔁 Автоформатування версії
+version_clean=${version_raw// /,}
+if [[ ! "$version_clean" =~ ^[0-9]+,[0-9]+,[0-9]+$ ]]; then
+  echo "⚠️ Невірний формат! Використовуйте 1,21,0 або 1 21 0"
+  exit 1
+fi
+version_json=${version_clean//,/ }
+
+# 🆔 UUID
+uuid_header=$(python -c "import uuid; print(uuid.uuid4())")
+uuid_module=$(python -c "import uuid; print(uuid.uuid4())")
+
+# 📁 Створення структури
+mkdir -p UzvarManifest/textures/ui
+for i in {0..5}; do
+  touch UzvarManifest/textures/ui/panorama_${i}.png
+done
+
+# 📜 manifest.json
+cat > UzvarManifest/manifest.json <<EOF
+{
+  "format_version": 2,
+  "header": {
+    "name": "$packname",
+    "description": "$description",
+    "uuid": "$uuid_header",
+    "version": [1, 0, 0],
+    "min_engine_version": [${version_json}]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "$uuid_module",
+      "version": [1, 0, 0]
+    }
+  ]
+}
+EOF
+
+# ✅ Завершення
+echo "✅ Структура ресурс-паку створена в UzvarManifest/"
+echo "📁 Включає: manifest.json + textures/ui/"
+```
+***
+***iOS***
+```baah
+#!/bin/sh
+
+# 🧪 Перевірка Python
+if ! command -v python3 >/dev/null 2>&1; then
+  echo "⚠️ Python3 не знайдено! Встановлюю..."
+  apk add --no-cache python3 py3-pip
+fi
+
+# 🌿 Введення даних
+printf "📦 Назва паку: "
+read packname
+printf "📝 Опис: "
+read description
+printf "🎮 Мінімальна версія Minecraft (1,21,0 або 1 21 0): "
+read version_raw
+
+# 🔁 Автоформатування версії
+version_clean=$(echo "$version_raw" | tr ' ' ',')
+if ! echo "$version_clean" | grep -Eq '^[0-9]+,[0-9]+,[0-9]+$'; then
+  echo "⚠️ Невірний формат! Використовуйте 1,21,0 або 1 21 0"
+  exit 1
+fi
+version_json=$(echo "$version_clean" | tr ',' ' ')
+
+# 🆔 UUID
+uuid_header=$(python3 -c "import uuid; print(uuid.uuid4())")
+uuid_module=$(python3 -c "import uuid; print(uuid.uuid4())")
+
+# 📁 Створення структури
+mkdir -p UzvarManifest/textures/ui
+for i in $(seq 0 5); do
+  touch UzvarManifest/textures/ui/panorama_${i}.png
+done
+
+# 📜 manifest.json
+cat > UzvarManifest/manifest.json <<EOF
+{
+  "format_version": 2,
+  "header": {
+    "name": "$packname",
+    "description": "$description",
+    "uuid": "$uuid_header",
+    "version": [1, 0, 0],
+    "min_engine_version": [${version_json}]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "$uuid_module",
+      "version": [1, 0, 0]
+    }
+  ]
+}
+EOF
+
+# ✅ Завершення
+echo "✅ Структура ресурс-паку створена в UzvarManifest/"
+echo "📁 Включає: manifest.json + textures/ui/"
+```
+***
+***Android***
 ```bash
 #!/data/data/com.termux/files/usr/bin/bash
 
