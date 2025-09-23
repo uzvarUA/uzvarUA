@@ -1,3 +1,6 @@
+# Для створення скріншоти через Key Mapper?
+[Завантажити](https://github.com/uzvarUA/uzvarUA/releases/tag/Key-mapper.1)
+***
 # Суспільне Євробачення 
 ```bash
 #!/data/data/com.termux/files/usr/bin/bash
