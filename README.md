@@ -353,7 +353,7 @@ SEED INFO
 * [Зберегти](#зберегти)
 * [Asciinema](#asciinema)
 * [Моя збірка для Termux](#моя-збірка-для-termux)
-* [Видалити обліковий запис Telegram](#видалити-обліквий-запис-telegram)
+* [Видалити обліковий запис Telegram](#видалити-обліковий-запис-telegram)
 ***
 # Asciinema (OSINT)
 [![asciicast](https://asciinema.org/a/741021.svg)](https://asciinema.org/a/741021)
