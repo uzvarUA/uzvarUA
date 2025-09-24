@@ -1,3 +1,5 @@
+- [x] [Мій зміст](#мій-зміст)
+***
 ***Для себе панорама***
 ```bash
 #!/data/data/com.termux/files/usr/bin/bash
@@ -351,6 +353,7 @@ SEED INFO
 * [Зберегти](#зберегти)
 * [Asciinema](#asciinema)
 * [Моя збірка для Termux](#моя-збірка-для-termux)
+* [Видалити обліковий запис Telegram](#видалити-обліквий-запис-telegram)
 ***
 # Asciinema (OSINT)
 [![asciicast](https://asciinema.org/a/741021.svg)](https://asciinema.org/a/741021)
@@ -857,6 +860,7 @@ termux-setup-storage
 cd $HOME/storage/shared
 ```
 ***
+# Видалити обліковий запис Telegram
 - [Видалити обліковий запис Telegram](https://my.telegram.org/auth?to=delete)
 ***
 Щоб встановити Grip у Termux — тобто сервер для локального перегляду Markdown-файлів у стилі GitHub — тобі знадобиться Python та pip. Ось покрокова інструкція, адаптована для Termux:
