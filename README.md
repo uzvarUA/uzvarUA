@@ -105,64 +105,6 @@ For more information on Whois status codes, please visit https://icann.org/epp
 Terms of Use: Access to Public Interest Registry WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the Public Interest Registry registry database. The data in this record is provided by Public Interest Registry for informational purposes only, and Public Interest Registry does not guarantee its accuracy. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Identity Digital except as reasonably necessary to register domain names or modify existing registrations. All rights reserved. Public Interest Registry reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.  The Registrar of Record identified in this output may have an RDDS service that can be queried for additional information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
 ```
 ***
-***WHOIS***
-```bash
-#!/data/data/com.termux/files/usr/bin/bash
-set -euo pipefail
-
-command -v whois >/dev/null 2>&1 || {
-  echo "❌ whois не знайдено. Встанови його через: pkg install whois"
-  exit 1
-}
-
-
-# 🛡️ UzvarUA WHOIS Lookup Module
-# 📦 Автор: Роббі & Copilot
-# 🕒 Версія: v1.0
-
-clear
-echo -e "\n🌐 WHOIS Lookup — UzvarUA Style"
-echo -e "🔍 Введи домен для аналізу (наприклад: github.com):"
-
-read -r domain || {
-  echo "Не зміг прочитати домен"
-  exit 1
-}
-
-[[ -z "$domain" ]] && {
-  echo "Не домен не може бути порожнім"
-  exit 1
-}
-
-echo -e "\n📡 Виконується WHOIS-запит для: $domain\n"
-whois_output=$(whois "$domain")
-
-# 🧠 Витягуємо дату створення
-creation_date=$(echo "$whois_output" | grep -iE 'Creation Date:' | head -n 1 | awk '{print $NF}')
-
-# 🧠 Функція форматування дати
-format_date() {
-  date -d "$1" '+%Y-%m-%d %H:%M:%S' 2>/dev/null || echo "$1"
-}
-
-# 📄 Створюємо Markdown-звіт
-report="uzvar-whois-$domain.md"
-{
-  echo "# 🌐 WHOIS Звіт: $domain"
-  echo "- 📅 Дата створення: \`$(format_date "$creation_date")\`"
-  echo "- 🕵️‍♂️ Витягнуто: \`$(date '+%Y-%m-%d %H:%M:%S')\`"
-  echo "- 🧰 Інструмент: UzvarUA Whois Lookup"
-  echo ""
-  echo "## 🔍 Повний WHOIS:"
-  echo '```'
-  echo "$whois_output"
-  echo '```'
-} > "$report"
-
-echo -e "\n✅ Звіт збережено у: $report"
-echo -e "📖 Переглянь його у Markdown-редакторі або через \`cat $report\`\n"
-```
-***
 ***Для себе панорама***
 ```bash
 #!/data/data/com.termux/files/usr/bin/bash
