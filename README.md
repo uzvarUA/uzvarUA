@@ -1,5 +1,79 @@
 - [x] [Мій зміст](#мій-зміст)
 ***
+# 📋 WHOIS lookup
+```bash
+#!/data/data/com.termux/files/usr/bin/bash
+set -euo pipefail
+
+python3 -c "import grip" 2>/dev/null || {
+  echo "⚠️ Модуль grip не знайдено. Встанови його через: pip install grip"
+  exit 1
+}
+
+command -v whois >/dev/null 2>&1 || {
+  echo "❌ whois не знайдено. Встанови його через: pkg install whois"
+  exit 1
+}
+
+
+# 🛡️ UzvarUA WHOIS Lookup Module
+# 📦 Автор: Роббі & Copilot
+# 🕒 Версія: v1.0
+
+clear
+echo -e "\n🌐 WHOIS Lookup — UzvarUA Style"
+echo -e "🔍 Введи домен для аналізу (наприклад: github.com):"
+
+read -r domain || {
+  echo "Не зміг прочитати домен"
+  exit 1
+}
+
+[[ -z "$domain" ]] && {
+  echo "Не домен не може бути порожнім"
+  exit 1
+}
+
+echo -e "\n📡 Виконується WHOIS-запит для: $domain\n"
+whois_output=$(whois "$domain")
+
+[[ -z "$whois_output" ]] && {
+  echo "❌ WHOIS-запит не повернув даних"
+  exit 1
+}
+
+# 🧠 Витягуємо дату створення
+creation_date=$(echo "$whois_output" | grep -iE 'Creation Date:' | head -n 1 | awk '{print $NF}')
+
+# 🧠 Функція форматування дати
+format_date() {
+  date -d "$1" '+%Y-%m-%d %H:%M:%S' 2>/dev/null || echo "$1"
+}
+
+# 📄 Створюємо Markdown-звіт
+report="uzvar-whois-$domain.md"
+{
+  echo "# 🌐 WHOIS Звіт: $domain"
+  echo "- 📅 Дата створення: \`$(format_date "$creation_date")\`"
+  echo "- 🕵️‍♂️ Витягнуто: \`$(date '+%Y-%m-%d %H:%M:%S')\`"
+  echo "- 🧰 Інструмент: UzvarUA Whois Lookup"
+  echo ""
+  echo "## 🔍 Повний WHOIS:"
+  echo '```'
+  echo "$whois_output"
+  echo '```'
+} > "$report"
+
+uzvar_ua() {
+  python3 -m grip "$report"
+}
+
+echo -e "\n✅ Звіт збережено у: $report"
+echo -e "📖 Переглянь його у Markdown-редакторі або через \`cat $report\`\n"
+uzvar_ua
+```
+
+***
 # 🌐 WHOIS Звіт: aternos.org
 - 📅 Дата створення: `2013-08-28 00:11:36`
 - 🕵️‍♂️ Витягнуто: `2025-09-27 17:54:03`
