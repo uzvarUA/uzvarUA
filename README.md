@@ -1938,11 +1938,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
-- [Як в Амстердамі чи Парижі: українці зможуть подорожувати з одним квитком по всій країні](https://fakty.ua/460217-kak-v-amsterdame-ili-parizhe-ukraincy-smogut-puteshestvovat-s-odnim-biletom-po-vsej-strane)
-- [Пекельна ніч: ворог бив ракетами та дронами по всій Україні &lpar;фото&rpar;](https://fakty.ua/460214-adskaya-noch-vrag-bil-raketami-i-dronami-po-vsej-ukraine-foto)
-- [У пресу просочилися подробиці: фанати Селени Гомес та Бенні Бланко схвильовані весіллям, що наближається](https://fakty.ua/460187-v-pressu-prosochilis-podrobnosti-fanaty-seleny-gomes-i-benni-blanko-vzvolnovany-priblizhayucshejsya-svadboj)
-- [Завжди мріяла: популярна шеф-кухарка вразила світлинами](https://fakty.ua/460200-vsegda-mechtala-populyarnaya-shef-povar-porazila-fotografiyami)
-- [Реактивний, але не всесильний: експерт розповів, у чому слабкість реактивних «Шахедів»](https://fakty.ua/460177-reaktivnyj-no-ne-vsesilnyj-ekspert-rasskazal-v-chem-slabost-reaktivnyh-shahedov)
+- [«Навіщо псувати собі нерви?»: «політичний бісексуал» Павлік відреагував на критику з боку Юрка Юрченка](https://fakty.ua/460990-zachem-portit-sebe-nervy-politicheskij-biseksual-pavlik-otreagiroval-na-kritiku-so-storony-yurka-yurchenko)
+- [Мадонна зізналася, що мало не наклала на себе руки: «Зовсім не бачила виходу»](https://fakty.ua/460987-madonna-priznalas-chto-chut-ne-pokonchila-s-soboj-sovsem-ne-videla-vyhoda)
+- [Міністр фінансів США накричав на Юлію Свириденко під час переговорів: ЗМІ оприлюднили подробиці](https://fakty.ua/460946-ministr-finansov-ssha-nakrichal-na-yuliyu-sviridenko-vo-vremya-peregovorov-smi-obnarodovali-podrobnosti)
+- [Амаль Клуні в міні-сукні з квітами підтримала чоловіка на прем’єрі його фільму «Джей Келлі»](https://fakty.ua/460973-amal-kluny-v-mini-plate-s-cvetami-podderzhala-muzhchinu-na-premere-ego-filma-quot-dzhej-kelli-quot)
+- [Інна Бєлєнь знялася у чуттєвій фотосесії з бойфрендом та присвятила йому зворушливий пост: як виглядає обранець «холостячки» &lpar;фото&rpar;](https://fakty.ua/460969-inna-belen-snyalas-v-chuvstvennoj-fotosessii-s-bojfrendom-i-posvyatila-emu-trogatelnyj-post-kak-vyglyadit-izbrannik-holostyachki-foto)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
