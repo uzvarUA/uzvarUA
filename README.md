@@ -7,7 +7,7 @@ set -euo pipefail
 echo "🌐 Перевірка дзеркал Termux..."
 termux-change-repo --list > mirror_list.txt
 
-BEST=$(grep 'ok' mirror_list.txt | head -n 1)
+BEST=$(grep 'ok' mirror_list.txt | head -n 1 || true)
 
 if [ -n "$BEST" ]; then
     echo "✅ Обрано: $BEST" | tee -a mirror_log.md
