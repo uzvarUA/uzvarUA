@@ -23,7 +23,7 @@ for file in sounds/uzvarua/*.ogg; do
   count=$((count + 1))
 
   # Додавання до sound_definitions.json
-  echo "  \"uzvarua.track_$name\": {" >> build/sounddefinitions.json
+  echo "  \"uzvarua.track_$name\": {" >> build/sound_definitions.json
   echo "    \"sounds\": [" >> build/sound_definitions.json
   echo "      {" >> build/sound_definitions.json
   echo "        \"name\": \"uzvarua/$name\"," >> build/sound_definitions.json
