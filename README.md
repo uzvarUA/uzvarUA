@@ -2,6 +2,7 @@
 ***
 ```bash
 #!/data/data/com.termux/files/usr/bin/bash
+set -euo pipefail
 
 # UzvarUA Music Generator v1.0 🎧
 # Автор: Ро́ббі
@@ -22,7 +23,7 @@ for file in sounds/uzvarua/*.ogg; do
   count=$((count + 1))
 
   # Додавання до sound_definitions.json
-  echo "  \"uzvarua.track$name\": {" >> build/sounddefinitions.json
+  echo "  \"uzvarua.track_$name\": {" >> build/sounddefinitions.json
   echo "    \"sounds\": [" >> build/sound_definitions.json
   echo "      {" >> build/sound_definitions.json
   echo "        \"name\": \"uzvarua/$name\"," >> build/sound_definitions.json
