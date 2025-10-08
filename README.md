@@ -1,5 +1,53 @@
 - [x] [Мій зміст](#мій-зміст)
 ***
+```bash
+#!/data/data/com.termux/files/usr/bin/bash
+
+# UzvarUA Music Generator v1.0 🎧
+# Автор: Ро́ббі
+
+echo "🎧 UzvarUA Music Generator запускається…"
+mkdir -p build/texts
+
+# Ініціалізація файлів
+echo '{ "format_version": "1.20.20",' > build/sound_definitions.json
+> build/texts/uk_UA.lang
+
+# Лічильник
+count=0
+
+# Обробка треків
+for file in sounds/uzvarua/*.ogg; do
+  name=$(basename "$file" .ogg)
+  count=$((count + 1))
+
+  # Додавання до sound_definitions.json
+  echo "  \"uzvarua.track$name\": {" >> build/sounddefinitions.json
+  echo "    \"sounds\": [" >> build/sound_definitions.json
+  echo "      {" >> build/sound_definitions.json
+  echo "        \"name\": \"uzvarua/$name\"," >> build/sound_definitions.json
+  echo "        \"stream\": true," >> build/sound_definitions.json
+  echo "        \"category\": \"record\"" >> build/sound_definitions.json
+  echo "      }" >> build/sound_definitions.json
+  echo "    ]" >> build/sound_definitions.json
+  echo "  }," >> build/sound_definitions.json
+
+  # Додавання до uk_UA.lang
+  echo "sound.uzvarua.track_$name=🎵 $name музика" >> build/texts/uk_UA.lang
+  echo "item.uzvarua.disc_$name.name=Платівка: $name" >> build/texts/uk_UA.lang
+done
+
+# Видалення останньої коми
+sed -i '$ s/},/}/' build/sound_definitions.json
+echo '}' >> build/sound_definitions.json
+
+# Лог завершення
+echo "✅ Згенеровано $count треків"
+echo "📁 Файли створено в build/:"
+echo " ├── sound_definitions.json"
+echo " └── texts/uk_UA.lang"
+```
+***
 ```
 povidom@suspilne.media
 ```
