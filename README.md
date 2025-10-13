@@ -1,3 +1,10 @@
+# Аддон з піснею «Мотанка»
+[Мотанка для версії Minecraft: Bedrock Edition 1.21.90](https://github.com/uzvarUA/junioreurovisiont-tv-addon-for-mcbe/releases/download/v1.0.0/Sofia_Nersesion_Motanka.mcaddon)
+Активувати
+```
+/function motanka
+```
+***
 - [x] [Мій зміст](#мій-зміст)
 - [x] [Укренерго](https://t.me/s/Ukrenergo)
 ***
