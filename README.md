@@ -1,6 +1,15 @@
+# Промт
+```
+You are a professional screenwriter creating a concept for a short fantasy adventure film for AI generation. 
+Create a captivating 5-scene story about a lonely medieval knight exploring a cave and encountering a massive sleeping dragon. 
+The story should focus on awe, curiosity, and tension of approaching something legendary — cinematic, majestic, and non-threatening. 
+For each scene, provide detailed visual descriptions for AI image generation: character appearance, lighting, environment, and camera style. 
+Also, include video animation directions describing camera movement and scene transitions to turn still images into video. 
+Each scene should last 5–6 seconds, focusing on visual storytelling, not complex dialogue.
+```
 # Аддон з піснею «Мотанка»
-[Мотанка для версії Minecraft: Bedrock Edition 1.21.90](https://github.com/uzvarUA/junioreurovisiont-tv-addon-for-mcbe/releases/download/v1.0.0/Sofia_Nersesion_Motanka.mcaddon)
-Активувати
+[Мотанка для версії Minecraft: Bedrock Edition 1.21.90](https://github.com/uzvarUA/junioreurovisiont-tv-addon-for-mcbe/releases/download/v1.0.0/Sofia_Nersesion_Motanka.mcaddon) <br>
+Активувати 
 ```
 /function motanka
 ```
