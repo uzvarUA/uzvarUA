@@ -1,4 +1,7 @@
 ```javascript
+import "peworldhello.js";
+```
+```javascript
 import {world, system} from "@minecraft/server";
 import {ActionFormData, ActionFormResponse} from "@minecraft/server-ui";
 
