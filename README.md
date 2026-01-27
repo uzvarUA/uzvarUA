@@ -2096,11 +2096,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
-- [«Навіщо псувати собі нерви?»: «політичний бісексуал» Павлік відреагував на критику з боку Юрка Юрченка](https://fakty.ua/460990-zachem-portit-sebe-nervy-politicheskij-biseksual-pavlik-otreagiroval-na-kritiku-so-storony-yurka-yurchenko)
-- [Мадонна зізналася, що мало не наклала на себе руки: «Зовсім не бачила виходу»](https://fakty.ua/460987-madonna-priznalas-chto-chut-ne-pokonchila-s-soboj-sovsem-ne-videla-vyhoda)
-- [Міністр фінансів США накричав на Юлію Свириденко під час переговорів: ЗМІ оприлюднили подробиці](https://fakty.ua/460946-ministr-finansov-ssha-nakrichal-na-yuliyu-sviridenko-vo-vremya-peregovorov-smi-obnarodovali-podrobnosti)
-- [Амаль Клуні в міні-сукні з квітами підтримала чоловіка на прем’єрі його фільму «Джей Келлі»](https://fakty.ua/460973-amal-kluny-v-mini-plate-s-cvetami-podderzhala-muzhchinu-na-premere-ego-filma-quot-dzhej-kelli-quot)
-- [Інна Бєлєнь знялася у чуттєвій фотосесії з бойфрендом та присвятила йому зворушливий пост: як виглядає обранець «холостячки» &lpar;фото&rpar;](https://fakty.ua/460969-inna-belen-snyalas-v-chuvstvennoj-fotosessii-s-bojfrendom-i-posvyatila-emu-trogatelnyj-post-kak-vyglyadit-izbrannik-holostyachki-foto)
+- [Все висить на волосині: чому на Полтавщині відмовляються від дизельних генераторів та як рятують область від блекауту](https://fakty.ua/466500-vse-visit-na-voloske-pochemu-na-poltavcshine-otkazyvayutsya-ot-dizelnyh-generatorov-i-chto-delayut-dlya-energonezavisimosti)
+- [В Україні через негоду знеструмлено сотні населених пунктів та багатогодинні затримки поїздів](https://fakty.ua/466514-v-ukraine-iz-za-nepogody-obestocheny-sotni-naselennyh-punktov-i-mnogochasovye-zaderzhki-poezdov)
+- [Бої за Донеччину загострюються: росіяни на Покровському напрямку відновлюють свої позиції](https://fakty.ua/466507-boi-za-doneckuyu-oblast-obostryayutsya-rossiyane-na-pokrovskom-napravlenii-vosstanavlivayut-svoi-pozicii)
+- [«Дім — це стан душі»: українська співачка презентувала новий емоційний трек](https://fakty.ua/466482-dom-eto-sostoyanie-dushi-ukrainskaya-pevica-predstavila-novyj-emocionalnyj-trek)
+- [Зеленський анонсував нові тристоронні переговори](https://fakty.ua/466510-zelenskij-anonsiroval-novye-trehstoronnie-peregovory)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
