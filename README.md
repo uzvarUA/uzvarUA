@@ -1,3 +1,101 @@
+# Для опису YouTube
+```
+НЕ ОФІЦІЙНИЙ MINECRAFT [ВІДЕО]. НЕ ЗАТВЕРДЖЕНО АБО НЕ ПОВ’ЯЗАНО З MOJANG АБО MICROSOFT
+
+pe-world: https://play.google.com/store/apps/details?id=peworld.launcher
+Відео про Minecraft Bedrock Edition, як німе кіно, авторства каналу "Узвар" надається за ліцензією Creative Commons CC BY 4.0.
+
+Джерело: https://www.youtube.com/@uzvar_ua
+
+Завантажити тут: https://linktr.ee/minecraft_bedrock
+Стримінг: https://t.me/uzvar_ua_live?livestream
+Біблія - OSINT: https://t.me/bible_osint_ua
+Telegram: https://t.me/uzvarua
+Shizuku: https://shizuku.rikka.app/download/
+Planet Minecraft: https://www.planetminecraft.com/project/forestry-npc-number-42/
+LSpath: https://github.com/LSPosed/LSPatch
+Lucky Patcher: https://www.luckypatchers.com/download/
+Лісництво NPC номер 42: https://linktr.ee/Forestry_NPC_number_42
+Clone Minecraft Bedrock Edition: https://linktr.ee/cloneminecraftbedrockedition
+
+© Мої облікові записи: 
+Я у Mastodon -  https://masto.ink/@uzvar
+My Little Pony: Love: https://t.me/mylittleponylove_ua
+
+Мій стікерпак-мерч: https://t.me/addstickers/zeqamerch
+
+IP: Zeqa.net
+Port 19132
+
+Завантажити із GitHub:  https://github.com/uzvarUA/uzvarUA.github.io/releases
+
+Addoncraft: https://github.com/uzvarUA/Addoncraft/releases
+Xda forums: https://xdaforums.com/m/uzvar_ua.12700623/
+
+
+Прошивка Sumsung: https://linktr.ee/uzvar
+
+
+
+Мій Xbox:
+Нік: RobyIvanov62
+
+Петиція проти репаків gpg4win: https://chng.it/Gc6tsrYrvH
+
+Мій Network ID:
+e4da7455b244db63 (Резерв)
+Window 10 Home: https://sites.google.com/view/windows-10-home-scrcpy
+
+IP: Uzvarua.aternos.me
+port: 56773
+Тільки для Minecraft Bedrock edition (PE)
+
+Мої посилання:
+Robbyivashx8UA: https://bit.ly/m/Robbyivashx8UA
+linktree: https://linktr.ee/robby.ivash.x8
+PEWORLD: https://www.guilded.gg/r/zzWEr8pKZR?i=mM6ML6rA
+Завантажити ZeroTier One із 4pda: 
+https://4pda.to/forum/index.php?showtopic=986276
+Сценарій: https://www.guilded.gg/r/zz4R5aYNkR?i=mM6ML6rA (Резерв)
+Сценарій: https://discord.gg/MFf6QwFjNZ
+Uzvar_ua: 
+https://www.guilded.gg/u/uzvarua
+
+Minecraft Patched: https://www.mediafire.com/folder/4xah1u3oylpva/Minecraft+Patched
+
+_Для прямих ефірів я використовую дві програми:
+xrecorder mod_: https://liteapks.com/xrecorder.html 
+_overlays mod_:  https://5mod.ru/programmy/rabota/914-overlays-floating-apps-automation.html
+pe-arm64-v8a-world: https://sites.google.com/view/pe-arm64-v8a-world
+Діскорд: https://discord.gg/4Cfqrq9UZm
+
+Генератор міста: https://randomall.ru/fantasy_town
+Генератор ідеї: https://randomall.ru/plot
+
+
+
+Інформація, яка може вас цікавити:
+Мій пристрій (Плашшет): PIXUS_JOKER, знімаю та монтую відео тільки на ньому.
+Моя програма для запису «Recorder (by Kimcy929)»
+Монтую в PowerDirector (Mod)
+Лаунчер Хорайзон
+Моя анімація: Mine-imator
+Фото редактор: GIMP
+
+Прев'ю матеріали, які використовуються в даному відеоролику, не створені безпосередньо каналом «Узвар», взяті із сайту pixabay.com.
+Pixabay License: Безкоштовно для комерційного використання. Вказівка авторства не потрібна. https://pixabay.com/ru/service/license/
+
+
+Звукові ефекти беру із https://www.findsounds.com/mobile.html
+
+
+CPA: https://bit.ly/45A6tI4
+
+#Minecraft #Xbox #Minecraft #Uzvar_ua #minecraft_pe
+
+00:00 Узвар
+```
+
 # Для себе
 [PE-WORLD](https://github.com/uzvarUA/uzvarUA/releases/tag/PE-WORLD)
 ___
