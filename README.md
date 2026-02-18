@@ -1,3 +1,5 @@
+# Мій секрет
+[APLOK GUNS](https://github.com/uzvarUA/secret/releases/download/v1.0.0/Secret-v1.0.0.mcaddon)
 # Для опису YouTube
 ```
 НЕ ОФІЦІЙНИЙ MINECRAFT [ВІДЕО]. НЕ ЗАТВЕРДЖЕНО АБО НЕ ПОВ’ЯЗАНО З MOJANG АБО MICROSOFT
