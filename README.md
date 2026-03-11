@@ -1,3 +1,7 @@
+# Google play store
+```
+com.android.vending
+```
 # Нова моя збірка
 [Нова моя збірка](https://github.com/uzvarUA/uzvarUA/releases/download/forestryNPCnumber42-26.0.3/forestryNPCnumber42_26.0.2.mcaddon)
 # Мій секрет
