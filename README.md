@@ -1,3 +1,5 @@
+# Мій telegram канал:
+[https://t.me/uzvarinvirovoice](https://t.me/uzvarinvirovoice)
 # UAkino
 [Завантажити](https://github.com/uzvarUA/uzvarUA/releases/download/UAkino/UAKino.apk)
 ___
