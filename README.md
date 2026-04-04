@@ -1,3 +1,6 @@
+# Мій блог:
+[https://news-of-robby.blogspot.com/](https://news-of-robby.blogspot.com/)
+___
 # Мій telegram канал:
 [https://t.me/uzvarinvirovoice](https://t.me/uzvarinvirovoice)
 # UAkino
