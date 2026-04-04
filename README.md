@@ -1,3 +1,6 @@
+ ***Я користуюсь застосунком Notely Voice: AI Voice to Text***
+ [https://f-droid.org/packages/com.module.notelycompose.android/](https://f-droid.org/packages/com.module.notelycompose.android/)
+___
 # Мій блог:
 [https://news-of-robby.blogspot.com/](https://news-of-robby.blogspot.com/)
 ___
