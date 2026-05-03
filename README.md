@@ -1,3 +1,7 @@
+# Google Play Store
+## Після добавлення ШІ, яка не розуміє архітектуру процесора.
+Краще завантажити із [GitHub Releases](https://github.com/uzvarUA/uzvarUA/releases/tag/ai-apps)
+___
 # 📥 Встановлення власної моделі у MLC Chat (Android)
 
 ## 🔧 Кроки
