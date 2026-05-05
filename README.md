@@ -2377,11 +2377,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [53-річна Камерон Діас стала матір’ю втретє](https://fakty.ua/471330-53-letnyaya-kameron-dias-stala-materyu-v-tretij-raz)
 - [Повітряні сили України вперше показали свій новий зенітно-ракетний комплекс STASH](https://fakty.ua/471350-vozdushnye-sily-ukrainy-vpervye-pokazali-svoj-novyj-zenitno-raketnyj-kompleks-stash)
 - [«В жизні нє такая»: Єфросиніна іронічно відповіла на гучні звинувачення](https://fakty.ua/471289-v-zhizni-ne-takaya-efrosinina-ironichno-otvetila-na-gromkie-obvineniya)
 - [Порушення презумпції невинуватості: ЗМІ про «справу» Галущенка](https://fakty.ua/471386-narushenie-prezumpcii-nevinovnosti-smi-o-dele-galucshenko)
 - [Яка трагедія: Потап зворушливо звернувся до своєї колишньої](https://fakty.ua/471369-kakaya-tragediya-potap-trogatelno-obratilsya-k-svoej-byvshej)
-- [Нарешті є сенс: фанати «Євробачення» відреагували на новину](https://fakty.ua/471366-nakonec-to-est-smysl-fanaty-evrovideniya-otreagirovali-na-novost)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
