@@ -22,9 +22,7 @@
 \
 *   Перехід на /e/OS може бути не таким простим, як перехід на іншу версію Android.
 *   Не всі телефони сумісні з /e/OS. 
-*   Деякі програми можуть не працювати, оскільки вони розроблені для Google Services.
-\
-Ви можете знайти більше інформації про /e/OS на їхньому офіційному сайті: [https://eelo.com/](https://eelo.com/)
+*   Деякі програми можуть не працювати, оскільки вони розроблені для Google Services. <br><br>
 [GitHub Releases](https://github.com/uzvarUA/uzvarUA/releases/tag/e-os-ai)
 
 # Google Play Store
