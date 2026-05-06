@@ -2377,11 +2377,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [росія зірвала «режим тиші» у перші хвилини після оголошення](https://fakty.ua/471395-rossiya-sorvala-rezhim-tishiny-v-pervye-minuty-posle-obyavleniya)
+- [Вибухи і зруйновані будинки, загиблі та десятки поранених: росія накрила Україну хвилею атак](https://fakty.ua/471394-vzryvy-i-razrushennye-doma-pogibshie-i-desyatki-ranenyh-rossiya-nakryla-ukrainu-volnoj-atak)
 - [53-річна Камерон Діас стала матір’ю втретє](https://fakty.ua/471330-53-letnyaya-kameron-dias-stala-materyu-v-tretij-raz)
 - [Повітряні сили України вперше показали свій новий зенітно-ракетний комплекс STASH](https://fakty.ua/471350-vozdushnye-sily-ukrainy-vpervye-pokazali-svoj-novyj-zenitno-raketnyj-kompleks-stash)
 - [«В жизні нє такая»: Єфросиніна іронічно відповіла на гучні звинувачення](https://fakty.ua/471289-v-zhizni-ne-takaya-efrosinina-ironichno-otvetila-na-gromkie-obvineniya)
-- [Порушення презумпції невинуватості: ЗМІ про «справу» Галущенка](https://fakty.ua/471386-narushenie-prezumpcii-nevinovnosti-smi-o-dele-galucshenko)
-- [Яка трагедія: Потап зворушливо звернувся до своєї колишньої](https://fakty.ua/471369-kakaya-tragediya-potap-trogatelno-obratilsya-k-svoej-byvshej)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
