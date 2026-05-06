@@ -2377,11 +2377,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [«Це все про нас»: відома акторка чуттєво звернулася до чоловіка &lpar;фото&rpar;](https://fakty.ua/471415-eto-vse-o-nas-izvestnaya-aktrisa-chuvstvenno-obratilas-k-muzhu-foto)
 - [900 км від фронту: українські «Фламінго» паралізували виробництво російських ракет і дронів](https://fakty.ua/471408-900-km-ot-fronta-ukrainskie-flamingo-paralizovali-proizvodstvo-rossijskih-raket-i-dronov)
 - [росія зірвала «режим тиші» у перші хвилини після оголошення](https://fakty.ua/471395-rossiya-sorvala-rezhim-tishiny-v-pervye-minuty-posle-obyavleniya)
 - [Вибухи і зруйновані будинки, загиблі та десятки поранених: росія накрила Україну хвилею атак](https://fakty.ua/471394-vzryvy-i-razrushennye-doma-pogibshie-i-desyatki-ranenyh-rossiya-nakryla-ukrainu-volnoj-atak)
 - [53-річна Камерон Діас стала матір’ю втретє](https://fakty.ua/471330-53-letnyaya-kameron-dias-stala-materyu-v-tretij-raz)
-- [Повітряні сили України вперше показали свій новий зенітно-ракетний комплекс STASH](https://fakty.ua/471350-vozdushnye-sily-ukrainy-vpervye-pokazali-svoj-novyj-zenitno-raketnyj-kompleks-stash)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
