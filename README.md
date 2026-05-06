@@ -2377,11 +2377,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Україна показала ракету FP-5 Flamingo із вражаючою дальністю](https://fakty.ua/471452-ukraina-pokazala-raketu-fp-5-flamingo-s-porazitelnoj-dalnostyu)
+- [Зброя, продукти та ліки: експерт розповів, чим білорусь допомагає окупантам](https://fakty.ua/471399-oruzhie-produkty-i-lekarstva-ekspert-rasskazal-chem-belarus-pomogaet-okkupantam)
 - [Інцидент із інкасаторами вичерпано: Угорщина повернула кошти та цінності Ощадбанку](https://fakty.ua/471444-incident-s-inkassatorami-ischerpan-vengriya-vernula-sredstva-i-cennosti-ocshadbanka)
 - [«Не дратуйте»: у мережі звернулися до відомого актора &lpar;фото&rpar;](https://fakty.ua/471427-ne-razdrazhajte-v-seti-obratilis-k-izvestnomu-akteru-foto)
 - [Клуні шокував заявою про завершення кар’єри в кіно](https://fakty.ua/471379-kluni-shokiroval-zayavleniem-o-zavershenii-karery-v-kino)
-- [Красень, розумник і справжній партнер: Камалія поділилася особистою новиною &lpar;фото&rpar;](https://fakty.ua/471419-krasavec-umnik-i-nastoyacshij-partner-kamaliya-podelilas-lichnoj-novostyu-foto)
-- [Відомий український співак розкрив всю правду про Тіну Кароль](https://fakty.ua/471376-izvestnyj-ukrainskij-pevec-raskryl-vsyu-pravdu-o-tine-karol)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
