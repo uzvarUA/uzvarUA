@@ -2377,11 +2377,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Схожа на татка: мережа у захваті від дітей відомої фітнес-тренерки](https://fakty.ua/471475-pohozha-na-papu-set-v-vostorge-ot-detej-izvestnogo-fitnes-trenera)
+- [Дружина Річарда Гіра вперше показала рідкісні фото з коханим, яких ще не бачили &lpar;фото&rpar;](https://fakty.ua/471457-zhena-richarda-gira-vpervye-pokazala-redkie-fotografii-s-lyubimym-kotoryh-ecshe-nikto-ne-videl-foto)
+- [Рух «Чесна мобілізація» розповів, чому досі не в армії відомі журналісти, — ЗМІ](https://fakty.ua/471489-dvizhenie-chestnaya-mobilizaciya-rasskazalo-pochemu-do-sih-por-ne-v-armii-izvestny-zhurnalisty---smi)
 - [Можу нарешті розповісти: учасниця «Євробачення-2026» вразила новиною](https://fakty.ua/471473-mogu-nakonec-rasskazat-uchastnica-evrovideniya-2026-porazila-novostyu)
 - [Ротару відмовилась від концертів і великих грошей: що відомо](https://fakty.ua/471352-rotaru-otkazalas-ot-koncertov-i-bolshih-deneg-chto-izvestnorotaru-otkazalas-ot-koncertov-i-bolshih-deneg-chto-izvestno)
-- [«У відповідь на російські удари — наші далекобійні санкції»: Зеленський нагадав росіянам про «дзеркальний порядок»](https://fakty.ua/471481-v-otvet-na-rossijskie-udary---nashi-dalnobojnye-sankcii-zelenskij-napomnil-rossiyanam-o-zerkalnom-poryadke)
-- [Ворог спеціально б’є по АЗС: Сергій «Флеш» Бескрестнов попередив про нову тактику ворога та протидію їй](https://fakty.ua/471430-vrag-specialno-bet-po-azs-sergej-flesh-beskretnov-predupredil-o-novoj-taktike-vraga-i-protivodejstvii-ej)
-- [«Ми не витримали»: популярна блогерка та учасниця «МайстерШефа» залишила Україну](https://fakty.ua/471470-my-ne-vyderzhali-populyarnaya-blogersha-i-uchastnica-mastershefa-pokinula-ukrainu)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
