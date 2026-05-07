@@ -2377,11 +2377,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [«Ми не витримали»: популярна блогерка та учасниця «МайстерШефа» залишила Україну](https://fakty.ua/471470-my-ne-vyderzhali-populyarnaya-blogersha-i-uchastnica-mastershefa-pokinula-ukrainu)
+- [«Причина націоналізації „Сенс Банку“ — загроза фінансовій стабільності та інтересам вкладників», — НБУ](https://fakty.ua/471469-prichina-nacionalizacii-quot-sens-banka-quot-ugroza-finansovoj-stabilnosti-i-interesam-vkladchikov---nbu)
 - [У Дніпрі горіли автомобілі та багатоквартирні будинки після нічного удару росіян &lpar;фото відео&rpar;](https://fakty.ua/471459-v-dnepre-goreli-avtomobili-i-mnogokvartirnye-doma-posle-nochnogo-udara-rossiyan-foto-video)
 - [Справа про нетверезе водіння: Брітні Спірс пішла на угоду зі слідством, щоб не потрапити за ґрати](https://fakty.ua/471410-delo-o-netrezvom-vozhdenii-britni-spirs-poshla-na-sdelku-so-sledstviem-chtoby-ne-popast-za-reshetku)
 - [Україна показала ракету FP-5 Flamingo із вражаючою дальністю](https://fakty.ua/471452-ukraina-pokazala-raketu-fp-5-flamingo-s-porazitelnoj-dalnostyu)
-- [Зброя, продукти та ліки: експерт розповів, чим білорусь допомагає окупантам](https://fakty.ua/471399-oruzhie-produkty-i-lekarstva-ekspert-rasskazal-chem-belarus-pomogaet-okkupantam)
-- [Інцидент із інкасаторами вичерпано: Угорщина повернула кошти та цінності Ощадбанку](https://fakty.ua/471444-incident-s-inkassatorami-ischerpan-vengriya-vernula-sredstva-i-cennosti-ocshadbanka)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
