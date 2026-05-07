@@ -2377,11 +2377,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Можу нарешті розповісти: учасниця «Євробачення-2026» вразила новиною](https://fakty.ua/471473-mogu-nakonec-rasskazat-uchastnica-evrovideniya-2026-porazila-novostyu)
+- [Ротару відмовилась від концертів і великих грошей: що відомо](https://fakty.ua/471352-rotaru-otkazalas-ot-koncertov-i-bolshih-deneg-chto-izvestnorotaru-otkazalas-ot-koncertov-i-bolshih-deneg-chto-izvestno)
+- [«У відповідь на російські удари — наші далекобійні санкції»: Зеленський нагадав росіянам про «дзеркальний порядок»](https://fakty.ua/471481-v-otvet-na-rossijskie-udary---nashi-dalnobojnye-sankcii-zelenskij-napomnil-rossiyanam-o-zerkalnom-poryadke)
+- [Ворог спеціально б’є по АЗС: Сергій «Флеш» Бескрестнов попередив про нову тактику ворога та протидію їй](https://fakty.ua/471430-vrag-specialno-bet-po-azs-sergej-flesh-beskretnov-predupredil-o-novoj-taktike-vraga-i-protivodejstvii-ej)
 - [«Ми не витримали»: популярна блогерка та учасниця «МайстерШефа» залишила Україну](https://fakty.ua/471470-my-ne-vyderzhali-populyarnaya-blogersha-i-uchastnica-mastershefa-pokinula-ukrainu)
-- [«Причина націоналізації „Сенс Банку“ — загроза фінансовій стабільності та інтересам вкладників», — НБУ](https://fakty.ua/471469-prichina-nacionalizacii-quot-sens-banka-quot-ugroza-finansovoj-stabilnosti-i-interesam-vkladchikov---nbu)
-- [У Дніпрі горіли автомобілі та багатоквартирні будинки після нічного удару росіян &lpar;фото відео&rpar;](https://fakty.ua/471459-v-dnepre-goreli-avtomobili-i-mnogokvartirnye-doma-posle-nochnogo-udara-rossiyan-foto-video)
-- [Справа про нетверезе водіння: Брітні Спірс пішла на угоду зі слідством, щоб не потрапити за ґрати](https://fakty.ua/471410-delo-o-netrezvom-vozhdenii-britni-spirs-poshla-na-sdelku-so-sledstviem-chtoby-ne-popast-za-reshetku)
-- [Україна показала ракету FP-5 Flamingo із вражаючою дальністю](https://fakty.ua/471452-ukraina-pokazala-raketu-fp-5-flamingo-s-porazitelnoj-dalnostyu)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
