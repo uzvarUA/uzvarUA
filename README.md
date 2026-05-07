@@ -2377,11 +2377,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Покинув вагітну заради коханки: Білан вперше розповіла про зраду Ращука](https://fakty.ua/471446-brosil-beremennuyu-radi-lyubovnicy-bilan-vpervye-rasskazala-ob-izmene-racshuka)
+- [Знову сльози: популярний гурт вразив потужною роботою](https://fakty.ua/471477-snova-slezy-populyarnaya-gruppa-porazila-mocshnoj-rabotoj)
+- [ЗМІ публікують прізвища до оголошення підозри: Броневицький про системні витоки у НАБУ та САП](https://fakty.ua/471498-smi-publikuyut-familii-do-obyavleniya-podozreniya-bronevickij-o-sistemnyh-utechkah-v-nabu-i-sap)
 - [Схожа на татка: мережа у захваті від дітей відомої фітнес-тренерки](https://fakty.ua/471475-pohozha-na-papu-set-v-vostorge-ot-detej-izvestnogo-fitnes-trenera)
 - [Дружина Річарда Гіра вперше показала рідкісні фото з коханим, яких ще не бачили &lpar;фото&rpar;](https://fakty.ua/471457-zhena-richarda-gira-vpervye-pokazala-redkie-fotografii-s-lyubimym-kotoryh-ecshe-nikto-ne-videl-foto)
-- [Рух «Чесна мобілізація» розповів, чому досі не в армії відомі журналісти, — ЗМІ](https://fakty.ua/471489-dvizhenie-chestnaya-mobilizaciya-rasskazalo-pochemu-do-sih-por-ne-v-armii-izvestny-zhurnalisty---smi)
-- [Можу нарешті розповісти: учасниця «Євробачення-2026» вразила новиною](https://fakty.ua/471473-mogu-nakonec-rasskazat-uchastnica-evrovideniya-2026-porazila-novostyu)
-- [Ротару відмовилась від концертів і великих грошей: що відомо](https://fakty.ua/471352-rotaru-otkazalas-ot-koncertov-i-bolshih-deneg-chto-izvestnorotaru-otkazalas-ot-koncertov-i-bolshih-deneg-chto-izvestno)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
