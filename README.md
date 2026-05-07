@@ -2377,11 +2377,11 @@ LLC "ANTYTILA" (або ТОВ "АНТИТІЛА") — це юридична ос
 # Новини
 ## Єдині новини
 <!-- BLOG-POST-LIST:START -->
+- [Балтія під прицілом: як росія розгойдує тему вторгнення та тестує реакцію НАТО](https://fakty.ua/471434-baltiya-pod-pricelom-kak-rossiya-raskachivaet-temu-vtorzheniya-i-testiruet-reakciyu-nato)
 - [Покинув вагітну заради коханки: Білан вперше розповіла про зраду Ращука](https://fakty.ua/471446-brosil-beremennuyu-radi-lyubovnicy-bilan-vpervye-rasskazala-ob-izmene-racshuka)
 - [Знову сльози: популярний гурт вразив потужною роботою](https://fakty.ua/471477-snova-slezy-populyarnaya-gruppa-porazila-mocshnoj-rabotoj)
 - [ЗМІ публікують прізвища до оголошення підозри: Броневицький про системні витоки у НАБУ та САП](https://fakty.ua/471498-smi-publikuyut-familii-do-obyavleniya-podozreniya-bronevickij-o-sistemnyh-utechkah-v-nabu-i-sap)
 - [Схожа на татка: мережа у захваті від дітей відомої фітнес-тренерки](https://fakty.ua/471475-pohozha-na-papu-set-v-vostorge-ot-detej-izvestnogo-fitnes-trenera)
-- [Дружина Річарда Гіра вперше показала рідкісні фото з коханим, яких ще не бачили &lpar;фото&rpar;](https://fakty.ua/471457-zhena-richarda-gira-vpervye-pokazala-redkie-fotografii-s-lyubimym-kotoryh-ecshe-nikto-ne-videl-foto)
 <!-- BLOG-POST-LIST:END -->
 # Як створити слайд-шоу за допомогою штучного інтелекту
 `промпт`:
