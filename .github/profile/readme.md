@@ -20,10 +20,5 @@
 
 ---
 
-## 📊 Статистика
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=uzvarua&show_icons=true&theme=radical)
-
----
-
 ## 📫 Контакти
 - Mastodon: [@uzvarua](https://mastodon.ink/@uzvarua)  
