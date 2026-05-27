@@ -1,4 +1,5 @@
-
+[keepandroidopen.org](https://keepandroidopen.org/uk/)
+___
 
 # Unicode шпаргалка для українських літер у JSON
 
