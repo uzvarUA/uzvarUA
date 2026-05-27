@@ -1,5 +1,5 @@
 
-<script src="https://keepandroidopen.org/banner.js"></script>
+
 # Unicode шпаргалка для українських літер у JSON
 
 ## Великі літери (А–Я)
