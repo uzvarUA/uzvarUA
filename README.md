@@ -19,9 +19,9 @@
 
 ## 🌐 Контакти
 **XMPP канал:**  
-[silent-frame@conference.xmpp.jp](xmpp:silent-frame@conference.xmpp.jp) \
+[silent-frame@conference.xmpp.jp](xmpp:silent-frame@conference.xmpp.jp?join) \
 **XMPP канал:** \
-[silent-frame@conference.talks.in.ua](xmpp:silent-frame@conference.talks.in.ua)
+[silent-frame@conference.talks.in.ua](xmpp:silent-frame@conference.talks.in.ua?join)
 
 ---
 ## 🛠️ Для чого обмеження в параметрах розробника Android 17?
