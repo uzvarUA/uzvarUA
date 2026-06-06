@@ -19,7 +19,7 @@
 
 ## 🌐 Контакти
 **XMPP канал:**  
-[silent-frame@conference.xmpp.jp](xmpp:silent-frame@conference.xmpp.jp)
+[silent-frame@conference.xmpp.jp](xmpp:silent-frame@conference.xmpp.jp) <br>
 **XMPP канал:**
 [silent-frame@conference.talks.in.ua](xmpp:silent-frame@conference.talks.in.ua)
 
