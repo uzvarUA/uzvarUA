@@ -18,9 +18,10 @@
 ---
 
 ## 🌐 Контакти
-**XMPP канал:**  
+**XMPP канал:** \
 [silent-frame@conference.xmpp.jp](xmpp:silent-frame@conference.xmpp.jp?join) \
 **XMPP канал:** \
-[silent-frame@conference.talks.in.ua](xmpp:silent-frame@conference.talks.in.ua?join)
-
+[silent-frame@conference.talks.in.ua](xmpp:silent-frame@conference.talks.in.ua?join) \
+**XMPP канал:** \
+[silent-frame@conference.chatter.com.ua](xmpp:silent-frame@conference.chatter.com.ua?join)
 ---
