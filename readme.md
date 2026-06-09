@@ -1,3 +1,9 @@
+# Королева Ембер Прекрасна
+**XMPP канал:** \
+[amber-the-first@conference.conversations.im](xmpp:amber-the-first@conference.conversations.im?join)
+
+---
+
 # 🎬 Мовчазний Кадр
 
 > Студія у стилі німого кіно, де кожен кадр промовляє мовою світла й тіні.
