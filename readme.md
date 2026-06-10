@@ -32,7 +32,8 @@
 
 Хор (урочисто):  
 — Королева Ембер Прекрасна!
-```  
+```
+
 # Королева Ембер Прекрасна
 **XMPP канал:** \
 [amber-the-first@conference.conversations.im](xmpp:amber-the-first@conference.conversations.im?join)
