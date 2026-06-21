@@ -4,6 +4,10 @@
 ```
 
 ---
+**XMPP канал** \
+[Minecraft Bedrock Edition Hardcore](xmpp:minecraft-bedrock-edition-hardcore@conference.conversations.im?join)
+
+---
 [завантажити](https://github.com/uzvarUA/uzvarUA/releases/tag/v1.26.30)
 
 ---
