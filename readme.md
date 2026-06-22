@@ -1,3 +1,8 @@
+**Резевр** \
+[Forestry NPC number 42](xmpp:forestry-npc-number-42@conference.conversations.im?join)
+
+---
+
 # Seeds:
 ```
 -5749001512426379578
