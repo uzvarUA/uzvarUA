@@ -1,3 +1,5 @@
+**PE-world** \
+[PE-world](xmpp:pe-world@conference.conversations.im?join) \
 **Резевр** \
 [Forestry NPC number 42](xmpp:forestry-npc-number-42@conference.conversations.im?join)
 
