@@ -7,7 +7,8 @@
 
 # Зйомки
 **world template** \
-[World template](xmpp:world-template-mcbe@conference.conversations.im?join)
+[World template](xmpp:world-template-mcbe@conference.conversations.im?join) \
+[Release GitHub](https://github.com/uzvarUA/uzvarUA/releases/tag/ForestryNPCnumber42-filming)
 
 ---
 
