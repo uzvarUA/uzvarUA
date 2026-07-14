@@ -5,6 +5,12 @@
 
 ---
 
+# Зйомки
+**world template** \
+[World template](xmpp:world-template-mcbe@conference.conversations.im?join)
+
+---
+
 # Seeds:
 ```
 -5749001512426379578
