@@ -2,8 +2,7 @@
 | F-droid | Google Play store |
 |---|---|
 | org.fdroid.fdroid | com.android.vending |
-\
-__
+## інші
 **PE-world** \
 [PE-world](xmpp:pe-world@conference.conversations.im?join) \
 **Резевр** \
