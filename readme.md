@@ -2,6 +2,7 @@
 | F-droid | Google Play store |
 |---|---|
 | org.fdroid.fdroid | com.android.vending |
+\
 __
 **PE-world** \
 [PE-world](xmpp:pe-world@conference.conversations.im?join) \
