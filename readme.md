@@ -1,7 +1,7 @@
 # Пакет застосунки для InstallerX Revived 
-| F-droid | Google Play store | Mt Manager |
-|---|---|---|
-| org.fdroid.fdroid | com.android.vending | bin.mt.plus |
+| F-droid | Google Play store | Mt Manager | Komi Store (github store) |
+|---|---|---|---|
+| org.fdroid.fdroid | com.android.vending | bin.mt.plus | zed.rainxch.githubstore |
 ## інші
 **PE-world** \
 [PE-world](xmpp:pe-world@conference.conversations.im?join) \
