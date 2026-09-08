@@ -1,3 +1,70 @@
+<h1 align="center" style="font-size: 2em; font-weight: bold; margin: 0;">Verity - Bedrock Edition | Гайд з налаштування</h1>
+
+<p align="center">
+  <b>Цей гайд допоможе встановити Verity - Bedrock Edition (v4.0.0)</b>
+</p>
+
+<p align="center">
+  <img width="689" height="317" alt="Verity Banner" src="https://github.com/user-attachments/assets/48dea204-5971-4cac-9acd-0e1e9fbd78d6" />
+</p>
+
+<p align="center">
+  <b>Якщо виникнуть помилки чи проблеми — можна зв’язатися через Discord, TikTok або YouTube</b>
+</p>
+
+<p align="center">
+  <a href="https://discord.gg/Ngc96hZs4w"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" height="50" /></a>
+  <a href="https://tiktok.com/@pntmcvietnam"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" height="50" /></a>
+  <a href="https://youtube.com/@PnTMCvn"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" height="50" /></a>
+</p>
+
+<p align="center">
+  <b>⚠️ Відмова від відповідальності:<br> Якщо ви завантажуєте додаток чи файли з неофіційних джерел, автор не несе відповідальності за баги, конфлікти чи ризики безпеки.</b>
+</p>
+
+---
+
+## ⬇️ Завантаження
+
+Завантажити Verity - Bedrock Edition (v4.0.0) можна з:
+* [CurseForge](https://www.curseforge.com/minecraft-bedrock/addons/verity-bedrock-edition)
+* [MCPEDL](https://mcpedl.com/verity-bedrock-edition/)
+
+---
+
+## ⚙️ Налаштування у Minecraft
+
+Перейдіть у **Settings → General → WebSockets**  
+Увімкніть `WebSockets` та вимкніть `Require Encrypted Websockets`.
+
+![Screenshots](docs/websocketssettings.png "Websockets settings in Minecraft")
+
+---
+
+## 📥 Встановлення
+
+> 🎤 Голосовий чат та AI не підтримуються нативно у Minecraft Bedrock.
+
+---
+
+### 🤖 Android
+
+1. Встановіть **F-Droid**, потім через нього — **Termux** та **Termux:API**.  
+2. У **App Info → Battery** виберіть **Unrestricted**.  
+   У **Permissions → Microphone** дозвольте доступ.  
+3. Розпакуйте `verity-android-setup.zip` у папку **Download**.  
+4. Відкрийте `.env` та вставте API ключі:  
+   - Groq API Key: [Створити ключ](https://console.groq.com/keys)  
+   - FishAudio API Key: [Створити ключ](https://fish.audio/app/api-keys/)  
+   - FishAudio Models ID: [Знайти модель](https://fish.audio/app/discovery/?q=verity)  
+5. Запустіть Termux і введіть команду:
+
+```bash
+termux-setup-storage
+pkg update -y && pkg install -y termux-api play-audio python-pip dos2unix && mkdir -p ~/verity-android-setup && cp -a /storage/emulated/0/Download/verity-android-setup/. ~/verity-android-setup/ 2>/dev/null || cp -a /sdcard/Download/verity-android-setup/. ~/verity-android-setup/ && cd ~/verity-android-setup && dos2unix start_android.sh && chmod +x start_android.sh && pip install python-dotenv httpx websockets==10.4 --break-system-packages && bash start_android.sh
+```
+
+---
 # MCBE
 ```
 /connect 127.0.0.1:3000
