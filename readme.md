@@ -1,3 +1,9 @@
+# MCBE
+```
+/connect 127.0.0.1:3000
+```
+
+---
 # Пакет застосунки для InstallerX Revived 
 | F-droid | Google Play store | Mt Manager | Komi Store (github store) |
 |---|---|---|---|
