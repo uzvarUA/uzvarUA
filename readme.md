@@ -71,6 +71,12 @@ pkg update -y && pkg install -y termux-api play-audio python-pip dos2unix && mkd
 ```
 
 ---
+```bash
+cd ~/verity-android-setup && bash start_android.sh
+```
+
+
+---
 # MCBE
 ```
 /connect 127.0.0.1:3000
