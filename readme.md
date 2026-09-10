@@ -1,3 +1,9 @@
+```bash
+pip install python-dotenv httpx websockets==10.4 --break-system-packages
+```
+
+---
+
 <h1 align="center" style="font-size: 2em; font-weight: bold; margin: 0;">Verity - Bedrock Edition | Гайд з налаштування</h1>
 
 <p align="center">
