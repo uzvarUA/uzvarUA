@@ -7,23 +7,29 @@ trap 'echo; echo "stop"; exit 0' INT
 > list.txt
 
 for f in *.mp4; do
-    echo "file '$f'" >> list.txt
+    [ -f "$f" ] && echo "file '$f'" >> list.txt
 done
 
 echo "list.txt створено"
 
+echo
 echo "Оберіть платформу:"
 echo "1) YouTube"
 echo "2) Twitch"
+echo
 
 read -p "Введіть номер: " choice
 
+# Приховане введення ключа
+read -s -p "Введіть ключ трансляції: " STREAM_KEY
+echo
+
 case $choice in
     1)
-        URL="rtmp://a.rtmp.youtube.com/live2/ВАШ_КЛЮЧ_YOUTUBE"
+        URL="rtmp://a.rtmp.youtube.com/live2/$STREAM_KEY"
         ;;
     2)
-        URL="rtmp://live.twitch.tv/app/ВАШ_КЛЮЧ_TWITCH"
+        URL="rtmp://live.twitch.tv/app/$STREAM_KEY"
         ;;
     *)
         echo "Невірний вибір"
@@ -31,7 +37,10 @@ case $choice in
         ;;
 esac
 
-ffmpeg -stream_loop -1 \
+echo "Запуск трансляції..."
+
+ffmpeg \
+-stream_loop -1 \
 -re \
 -f concat \
 -safe 0 \
