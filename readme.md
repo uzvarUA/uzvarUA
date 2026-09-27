@@ -1,4 +1,52 @@
 ```bash
+#!/bin/bash
+
+trap 'echo; echo "stop"; exit 0' INT
+
+# Створюємо list.txt
+> list.txt
+
+for f in *.mp4; do
+    echo "file '$f'" >> list.txt
+done
+
+echo "list.txt створено"
+
+echo "Оберіть платформу:"
+echo "1) YouTube"
+echo "2) Twitch"
+
+read -p "Введіть номер: " choice
+
+case $choice in
+    1)
+        URL="rtmp://a.rtmp.youtube.com/live2/ВАШ_КЛЮЧ_YOUTUBE"
+        ;;
+    2)
+        URL="rtmp://live.twitch.tv/app/ВАШ_КЛЮЧ_TWITCH"
+        ;;
+    *)
+        echo "Невірний вибір"
+        exit 1
+        ;;
+esac
+
+ffmpeg -stream_loop -1 \
+-re \
+-f concat \
+-safe 0 \
+-i list.txt \
+-c:v libx264 \
+-preset veryfast \
+-b:v 6000k \
+-c:a aac \
+-b:a 160k \
+-f flv \
+"$URL"
+```
+
+---
+```bash
 pip install python-dotenv httpx websockets==10.4 --break-system-packages
 ```
 
