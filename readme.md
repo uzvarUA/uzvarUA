@@ -1,17 +1,20 @@
+# Stream 24/7
 ```bash
 #!/bin/bash
 
 trap 'echo; echo "stop"; exit 0' INT
 
-# Створюємо list.txt
 > list.txt
-
 for f in *.mp4; do
     [ -f "$f" ] && echo "file '$f'" >> list.txt
 done
 
-echo "list.txt створено"
+if [ ! -s list.txt ]; then
+    echo "Не знайдено MP4-файлів"
+    exit 1
+fi
 
+echo "list.txt створено"
 echo
 echo "Оберіть платформу:"
 echo "1) YouTube"
@@ -20,7 +23,6 @@ echo
 
 read -p "Введіть номер: " choice
 
-# Приховане введення ключа
 read -s -p "Введіть ключ трансляції: " STREAM_KEY
 echo
 
@@ -37,21 +39,26 @@ case $choice in
         ;;
 esac
 
-echo "Запуск трансляції..."
+while true; do
+    echo "Запуск трансляції..."
 
-ffmpeg \
--stream_loop -1 \
--re \
--f concat \
--safe 0 \
--i list.txt \
--c:v libx264 \
--preset veryfast \
--b:v 6000k \
--c:a aac \
--b:a 160k \
--f flv \
-"$URL"
+    ffmpeg \
+    -stream_loop -1 \
+    -re \
+    -f concat \
+    -safe 0 \
+    -i list.txt \
+    -c:v libx264 \
+    -preset veryfast \
+    -b:v 6000k \
+    -c:a aac \
+    -b:a 160k \
+    -f flv \
+    "$URL"
+
+    echo "Перезапуск через 10 секунд..."
+    sleep 10
+done
 ```
 
 ---
